@@ -86,7 +86,7 @@ Hence, I will try to improve this standalone map.
 ## Lore
 
 There is lots of lore around the story.
-One of the biggest is the German book [The Master](./doc/Planung/Hintergrunddefinition/Mythen/Bücher/Band 1 - Der Meister.odt).
+One of the biggest is the German book [The Master](./doc/Planung/Hintergrunddefinition/Mythen/Bücher/Band%201%20-%20Der%20Meister.odt).
 It contains a whole story about the Demon Lord Gardonar who is the master behind the attacks.
 There is lots of other material in the [planning](./doc/Planung) folder mostly written in German.
 
