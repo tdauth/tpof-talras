@@ -1,0 +1,103 @@
+File							Authors				Source
+VampireBat.blp						Pyramidhe@d			http://www.hiveworkshop.com/forums/models-530/vampirebat-94278/
+HorseSkinBlack.blp					Blizzard Entertainment		Die Macht des Feuers
+HorseSkinBrown.blp					Blizzard Entertainment		Die Macht des Feuers
+HorseSkinChessnut.blp					Blizzard Entertainment		Die Macht des Feuers
+HorseSkinEvil.blp					Blizzard Entertainment		Die Macht des Feuers
+HorseSkinPalamino.blp					Blizzard Entertainment		Die Macht des Feuers
+HorseSkinPinto.blp					Blizzard Entertainment		Die Macht des Feuers
+HorseSkinWhite.blp					Blizzard Entertainment		Die Macht des Feuers
+HorseSkinZebra.blp					Blizzard Entertainment		Die Macht des Feuers
+DireWolfSkinBlueBrownAlpha.blp				Blizzard Entertainment		Die Macht des Feuers
+DireWolfSkinBlueBrown.blp				Blizzard Entertainment		Die Macht des Feuers
+DireWolfSkinBrownAlpha.blp				Blizzard Entertainment		Die Macht des Feuers
+DireWolfSkinBrown.blp					Blizzard Entertainment		Die Macht des Feuers
+DireWolfSkinDarkBlackAlpha.blp				Blizzard Entertainment		Die Macht des Feuers
+DireWolfSkinDarkBlack.blp				Blizzard Entertainment		Die Macht des Feuers
+DireWolfSkinDarkBrownAlpha.blp				Blizzard Entertainment		Die Macht des Feuers
+DireWolfSkinDarkBrown.blp				Blizzard Entertainment		Die Macht des Feuers
+DireWolfSkinDarkGreyAlpha.blp				Blizzard Entertainment		Die Macht des Feuers
+DireWolfSkinDarkGrey.blp				Blizzard Entertainment		Die Macht des Feuers
+DireWolfSkinLightGreyAlpha.blp				Blizzard Entertainment		Die Macht des Feuers
+DireWolfSkinLightGrey.blp				Blizzard Entertainment		Die Macht des Feuers
+DireWolfSkinReddishBrownAlpha.blp			Blizzard Entertainment		Die Macht des Feuers
+DireWolfSkinReddishBrown.blp				Blizzard Entertainment		Die Macht des Feuers
+Baer.blp						Blizzard Entertainment		http://xgm.ru/
+BaerBlau.blp						Blizzard Entertainment		http://xgm.ru/
+BaerDunkelbraun.blp					Blizzard Entertainment		http://xgm.ru/
+BaerenformBlau.blp					Blizzard Entertainment		http://xgm.ru/
+BaerenformBraun.blp					Blizzard Entertainment		http://xgm.ru/
+BaerSchwarz.blp						Blizzard Entertainment		http://xgm.ru/
+BaerWeiss.blp						Blizzard Entertainment		http://xgm.ru/
+BearSkinBlack.blp					Blizzard Entertainment		http://xgm.ru/
+BearSkinBlue.blp					Blizzard Entertainment		http://xgm.ru/
+BearSkinBrown.blp					Blizzard Entertainment		http://xgm.ru/
+BearSkinDrkBrown.blp					Blizzard Entertainment		http://xgm.ru/
+BearSkinWhite.blp					Blizzard Entertainment		http://xgm.ru/
+Deer.blp						olofmoleman			http://www.hiveworkshop.com/
+DracheFluegel.blp					-				http://xgm.ru/
+DracheKoerper.blp					-				http://xgm.ru/
+DracheKopf.blp						-				http://xgm.ru/
+Duck.blp						Stanakin Skywalker		http://www.hiveworkshop.com/
+Giraffe.blp						Blizzard Entertainment		http://xgm.ru/
+GorillaAmy.blp						Blizzard Entertainment		http://xgm.ru/
+GorillaGrau.blp						Blizzard Entertainment		http://xgm.ru/
+GorillaRot.blp						Blizzard Entertainment		http://xgm.ru/
+GorillaSchwarz.blp					Blizzard Entertainment		http://xgm.ru/
+GorillaSilber.blp					Blizzard Entertainment		http://xgm.ru/
+GorillaWeiss.blp					Blizzard Entertainment		http://xgm.ru/
+Katze.blp						Blizzard Entertainment		http://xgm.ru/
+KatzeBirman.blp						Blizzard Entertainment		http://xgm.ru/
+KatzeBombay.blp						Blizzard Entertainment		http://xgm.ru/
+KatzeKornisch.blp					Blizzard Entertainment		http://xgm.ru/
+KatzeKriecher.blp					Blizzard Entertainment		http://xgm.ru/
+KatzeOrangeGefleckt.blp					Blizzard Entertainment		http://xgm.ru/
+KatzeSalome.blp						Blizzard Entertainment		http://xgm.ru/
+KatzeSilberGefleckt.blp					Blizzard Entertainment		http://xgm.ru/
+KatzeWaschbaer.blp					Blizzard Entertainment		http://xgm.ru/
+KatzeWeiss.blp						Blizzard Entertainment		http://xgm.ru/
+KrabbeBronze.blp					Blizzard Entertainment		http://xgm.ru/
+KrabbeElfenbein.blp					Blizzard Entertainment		http://xgm.ru/
+KrabbeSaphir.blp					Blizzard Entertainment		http://xgm.ru/
+KrabbeVermillian.blp					Blizzard Entertainment		http://xgm.ru/
+Kraehe.blp						Blizzard Entertainment		http://xgm.ru/
+KuhBraun.blp						Blizzard Entertainment		http://xgm.ru/
+KuhSchwarz.blp						Blizzard Entertainment		http://xgm.ru/
+KuhWeiss.blp						Blizzard Entertainment		http://xgm.ru/
+LindormrDragon.blp					olofmoleman, Jigrael		http://www.hiveworkshop.com/
+RatteBraun.blp						Blizzard Entertainment		http://xgm.ru/
+RatteSchwarz.blp					Blizzard Entertainment		http://xgm.ru/
+RatteWeiss.blp						Blizzard Entertainment		http://xgm.ru/
+Spinne.blp						Blizzard Entertainment		http://xgm.ru/
+TigerBraun.blp						Blizzard Entertainment		http://xgm.ru/
+TigerDunkel.blp						Blizzard Entertainment		http://xgm.ru/
+TigerEis.blp						Blizzard Entertainment		http://xgm.ru/
+TigerGelb.blp						Blizzard Entertainment		http://xgm.ru/
+TigerGruen.blp						Blizzard Entertainment		http://xgm.ru/
+TigerKeineStreifenWeiss.blp				Blizzard Entertainment		http://xgm.ru/
+TigerLoewinGold.blp					Blizzard Entertainment		http://xgm.ru/
+TigerRot.blp						Blizzard Entertainment		http://xgm.ru/
+TigerSchnee.blp						Blizzard Entertainment		http://xgm.ru/
+TigerSchwarz.blp					Blizzard Entertainment		http://xgm.ru/
+TigerSchwarzGefleckt.blp				Blizzard Entertainment		http://xgm.ru/
+TigerSchwarzGestreift.blp				Blizzard Entertainment		http://xgm.ru/
+TigerWeiss.blp						Blizzard Entertainment		http://xgm.ru/
+VogelspinneBraun.blp					Blizzard Entertainment		http://xgm.ru/
+WidderBlauAlpha.blp					Blizzard Entertainment		http://xgm.ru/
+WidderBraunAlpha.blp					Blizzard Entertainment		http://xgm.ru/
+WidderDunkelgrauAlpha.blp				Blizzard Entertainment		http://xgm.ru/
+WidderDunkelschwarzAlpha.blp				Blizzard Entertainment		http://xgm.ru/
+WidderGrauAlpha.blp					Blizzard Entertainment		http://xgm.ru/
+WidderSchwarzAlpha.blp					Blizzard Entertainment		http://xgm.ru/
+WidderSturmspitzeAlpha.blp				Blizzard Entertainment		http://xgm.ru/
+WidderWeissAlpha.blp					Blizzard Entertainment		http://xgm.ru/
+WildschweinBlau.blp					Blizzard Entertainment		http://xgm.ru/
+WildschweinBlauGepanzert.blp				Blizzard Entertainment		http://xgm.ru/
+WildschweinBraun.blp					Blizzard Entertainment		http://xgm.ru/
+WildschweinBraunGepanzert.blp				Blizzard Entertainment		http://xgm.ru/
+WildschweinElfenbein.blp				Blizzard Entertainment		http://xgm.ru/
+WildschweinElfenbeinGepanzert.blp			Blizzard Entertainment		http://xgm.ru/
+WildschweinGelb.blp					Blizzard Entertainment		http://xgm.ru/
+WildschweinPurpur.blp					Blizzard Entertainment		http://xgm.ru/
+WildschweinUntot.blp					Blizzard Entertainment		http://xgm.ru/
+Wolfsform.blp						-				http://xgm.ru/

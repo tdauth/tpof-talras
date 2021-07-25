@@ -1,0 +1,5 @@
+File				Authors		Source
+BTNSkeletonKing.blp		Cavman		http://www.hiveworkshop.com/
+BTNSkelettmagier.blp		xXm0rpH3usXx	http://www.wc3campaigns.net/
+DISBTNSkeletonKing.blp		Cavman		http://www.hiveworkshop.com/
+DISBTNSkelettmagier.blp		xXm0rpH3usXx	http://www.wc3campaigns.net/

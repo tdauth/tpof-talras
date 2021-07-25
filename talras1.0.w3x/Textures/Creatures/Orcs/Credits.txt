@@ -1,0 +1,6 @@
+File			Authors			Source
+Berserkerin.blp		Cavman			http://www.hiveworkshop.com/
+Hexer.blp		levigeorge1617		http://www.hiveworkshop.com/
+Maennlich.blp		Blizzard Entertainment	http://xgm.ru/
+PythonWarrioress.blp	jigrael			http://www.wc3c.net/
+Ramme.blp		Sung Bum, Lee		http://www.hiveworkshop.com/

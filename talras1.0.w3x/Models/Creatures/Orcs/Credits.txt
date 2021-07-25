@@ -1,0 +1,13 @@
+File				Authors			Source
+Armbrustschuetze.mdx		General Frank		http://www.hiveworkshop.com/
+Armbrustschuetze_Portrait.mdx	General Frank		http://www.hiveworkshop.com/
+BehemothRider.mdx		Callahan		http://www.wc3c.net/
+Berserkerin.mdx			Cavman			http://www.hiveworkshop.com/
+Berserkerin_Portrait.mdx	Cavman			http://www.hiveworkshop.com/
+Hexer.mdx			levigeorge1617		http://www.hiveworkshop.com/
+Krieger.mdx			General Frank		http://www.hiveworkshop.com/
+Krieger_Portrait.mdx		General Frank		http://www.hiveworkshop.com/
+Maennlich.mdx			Blizzard Entertainment	http://xgm.ru/
+PythonWarrioress.mdx		jigrael			http://www.wc3c.net/
+PythonWarrioressNoCrawl.mdx	jigrael			http://www.wc3c.net/
+Ramme.mdx			Sung Bum, Lee		http://www.hiveworkshop.com/

@@ -1,0 +1,30 @@
+File				Authors				Source
+Berserker.mdx			jigrael				http://www.wc3campaigns.net/
+Berserker_Portrait.mdx		jigrael				http://www.wc3campaigns.net/
+Bestie.mdx			Werewulf			http://www.wc3campaigns.net/
+Bestie_Portrait.mdx		Werewulf			http://www.wc3campaigns.net/
+Bestienhaeuptling.mdx		jigrael, Moyack			http://www.wc3campaigns.net/
+Captain.jpg			Dionesiist			http://www.wc3campaigns.net/
+Captain.mdx			Dionesiist			http://www.wc3campaigns.net/
+Demon.mdx			Dionesiist			http://www.wc3campaigns.net/
+Demon.png			Dionesiist			http://www.wc3campaigns.net/
+Demon_Portrait.mdx		Dionesiist			http://www.wc3campaigns.net/
+Destroyer.jpg			Dionesiist			http://www.wc3campaigns.net/
+Destroyer.mdx			Dionesiist			http://www.wc3campaigns.net/
+Flammendaemon.mdx		Blizzard Entertainment		http://xgm.ru/
+Flammenpferd.mdx		Blizzard Entertainment		http://xgm.ru/
+Fleischbestie.mdx		Blizzard Entertainment		http://xgm.ru/
+Fleischwesen.mdx		Blizzard Entertainment		http://xgm.ru/
+Ghul.mdx			Whitehorn			http://www.wc3campaigns.net/
+Imp.mdx				Mc !				http://www.wc3campaigns.net/
+Imp2.jpg			Dionesiist			http://www.wc3campaigns.net/
+Imp2.mdx			Dionesiist			http://www.wc3campaigns.net/
+Kristallgolem.mdx		Mc !				http://www.wc3campaigns.net/
+Lanzentraeger.mdx		Whitehorn			http://www.wc3campaigns.net/
+Ritter.mdx			Blizzard Entertainment		http://xgm.ru/
+Schattenefreet			TDR				http://www.wc3campaigns.net/
+Succubus.mdx			Blizzard Entertainment		http://xgm.ru/
+Teufelsbestie.mdx		Blizzard Entertainment		http://xgm.ru/
+Teufelshund.mdx			Blizzard Entertainment		http://xgm.ru/
+Teufelsschwein.mdx		Blizzard Entertainment		http://xgm.ru/
+Zauberin.mdx			dickxunder			http://hiveworkshop.com/

@@ -1,0 +1,9 @@
+File				Authors			Source
+BTNWarqueen.blp			CeDiL			http://www.hiveworkshop.com/
+DISBTNWarqueen.blp		CeDiL			http://www.hiveworkshop.com/
+BTNLightningElemental.blp	jigrael			http://wc3c.net/
+DISBTNLightningElemental.blp	jigrael			http://wc3c.net/
+BTNMedusa.blp			Tarrasque		http://www.hiveworkshop.com/
+DISBTNMedusa.blp		Tarrasque		http://www.hiveworkshop.com/
+BTNHillGiant.blp		EvilShade		http://www.hiveworkshop.com/
+DISBTNHillGiant.blp		EvilShade		http://www.hiveworkshop.com/

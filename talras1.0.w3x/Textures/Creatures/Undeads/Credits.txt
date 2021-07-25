@@ -1,0 +1,38 @@
+File						Authors			Source
+BewaffneterZombie.blp				Blizzard Entertainment	http://xgm.ru/
+DarkWarrior.blp					Taylor_Mouse		http://www.hiveworkshop.com/
+DarkWarriorFXTwilight.blp			Taylor_Mouse		http://www.hiveworkshop.com/
+DarkWarriorSword.blp				Taylor_Mouse		http://www.hiveworkshop.com/
+DarkWarriorWhite.blp				Taylor_Mouse		http://www.hiveworkshop.com/
+Drache1.blp					Blizzard Entertainment	http://xgm.ru/
+Drache2.blp					Blizzard Entertainment	http://xgm.ru/
+GhulBlau.blp					Blizzard Entertainment	http://xgm.ru/
+GhulGrau.blp					Blizzard Entertainment	http://xgm.ru/
+GhulRot.blp					Blizzard Entertainment	http://xgm.ru/
+GhulWeiss.blp					Blizzard Entertainment	http://xgm.ru/
+NiederesSkelett.blp				Blizzard Entertainment	http://xgm.ru/
+NiederesSkelettSchaedelbeutel.blp		Blizzard Entertainment	http://xgm.ru/
+Pferd.blp					Blizzard Entertainment	http://xgm.ru/
+PferdBlau.blp					Blizzard Entertainment	http://xgm.ru/
+PferdBoeserSattel.blp				Blizzard Entertainment	http://xgm.ru/
+PferdGelb.blp					Blizzard Entertainment	http://xgm.ru/
+PferdGruen.blp					Blizzard Entertainment	http://xgm.ru/
+PferdLila.blp					Blizzard Entertainment	http://xgm.ru/
+PferdRot.blp					Blizzard Entertainment	http://xgm.ru/
+PferdSchwarz.blp				Blizzard Entertainment	http://xgm.ru/
+PferdSchwarzblau.blp				Blizzard Entertainment	http://xgm.ru/
+SkeletonArcher.blp				jigrael			http://www.hiveworkshop.com/
+Spinnenbestie.blp				Blizzard Entertainment	http://xgm.ru/
+SpinnenbestieGruen.blp				Blizzard Entertainment	http://xgm.ru/
+SpinnenbestieLila.blp				Blizzard Entertainment	http://xgm.ru/
+Spinnenmagier.blp				jigrael			http://www.wc3campaigns.net/
+TodesengelFluegel.blp				Blizzard Entertainment	http://xgm.ru/
+TodesengelHaare.blp				Blizzard Entertainment	http://xgm.ru/
+TodesengelKoerper.blp				Blizzard Entertainment	http://xgm.ru/
+TodesengelUmhang.blp				Blizzard Entertainment	http://xgm.ru/
+Vampir.blp					Blizzard Entertainment	http://xgm.ru/
+Vampirgebieter.blp				Blizzard Entertainment	http://xgm.ru/
+Vampirgebieter_Portrait.blp			Blizzard Entertainment	http://xgm.ru/
+ZombieGruen.blp					Blizzard Entertainment	http://xgm.ru/
+ZombieSchwarz.blp				Blizzard Entertainment	http://xgm.ru/
+ZombieSeegruen.blp				Blizzard Entertainment	http://xgm.ru/

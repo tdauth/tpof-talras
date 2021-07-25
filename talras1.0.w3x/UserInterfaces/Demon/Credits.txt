@@ -1,0 +1,11 @@
+CinematicBorder.blp - Unwirklich
+Cursor.blp - Unwirklich
+InventoryCover.blp - Unwirklich
+InventorySlotFiller.blp - Unwirklich
+OptionsMenuBorder.blp - Unwirklich
+SpellAreaOfEffect.blp - Unwirklich
+Tile1.blp - Unwirklich
+Tile2.blp - Unwirklich
+Tile3.blp - Unwirklich
+Tile4.blp - Unwirklich
+TileTimeIndicatorFrame.blp - Unwirklich

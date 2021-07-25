@@ -1,0 +1,4 @@
+File				Authors			Source
+Krieger.mdx			Norinrad		http://www.wc3campaigns.net/
+Krieger_Portrait.mdx		Norinrad		http://www.wc3campaigns.net/
+MaennlicherZwerg.mdx		Blizzard Entertainment	http://xgm.ru/

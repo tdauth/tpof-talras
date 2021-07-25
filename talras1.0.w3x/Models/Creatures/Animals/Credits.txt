@@ -1,0 +1,27 @@
+File				Authors				Source
+VampireBat.mdx			Pyramidhe@d			http://www.hiveworkshop.com/forums/models-530/vampirebat-94278/
+Horse.mdx			Blizzard Entertainment		Die Macht des Feuers
+DireWolf.mdx			Blizzard Entertainment		Die Macht des Feuers
+Baer.mdx			Blizzard Entertainment		http://xgm.ru/
+Bear.mdx			Blizzard Entertainment		http://xgm.ru/
+Baerenform.mdx			Blizzard Entertainment		http://xgm.ru/
+Deer.mdx			olofmoleman			http://www.hiveworkshop.com/
+Drache.mdx			-				http://xgm.ru/
+Duck.mdx			Stanakin Skywalker		http://www.hiveworkshop.com/
+Giraffe.mdx			Blizzard Entertainment		http://xgm.ru/
+Gorilla.mdx			Blizzard Entertainment		http://xgm.ru/
+Katze.mdx			Blizzard Entertainment		http://xgm.ru/
+Krabbe.mdx			Blizzard Entertainment		http://xgm.ru/
+Kraehe.mdx			Blizzard Entertainment		http://xgm.ru/
+Kuh.mdx				Blizzard Entertainment		http://xgm.ru/
+LindormrDragon.mdx		olofmoleman, Jigrael		http://www.hiveworkshop.com/
+LindormrDragon_Portrait.mdx	olofmoleman, Jigrael		http://www.hiveworkshop.com/
+Ratte.mdx			Blizzard Entertainment		http://xgm.ru/
+Spinne.mdx			Blizzard Entertainment		http://xgm.ru/
+Spinne_Portrait.mdx		Blizzard Entertainment		http://xgm.ru/
+Tiger.mdx			Blizzard Entertainment		http://xgm.ru/
+Vogelspinne.mdx			Blizzard Entertainment		http://xgm.ru/
+Widder.mdx			Blizzard Entertainment		http://xgm.ru/
+Wildschwein.mdx			Blizzard Entertainment		http://xgm.ru/
+Wolfsform.mdx			-				http://xgm.ru/
+Wolfsform_Portrait.mdx		-				http://xgm.ru/

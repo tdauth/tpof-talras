@@ -1,0 +1,9 @@
+File					Authors		Source
+BTNAttentaeter.tga			���		http://www.xgm.ru/
+BTNGeistlicheSchwertkaempferin.blp	Michael Peppers	http://www.wc3campaigns.net/
+BTNPaladin.blp				DeathBringer	http://www.xgm.ru/
+BTNTrebuchet.blp			olofmoleman	http://www.wc3campaigns.net/
+DISBTNAttentaeter.tga			���		http://www.xgm.ru/
+DISBTNGeistlicheSchwertkaempferin.blp	Michael Peppers	http://www.wc3campaigns.net/
+DISBTNPaladin.blp			DeathBringer	http://www.xgm.ru/
+DISBTNTrebuchet.blp			olofmoleman	http://www.wc3campaigns.net/

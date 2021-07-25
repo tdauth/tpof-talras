@@ -1,0 +1,5 @@
+File				Authors	Source
+Loading-Human-TopRight.blp	Denu	http://www.wc3campaigns.net/
+Loading-Random-TopLeft.blp	Denu	http://www.wc3campaigns.net/
+Loading-Human-BotRight.blp	Denu	http://www.wc3campaigns.net/
+Loading-Random-BotLeft.blp	Denu	http://www.wc3campaigns.net/

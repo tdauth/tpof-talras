@@ -1,0 +1,21 @@
+File							Authors			Source
+Dunkelelf.blp						Tenebrae		http://www.hiveworkshop.com/
+MaennlicherWaldgeist.blp				Blizzard Entertainment	http://xgm.ru/
+MaennlicherWaldgeistBlaetter.blp			Blizzard Entertainment	http://xgm.ru/
+MaennlicherWaldgeistNachtelfMaennlichAugenglut.blp	Blizzard Entertainment	http://xgm.ru/
+SatyrSkinAlbinoAlpha.blp				Blizzard Entertainment	http://xgm.ru/
+SatyrSkinAlbino.blp					Blizzard Entertainment	http://xgm.ru/
+SatyrSkinBlueAlpha.blp					Blizzard Entertainment	http://xgm.ru/
+SatyrSkinBlue.blp					Blizzard Entertainment	http://xgm.ru/
+SatyrSkinCrimsonAlpha.blp				Blizzard Entertainment	http://xgm.ru/
+SatyrSkinCrimson.blp					Blizzard Entertainment	http://xgm.ru/
+SatyrSkinGreenAlpha.blp					Blizzard Entertainment	http://xgm.ru/
+SatyrSkinGreen.blp					Blizzard Entertainment	http://xgm.ru/
+SatyrSkinPinkAlpha.blp					Blizzard Entertainment	http://xgm.ru/
+SatyrSkinPink.blp					Blizzard Entertainment	http://xgm.ru/
+SatyrSkinRedAlpha.blp					Blizzard Entertainment	http://xgm.ru/
+SatyrSkinRed.blp					Blizzard Entertainment	http://xgm.ru/
+WeiblicherWaldgeistAugenglut.blp			Blizzard Entertainment	http://xgm.ru/
+WeiblicherWaldgeistFrost.blp				Blizzard Entertainment	http://xgm.ru/
+WeiblicherWaldgeistGruen.blp				Blizzard Entertainment	http://xgm.ru/
+WeiblicherWaldgeistLila.blp				Blizzard Entertainment	http://xgm.ru/

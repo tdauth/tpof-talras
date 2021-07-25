@@ -1,0 +1,7 @@
+File			Authors		Source
+Crow.blp		Dionesiist	http://www.wc3c.net/
+HellKnight.blp		Dionesiist	http://www.wc3c.net/
+Incubus.blp		Dionesiist	http://www.wc3c.net/
+Magus.blp		Dionesiist	http://www.wc3c.net/
+Sorceror.blp		Dionesiist	http://www.wc3c.net/
+Valkyrie.blp		Dionesiist	http://www.wc3c.net/

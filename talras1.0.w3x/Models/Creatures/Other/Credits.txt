@@ -1,0 +1,16 @@
+File			Authors					Source
+Warqueen.mdx		jigrael					http://wc3c.net/
+Warqueen_Portrait.mdx	jigrael					http://wc3c.net/
+
+Medusa.mdx		Tarrasque				http://www.hiveworkshop.com/
+LightningElemental.mdx	jigrael					http://wc3c.net/
+LightningElementalNoOmni.mdx	jigrael					http://wc3c.net/
+LightningElementalSFX1.mdx	jigrael					http://wc3c.net/
+LightningElementalSFX2.mdx	jigrael					http://wc3c.net/
+
+Gnoll.gif		Wolverine, Blizzard Entertainment	http://www.xgm.ru/
+Gnoll.mdx		Wolverine, Blizzard Entertainment	http://www.xgm.ru/
+GnollCaster.gif		Wolverine, Blizzard Entertainment	http://www.xgm.ru/
+GnollCaster.mdx		Wolverine, Blizzard Entertainment	http://www.xgm.ru/
+HillGiant.mdx		Makuza					http://www.hiveworkshop.com/
+HillGiant_Portrait.mdx	Makuza					http://www.hiveworkshop.com/

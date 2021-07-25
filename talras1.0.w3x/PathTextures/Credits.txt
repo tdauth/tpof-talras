@@ -1,0 +1,4 @@
+Alle Dateien sind von Barade.
+Sind zur Erstellung eigener, kleiner Blocker.
+Kann sein, dass die Größe eine Zweierpotenz sein muss.
+Zerstörbare können nur zwei Felder auf einmal verschoben werden.

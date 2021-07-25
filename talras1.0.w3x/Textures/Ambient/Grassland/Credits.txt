@@ -1,0 +1,35 @@
+File				Authors		Source
+Ore.blp				Frotty		Die Macht des Feuers
+Spoon.blp			Frotty		Die Macht des Feuers
+Poker.blp			Frotty		Die Macht des Feuers
+Saw.blp				Frotty		Die Macht des Feuers
+Bier.blp			Frotty		Die Macht des Feuers
+Feeder.blp			Frotty		Die Macht des Feuers
+Skull.blp			Frotty		Die Macht des Feuers
+Bottles.blp			Frotty		Die Macht des Feuers
+Pan.blp				Frotty		Die Macht des Feuers
+Scroll.blp			Frotty		Die Macht des Feuers
+Altar.blp			Sardor		Die Macht des Feuers
+Bag.blp				Frotty		Die Macht des Feuers
+Buch1.blp			Sardor		Die Macht des Feuers
+Buch2.blp			Sardor		Die Macht des Feuers
+Buch3.blp			Sardor		Die Macht des Feuers
+Coin.blp			Frotty		Die Macht des Feuers
+Goldbrocken.blp			Frotty		Die Macht des Feuers
+Hammer.blp			Frotty		Die Macht des Feuers
+Holzbrett.blp			Sardor		Die Macht des Feuers
+Kirchenbank.blp			Sardor		Die Macht des Feuers
+Kiste1.blp			Sardor		Die Macht des Feuers
+Kiste2.blp			xXm0rpH3usXx	http://www.morpheus-modeling.info.ms/
+Messer.blp			Frotty		Die Macht des Feuers
+Mill.blp			Rondo		http://www.rondo.eu.tp/
+Mill2.blp			Frotty		Die Macht des Feuers
+Nagel1.blp			Frotty		Die Macht des Feuers
+Nagel2.blp			Frotty		Die Macht des Feuers
+Pechkessel.blp			Rondo		http://www.rondo.eu.tp/
+PechkesselWeiss.blp		Rondo		http://www.rondo.eu.tp/
+Shit.blp			Born2Modificate	-
+Steinmauer.blp			Sardor		Die Macht des Feuers
+WaffenplatzAxt.blp		Rondo		http://www.rondo.eu.tp/
+WaffenplatzHolz.blp		Rondo		http://www.rondo.eu.tp/
+Wiederbelebungsschrein.blp	Sardor		Die Macht des Feuers

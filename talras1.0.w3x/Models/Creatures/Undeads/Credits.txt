@@ -1,0 +1,24 @@
+File					Authors			Source
+Berserker.mdx				wingednosering		http://www.hiveworkshop.com/
+BewaffneterZombie.mdx			Blizzard Entertainment	http://xgm.ru/
+DarkWarlock.mdx				Kitabatake		http://www.hiveworkshop.com/
+DarkWarrior.mdx				Taylor_Mouse		http://www.hiveworkshop.com/
+DarkWarrior_Portrait.mdx		Taylor_Mouse		http://www.hiveworkshop.com/
+Drache.mdx				Blizzard Entertainment	http://xgm.ru/
+Ghul.mdx				Blizzard Entertainment	http://xgm.ru/
+NiederesSkelett.mdx			Blizzard Entertainment	http://xgm.ru/
+Pferd.mdx				Blizzard Entertainment	http://xgm.ru/
+SkeletonArcher.mdx			jigrael			http://www.hiveworkshop.com/
+SkeletonFireWarriorMage.mdx		HappyTauren		http://www.hiveworkshop.com/
+SkeletonKing.mdx			HappyTauren		http://www.hiveworkshop.com/
+Skelettmagier.mdx			xXm0rpH3usXx		http://www.wc3campaigns.net/
+Skelettmagier_Portrait.mdx		xXm0rpH3usXx		http://www.wc3campaigns.net/
+Spinnenbestie.mdx			Blizzard Entertainment	http://xgm.ru/
+Spinnenmagier.mdx			jigrael			http://www.wc3campaigns.net/
+Spinnenmagier_Portrait.mdx		jigrael			http://www.wc3campaigns.net/
+Todesengel.mdx				Blizzard Entertainment	http://xgm.ru/
+Vampir.mdx				Blizzard Entertainment	http://xgm.ru/
+Vampir_Portrait.mdx			Blizzard Entertainment	http://xgm.ru/
+Vampirgebieter.mdx			Blizzard Entertainment	http://xgm.ru/
+Vampirgebieter_Portrait.mdx		Blizzard Entertainment	http://xgm.ru/
+Zombie.mdx				Blizzard Entertainment	http://xgm.ru/

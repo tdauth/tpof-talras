@@ -1,0 +1,4 @@
+File				Authors		Source
+Headshrinker.mdx		Tijil, jigrael	http://www.wc3c.net/
+WitchDoctor.mdx			IronMaden	http://xgm.ru/
+WitchDoctor_Portrait.mdx	IronMaden	http://xgm.ru/

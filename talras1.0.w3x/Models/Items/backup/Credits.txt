@@ -1,0 +1,56 @@
+File				Authors		Source
+SwordOfDarkness.mdx		Thrikodius	http://www.hiveworkshop.com/
+WoodenBow.mdx			Kitabatake	http://www.hiveworkshop.com/
+LeatherPlate.mdx		Kitabatake	http://www.hiveworkshop.com/
+BoneBow.mdx			Gottfrei	http://www.hiveworkshop.com/
+KnightsArmour.mdx		Kitabatake	http://www.hiveworkshop.com/
+EnchantedNordicKingSword.mdx	shamanyouranus	http://www.hiveworkshop.com/
+BloodyChainsaw.mdx		tee.dubs	http://www.hiveworkshop.com/
+ScepterOfDestiny.mdx		War_Golum	http://www.hiveworkshop.com/
+MagicalBlade.mdx		Usedwell	http://www.hiveworkshop.com/
+Axt.mdx				Rondo		http://www.rondo.eu.tp/
+Bag1.mdx			!!GORO!!	http://www.hiveworkshop.com/
+Bag2.mdx			!!GORO!!	http://www.hiveworkshop.com/
+Breitschild.mdx			Sardor		DMdF Team
+DunklerSchild1.mdx		xXm0RpH3usXx	http://www.wc3c.net/
+DunklerSchild2.mdx		xXm0RpH3usXx	http://www.wc3c.net/
+DunklerSchild3.mdx		xXm0RpH3usXx	http://www.wc3c.net/
+EdlerKlerikerhelm.mdx		Kitabatake	http://www.hiveworkshop.com/
+EinfacherHochelfenschild1.mdx	xXm0RpH3usXx	http://www.wc3c.net/
+EinfacherHochelfenschild2.mdx	xXm0RpH3usXx	http://www.wc3c.net/
+EinfacherHochelfenschild3.mdx	xXm0RpH3usXx	http://www.wc3c.net/
+Flute.mdx			Matarael	http://www.hiveworkshop.com/
+GrosserHeiltrank.mdx		Ket		http://www.hiveworkshop.com/
+GrosserManatrank.mdx		Ket		http://www.hiveworkshop.com/
+Halberd.mdx			Kitabatake	http://www.hiveworkshop.com/
+Holzschild1.mdx			xXm0RpH3usXx	http://www.wc3c.net/
+Holzschild2.mdx			xXm0RpH3usXx	http://www.wc3c.net/
+Holzschild3.mdx			xXm0RpH3usXx	http://www.wc3c.net/
+KleinerHeiltrank.mdx		Ket		http://www.hiveworkshop.com/
+KleinerManatrank.mdx		Ket		http://www.hiveworkshop.com/
+LeichterHolzschild1.mdx		xXm0RpH3usXx	http://www.wc3c.net/
+LeichterHolzschild2.mdx		xXm0RpH3usXx	http://www.wc3c.net/
+LeichterHolzschild3.mdx		xXm0RpH3usXx	http://www.wc3c.net/
+Longsword.mdx			Kitabatake	http://www.hiveworkshop.com/
+Mace.mdx			Kitabatake	http://www.hiveworkshop.com/
+MorningStar.mdx			Kitabatake	http://www.hiveworkshop.com/
+Quarterstaff.mdx		Kitabatake	http://www.hiveworkshop.com/
+RicmansSchild.mdx		Sardor		DMdF Team
+RicmansSpeer.mdx		Sardor		DMdF Team
+Ring.mdx			republicola	http://www.hiveworkshop.com/
+Ritterschild1.mdx		xXm0RpH3usXx	http://www.wc3c.net/
+Ritterschild2.mdx		xXm0RpH3usXx	http://www.wc3c.net/
+Ritterschild3.mdx		xXm0RpH3usXx	http://www.wc3c.net/
+SchwererHolzschild1.mdx		xXm0RpH3usXx	http://www.wc3c.net/
+SchwererHolzschild2.mdx		xXm0RpH3usXx	http://www.wc3c.net/
+SchwererHolzschild3.mdx		xXm0RpH3usXx	http://www.wc3c.net/
+Shield.mdx			-		http://www.hiveworkshop.com/
+Shortsword.mdx			Kitabatake	http://www.hiveworkshop.com/
+Spear1.mdx			Matarael	http://www.hiveworkshop.com/
+Spear2.mdx			Kitabatake	http://www.hiveworkshop.com/
+Stab.mdx			Sardor		DMdF Team
+StabdesWassers.mdx		Thrikodius	http://www.hiveworkshop.com/
+Torch.mdx			ThatGuy43	http://www.hiveworkshop.com/
+Vasallenschild1.mdx		xXm0RpH3usXx	http://www.wc3c.net/
+Vasallenschild2.mdx		xXm0RpH3usXx	http://www.wc3c.net/
+Vasallenschild3.mdx		xXm0RpH3usXx	http://www.wc3c.net/

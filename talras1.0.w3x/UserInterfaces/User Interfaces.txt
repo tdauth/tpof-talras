@@ -1,0 +1,15 @@
+Einfügen:
+- Alle Dateien in die Karte importieren.
+- Die Pfade in der Datei war3mapSkin.txt an das gewünschte User-Interface anpassen.
+- Die Datei war3mapSkin.txt in die Karte importieren und als Pfad den
+Dateinamen angeben.
+- Folgende Pfade ändern:
+	Cursor.blp - UI\Cursor\<Rasse>Cursor.blp
+	TileTimeIndicatorFrame.blp - UI\Console\<Rasse>\<Rasse>UITile-TimeIndicatorFrame.blp
+- Die Pfade der restlichen Dateien müssen mit den Pfaden aus der war3mapSkin.txt-Datei
+übereinstimmen.
+- Als Rasse können folgende Werte eingetragen werden:
+	Human
+	Orc
+	NightElf
+	Undead

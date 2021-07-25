@@ -1,0 +1,57 @@
+File					Authors				Source
+Berserker.blp				jigrael				http://www.wc3campaigns.net/
+Bestie.blp				Werewulf			http://www.wc3campaigns.net/
+Bestienhaeuptling.blp			jigrael, Moyack			http://www.wc3campaigns.net/
+Captain.blp				Dionesiist			http://www.wc3campaigns.net/
+Demon.blp				Dionesiist			http://www.wc3campaigns.net/
+Destroyer.blp				Dionesiist			http://www.wc3campaigns.net/
+Flammendaemon.blp			Blizzard Entertainment		http://xgm.ru/
+FlammenpferdBoeseRot.blp		Blizzard Entertainment		http://xgm.ru/
+FlammenpferdBoeseSilber.blp		Blizzard Entertainment		http://xgm.ru/
+FlammenpferdFlammeKlein.blp		Blizzard Entertainment		http://xgm.ru/
+FlammenpferdRauch.blp			Blizzard Entertainment		http://xgm.ru/
+FlammenpferdRauchFlip.blp		Blizzard Entertainment		http://xgm.ru/
+Fleischbestie.blp			Blizzard Entertainment		http://xgm.ru/
+FleischwesenAlbino.blp			Blizzard Entertainment		http://xgm.ru/
+FleischwesenRot.blp			Blizzard Entertainment		http://xgm.ru/
+FleischwesenSchwarz.blp			Blizzard Entertainment		http://xgm.ru/
+GardonaKoerperBlau.blp			Blizzard Entertainment		http://xgm.ru/
+GardonaKoerperGruen.blp			Blizzard Entertainment		http://xgm.ru/
+GardonaKoerperRot.blp			Blizzard Entertainment		http://xgm.ru/
+GardonaKoerperSchwarz.blp		Blizzard Entertainment		http://xgm.ru/
+GardonaRuestungBlau.blp			Blizzard Entertainment		http://xgm.ru/
+GardonaRuestungGruen.blp		Blizzard Entertainment		http://xgm.ru/
+GardonaRuestungRot.blp			Blizzard Entertainment		http://xgm.ru/
+GardonaRuestungSchwarz.blp		Blizzard Entertainment		http://xgm.ru/
+Ghul.blp				Whitehorn			http://www.wc3campaigns.net/
+Imp2.blp				Dionesiist			http://www.wc3campaigns.net/
+Lanzentraeger.blp			Whitehorn			http://www.wc3campaigns.net/
+LanzentraegerGruenerGlanz.blp		Whitehorn			http://www.wc3campaigns.net/
+Ritter01.blp				Blizzard Entertainment		http://xgm.ru/
+Ritter02.blp				Blizzard Entertainment		http://xgm.ru/
+Ritter03.blp				Blizzard Entertainment		http://xgm.ru/
+RitterFlammeKlein.blp			Blizzard Entertainment		http://xgm.ru/
+Schattenefreet6x6.blp			TDR				http://www.wc3campaigns.net/
+Schattenefreet.blp			TDR				http://www.wc3campaigns.net/
+SuccubusAuge.blp			Blizzard Entertainment		http://xgm.ru/
+SuccubusFluegelhautBlau.blp		Blizzard Entertainment		http://xgm.ru/
+SuccubusFluegelhautMagneta.blp		Blizzard Entertainment		http://xgm.ru/
+SuccubusFluegelhautRosa.blp		Blizzard Entertainment		http://xgm.ru/
+SuccubusFluegelhautRot.blp		Blizzard Entertainment		http://xgm.ru/
+SuccubusHaareBlau.blp			Blizzard Entertainment		http://xgm.ru/
+SuccubusHaareMagneta.blp		Blizzard Entertainment		http://xgm.ru/
+SuccubusHaareRosa.blp			Blizzard Entertainment		http://xgm.ru/
+SuccubusHaareRot.blp			Blizzard Entertainment		http://xgm.ru/
+SuccubusHautBlau.blp			Blizzard Entertainment		http://xgm.ru/
+SuccubusHautMagneta.blp			Blizzard Entertainment		http://xgm.ru/
+SuccubusHautRosa.blp			Blizzard Entertainment		http://xgm.ru/
+SuccubusHautRot.blp			Blizzard Entertainment		http://xgm.ru/
+Teufelsbestie.blp			Blizzard Entertainment		http://xgm.ru/
+TeufelshundHautBlau.blp			Blizzard Entertainment		http://xgm.ru/
+TeufelshundHautGrau.blp			Blizzard Entertainment		http://xgm.ru/
+TeufelshundHautLila.blp			Blizzard Entertainment		http://xgm.ru/
+TeufelshundHautRot.blp			Blizzard Entertainment		http://xgm.ru/
+TeufelshundHautWeiss.blp		Blizzard Entertainment		http://xgm.ru/
+Teufelsschwein.blp			Blizzard Entertainment		http://xgm.ru/
+Zauberin0.blp				dickxunder			http://hiveworkshop.com/
+Zauberin1.blp				dickxunder			http://hiveworkshop.com/

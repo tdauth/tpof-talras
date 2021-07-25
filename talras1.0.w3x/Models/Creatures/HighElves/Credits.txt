@@ -1,0 +1,11 @@
+File					Authors			Source
+Abtruenniger.mdx			Dionesiist		http://www.hiveworkshop.com/
+Botschafterin.mdx			Elenai			http://www.hiveworkshop.com/
+Botschafterin_Portrait.mdx		Elenai			http://www.hiveworkshop.com/
+Drachentoeterin.mdx			Blizzard Entertainment	http://xgm.ru/
+Drachentoeterin_Portrait.mdx		Blizzard Entertainment	http://xgm.ru/
+KoenglicherKleriker.mdx			Elenai			http://www.hiveworkshop.com/
+KoenglicherKleriker_Portrait.mdx	Elenai			http://www.hiveworkshop.com/
+KoenglicherWaechter.mdx			General Frank		http://www.hiveworkshop.com/
+KoenglicherWaechter_Portrait.mdx	General Frank		http://www.hiveworkshop.com/
+Zauberin.mdx				Blizzard Entertainment	http://xgm.ru/

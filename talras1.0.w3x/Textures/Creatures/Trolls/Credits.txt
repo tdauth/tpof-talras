@@ -1,0 +1,3 @@
+File			Authors		Source
+Headshrinker.blp	AnemicRoyalty	http://www.wc3c.net/
+WitchDoctor.blp		IronMaden	http://xgm.ru/

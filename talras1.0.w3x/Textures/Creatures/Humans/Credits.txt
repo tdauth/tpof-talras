@@ -1,0 +1,98 @@
+File					Authors					Source
+HumanFemaleBlacksmith.blp		Blizzard Entertainment			Die Macht des Feuers
+HumanFemaleCaster.blp			Blizzard Entertainment			Die Macht des Feuers
+HumanFemaleFarmer.blp			Blizzard Entertainment			Die Macht des Feuers
+HumanFemaleKid.blp			Blizzard Entertainment			Die Macht des Feuers
+HumanFemaleMerchantFat.blp		Blizzard Entertainment			Die Macht des Feuers
+HumanFemaleMerchantThin.blp		Blizzard Entertainment			Die Macht des Feuers
+HumanFemalePeasant.blp			Blizzard Entertainment			Die Macht des Feuers
+HumanFemaleWarriorHeavy.blp		Blizzard Entertainment			Die Macht des Feuers
+HumanFemaleWarriorLight.blp		Blizzard Entertainment			Die Macht des Feuers
+HumanFemaleWarriorMedium.blp		Blizzard Entertainment			Die Macht des Feuers
+HumanMaleBlacksmith.blp			Blizzard Entertainment			Die Macht des Feuers
+HumanMaleCaster.blp			Blizzard Entertainment			Die Macht des Feuers
+HumanMaleFarmer.blp			Blizzard Entertainment			Die Macht des Feuers
+HumanMaleGuard.blp			Blizzard Entertainment			Die Macht des Feuers
+HumanMaleKid.blp			Blizzard Entertainment			Die Macht des Feuers
+HumanMaleMarshal.blp			Blizzard Entertainment			Die Macht des Feuers
+HumanMaleNoble.blp			Blizzard Entertainment			Die Macht des Feuers
+HumanMalePeasant.blp			Blizzard Entertainment			Die Macht des Feuers
+HumanMalePirateCaptain.blp		Blizzard Entertainment			Die Macht des Feuers
+HumanMalePirateCrewman.blp		Blizzard Entertainment			Die Macht des Feuers
+HumanMalePirateSwashbuckler.blp		Blizzard Entertainment			Die Macht des Feuers
+HumanMaleWarriorHeavy.blp		Blizzard Entertainment			Die Macht des Feuers
+HumanMaleWarriorLight.blp		Blizzard Entertainment			Die Macht des Feuers
+HumanMaleWarriorMedium.blp		Blizzard Entertainment			Die Macht des Feuers
+HumanMaleWizard.blp			Blizzard Entertainment			Die Macht des Feuers
+HumanThief.blp				Blizzard Entertainment			Die Macht des Feuers
+Armbrustschuetze.blp			Blizzard Entertainment, Wolverine	http://www.xgm.ru/
+ArmbrustschuetzeSchild.blp		Blizzard Entertainment, Wolverine	http://www.xgm.ru/
+Attentaeter.blp				���					http://www.xgm.ru/
+BerittenerSamurai1.blp			Black_Stan				http://www.xgm.ru/
+BerittenerSamurai1Katana.blp		Black_Stan				http://www.xgm.ru/
+BerittenerSamurai1Stoff.blp		Black_Stan				http://www.xgm.ru/
+BerittenerSamurai2.blp			Black_Stan				http://www.xgm.ru/
+BerittenerSamurai2Harquebus.blp		Black_Stan				http://www.xgm.ru/
+BerittenerSamurai2Katana.blp		Black_Stan				http://www.xgm.ru/
+BerittenerSamurai2Stoff.blp		Black_Stan				http://www.xgm.ru/
+Captain.blp				jigrael					http://www.wc3c.net/
+DunklerZauberer.blp			SirRozhka, RUS DooM			http://www.xgm.ru/
+DunklerZaubererHaare.blp		SirRozhka, RUS DooM			http://www.xgm.ru/
+DunklerZaubererRobe.blp			SirRozhka, RUS DooM			http://www.xgm.ru/
+GeistlicheSchwertkaempferin.blp		jigrael					http://www.wc3c.net/
+GepanzerterSamurai.blp			Black_Stan				http://www.xgm.ru/
+GepanzerterSamuraiHarquebus.blp		Black_Stan				http://www.xgm.ru/
+GepanzerterSamuraiKatana.blp		Black_Stan				http://www.xgm.ru/
+GepanzerterSamuraiStoff.blp		Black_Stan				http://www.xgm.ru/
+HerrenloserSamurai.blp			Black_Stan				http://www.xgm.ru/
+JungeBraun.blp				Blizzard Entertainment, Wolverine	http://www.xgm.ru/
+JungeOlive.blp				Blizzard Entertainment, Wolverine	http://www.xgm.ru/
+JungePfirsich.blp			Blizzard Entertainment, Wolverine	http://www.xgm.ru/
+King.blp				falcoknight				http://www.wc3c.net/
+MaedchenBauernhofkleid.blp		Blizzard Entertainment, Wolverine	http://www.xgm.ru/
+MaedchenSchmutzigesKleid.blp		Blizzard Entertainment, Wolverine	http://www.xgm.ru/
+MaedchenStadtkleid.blp			Blizzard Entertainment, Wolverine	http://www.xgm.ru/
+Moench.blp				Ket					http://www.xgm.ru/
+Myrmidon.blp				jigrael					http://www.wc3c.net/
+Ninja.blp				Black_Stan				http://www.xgm.ru/
+NinjaKatana.blp				Black_Stan				http://www.xgm.ru/
+Ninjaschuelerin.blp			Black_Stan				http://www.xgm.ru/
+NinjaschuelerinKatana.blp		Black_Stan				http://www.xgm.ru/
+Nordmann2.blp				Olof Moleman				http://www.wc3c.net/
+Paladin.blp				DeathBringer				http://www.xgm.ru/
+Pfarrer.blp				���					http://www.xgm.ru/
+Ritter2Diener.blp			Blizzard Entertainment, Wolverine	http://www.xgm.ru/
+Ritter2Helm.blp				Blizzard Entertainment, Wolverine	http://www.xgm.ru/
+Ritter2HelmbuschA.blp			Blizzard Entertainment, Wolverine	http://www.xgm.ru/
+Ritter2HelmbuschB.blp			Blizzard Entertainment, Wolverine	http://www.xgm.ru/
+Ritter2HelmbuschC.blp			Blizzard Entertainment, Wolverine	http://www.xgm.ru/
+Ritter2Schwerthand.blp			Blizzard Entertainment, Wolverine	http://www.xgm.ru/
+Samurai.blp				Black_Stan				http://www.xgm.ru/
+Samuraiausbilder.blp			Black_Stan				http://www.xgm.ru/
+SamuraiausbilderKatana.blp		Black_Stan				http://www.xgm.ru/
+Samuraibogenschuetze.blp		Black_Stan				http://www.xgm.ru/
+SamuraibogenschuetzeKatana.blp		Black_Stan				http://www.xgm.ru/
+Samuraigattin.blp			Black_Stan				http://www.xgm.ru/
+Samuraiglevenwerfer.blp			Black_Stan				http://www.xgm.ru/
+SamuraiKatana.blp			Black_Stan				http://www.xgm.ru/
+Samuraimeister.blp			Black_Stan				http://www.xgm.ru/
+SamuraimeisterKatana.blp		Black_Stan				http://www.xgm.ru/
+SamuraimeisterStoff.blp			Black_Stan				http://www.xgm.ru/
+Samuraischueler.blp			Black_Stan				http://www.xgm.ru/
+Samuraischuelerin.blp			Black_Stan				http://www.xgm.ru/
+SamuraischuelerinKatana.blp		Black_Stan				http://www.xgm.ru/
+SamuraischuelerKatana.blp		Black_Stan				http://www.xgm.ru/
+SamuraischuelerStoff.blp		Black_Stan				http://www.xgm.ru/
+SamuraiStoff.blp			Black_Stan				http://www.xgm.ru/
+SchiffBortoutfrigate.blp		Alibek, Wolverine			http://www.xgm.ru/
+SchiffDeck.blp				Alibek, Wolverine			http://www.xgm.ru/
+SchiffSegeldeck.blp			Alibek, Wolverine			http://www.xgm.ru/
+SchwerGepanzerterSamurai.blp		Black_Stan				http://www.xgm.ru/
+SchwerGepanzerterSamuraiKatana.blp	Black_Stan				http://www.xgm.ru/
+SchwerGepanzerterSamuraiStoff.blp	Black_Stan				http://www.xgm.ru/
+Waldlaeufer.blp				Whitehorn				http://www.wc3c.net/
+Warrior0.blp				Miseracord				http://www.hiveworkshop.com/
+Warrior1.blp				Miseracord				http://www.hiveworkshop.com/
+Warrior2.blp				Miseracord				http://www.hiveworkshop.com/
+Weihnachtsmann.blp			_Virus_					http://www.xgm.ru/
+Wizard.blp				CloudWolf				http://www.hiveworkshop.com/

@@ -1,0 +1,5 @@
+File				Authors		Source
+BTNBotschafterin.blp		Elenai		http://www.hiveworkshop.com/
+BTNKoeniglicherKleriker.blp	Elenai		http://www.hiveworkshop.com/
+DISBTNBotschafterin.blp		Elenai		http://www.hiveworkshop.com/
+DISBTNKoeniglicherKleriker.blp	Elenai		http://www.hiveworkshop.com/

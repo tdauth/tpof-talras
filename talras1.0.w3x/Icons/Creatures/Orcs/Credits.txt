@@ -1,0 +1,5 @@
+File				Authors			Source
+BTNArmbrustschuetze.blp		Mr.Goblin		http://www.hiveworkshop.com/
+BTNKrieger.blp			General Frank		http://www.hiveworkshop.com/
+DISBTNArmbrustschuetze.blp	Mr.Goblin		http://www.hiveworkshop.com/
+DISBTNKrieger.blp		General Frank		http://www.hiveworkshop.com/

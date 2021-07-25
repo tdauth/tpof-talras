@@ -1,0 +1,5 @@
+File				Authors		Source
+Konzentration0.blp		JetFangInferno	http://www.hiveworkshop.com/
+Konzentration1.blp		JetFangInferno	http://www.hiveworkshop.com/
+Konzentration2.blp		JetFangInferno	http://www.hiveworkshop.com/
+Wiederbeleben.blp		Daelin		http://wwww.wc3campaigns.net/

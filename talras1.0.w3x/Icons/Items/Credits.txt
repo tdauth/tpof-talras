@@ -1,0 +1,102 @@
+File						Authors			Source
+*Pitfall.blp					Lightskin		http://www.hiveworkshop.com/forums/icons-541/btnsharpwoodenstick-128321
+
+BTNMagicRing.blp				Akolyt0r		http://www.hiveworkshop.com/
+DISBTNMagicRing.blp				Akolyt0r		http://www.hiveworkshop.com/
+
+BTNWizardsHat.blp				NFWar			http://www.hiveworkshop.com/
+DISBTNWizardsHat.blp				NFWar			http://www.hiveworkshop.com/
+
+ATCVampireNecklace.blp				kola			http://www.hiveworkshop.com/
+BTNVampireNecklace.blp				kola			http://www.hiveworkshop.com/
+DISATCVampireNecklace.blp			kola			http://www.hiveworkshop.com/
+DISBTNVampireNecklace.blp			kola			http://www.hiveworkshop.com/
+DISPASVampireNecklace.blp			kola			http://www.hiveworkshop.com/
+PASVampireNecklace.blp				kola			http://www.hiveworkshop.com/
+
+ATCRingOfLatency.blp				Static			http://www.hiveworkshop.com/
+ATTRingOfLatency.blp				Static			http://www.hiveworkshop.com/
+BTNRingOfLatency.blp				Static			http://www.hiveworkshop.com/
+DISATCRingOfLatency.blp				Static			http://www.hiveworkshop.com/
+DISBTNRingOfLatency.blp				Static			http://www.hiveworkshop.com/
+DISPASRingOfLatency.blp				Static			http://www.hiveworkshop.com/
+PASRingOfLatency.blp				Static			http://www.hiveworkshop.com/
+UPGUPGRingOfLatency.blp				Static			http://www.hiveworkshop.com/
+
+BTNNasalHelmet.blp				(Icon pack)?		http://www.wc3c.net/
+DISBTNNasalHelmet.blp				(Icon pack)?		http://www.wc3c.net/
+
+BTNBloodAmulet.blp				Infinitynexus		http://www.hiveworkshop.com/
+DISBTNBloodAmulet.blp				Infinitynexus		http://www.hiveworkshop.com/
+DISPASBTNBloodAmulet.blp			Infinitynexus		http://www.hiveworkshop.com/
+PASBTNBloodAmulet.blp				Infinitynexus		http://www.hiveworkshop.com/
+
+ATCAmuletOfForesight.blp			-BerZeKeR-		http://www.hiveworkshop.com/
+BTNAmuletOfForesight.blp			-BerZeKeR-		http://www.hiveworkshop.com/
+DISATCAmuletOfForesight.blp			-BerZeKeR-		http://www.hiveworkshop.com/
+DISBTNAmuletOfForesight.blp			-BerZeKeR-		http://www.hiveworkshop.com/
+DISPASAmuletOfForesight.blp			-BerZeKeR-		http://www.hiveworkshop.com/
+PASAmuletOfForesight.blp			-BerZeKeR-		http://www.hiveworkshop.com/
+
+ATCSwordOfDarknessOn.blp			67chrome		http://www.hiveworkshop.com/
+BTNSwordOfDarkness.blp				67chrome		http://www.hiveworkshop.com/
+DISATCSwordOfDarknessOn.blp			67chrome		http://www.hiveworkshop.com/
+DISBTNSwordOfDarkness.blp			67chrome		http://www.hiveworkshop.com/
+DISPASSwordOfDarkness.blp			67chrome		http://www.hiveworkshop.com/
+PASSwordOfDarkness.blp				67chrome		http://www.hiveworkshop.com/
+
+BTNAntlers.blp 				 	Stanakin Skywalker	http://www.hiveworkshop.com/
+DISBTNAntlers.blp				Stanakin Skywalker	http://www.hiveworkshop.com/
+DISPASAntlers.blp				Stanakin Skywalker	http://www.hiveworkshop.com/
+PASAntlers.blp					Stanakin Skywalker	http://www.hiveworkshop.com/
+UPGUPGAntlers.blp				Stanakin Skywalker	http://www.hiveworkshop.com/
+
+
+BTNBoletus.tga					Crazyrussian		http://www.wc3c.net/
+DISBTNBoletus.tga				Crazyrussian		http://www.wc3c.net/
+BTNFlameMixture.tga				Crazyrussian		http://www.wc3c.net/
+DISBTNFlameMixture.tga				Crazyrussian		http://www.wc3c.net/
+BTNFlyAgaric.tga				Crazyrussian		http://www.wc3c.net/
+DISBTNFlyAgaric.tga				Crazyrussian		http://www.wc3c.net/
+BTNBloodyChainsaw.blp				tee.dubs		http://www.hiveworkshop.com/
+DISBTNBloodyChainsaw.blp			tee.dubs		http://www.hiveworkshop.com/
+PASBloodyChainsaw.blp				tee.dubs		http://www.hiveworkshop.com/
+DISPASBloodyChainsaw.blp			tee.dubs		http://www.hiveworkshop.com/
+ATCABTNGoldCoinsBag.blp				KelThuzad		http://www.hiveworkshop.com/
+ATTATBTNGoldCoinsBag.blp			KelThuzad		http://www.hiveworkshop.com/
+BTNBook.blp					Mc !			http://www.hiveworkshop.com/
+BTNFirePotion.blp				Mr.Goblin		http://www.hiveworkshop.com/
+BTNGoldCoinsBag.blp				KelThuzad		http://www.hiveworkshop.com/
+BTNGrosserHeiltrank.blp				GooS			http://www.hiveworkshop.com/
+BTNGrosserManatrank.blp				GooS			http://www.hiveworkshop.com/
+BTNHeiltrank.blp                                GooS			http://www.hiveworkshop.com/
+BTNKleinerHeiltrank.blp				GooS			http://www.hiveworkshop.com/
+BTNKleinerManatrank.blp				GooS			http://www.hiveworkshop.com/
+BTNLightWoodenShield.blp			CRAZYRUSSIAN		http://www.hiveworkshop.com/
+BTNLongsword.blp				SkriK			http://www.hiveworkshop.com/
+BTNMace.blp					DevineArmy		http://www.hiveworkshop.com/
+BTNManatrank.blp				GooS			http://www.hiveworkshop.com/
+BTNSpear.blp					Mobilize		http://www.hiveworkshop.com/
+BTNThickBook.blp				CRAZYRUSSIAN		http://www.hiveworkshop.com/
+BTNWoodenShield.blp				CRAZYRUSSIAN		http://www.hiveworkshop.com/
+DISATCABTNGoldCoinsBag.blp			KelThuzad		http://www.hiveworkshop.com/
+DISBTNBook.blp					Mc !			http://www.hiveworkshop.com/
+DISBTNFirePotion.blp				Mr.Goblin		http://www.hiveworkshop.com/
+DISBTNGoldCoinsBag.blp				KelThuzad		http://www.hiveworkshop.com/
+DISBTNGrosserHeiltrank.blp			GooS			http://www.hiveworkshop.com/
+DISBTNGrosserManatrank.blp			GooS			http://www.hiveworkshop.com/
+DISBTNHeiltrank.blp				GooS			http://www.hiveworkshop.com/
+DISBTNKleinerHeiltrank.blp			GooS			http://www.hiveworkshop.com/
+DISBTNKleinerManatrank.blp			GooS			http://www.hiveworkshop.com/
+DISBTNLightWoodenShield.blp			CRAZYRUSSIAN		http://www.hiveworkshop.com/
+DISBTNLongsword.blp				SkriK			http://www.hiveworkshop.com/
+DISBTNMace.blp					DevineArmy		http://www.hiveworkshop.com/
+DISBTNManatrank.blp				GooS			http://www.hiveworkshop.com/
+DISBTNSpear.blp					Mobilize		http://www.hiveworkshop.com/
+DISBTNThickBook.blp				CRAZYRUSSIAN		http://www.hiveworkshop.com/
+DISBTNWoodenShield.blp				CRAZYRUSSIAN		http://www.hiveworkshop.com/
+DISPASFirePotion.blp				Mr.Goblin		http://www.hiveworkshop.com/
+DISPASGoldCoinsBag.blp				KelThuzad		http://www.hiveworkshop.com/
+PASFirePotion.blp				Mr.Goblin		http://www.hiveworkshop.com/
+PASGoldCoinsBag.blp				KelThuzad		http://www.hiveworkshop.com/
+UPGUPBTNGoldCoinsBag.blp			KelThuzad		http://www.hiveworkshop.com/

@@ -1,0 +1,17 @@
+File				Authors			Source
+BlackCloudOfFog.mdx		JetFangInferno		http://www.hiveworkshop.com/
+Blut1.mdx			xXm0RpH3usXx		
+Blut2.mdx			xXm0RpH3usXx		
+Blut3.mdx			xXm0RpH3usXx		
+Blut4.mdx			xXm0RpH3usXx		
+Feuer.mdx			RightField		http://www.hiveworkshop.com/
+Lichtquelle.mdx			neogaidenx		http://www.hiveworkshop.com/
+LightSourceRedBig.mdl		neogaidenx, Baradé	http://www.hiveworkshop.com/
+LightSourceRedMedium.mdl	neogaidenx, Baradé	http://www.hiveworkshop.com/
+LightSourceRedSmall.mdl		neogaidenx, Baradé	http://www.hiveworkshop.com/
+Moon.mdx			Thrikodius		http://www.hiveworkshop.com/
+RedCloudOfFog.mdx		crl			http://www.hiveworkshop.com/
+SkyLight.mdx			Polar_Bear		http://www.hiveworkshop.com/
+Tageshimmel.mdx 		Blizzard Entertainment	Warcraft-III-MPQ
+WindowRays.mdx			Tranquil		http://www.hiveworkshop.com/
+Wolke.mdx			Born2Modificate		http://wc3campaigns.net/

@@ -1,0 +1,11 @@
+﻿[CustomSkin]
+CinematicBorder=UserInterfaces\Demon\CinematicBorder.blp
+ConsoleInventoryCoverTexture=UserInterfaces\Demon\InventoryCover.blp
+ConsoleInventoryNoCapacity=UserInterfaces\Demon\InventorySlotFiller.blp
+ConsoleTexture01=UserInterfaces\Demon\Tile1.blp
+ConsoleTexture02=UserInterfaces\Demon\Tile2.blp
+ConsoleTexture03=UserInterfaces\Demon\Tile3.blp
+ConsoleTexture04=UserInterfaces\Demon\Tile4.blp
+QuestDialogBorder=UserInterfaces\Demon\OptionsMenuBorder.blp
+EscMenuBorder=UserInterfaces\Demon\OptionsMenuBorder.blp
+PlacementCursor=UserInterfaces\Demon\SpellAreaOfEffect.blp

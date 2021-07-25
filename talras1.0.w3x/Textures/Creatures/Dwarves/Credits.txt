@@ -1,0 +1,4 @@
+File							Authors				Source
+Krieger.blp						Norinrad			http://www.wc3campaigns.net/
+MaennlicherZwerg2.blp					Blizzard Entertainment		http://xgm.ru/
+MaennlicherZwerg.blp					Blizzard Entertainment		http://xgm.ru/

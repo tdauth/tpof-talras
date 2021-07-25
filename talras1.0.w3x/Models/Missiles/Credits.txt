@@ -1,0 +1,5 @@
+File				Authors					Source
+ArcaneMissileComplete.mdx	Blizzard Entertainment, WeepWeep	http://www.hiveworkshop.com/
+Eisgeschoss.mdx			Daelin					http://www.wc3c.net/
+Feuergeschoss.mdx		Mc !					http://www.wc3c.net/
+RainbowMissile.mdx		Titania					http://www.hiveworkshop.com/

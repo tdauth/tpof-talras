@@ -1,0 +1,32 @@
+File					Authors						Source
+Warqueen.blp				jigrael						http://wc3c.net/
+WarqWeap.blp				jigrael						http://wc3c.net/
+
+Medusa.blp				Tarrasque					http://www.hiveworkshop.com/
+
+Lightning_01.blp			jigrael						http://wc3c.net/
+Lightning_02.blp			jigrael						http://wc3c.net/
+Lightning_03.blp			jigrael						http://wc3c.net/
+Lightning_04.blp			jigrael						http://wc3c.net/
+Lightning_05.blp			jigrael						http://wc3c.net/
+Lightning_06.blp			jigrael						http://wc3c.net/
+Lightning_07.blp			jigrael						http://wc3c.net/
+Lightning_08.blp			jigrael						http://wc3c.net/
+Lightning_Ball_01.blp			jigrael						http://wc3c.net/
+Lightning_Ball_02.blp			jigrael						http://wc3c.net/
+Lightning_Ball_03.blp			jigrael						http://wc3c.net/
+Lightning_Ball_04.blp			jigrael						http://wc3c.net/
+Lightning_Ball_05.blp			jigrael						http://wc3c.net/
+LightningElemental.blp			jigrael						http://wc3c.net/
+
+GnollCasterMossHideSkin.blp		Wolverine, Blizzard Entertainment		http://www.xgm.ru/
+GnollCasterRedRidgeSkin.blp		Wolverine, Blizzard Entertainment		http://www.xgm.ru/
+GnollCasterRiverPawSkin.blp		Wolverine, Blizzard Entertainment		http://www.xgm.ru/
+GnollCasterRotHideSkin.blp		Wolverine, Blizzard Entertainment		http://www.xgm.ru/
+GnollCasterShadowHideSkin.blp		Wolverine, Blizzard Entertainment		http://www.xgm.ru/
+GnollMossHideSkin.blp			Wolverine, Blizzard Entertainment		http://www.xgm.ru/
+GnollRedRidge.blp			Wolverine, Blizzard Entertainment		http://www.xgm.ru/
+GnollRiverPaw.blp			Wolverine, Blizzard Entertainment		http://www.xgm.ru/
+GnollRotHideSkin.blp			Wolverine, Blizzard Entertainment		http://www.xgm.ru/
+GnollShadowHideSkin.blp			Wolverine, Blizzard Entertainment		http://www.xgm.ru/
+HillGiant.blp				EvilShade					http://www.hiveworkshop.com/

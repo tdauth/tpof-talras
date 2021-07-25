@@ -1,0 +1,13 @@
+File			Authors		Source
+Crow.mdx		Dionesiist	http://www.wc3c.net/
+Crow_Portrait.mdx	Dionesiist	http://www.wc3c.net/
+HellKnight.mdx		Dionesiist	http://www.wc3c.net/
+HellKnight_Portrait.mdx	Dionesiist	http://www.wc3c.net/
+Incubus.mdx		Dionesiist	http://www.wc3c.net/
+Incubus_Portrait.mdx	Dionesiist	http://www.wc3c.net/
+Magus.mdx		Dionesiist	http://www.wc3c.net/
+Magus_Portrait.mdx	Dionesiist	http://www.wc3c.net/
+Sorcerer.mdx		Dionesiist	http://www.wc3c.net/
+Sorcerer_Portrait.mdx	Dionesiist	http://www.wc3c.net/
+Valkyrie.mdx		Dionesiist	http://www.wc3c.net/
+Valkyrie_Portrait.mdx	Dionesiist	http://www.wc3c.net/

@@ -1,0 +1,18 @@
+File			Authors	Source
+Build			Ammorth	http://www.wc3c.net/
+Chunk			Ammorth	http://www.wc3c.net/
+Experience		Ammorth	http://www.wc3c.net/
+Health			Ammorth	http://www.wc3c.net/
+Mac			Ammorth	http://www.wc3c.net/
+Mana			Ammorth	http://www.wc3c.net/
+Orange			Ammorth	http://www.wc3c.net/
+Radio			Ammorth	http://www.wc3c.net/
+Zelda Hearts		Ammorth	http://www.wc3c.net/
+Zelda Hearts Upgraded	Ammorth	http://www.wc3c.net/
+Zelda Magic Meter	Ammorth	http://www.wc3c.net/
+Blue.blp		Baradé	DMdF
+Green.blp		Baradé	DMdF
+Purple.blp		Baradé	DMdF
+Red.blp			Baradé	DMdF
+White.blp		Baradé	DMdF
+Yellow.blp		Baradé	DMdF

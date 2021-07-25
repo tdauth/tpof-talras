@@ -1,0 +1,7 @@
+function PreloadFiles takes nothing returns nothing
+	call Preload("Units\\Villager255\\Villager255.MDX")
+	call Preload("Units\\Villager255\\Villager255_Portrait.mdx")
+	call PreloadEnd( 5.00 )
+endfunction
+
+
