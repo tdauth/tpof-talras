@@ -92,7 +92,96 @@ There is lots of other material in the [planning](./doc/Planung) folder mostly w
 
 ## Credits
 
-* Baradé: Creator (idea, dialogues, terrain, quests, coding).
+Core team:
+
+* Baradé: Creator, idea, dialogues, terrain, quests, coding.
 * Deranor: Terrain and testing.
 * Jojo: Testing.
+* Sardor: Models, classes, spells, balancing and other content.
+
+Voice Actors:
+
 * [HoerTalk.de](https://www.hoer-talk.de/): Voice acting.
+* Rainer: Narrator.
+* Jan Langer: Dago
+* jam: Wigberht
+* jam: Baldar
+* Dennis Prasetyo: Haldar
+* Dennis Prasetyo: Ferdinand
+* wer.n wilke: Ricman
+* VitaLee: Haid
+* Birgit Arnold: Sisgard
+* Ian: Wieland
+* Jenleo: Irmina
+* Clemens Weichard: Heimrich
+* Gunnar Isbrecht: Markward
+* Zuli: Guntrich
+* AnniGam: Ursula
+* Avalarion: Schafshirte
+* Kerstin R.: Dragon Slayer
+* Jens", tr("Kuno
+* Stephanie Preis", tr("Tanka
+* Jan J. Münter", tr("Carsten
+* jonasclick", tr("Lothar
+* Heinrich-Stefan N.", tr("Manfred
+* Marco R.: Einar
+* Benkenfilm: Trommon
+* Benkenfilm: Brogo
+* Benkenfilm: Deranor the Terrible
+* Benkenfilm: Sisgard's Master
+* Benkenfilm: Orc Leader
+* Martin B.: Björn
+* Daniel Spieker: Tobias
+* Frank \"Waschbär\" Keiler: Osman
+* Synchron: Tellborn
+* Feluxus: Agihard
+* Tania: Mathilda
+* Alex: Fulco
+* Alex: Dararos
+* Ani: Mother
+* Melianea: Gotlinde
+* Eric: Wotan
+
+Further support:
+
+
+* WaterKnight: Tests
+* Frotty: Models and Tests
+* Clemens Weichard: Custom Let's Play
+
+Music:
+
+* Kevin MacLeod (incompetech.com): PippinTheHunchback
+
+Tools and Systems:
+
+* Vexorian: JassHelper/vJass, Wc3mapoptimizer, functions and systems, partly implemented partly for ideas
+* PitzerMike: JassNewGenPack
+* Pipedream: Grimoire
+* SFilip: TESH
+* Opossum: 3rd person camera system
+
+Models:
+
+* Kitabatake: [Hell Campaign Screen](https://www.hiveworkshop.com/threads/hell-campaign-screen.121022/#resource-26801)
+* Graber: [Villager 255 Animations](https://www.hiveworkshop.com/threads/villager-255-animations.192204/)
+* Talavaj: [HybrisFactory - Multiple packages of realtexture models and textures](http://www.hiveworkshop.com/threads/hybrisfactory-terraining-and-mapping-resources.238310/)
+* Sellenisko: [Vrykul Race Pack](http://www.hiveworkshop.com/threads/vrykul-race-pack.241083/)
+* JoySoy: [The Mage](https://www.hiveworkshop.com/threads/the-mage.293180/)
+
+Icons:
+
+* olofmoleman: BTNDeer.blp
+* Stanakin Skywalker: BTNDuck.blp
+* Tenebrae: BTNDunkelelf.blp
+* Werewulf: BTNBestie.blp
+* bboy-tiger-: BTNBestienhaeputling.blp
+* TDR: BTNSchattenefreet.blp
+* dickxunder: BTNZauberin.blp
+* Norinrad: BTNZwergenkrieger.blp
+* Elenai: BTNBotschafterin.blp, BTNKoeniglicherKleriker.blp
+* Michael Peppers: BTNGeistlicheSchwertkaempferin.blp
+
+User Interface:
+
+* unwirklich: [Demon UI](http://www.wc3c.net/showthread.php?t=93713)

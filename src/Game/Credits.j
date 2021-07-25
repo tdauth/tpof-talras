@@ -12,10 +12,8 @@ call thistype.addContributor("Johanna W.", tre("Tests", "Tests"))
 
 // maps
 call thistype.addTitle(tre("Karten", "Maps"))
-call thistype.addContributor("Andreas B. (Deranor)", tre("Talras, Holzbruck", "Talras, Holzbruck"))
-call thistype.addContributor("Tamino Dauth (Baradé)", tre("Talras (Teile), Gardonar, Holzbrucks Unterwelt, Der Norden", "Talras (parts), Gardonar, Holzbruck's Underworld, The North"))
-call thistype.addContributor("Heinvers", tre("Gardonars Hölle, Deranors Sumpf", "Gardonar's Hell, Deranor's Swamp"))
-call thistype.addContributor("PrinceYaser", tre("Dornheim", "Dornheim"))
+call thistype.addContributor("Andreas B. (Deranor)", tre("Talras", "Talras"))
+call thistype.addContributor("Tamino Dauth (Baradé)", tre("Talras (Teile)", "Talras (parts)"))
 
 // voices
 call thistype.addTitle(tre("Sprecher", "Voices"))
@@ -67,8 +65,6 @@ call thistype.addContributor("Clemens Weichard", tre("Eigenes Let's Play", "Cust
 
 call thistype.addTitle(tre("Musik", "Music"))
 call thistype.addContributor("Kevin MacLeod (incompetech.com)", "PippinTheHunchback")
-call thistype.addContributor("Freesound.org - swamp_at_dusk.wav", "MeffyElli")
-call thistype.addContributor("Karlheinz Stockhausen", "Luzifers Abschied")
 
 // tools and systems
 call thistype.addTitle(tre("Werkzeuge und Systeme", "Tools and Systems"))
