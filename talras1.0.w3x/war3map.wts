@@ -22,7 +22,7 @@ Der Ritter stürmt sein Ziel an, betäubt es 2 Sekunden lang und fügt ihm X Pun
 
 STRING 4
 {
-Tamino Dauth and Andreas B.
+Baradé and Deranor
 }
 
 STRING 5
@@ -5308,11 +5308,6 @@ STRING 887
 Erhöht die Rüstung um <A094,DataA5>.
 }
 
-STRING 888
-{
-Orks und Dunkelelfen
-}
-
 STRING 889
 // Abilities: A0AA (Vorherige Seite), Tip (Tooltip - Normal)
 {
@@ -5353,11 +5348,6 @@ STRING 895
 // Items: I004 (Testhelm), Name (Name)
 {
 Testhelm
-}
-
-STRING 896
-{
-Feinde
 }
 
 STRING 897
@@ -5528,6 +5518,11 @@ STRING 924
 Wechselt zur nächsten Klasse.
 }
 
+STRING 925
+{
+Mercenary 1
+}
+
 STRING 926
 // Buffs/Effects: B003 (Dämonendiener), Buffubertip (Tooltip - Extended)
 {
@@ -5556,6 +5551,16 @@ STRING 930
 // Abilities: A1VD (Herr der Finsternis), EditorSuffix (Editor Suffix)
 {
 (Buch der Dämonologie)
+}
+
+STRING 931
+{
+Mercenary 2
+}
+
+STRING 932
+{
+Mercenary 3
 }
 
 STRING 933
@@ -5664,6 +5669,11 @@ STRING 950
 // Abilities: A01Q (Anstürmen), Name (Name)
 {
 Anstürmen
+}
+
+STRING 951
+{
+Mercenary 4
 }
 
 STRING 952
@@ -10580,6 +10590,11 @@ STRING 1770
 (Zauberer)
 }
 
+STRING 1771
+{
+Mercenary 5
+}
+
 STRING 1772
 // Buffs/Effects: B00I (Absorbation), EditorName (Name (Editor Only))
 {
@@ -13296,6 +13311,11 @@ STRING 2224
 (Untermenü)
 }
 
+STRING 2225
+{
+Mercenary 6
+}
+
 STRING 2226
 // Abilities: A0R3 (Inventory), EditorSuffix (Editor Suffix)
 {
@@ -13452,6 +13472,11 @@ STRING 2251
 (Kleriker)
 }
 
+STRING 2252
+{
+Henchmen
+}
+
 STRING 2253
 // Abilities: A0I7 (Dunkler Zauber), Ubertip (Tooltip - Normal - Extended)
 {
@@ -13462,6 +13487,11 @@ STRING 2254
 // Abilities: A0ND (Märtyrer), EditorSuffix (Editor Suffix)
 {
 (Favoritenfähigkeit - Kleriker)
+}
+
+STRING 2255
+{
+Arena Opponent
 }
 
 STRING 2256
@@ -13962,26 +13992,6 @@ STRING 2338
 (Stab der Unsterblichkeit)
 }
 
-STRING 2339
-{
-Vasall 1
-}
-
-STRING 2340
-{
-Vasall 2
-}
-
-STRING 2341
-{
-Vasall 3
-}
-
-STRING 2342
-{
-Vasall 4
-}
-
 STRING 2343
 // Abilities: A0R5 (Schmettern), Name (Name)
 {
@@ -13992,16 +14002,6 @@ STRING 2344
 // Abilities: A13K (Resistant Skin), EditorSuffix (Editor Suffix)
 {
 (Knochendrache)
-}
-
-STRING 2345
-{
-Verbündete
-}
-
-STRING 2346
-{
-Vasallen
 }
 
 STRING 2347
@@ -20750,6 +20750,11 @@ STRING 3480
 Der Zauberer erzeugt eine magische Kuppel mit einem Radius von 600 und verringert 15 Sekunden lang den von ihm und seinen Verbündeten innerhalb dieser Kuppel erlittenen Schaden.|n|n|cffffcc00Stufe 1|r - Verringert den erlittenen Schaden um 10 %.|n|cffffcc00Stufe 2|r - Verringert den erlittenen Schaden um 20 %.|n|cffffcc00Stufe 3|r - Verringert den erlittenen Schaden um 30 %.|n|cffffcc00Stufe 4|r - Verringert den erlittenen Schaden um 40 %.|n|cffffcc00Stufe 5|r - Verringert den erlittenen Schaden um 50 %.
 }
 
+STRING 3481
+{
+Orcs and Dark Elves
+}
+
 STRING 3482
 // Abilities: A1HQ (Verfluchter Boden - Stufe 5), EditorSuffix (Editor Suffix)
 {
@@ -21098,6 +21103,11 @@ STRING 3539
 Der Zauberer erschafft einen Manaschild um sich herum, der Schaden absorbiert|n|cffc3dbffZauber mit erneuter Ausführung unterbrechen.|r|n|n|cffffcc00Stufe 1|r - Verbraucht 5 Mana pro Schadenspunkt und absorbiert maximal 100 Schaden.|n|cffffcc00Stufe 2|r - Verbraucht 4 Mana pro Schadenspunkt und absorbiert maximal 200 Schaden.|n|cffffcc00Stufe 3|r - Verbraucht 3 Mana pro Schadenspunkt und absorbiert maximal 300 Schaden.|n|cffffcc00Stufe 4|r - Verbraucht 2 Mana pro Schadenspunkt und absorbiert maximal 400 Schaden.|n|cffffcc00Stufe 5|r - Verbraucht 1 Mana pro Schadenspunkt und absorbiert maximal 500 Schaden.
 }
 
+STRING 3540
+{
+The White Legion
+}
+
 STRING 3541
 // Abilities: A08F (Verzehren), Name (Name)
 {
@@ -21114,6 +21124,26 @@ STRING 3543
 // Abilities: A02T (Verzehren), Tip (Tooltip - Normal)
 {
 Verzehren
+}
+
+STRING 3544
+{
+The Black Legion
+}
+
+STRING 3545
+{
+Mercenaries
+}
+
+STRING 3546
+{
+Allies
+}
+
+STRING 3547
+{
+Enemies
 }
 
 STRING 3554
@@ -27230,16 +27260,6 @@ STRING 5103
 // Abilities: A0MA (Aura der Rücknahme - Stufe 4), Ubertip (Tooltip - Normal - Extended)
 {
 In der Nähe befindliche Verbündete des Ritters im Umkreis von <A0M5,Area1> sowie der Ritter selbst erhalten einen Teil ihres Angriffsschadens als Leben und Mana zurück, wenn sie Gegnern Schaden zufügen..|n|n|cffffcc00Stufe 1|r - <A0M5,DataA1,%> % des Schadens werden in Leben umgewandelt.|n|cffffcc00Stufe 2|r - <A0M5,DataA2,%> % des Schadens werden in Leben umgewandelt.|n|cffffcc00Stufe 3|r - <A0M5,DataA3,%> % des Schadens werden in Leben umgewandelt.|n|cffffcc00Stufe 4|r - <A0M5,DataA4,%> % des Schadens werden in Leben umgewandelt.|n|cffffcc00Stufe 5|r - <A0M5,DataA5,%> % des Schadens werden in Leben umgewandelt.
-}
-
-STRING 5104
-{
-Die weiße Legion
-}
-
-STRING 5105
-{
-Die schwarze Legion
 }
 
 STRING 5106
@@ -37336,16 +37356,6 @@ STRING 9043
 Der Kleriker opfert sich selbst und regeneriert dadurch Leben und Mana seiner Verbündeten im Umkreis.|n|n|cffffcc00Stufe 1|r - 30 % Leben, 60 % Mana. |n|cffffcc00Stufe 2|r - 40 % Leben, 70 % Mana. |n|cffffcc00Stufe 3|r - 50 % Leben, 80 % Mana. |n|cffffcc00Stufe 4|r - 60 % Leben, 90 % Mana. |n|cffffcc00Stufe 5|r - 70 % Leben, 100 % Mana.
 }
 
-STRING 9044
-{
-Gefolgsleute
-}
-
-STRING 9045
-{
-Arenagegner
-}
-
 STRING 9046
 // Units: h00D (Hartwig der Todbringende), Name (Name)
 {
@@ -37398,16 +37408,6 @@ STRING 9054
 // Units: h01A (Anne die Klassenbeste), EditorSuffix (Name - Editor Suffix)
 {
 (Arenagegner - Stufe 7 - Magier)
-}
-
-STRING 9055
-{
-Vasall 5
-}
-
-STRING 9056
-{
-Vasall 6
 }
 
 STRING 9057

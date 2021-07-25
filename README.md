@@ -21,7 +21,7 @@ The lore has been written for this modification and Talras is the castle which y
 * NPC routines.
 * NPC fellows with shared control.
 * Automatic hero revival at revival shrines.
-* Arena system.
+* Arena system with PvP support.
 * Automatic creep respawns.
 * Automatic item respawns.
 * Fair distribution bounty and XP system from creep kills and completing quests.
