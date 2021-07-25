@@ -1,0 +1,1077 @@
+﻿// All entries in this file correspond to entries in TriggerData.txt
+// with the same key, and define the text to display for a given
+// function.
+//
+// The first value is the name of the function.
+// Following values are the layout of the text description,
+// and each value may either be raw text, or a parameter.
+// Parameters are distinguished from raw text with a '~' as the first
+// character.
+//
+// Any display text to have a comma must be contained in double quotes
+
+
+//***************************************************************************
+[TriggerEventStrings]
+
+TriggerRegisterMapInitSettingsEvent="Trigger Register Map Init Settings Event"
+TriggerRegisterMapInitSettingsEvent="Trigger Register Map Init Settings Event"
+TriggerRegisterMapInitSettingsEventHint="The trigger is evaluated during the map settings initialization which is even before the game initialization."
+
+TriggerRegisterMapInitEvent="Trigger Register Map Init Event"
+TriggerRegisterMapInitEvent="Trigger Register Map Init Event"
+TriggerRegisterMapInitEventHint="The trigger is evaluated during the map initialization."
+
+TriggerRegisterMapOnCreateClassSelectionItemsEvent="Trigger Register Map On Create Class Selection Items Event"
+TriggerRegisterMapOnCreateClassSelectionItemsEvent="Trigger Register Map On Create Class Selection Items Event"
+TriggerRegisterMapOnCreateClassSelectionItemsEventHint="This trigger is evaluated when the class selection unit is created."
+
+TriggerRegisterMapOnCreateClassItemsEvent="Trigger Register Map On Create Class Items Event"
+TriggerRegisterMapOnCreateClassItemsEvent="Trigger Register Map On Create Class Items Event"
+TriggerRegisterMapOnCreateClassItemsEventHint="This trigger is evaluated when the class is selected for the first time."
+
+TriggerRegisterMapStartEvent="Trigger Register Map Start Event"
+TriggerRegisterMapStartEvent="Trigger Register Map Start Event"
+TriggerRegisterMapStartEventHint="The trigger is executed during the map start (after the final class selection)."
+
+TriggerRegisterMapOnSelectClassEvent="Trigger Register Map On Select Class Event"
+TriggerRegisterMapOnSelectClassEvent="Trigger Register Map On Select Class Event"
+TriggerRegisterMapOnSelectClassEventHint="The trigger is run when the class of a character is choosen by the player."
+
+TriggerRegisterMapOnRepickCharacterEvent="Trigger Register Map On Repick Character Event"
+TriggerRegisterMapOnRepickCharacterEvent="Trigger Register Map On Repick Character Event"
+TriggerRegisterMapOnRepickCharacterEventHint="The trigger is run when a single character class is repicked by a player."
+
+TriggerRegisterMapOnRestoreCharacterEvent="Trigger Register Map On Restore Character Event"
+TriggerRegisterMapOnRestoreCharacterEvent="Trigger Register Map On Restore Character Event"
+TriggerRegisterMapOnRestoreCharacterEventHint="The trigger is run when a single character is restored from another map. The character and the zone name can be accessed via event reaction functions."
+
+TriggerRegisterMapOnRestoreCharactersEvent="Trigger Register Map On Restore Characters Event"
+TriggerRegisterMapOnRestoreCharactersEvent="Trigger Register Map On Restore Characters Event"
+TriggerRegisterMapOnRestoreCharactersEventHint="The trigger is evaluated when the characters are restored from another map."
+
+TriggerRegisterMapOnInitVideoSettingsEvent="Trigger Register Map Init Video Settings Event"
+TriggerRegisterMapOnInitVideoSettingsEvent="Trigger Register Map Init Video Settings Event"
+TriggerRegisterMapOnInitVideoSettingsEventHint="Add all calls which have to be called when starting a video."
+
+TriggerRegisterMapOnInitVideoSettingsEvent="Trigger Register Map Init Video Settings Event"
+TriggerRegisterMapOnInitVideoSettingsEvent="Trigger Register Map Init Video Settings Event"
+TriggerRegisterMapOnInitVideoSettingsEventHint="Add all calls which have to be called when starting a video."
+
+TriggerRegisterMapOnResetVideoSettingsEvent="Trigger Register Map Reset Video Settings Event"
+TriggerRegisterMapOnResetVideoSettingsEvent="Trigger Register Map Reset Video Settings Event"
+TriggerRegisterMapOnResetVideoSettingsEventHint="Add all calls which have to be called when ending a video."
+
+TriggerRegisterCharacterOnEquipItemEvent="Trigger Register Character On Equip Item Event"
+TriggerRegisterCharacterOnEquipItemEvent="Trigger Register Character On Equip Item Event"
+TriggerRegisterCharacterOnEquipItemEventHint="The trigger is evaluated whenever any character equips an item."
+
+TriggerRegisterCharacterOnAddItemToRucksackEvent="Trigger Register Character On Add Item To Rucksack Event"
+TriggerRegisterCharacterOnAddItemToRucksackEvent="Trigger Register Character On Add Item To Rucksack Event"
+TriggerRegisterCharacterOnAddItemToRucksackEventHint="The trigger is evaluated whenever any character adds an item to his backpack."
+
+// Game API
+
+TriggerRegisterOnDamageAnyUnit="Game Register On Damage Trigger"
+TriggerRegisterOnDamageAnyUnit="Game Register On Damage Trigger"
+TriggerRegisterOnDamageAnyUnitHint="The registered trigger is called whenever a unit gets damage."
+
+//***************************************************************************
+[TriggerConditionStrings]
+
+OperatorCompareCharacter="Character Comparison"
+OperatorCompareCharacter=~Value," ",~Operator," ",~Value
+OperatorCompareCharacterHint=
+
+OperatorCompareClass="Character Class Comparison"
+OperatorCompareClass=~Value," ",~Operator," ",~Value
+OperatorCompareClassHint=
+
+OperatorCompareQuest="Quest Comparison"
+OperatorCompareQuest=~Value," ",~Operator," ",~Value
+OperatorCompareQuestHint=
+
+OperatorCompareQuestState="Quest State Comparison"
+OperatorCompareQuestState=~Value," ",~Operator," ",~Value
+OperatorCompareQuestStateHint=
+
+//***************************************************************************
+[TriggerActionStrings]
+
+// Core API
+
+AddIntegerVectorElementToBack="Add Integer Vector Element To Back"
+AddIntegerVectorElementToBack="Add To Integer Vector ",~Vector," Element ",~Integer," To Back"
+AddIntegerVectorElementToBackHint=
+
+RemoveIntegerVectorElementFromBack="Remove Integer Vector Element From Back"
+RemoveIntegerVectorElementFromBack="Remove From Integer Vector ",~Vector," Element From Back"
+RemoveIntegerVectorElementFromBackHint=
+
+ClearIntegerVector="Clear Integer Vector"
+ClearIntegerVector="Clear Integer Vector ",~Vector
+ClearIntegerVectorHint="Removes all elements."
+
+DestroyIntegerVector="Destroy Integer Vector"
+DestroyIntegerVector="Destroy Integer Vector ",~Vector
+DestroyIntegerVectorHint=
+
+DestroyUnitGroup="Destroy Unit Group"
+DestroyUnitGroup="Destroy Unit Group ",~Group
+DestroyUnitGroupHint=
+
+UnitGroupAddUnit="Unit Group Add Unit"
+UnitGroupAddUnit="Add To Unit Group ",~Group," Unit ",~Unit
+UnitGroupAddUnit=
+
+SetDmdfHashTableHandleInteger="Set TPoF Hash Table Handle Integer"
+SetDmdfHashTableHandleInteger="Set TPoF Hash Table Handle Integer For Handle ",~Handle," Using Child Key ",~Key," To Value ",~Value
+SetDmdfHashTableHandleIntegerHint="Allows attaching values to handles. Make sure that you use a unique child key for the handle!"
+
+SetUnitPositionRect="Set Unit Position To Rect"
+SetUnitPositionRect="Set Position of Unit ",~Unit," To The Center Of Rect ",~Rect
+SetUnitPositionRectHint=
+
+SetUnitFacing="Set Unit Facing"
+SetUnitFacing="Set Unit ",~Unit," Facing to ",~Facing
+SetUnitFacingHint=""
+
+SetUnitFacingToFaceUnit="Set Unit Facing To Face Unit"
+SetUnitFacingToFaceUnit="Set Facing Of Unit ",~Unit," To Face Unit ",~Unit
+SetUnitFacingToFaceUnitHint=
+
+IssueRectOrder="Issue Rect Order"
+IssueRectOrder="Issue Unit ",~Unit," Order ",~Order," To Rect ",~Rect
+IssueRectOrderHint=""
+
+// Environment API
+
+DestroyDynamicLightning="Destroy Dynamic Lightning"
+DestroyDynamicLightning="Destroy Dynamic Lightning ",~Lightning
+DestroyDynamicLightningHint=
+
+DestroyMissile="Destroy Missile"
+DestroyMissile="Destroy Missile ",~Missile
+DestroyMissileHint=
+
+MissileStart="Missile Start"
+MissileStart="Start Missile ",~Missile," From X ",~X,", Y ",~Y," and Z ",~Z
+MissileStartHint=
+
+MissileSetTargetX="Missile Set Target X"
+MissileSetTargetX="Set Missile ",~Missile," Target X To ",~X
+MissileSetTargetXHint=
+
+MissileSetTargetY="Missile Set Target Y"
+MissileSetTargetY="Set Missile ",~Missile," Target Y To ",~Y
+MissileSetTargetYHint=
+
+MissileSetTargetZ="Missile Set Target Z"
+MissileSetTargetZ="Set Missile ",~Missile," Target Z To ",~Z
+MissileSetTargetZHint=
+
+MissileSetTargetWidget="Missile Set Target Widget"
+MissileSetTargetWidget="Set Missile ",~Missile," Target Widget To ",~Widget
+MissileSetTargetWidgetHint=""
+
+AddDoodadOcclusion="Add Doodad Occlusion"
+AddDoodadOcclusion="Add Doodad Occlusion for ",~Doodad
+AddDoodadOcclusionHint="Adds the doodad type to the doodads which are automatically get the 'stand alternate' animation when the player's camera gets near them. Of course the animation has to be supported by the model and should make it transparent."
+
+// Camera API
+
+CameraSetupApplyForceDuration="Camera Setup Apply Force Duration"
+CameraSetupApplyForceDuration="Apply ",~CameraSetup," with ",~Flag," over ",~Time," seconds"
+CameraSetupApplyForceDurationHint="Applies the camera setup for all players. Extension function from The Power of Fire."
+
+// Character API
+
+CharacterSetMovable="Character Set Movable"
+CharacterSetMovable="Set Character ",~Character," is movable to ",~Flag
+CharacterSetMovableHint="If the character is not movable, he/she is paused and invulnerable."
+
+CharacterSetAllMovable="Character Set All Movable"
+CharacterSetAllMovable="Set All Characters movable to ",~Flag
+CharacterSetAllMovableHint="If the character is not movable, he/she is paused and invulnerable."
+
+CharacterSelectSingle="Character Select Single"
+CharacterSelectSingle="Select Character ",~Character," single for player ",~Player
+CharacterSelectSingleHint="Clears the selection for the player and selects the character's unit only."
+
+CharacterCraftItem="Character Craft Item"
+CharacterCraftItem="Character ",~Character," Craft Item Of Type ",~Item
+CharacterCraftItemHint="This runs all the registered callbacks which react to crafting an item."
+
+CharacterXPBonus="Character XP Bonus"
+CharacterXPBonus="Character ",~Character," Gets XP Bonus Of ",~Value," With Message ",~Message
+CharacterXPBonusHint=
+
+CharacterGiveItem="Character Give Item"
+CharacterGiveItem="Character ",~Character," Gets Item Of Type ",~Item
+CharacterGiveItemHint="Adds the item to the inventory or equipment of the character and makes sure it does not end on the ground if the inventory is not full."
+
+CharacterGiveQuestItem="Character Give Quest Item"
+CharacterGiveQuestItem="Character ",~Character," Gets Quest Item Of Type ",~Item
+CharacterGiveQuestItemHint="Quest Items cannot be sold and are invulnerable."
+
+CharacterDisplayItemAcquired="Character Display Item Acquired"
+CharacterDisplayItemAcquired="Character ",~Character," display acquired message for Item with Name ",~Name," and text ",~Text
+CharacterDisplayItemAcquiredHint=""
+
+// Game API
+
+GameAddDefaultDoodadsOcclusion="Game Add Default Doodads Occlusion"
+GameAddDefaultDoodadsOcclusion="Game Add Default Doodads Occlusion"
+GameAddDefaultDoodadsOcclusionHint="Adds the default Doodad types for automatic occlusion/transparency of trees."
+
+GameApplyHandicapToCreeps="Game Apply Handicap To Creeps"
+GameApplyHandicapToCreeps="Game Apply Handicap To Creeps"
+GameApplyHandicapToCreepsHint="The handicap depends on the number of missing players and the difficulty. The handicap is applied to PLAYER_NEUTRAL_AGGRESSIVE."
+
+// Map API
+
+SetMapSettingsMapName="Set Map Settings Map Name"
+SetMapSettingsMapName="Set Map Settings Map Name to ",~String
+SetMapSettingsMapNameHint="The Map Name is used as Zone name and must be unique in the campaign. It also should not contain any spaces, underscores etc."
+
+SetMapSettingsAlliedPlayer="Set Map Settings Allied Player"
+SetMapSettingsAlliedPlayer="Set Map Settings Allied Player to ",~Player
+SetMapSettingsAlliedPlayerHint="The allied player is used as owner for fellows who are shared to all players. The human players have shared control with the allied player."
+
+SetMapSettingsPlayerGivesXP="Set Map Settings Player Gives XP"
+SetMapSettingsPlayerGivesXP="Set Map Settings Player ",~Player," Gives XP ",~Flag
+SetMapSettingsPlayerGivesXPHint="Only specified players will give XP. By default this is only neutral aggressive. It means that characters gain XP by killing units of the player."
+
+SetMapSettingsGoldmine="Set Map Settings Goldmine"
+SetMapSettingsGoldmine="Set Map Settings Goldmine to Unit ",~Unit
+SetMapSettingsGoldmineHint="The goldmine unit is usually one single market place on the map which is refilled automatically and can be used for collecting gold."
+
+SetMapSettingsMusic="Set Map Settings Music"
+SetMapSettingsMusic="Set Map Settings Music to ",~MusicList
+SetMapSettingsMusicHint="File paths are separated by the ; character. The map music is played whenever there is no video sequence."
+
+SetMapSettingsStartLevel="Set Map Settings Start Level"
+SetMapSettingsStartLevel="Set Map Settings Start Level To ",~Level
+SetMapSettingsStartLevelHint="The start level is set for all character hero units at the beginning of the map."
+
+SetMapSettingsStartSkillPoints="Set Map Settings Start Skill Points"
+SetMapSettingsStartSkillPoints="Set Map Settings Start Skill Points To ",~SkillPoints
+SetMapSettingsStartSkillPointsHint="The start skill points are set for all character hero units at the beginning of the map."
+
+AddMapSettingsZoneRestorePosition="Add Map Settings Zone Restore Position"
+AddMapSettingsZoneRestorePosition="Add Map Settings Zone Restore Position for ",~Zone," for the character of player ",~Player," at the position (",~X," | ",~Y,") with the facing ",~Facing
+AddMapSettingsZoneRestorePositionHint="This position is used to restore the character when the map is changed from another map."
+
+AddMapSettingsZoneRestorePositionForAllPlayers="Add Map Settings Zone Restore Position For All Players"
+AddMapSettingsZoneRestorePositionForAllPlayers="Add Map Settings Zone Restore Position for ",~Zone," for the characters of all players at the position (",~X," | ",~Y,") with the facing ",~Facing
+AddMapSettingsZoneRestorePositionForAllPlayersHint="This position is used to restore the character when the map is changed from another map."
+
+ChangeMap="Change Map"
+ChangeMap="Change map to map with name ",~String
+ChangeMapHint="Can only be used in a singleplayer campaign."
+
+SetZoneEnabled="Set Zone Enabled"
+SetZoneEnabled="Set Zone ",~Zone," enabled status to ",~Flag
+SetZoneEnabledHint="A disabled zone does not change the map."
+
+// Talk API
+
+SetInfoCondition="Set Info Condition"
+SetInfoCondition="Set for Info ",~Info," the condition to ",~Condition
+SetInfoConditionHint=""
+
+SetInfoAction="Set Info Action"
+SetInfoAction="Set for Info ",~Info," the action to ",~Action
+SetInfoActionHint=""
+
+SetInfoConditionAndActionByTrigger="Set Info Condition And Action By Trigger"
+SetInfoConditionAndActionByTrigger="Set for Info ",~Info," the condition and action by trigger ",~Trigger
+SetInfoConditionAndActionByTriggerHint="The trigger is evaluated for its condition and if the condition is true the info is shown as dialog button. When the dialog button of the info is clicked the trigger is executed."
+
+SetTalkStartAction="Set Talk Start Action"
+SetTalkStartAction="Set Start Action For Talk ",~Talk," To Action ",~Action
+SetTalkStartActionHint=""
+
+ShowTalkStartPage="Show Talk Start Page"
+ShowTalkStartPage="Show the talk start page of Talk ",~Talk," for Character ",~Character
+ShowTalkStartPageHint=""
+
+ShowTalkRange="Show Talk Range"
+ShowTalkRange="Show for Talk ",~Talk," from including info index ",~Index," to including info index ",~Index," infos to Character ",~Character
+ShowTalkRangeHint=""
+
+ShowTalkUntil="Show Talk Until"
+ShowTalkUntil="Show Talk ",~Talk," to including info index ",~Index," to Character ",~Character
+ShowTalkUntilHint=""
+
+CloseTalk="Close Talk For Character"
+CloseTalk="Close Talk ",~Talk," for Character ",~Character
+CloseTalkHint=""
+
+AddInfo="Add Information"
+AddInfo="Add information to ",~Talk," permanently ",~permanently," and important ",~important," with text ",~text
+AddInfoHint="Adds information to a talk."
+
+AddExitButton="Add Exit Button"
+AddExitButton="Add Exit Button to Talk ",~Talk
+AddExitButtonHint="The exit button closes the talk."
+
+Speech="Speech"
+Speech="Speech for Info ",~Info," to with character ",~Character," talking to character ",~Flag," with text ",~Text," and sound ",~Sound
+SpeechHint="Shows a text transmission as floating text on the character unit or the partner unit and plays the sound. The transmission can be skipped using the skip button of the NPC."
+
+// Quest Area API
+
+GetLastCreatedQuestArea="Get Last Created Quest Area"
+GetLastCreatedQuestArea="Get Last Created Quest Area"
+GetLastCreatedQuestAreaHint=""
+
+CreateQuestArea="Create Quest Area"
+CreateQuestArea="Creates quest area at rect ",~Rect," using a fog modifier ",~Flag
+CreateQuestAreaHint="Creates a quest area where characters can gather to activate an event."
+
+// Quest API
+
+SetQuestAreaConditionAndActionByTrigger="Set Quest Area Condition And Action By Trigger"
+SetQuestAreaConditionAndActionByTrigger="Set Condition And Action for ",~QuestArea," to Trigger ",~Trigger
+SetQuestAreaConditionAndActionByTriggerHint="The trigger is checked and if the conditions return true it is executed."
+
+CreateCharacterQuestItem="Create Character Quest Item"
+CreateCharacterQuestItem="Create Character Quest Item for Quest ",~Quest," with Title ",~Title
+CreateCharacterQuestItemHint=""
+
+SetCharacterQuestState="Set Character Quest State"
+SetCharacterQuestState="Set State For Character Quest ",~Quest," To State ",~State
+SetCharacterQuestStateHint=""
+
+SetCharacterQuestStateTrigger="Set Character Quest State Trigger"
+SetCharacterQuestStateTrigger="Set Character Quest State Trigger For Quest ",~Quest," For State ",~State," To Trigger ",~Trigger
+SetCharacterQuestStateTriggerHint=""
+
+SetCharacterQuestDescription="Set Character Quest Description"
+SetCharacterQuestDescription="Set Description For Character Quest ",~Quest," To Description ",~Description
+SetCharacterQuestDescriptionHint=""
+
+SetCharacterQuestIconPath="Set Character Quest Icon Path"
+SetCharacterQuestIconPath="Set Icon Path for Character Quest ",~Quest," To Icon Path ",~IconPath
+SetCharacterQuestIconPathHint=""
+
+SetCharacterQuestReward="Set Character Quest Reward"
+SetCharacterQuestReward="Set Reward for Character Quest ",~Quest," of Reward Type ",~Type," to Value ",~Value
+SetCharacterQuestRewardHint=""
+
+DisplayCharacterQuestState="Display Character Quest State"
+DisplayCharacterQuestState="Display State for Character Quest ",~Quest
+DisplayCharacterQuestStateHint="Displays a current state message with all items of the quest."
+
+DisplayCharacterQuestUpdate="Display Character Quest Update"
+DisplayCharacterQuestUpdate="Display Update for Character Quest",~Quest
+DisplayCharacterQuestUpdateHint="Displays an update message with all items of the quest."
+
+DisplayCharacterQuestUpdateMessage="Display Character Quest Update Message"
+DisplayCharacterQuestUpdateMessage="Display Update for Character Quest",~Quest," With the Message ",~Message
+DisplayCharacterQuestUpdateMessageHint="Displays an update message with a custom message."
+
+SetQuestItemState="Set Quest Item State"
+SetQuestItemState="Set State For Quest Item ",~QuestItem," to State ",~State
+SetQuestItemStateHint=""
+
+SetQuestItemStateTrigger="Set Quest Item State Trigger"
+SetQuestItemStateTrigger="Set Quest Item State Trigger For Quest Item ",~QuestItem," For State ",~State," To Trigger ",~Trigger
+SetQuestItemStateTriggerHint=""
+
+SetQuestItemReward="Set Quest Item Reward"
+SetQuestItemReward="Set Reward for Quest Item ",~QuestItem," of Reward Type ",~Type," to Value ",~Value
+SetQuestItemRewardHint=""
+
+EnableQuestUntil="Enable Quest Until"
+EnableQuestUntil="Enable Quest ",~Quest," until quest item index ",~Index
+EnableQuestUntilHint=""
+
+SetCharacterQuestPing="Set Character Quest Ping"
+SetCharacterQuestPing="Set Ping of ",~CharacterQuest," To ",~Flag
+SetCharacterQuestPingHint=""
+
+SetCharacterQuestPingCoordinatesFromRect="Set Character Quest Ping Coordinates From Rect"
+SetCharacterQuestPingCoordinatesFromRect="Set Ping Coordinates of ",~CharacterQuest," From Rect ",~Rect
+SetCharacterQuestPingCoordinatesFromRectHint=""
+
+SetCharacterQuestPingUnit="Set Character Quest Ping Unit"
+SetCharacterQuestPingUnit="Set Ping of ",~CharacterQuest," From Unit ",~Unit
+SetCharacterQuestPingUnitHint="Set ping coordinates are updated automatically to the unit's current position."
+
+SetCharacterQuestPingColour="Set Character Quest Ping Colour"
+SetCharacterQuestPingColour="Set Ping Colour of ",~CharacterQuest," To Red ",~Red,", Green ",~Green," and Blue ",~Blue
+SetCharacterQuestPingColourHint=""
+
+CompleteCharacterQuest="Complete Character Quest"
+CompleteCharacterQuest="Complete Character Quest ",~Quest
+CompleteCharacterQuestHint=""
+
+FailCharacterQuest="Fail Character Quest"
+FailCharacterQuest="Fail Character Quest ",~Quest
+FailCharacterQuestHint=""
+
+SetSharedQuestState="Set Shared Quest State"
+SetSharedQuestState="Set Shared Quest ",~Quest," State to ",~State
+SetSharedQuestStateHint=""
+
+// Fellow API
+
+SetFellowRevival="Set Fellow Revival"
+SetFellowRevival="Set For Fellow ",~Fellow," Revival To ",~Flag
+SetFellowRevivalHint=""
+
+SetFellowRevivalTitle="Set Fellow Revival Title"
+SetFellowRevivalTitle="Set revival title of ",~Fellow," to ",~title
+SetFellowRevivalTitleHint="Sets the title for the timer dialog which is shown on reviving the fellow."
+
+SetFellowRevivalMessage="Set Fellow Revival Message"
+SetFellowRevivalMessage="Set revival message of ",~Fellow," to ",~Message
+SetFellowRevivalMessageHint="The message is shown when the hero is revived."
+
+SetFellowRevivalSound="Set Fellow Revival Sound"
+SetFellowRevivalSound="Set For Fellow ",~Fellow," the Revival Sound to ",~RevivalSound
+SetFellowRevivalSoundHint=""
+
+ShareFellowWithAll="Share Fellow With All"
+ShareFellowWithAll="Share fellow ",~Fellow," with all characters"
+ShareFellowWithAllHint="Shares the control via a fellow with all character owning players."
+
+ShareFellowWithCharacter="Share Fellow With Character"
+ShareFellowWithCharacter="Share fellow ",~Fellow," with character ",~Character
+ShareFellowWithCharacterHint="Shares the control via a fellow with a specific character owning players."
+
+ResetFellow="Reset Fellow"
+ResetFellow="Reset fellow ",~Fellow
+ResetFellowHint="Resets the control via a fellow. No human player can control the fellow afterwards."
+
+SetFellowDescription="Set Fellow Description"
+SetFellowDescription="Set description for fellow ",~Fellow," to ",~Description
+SetFellowDescriptionHint="The description is shown to a player when the fellow is shared with him."
+
+SetFellowTalk="Set Fellow Talk"
+SetFellowTalk="Set Fellow ",~Fellow," Talk enabled to ",~Flag
+SetFellowTalkHint=""
+
+FellowAddAbility="Add Fellow Ability"
+FellowAddAbility="Add To Fellow ",~Fellow," Ability ",~Ability
+FellowAddAbilityHint=""
+
+// Spawn Point API
+
+CreateSpawnPoint="Create Spawn Point"
+CreateSpawnPoint="Create Spawn Point"
+CreateSpawnPointHint=""
+
+SpawnPointAddUnitWithType="Add Unit to Spawn Point"
+SpawnPointAddUnitWithType="Add to spawn point ",~SpawnPoint," the unit ",~Unit," spawning with the chance of ",~Chance
+SpawnPointAddUnitWithTypeHint="Adds an existing unit to a spawn point. It will be respawned after a timeout when it dies."
+
+SpawnPointAddNewItemType="Add New Dropping Item Type to Spawn Point"
+SpawnPointAddNewItemType="Add to spawn point ",~SpawnPoint," for respawning unit member with index ",~Index," the new dropping item type ",~ItemType," with a chance ",~Chance
+SpawnPointAddNewItemTypeHint=""
+
+SpawnPointSpawnDeadOnlyAll="Spawn Point Spawn Dead Only All"
+SpawnPointSpawnDeadOnlyAll="Spawn Point Spawn Dead Only All"
+SpawnPointSpawnDeadOnlyAllHint="Spawns all dead members of creep spawn points on the map"
+
+CreateItemSpawnPointAtItemPos="Create Item Spawn Point At Item Pos"
+CreateItemSpawnPointAtItemPos="Create Item Spawn Point At Item Pos For Item ",~Item
+CreateItemSpawnPointAtItemPosHint=""
+
+CreateItemSpawnPoint="Create Item Spawn Point"
+CreateItemSpawnPoint="Create Item Spawn Point using X ",~Real," and Y ",~Real," and Item ",~Item
+CreateItemSpawnPointHint=""
+
+// Dungeon API
+
+DungeonSetEnterTrigger="Dungeon Set Enter Trigger"
+DungeonSetEnterTrigger="Dungeon ",~Dungeon," Set Enter Trigger To ",~Flag
+DungeonSetEnterTriggerHint="If the enter trigger is enabled, the dungeon is activated automatically after entering the rect."
+
+DungeonSetCameraSetup="Dungeon Set Camera Setup"
+DungeonSetCameraSetup="Dungeon ",~Dungeon," Set Camera Setup To ",~CameraSetup
+DungeonSetCameraSetupHint="When the dungeon is activated the camera setup is applied as fixed camera."
+
+// Routine API
+
+CreateRoutineWithFacing="Create Routine With Facing"
+CreateRoutineWithFacing="Create routine with facing using basic routine type ",~RoutineType," and NPC unit ",~Unit," and starting at ",~TimeOfDay," and ending at ",~TimeOfDay," with target rect ",~Rect
+CreateRoutineWithFacing=""
+
+CreateRoutineTalks="Create Routine Talks"
+CreateRoutineTalks="Create Routine talks using basic routine type ",~RoutineType," and NPC unit ",~Unit," and starting at ",~TimeOfDay," and ending at ",~TimeOfDay," with target rect ",~Rect
+CreateRoutineTalksHint=""
+
+RoutineSetFacing="Set Routine Facing"
+RoutineSetFacing="Set Facing for Routine ",~Routine," to ",~Real
+RoutineSetFacingHint=""
+
+RoutineSetPartner="Set Routine Partner"
+RoutineSetPartner="Set Partner for Routine ",~Routine," to unit ",~Unit
+RoutineSetPartnerHint=""
+
+RoutineAddSound="Add Routine Sound"
+RoutineAddSound="Add to Routine ",~Routine," the sound text ",~Text," with the Sound ",~Sound
+RoutineAddSoundHint="The sound is played during a conversation with another NPC and the text is shown as subtitles."
+
+RoutineAddSoundAnswer="Add Routine Sound Answer"
+RoutineAddSoundAnswer="Add to Routine ",~Routine," the answer sound text ",~Text," with the Sound ",~Sound
+RoutineAddSoundAnswerHint="The sound is played during a conversation with another NPC and the text is shown as subtitles."
+
+RoutineManualStart="Routine Manual Start"
+RoutineManualStart="Start Routine Manually For Unit ",~Unit
+RoutineManualStartHint=""
+
+RoutineManualStartAll="Routine Manual Start All"
+RoutineManualStartAll="Start Routine Manually For All Units"
+RoutineManualStartAllHint="Starts the routine which should be active at the current time of day for every unit on the map."
+
+// Shrine API
+
+ShrineEnableForAll="Enable Shrine For All"
+ShrineEnableForAll="Enable Shrine ",~Shrine," For All Characters Showing Effect ",~Flag
+ShrineEnableForAllHint=""
+
+// Video API
+
+VideoSetInitActionByTrigger="Video Set Init Action By Trigger"
+VideoSetInitActionByTrigger="Video ",~Video," Set Init Action By Trigger ",~Trigger
+VideoSetInitActionByTriggerHint=""
+
+VideoSetPlayActionByTrigger="Video Set Play Action By Trigger"
+VideoSetPlayActionByTrigger="Video ",~Video," Set Play Action By Trigger ",~Trigger
+VideoSetPlayActionByTriggerHint=""
+
+VideoSetStopActionByTrigger="Video Set Stop Action By Trigger"
+VideoSetStopActionByTrigger="Video ",~Video," Set Play Action By Trigger ",~Trigger
+VideoSetStopActionByTriggerHint=""
+
+VideoSetSkipActionByTrigger="Video Set Skip Action By Trigger"
+VideoSetSkipActionByTrigger="Video ",~Video," Set Skip Action By Trigger ",~Trigger
+VideoSetSkipActionByTriggerHint=""
+
+VideoPlay="Video Play"
+VideoPlay="Play Video ",~Video
+VideoPlayHint=""
+
+VideoStop="Video Stop"
+VideoStop="Stop Video ",~Video
+VideoStopHint=""
+
+VideoInitVideoSettings="Video Init Video Settings"
+VideoInitVideoSettings="Init Video Settings For Video ",~Video
+VideoInitVideoSettingsHint="Pauses spawn points, hides player units and certain abilities etc. disables tree transparency and sets up everything for a video sequence."
+
+VideoResetVideoSettings="Video Reset Video Settings"
+VideoResetVideoSettings="Reset Video Settings"
+VideoResetVideoSettingsHint="Enables spawn points again, shows player units again etc."
+
+VideoSetActorOwner="Video Set Actor Owner"
+VideoSetActorOwner="Set Actor Owner For Video ",~Video," To Player ",~Player
+VideoSetActorOwnerHint="The actor owner is the player who owns actors such as the character actor by default."
+
+VideoFadeOutWithWait="Video Fade Out With Wait"
+VideoFadeOutWithWait="Video Fade Out With Wait"
+VideoFadeOutWithWaitHint="Recognizes video skips by players"
+
+VideoFadeInWithWait="Video Fade In With Wait"
+VideoFadeInWithWait="Video Fade In With Wait"
+VideoFadeInWithWaitHint="Recognizes video skips by players"
+
+VideoTransmissionFromUnit="Video Transmission From Unit"
+VideoTransmissionFromUnit="Video Transmision from Unit ",~Unit," with Text ",~Text," Using Sound ",~Sound
+VideoTransmissionFromUnitHint=""
+
+VideoTransmissionFromUnitType="Video Transmission From Unit Type"
+VideoTransmissionFromUnitType="Video Transmission from Unit Type ",~UnitType," of Owner ",~Player," Using Name ",~Name," With Text ",~Text," And Sound ",~Sound
+VideoTransmissionFromUnitTypeHint=""
+
+// Shop API
+
+CreateShop="Create Shop"
+CreateShop="Create Shop with NPC ",~NPC," And Shop Unit ",~Shop
+CreateShopHint=""
+
+// Obsolete actions
+//AddPerfLogLabel="** AddPerfLogLabel **"
+//AddPerfLogLabel="** AddPerfLogLabel(",~Label,") **"
+//AddPerfLogLabelHint="** This is for debugging purposes only - remove before ship. **"
+
+//Cheat="** Cheat **"
+//Cheat="** Cheat(",~Label,") **"
+//CheatHint="** This is for debugging purposes only - remove before ship. **"
+
+
+
+//***************************************************************************
+[TriggerCallStrings]
+
+JASS="JASS Code"
+JASS="JASS Code: ",~Code
+JASSHint="Is directly used as JASS code."
+
+JASS2Integer="JASS Code"
+JASS2Integer="JASS Code: ",~Code
+JASS2IntegerHint="Is directly used as JASS code."
+
+JASS2Item="JASS Code"
+JASS2Item="JASS Code: ",~Code
+JASS2ItemHint="Is directly used as JASS code."
+
+JASS2Unit="JASS Code"
+JASS2Unit="JASS Code: ",~Code
+JASS2UnitHint="Is directly used as JASS code."
+
+// Int 2 struct conversion
+
+I2Character="Integer To Character"
+I2Character="Integer ",~Integer," To Character"
+I2CharacterHint="Converts an integer instance to a Character. Be carefuly with this kind of conversion!"
+
+I2Class="Integer To Class"
+I2Class="Integer ",~Integer," To Class"
+I2ClassHint="Converts an integer instance to a Class. Be carefuly with this kind of conversion!"
+
+// Core API
+
+GetLastCreatedIntegerVector="Get Last Created Integer Vector"
+GetLastCreatedIntegerVector="Get Last Created Integer Vector"
+GetLastCreatedIntegerVectorHint=""
+
+CreateIntegerVector="Create Integer Vector"
+CreateIntegerVector="Create Integer Vector"
+CreateIntegerVectorHint=""
+
+GetIntegerVectorSize="Get Integer Vector Size"
+GetIntegerVectorSize="Get Size of Integer Vector ",~Vector
+GetIntegerVectorSizeHint="Gets the number of elements the integer vector has."
+
+GetIntegerVectorElement="Get Integer Vector Element"
+GetIntegerVectorElement="Get Element at Index ",~Index," of Integer Vector ",~Vector
+GetIntegerVectorElementHint="Make sure the index is between 0 and size - 1."
+
+GetLastCreatedIntegerList="Get Last Created Integer List"
+GetLastCreatedIntegerList="Get Last Created Integer List"
+GetLastCreatedIntegerListHint=""
+
+CreateIntegerList="Create Integer List"
+CreateIntegerList="Create Integer List"
+CreateIntegerListHint="Creates a doubled linked list."
+
+GetLastCreatedUnitGroup="Get Last Created Unit Group"
+GetLastCreatedUnitGroup="Get Last Created Unit Group"
+GetLastCreatedUnitGroupHint=""
+
+CreateUnitGroup="Create Unit Group"
+CreateUnitGroup="Create Unit Group"
+CreateUnitGroupHint=""
+
+UnitGroupGetSize="Unit Group Get Size"
+UnitGroupGetSize="Get Size of Unit Group ",~Group
+UnitGroupGetSizeHint=""
+
+UnitGroupGetUnit="Unit Group Get Unit"
+UnitGroupGetUnit="Get Unit of Unit Group ",~Group," at Index ",~Index
+UnitGroupGetUnitHint=""
+
+FindString="Find String"
+FindString="Find in String ",~Input," the String ",~SearchString
+FindString="Returns the position of the searched string starting with 0. If the string is not found it returns -1."
+
+Format="Format"
+Format="Format String ",~String
+FormatHint="Formatting allows replacing %1% and %2% ... %n% values by values of certain types. This allows translating strings into different languages."
+
+String="String"
+String="String from Format ",~Format
+StringHint=""
+
+FormatInteger="Format Integer"
+FormatInteger="Format for ",~Format," with Integer ",~Integer
+FormatIntegerHint=""
+
+ReplaceString="Replace String"
+ReplaceString="Replace in String ",~Input," the String ",~Pattern," by the replacing String ",~Replacement
+ReplaceStringHint=""
+
+RemoveString="Remove String"
+RemoveString="Remove in String ",~Input," the string ",~Pattern
+RemoveStringHint=""
+
+InsertString="Insert String"
+InsertString="Insert in String ",~Input," at position ",~Position," the String ",~String
+InsertStringHint=""
+
+EnglishGermanString="English German String"
+EnglishGermanString="Translate English ",~String," into German ",~String," if necessary"
+EnglishGermanStringHint="The resulting string depends on the player's language."
+
+EnglishGermanPluralString="English German Plural String"
+EnglishGermanPluralString="German Singular ",~String," or German Plural ",~String," or English Singular ",~String," or English Plural ",~String," depending on counter ",~Counter
+EnglishGermanPluralStringHint="Depending on the current locale and the given counter it uses either a singluar or plural expression in the certain language."
+
+LoadDmdfHashTableHandleInteger="Load TPoF Hash Table Handle Integer"
+LoadDmdfHashTableHandleInteger="Load TPoF Hash Table Integer of Handle ",~Handle," with Key ",~Key
+LoadDmdfHashTableHandleIntegerHint="Uses the ID of the handle as parent key."
+
+HaveDmdfHashTableHandleInteger="Have TPoF Hash Table Handle Integer"
+HaveDmdfHashTableHandleInteger="Have TPoF Hash Table Integer of Handle ",~Handle," with Key ",~Key
+HaveDmdfHashTableHandleIntegerHint="Uses the ID of the handle as parent key."
+
+// Environment API
+
+CreateDynamicLightning="Create Dynamic Lightning"
+CreateDynamicLightning="Create Dynamic Lighting For Player ",~Player," of Lightning Type ",~LightningType," from Unit ",~Unit," To Unit ",~Unit
+CreateDynamicLightningHint=""
+
+CreateMissile="Create Missile"
+CreateMissile="Create Missile"
+CreateMissileHint="The missile has to be configured and then started from somwhere to be used."
+
+// Character API
+
+GetTriggerCharacter="Get Trigger Character"
+GetTriggerCharacter="Gets the character of trigger"
+GetTriggerCharacterHint="If the trigger is evaluated or executed for an info it has stored the character."
+
+GetTriggerClass="Get Trigger Class"
+GetTriggerClass="Get Trigger Class"
+GetTriggerClassHint="Gets the trigger class of the selection."
+
+GetCharacterPlayers="Get Character Players"
+GetCharacterPlayers="Get Character Players"
+GetCharacterPlayersHint="Gets all players which currently have a character."
+
+PlayerCharacter="Player character"
+PlayerCharacter=~Player,"'s character"
+PlayerCharacterHint="Each player can have one character at maximum."
+
+CharacterPlayer="Character Player"
+CharacterPlayer="Player of Character ",~Character
+CharacterPlayerHint="Returns the corresponding player of a character."
+
+CharacterUnit="Character Unit"
+CharacterUnit="Unit of Character ",~Character
+CharacterUnitHint="Every character is represented by one unit."
+
+CharacterClass="Character Class"
+CharacterClass="Class of Character ",~Character
+CharacterClassHint="Every character has one class."
+
+CharacterInventory="Character Inventory"
+CharacterInventory="Inventory of Character ",~Character
+CharacterInventoryHint="Every character has one inventory."
+
+InventoryEquipmentItemType="Inventory Equipment Item Type"
+InventoryEquipmentItemType="Item Type of Inventory's ",~Inventory," Equipment Type ",~EquipmentType
+InventoryEquipmentItemTypeHint=""
+
+InventoryRucksackItemType="Inventory Rucksack Item Type"
+InventoryRucksackItemType="Item Type of Inventory's ",~Inventory," Rucksack Slot with Index ",~Index
+InventoryRucksackItemTypeHint=""
+
+InventoryRucksackItemCharges="Inventory Rucksack Item Charges"
+InventoryRucksackItemCharges="Item Charges of Inventory's ",~Inventory," Rucksack slot with Index ",~Index
+InventoryRucksackItemChargesHint=""
+
+InventoryHasItemType="Inventory Has Item Type"
+InventoryHasItemType="Inventory ",~Inventory," has item type ",~ItemType
+InventoryHasItemTypeHint="Returns true if the item type is in the backpack or in the equipment."
+
+InventoryTotalItemTypeCharges="Inventory Total Item Charges"
+InventoryTotalItemTypeCharges="Total item charges in Inventory ",~Inventory," of item type ",~ItemType
+InventoryTotalItemTypeChargesHint="Adds all charges in the backpack as well as in the equipment."
+
+PlayerBuilding="Player Building"
+PlayerBuilding="Building of Player With Index ",~Index
+PlayerBuildingHint="Every player can have on building per map."
+
+// Game API
+
+GameIsCampaign="Game Is Campaign"
+GameIsCampaign="Game Is Campaign"
+GameIsCampaignHint="Returns true if it is the campaign of The Power of Fire and no single map."
+
+GameMissingCharacterPlayers="Game Missing Character Players"
+GameMissingCharacterPlayers="Game Missing Character Players"
+GameMissingCharacterPlayersHint="All players who have no character at the moment."
+
+// Map API
+
+MapZoneName="Map Zone Name"
+MapZoneName="Map Zone Name"
+MapZoneNameHint="The zone name of the current map, used for changing the map in singleplayer."
+
+GetTriggerZoneName="Get Triggering Zone Name"
+GetTriggerZoneName="Get Triggering Zone Name"
+GetTriggerZoneNameHint="Can only be used with the character restores event. Returns the zone name of the zone from which the characters are restored."
+
+GetLastCreatedZone="Get Last Created Zone"
+GetLastCreatedZone="Get Last Created Zone"
+GetLastCreatedZoneHint=""
+
+CreateZone="Create Zone"
+CreateZone="Create Zone with Map Name ",~Name," at Rect ",~Rect
+CreateZoneHint="When the rect is entered in a singleplayer campaign, the map with the name is loaded."
+
+// Inventory API
+
+GetTriggerInventory="Get Trigger Inventory"
+GetTriggerInventory="Get Trigger Inventory"
+GetTriggerInventoryHint=""
+
+GetTriggerEquipmentType="Get Trigger Equipment Type"
+GetTriggerEquipmentType="Get Trigger Equipment Type"
+GetTriggerEquipmentTypeHint=""
+
+GetTriggerRucksackItemIndex="Get Trigger Rucksack Item Index"
+GetTriggerRucksackItemIndex="Get Trigger Rucksack Item Index"
+GetTriggerRucksackItemIndexHint=""
+
+GetTriggerAddedItemFirstTime="Get Trigger Added Item First Time"
+GetTriggerAddedItemFirstTime="Get Trigger Added Item First Time"
+GetTriggerAddedItemFirstTimeHint=""
+
+ItemTypeByItemTypeId="Item Type By Item Type ID"
+ItemTypeByItemTypeId="Item Type By Item Type ID ",~ItemCode
+ItemTypeByItemTypeIdHint="If it has no item type it returns 0."
+
+ItemTypeByItem="Item Type By Item"
+ItemTypeByItem="Item Type By Item ",~Item
+ItemTypeByItemHint="Gets the item type by an item. If the item has no custom item type it returns 0."
+
+ItemTypeRequiresTwoSlots="Item Type Requires Two Slots"
+ItemTypeRequiresTwoSlots="Item Type ",~ItemType," Requires Two Slots"
+ItemTypeRequiresTwoSlotsHint="Some Weapons have to be carried with two hands."
+
+ItemTypeIsRange="Item Type Is Range"
+ItemTypeIsRange="Item Type ",~ItemType," Is Range"
+ItemTypeIsRangeHint="Range Items allow the character to use a range attack."
+
+ItemTypeIsDefence="Item Type Is Defence"
+ItemTypeIsDefence="Item Type ",~ItemType," Is Defence"
+ItemTypeIsDefenceHint="Defence items are hold with a defending animation."
+
+// Quest Area API
+
+CreateQuestArea="Create Quest Area"
+CreateQuestArea="Creates quest area at rect ",~Rect," using a fog modifier ",~Flag
+CreateQuestAreaHint="Creates a quest area where characters can gather to activate an event."
+
+// Quest API
+
+GetLastCreatedCharacterQuest="Get Last Created Character Quest"
+GetLastCreatedCharacterQuest="Get Last Created Character Quest"
+GetLastCreatedCharacterQuestHint=""
+
+CreateCharacterQuest="Create Character Quest"
+CreateCharacterQuest="Create Quest for Character ",~Character," with title ",~Title
+CreateCharacterQuestHint="A character only quest."
+
+GetLastCreatedCharacterQuestItem="Get Last Created Character Quest Item"
+GetLastCreatedCharacterQuestItem="Get Last Created Character Quest Item"
+GetLastCreatedCharacterQuestItem=""
+
+CreateCharacterQuestItem="Create Character Quest Item"
+CreateCharacterQuestItem="Create Quest Item for Quest ",~Quest," with title ",~Title
+CreateCharacterQuestItemHint=""
+
+GetCharacterQuestState="Get Character Quest State"
+GetCharacterQuestState="Get State of Character Quest ",~CharacterQuest
+GetCharacterQuestStateHint=""
+
+GetSharedQuestState="Get Shared Quest State"
+GetSharedQuestState="Get State of Shared Quest ",~SharedQuest
+GetSharedQuestStateHint=""
+
+GetQuestItemState="Get Quest Item State"
+GetQuestItemState="Get State of Quest Item ",~QuestItem
+GetQuestItemStateHint=""
+
+// Talk API
+
+GetLastCreatedTalk="Get Last Created Talk"
+GetLastCreatedTalk="Get Last Created Talk"
+GetLastCreatedTalkHint=""
+
+CreateTalk="Create Talk"
+CreateTalk="Creates a talk using unit ",~Unit
+CreateTalkHint="Creates a talk which can be hold between a unit and a character."
+
+GetLastCreatedInfo="Get Last Created Info"
+GetLastCreatedInfo="Get Last Created Info"
+GetLastCreatedInfoHint=""
+
+AddInfo="Add Information"
+AddInfo="Add information to ",~Talk," permanently ",~permanently," and important ",~important," with text ",~text
+AddInfoHint="Adds information to a talk."
+
+AddExitButton="Add exit button"
+AddExitButton="Add exit button to ",~Talk
+AddExitButtonHint="The exit button closes the talk."
+
+InfoConditionByTrigger="Info Condition By Trigger"
+InfoConditionByTrigger="Gets the info condition by trigger ",~Trigger," for info ",~Info
+InfoConditionByTriggerHint="Gets a info condition by a trigger. The trigger is evaluated and the parameters are stored in it."
+
+InfoActionByTrigger="Info Action By Trigger"
+InfoActionByTrigger="Gets the info action by trigger ",~Trigger," for info ",~Info
+InfoActionByTriggerHint="Gets a info action by a trigger. The trigger is executed and the parameters are stored in it."
+
+TalkStartActionByTrigger="Talk Start Action By Trigger"
+TalkStartActionByTrigger="Gets the talk start action by trigger ",~Trigger," for Talk ",~Talk
+TalkStartActionByTriggerHint="Gets the talk start action by a trigger. The trigger is executed and the parameters are stored in it."
+
+GetTriggerInfo="Get Trigger Info"
+GetTriggerInfo="Gets the info of trigger"
+GetTriggerInfoHint="If the trigger is evaluated or executed for an info it has stored the info."
+
+GetTriggerTalk="Get Trigger Talk"
+GetTriggerTalk="Gets the talk of trigger"
+GetTriggerTalkHint="If the trigger is evaluated or executed for an info it has stored the talk."
+
+GetInfoTalk="Get Info Talk"
+GetInfoTalk="Get Talk of Info ",~Info
+GetInfoTalkHint="Gets the corresponding talk of an info."
+
+GetInfoIndex="Get Info Index"
+GetInfoIndex="Get Index of Info ",~Info
+GetInfoIndexHint="The index is used in many functions as parameter. Every index for a info in a specific talk must be unique."
+
+InfoHasBeenShownToCharacter="Info Has Been Shown To Character"
+InfoHasBeenShownToCharacter="Info of Talk ",~Talk," with Index ",~Index," has been shown to Character ",~Character
+InfoHasBeenShownToCharacterHint="A info has been shown to a character, when the player clicked on it."
+
+// Fellow API
+
+GetLastCreatedFellow="Get Last Created Fellow"
+GetLastCreatedFellow="Get Last Created Fellow"
+GetLastCreatedFellowHint=""
+
+CreateFellow="Create Fellow"
+CreateFellow="Creates a fellow using the unit ",~Unit," and the unit's talk ",~Talk
+CreateFellowHint="Creates a new fellow who can be shared to the human players and controlled by them. Make sure it is a hero unit."
+
+// Shrine API
+
+GetLastCreatedShrine="Get Last Created Shrine"
+GetLastCreatedShrine="Get Last Created Shrine"
+GetLastCreatedShrineHint=""
+
+CreateShrine="Create Shrine"
+CreateShrine="Create shrine using shrine unit ",~Unit,", shrine destructable ",~Destructable,", discover rect ",~DiscoverRect,", revival rect ",~RevivalRect," and revival facing angle ",~Facing
+CreateShrineHint="Creates a new revival shrine which can be discovered and used for reviving a character. The discover rect is the area which has to be entered by the character for enabling the shrine for the character. The revival rect is the area where the character's hero unit is revived after some time with the given facing."
+
+// Spawn Point API
+
+GetLastCreatedSpawnPoint="Get Last Created Spawn Point"
+GetLastCreatedSpawnPoint="Get Last Created Spawn Point"
+GetLastCreatedSpawnPointHint=""
+
+GetLastAddedSpawnPointMemberIndex="Get Last Added Spawn Point Member Index"
+GetLastAddedSpawnPointMemberIndex="Get Last Added Spawn Point Member Index"
+GetLastAddedSpawnPointMemberHint=""
+
+GetLastAddedSpawnPointMemberItemTypeIndex="Get Last Added Spawn Point Member Item Type Index"
+GetLastAddedSpawnPointMemberItemTypeIndex="Get Last Added Spawn Point Member Item Type Index"
+GetLastAddedSpawnPointMemberItemTypeIndexHint=""
+
+GetLastCreatedItemSpawnPoint="Get Last Created Item Spawn Point"
+GetLastCreatedItemSpawnPoint="Get Last Created Item Spawn Point"
+GetLastCreatedItemSpawnPointHint=""
+
+CreateSpawnPoint="Create Creep Spawn Point"
+CreateSpawnPoint="Create creep spawn point"
+CreateSpawnPointHint="Creates a new creep spawn point where creeps will respawn automatically after dying and can drop items."
+
+SpawnPointAddUnitWithType="Add Unit to Spawn Point"
+SpawnPointAddUnitWithType="Add to spawn point ",~SpawnPoint," the unit ",~Unit," spawning with the chance of ",~Chance
+SpawnPointAddUnitWithTypeHint="Adds an existing unit to a spawn point. It will be respawned after a timeout when it dies."
+
+SpawnPointAddNewItemType="Add New Dropping Item Type to Spawn Point"
+SpawnPointAddNewItemType="Add to spawn point ",~SpawnPoint," for respawning unit member with index ",~Index," the new dropping item type ",~ItemType," with a chance ",~Chance
+SpawnPointAddNewItemTypeHint=""
+
+CreateItemSpawnPointAtItemPos="Create Item Spawn Point At Item Pos"
+CreateItemSpawnPointAtItemPos="Create Item Spawn Point At Item Pos For Item ",~Item
+CreateItemSpawnPointAtItemPosHint=""
+
+CreateItemSpawnPoint="Create Item Spawn Point"
+CreateItemSpawnPoint="Create Item Spawn Point using X ",~Real," and Y ",~Real," and Item ",~Item
+CreateItemSpawnPointHint=""
+
+// Dungeon API
+
+GetLastCreatedDungeon="Get Last Created Dungeon"
+GetLastCreatedDungeon="Get Last Created Dungeon"
+GetLastCreatedDungeonHint=""
+
+CreateDungeon="Create Dungeon"
+CreateDungeon="Create Dungeon with Name ",~String," using Camera Bounds Rect ",~Rect," and view rect ",~Rect
+CreateDungeonHint="A dungeon is an area on the map where the camera bounds are set when the character enters it."
+
+// Routine API
+
+GetLastCreatedRoutineWithFacing="Get Last Created Routine With Facing"
+GetLastCreatedRoutineWithFacing="Get Last Created Routine With Facing"
+GetLastCreatedRoutineWithFacingHint=""
+
+CreateRoutineWithFacing="Create Routine With Facing"
+CreateRoutineWithFacing="Create routine with facing using basic routine type ",~RoutineType," and NPC unit ",~Unit," and starting at ",~TimeOfDay," and ending at ",~TimeOfDay," with target rect ",~Rect
+CreateRoutineWithFacing=""
+
+GetLastCreatedRoutineTalks="Get Last Created Routine Talks"
+GetLastCreatedRoutineTalks="Get Last Created Routine Talks"
+GetLastCreatedRoutineTalksHint=""
+
+CreateRoutineTalks="Create Routine Talks"
+CreateRoutineTalks="Create Routine talks using basic routine type ",~RoutineType," and NPC unit ",~Unit," and starting at ",~TimeOfDay," and ending at ",~TimeOfDay," with target rect ",~Rect
+CreateRoutineTalksHint=""
+
+RoutineTalksToRoutineWithFacing="Routine talks To Routine With Facing"
+RoutineTalksToRoutineWithFacing="Routine Talks ",~Routine," To Routine With Facing"
+RoutineTalksToRoutineWithFacingHint=""
+
+// Video API
+
+GetLastCreatedVideo="Get Last Created Video"
+GetLastCreatedVideo="Get Last Created Video"
+GetLastCreatedVideoHint=""
+
+GetTriggerVideo="Get Trigger Video"
+GetTriggerVideo="Get Trigger Video"
+GetTriggerVideoHint=""
+
+CreateVideo="Create Video"
+CreateVideo="Create Video Using A Character Actor ",~Flag
+CreateVideoHint=""
+
+VideoWait="Video Wait"
+VideoWait="Video Wait For ",~Time," Seconds"
+VideoWaitHint="Recognizes video skips and returns true if the video has been skipped."
+
+VideoWaitForTransmission="Video Wait For Transmission"
+VideoWaitForTransmission="Video Wait For Transmission With Sound ",~Sound
+VideoWaitForTransmissionHint="Recognizes video skips and returns true if the video has been skipped."
+
+GetLastSavedUnitActor="Get Last Saved Unit Actor"
+GetLastSavedUnitActor="Get Last Saved Unit Actor"
+GetLastSavedUnitActorHint=""
+
+VideoSaveUnitActor="Video Save Unit Actor"
+VideoSaveUnitActor="Video ",~Video," Save Unit ",~Unit," Actor"
+VideoSaveUnitActorHint="Unit Actors can be used during a video and are removed afterwards."
+
+VideoUnitActor="Video Unit Actor"
+VideoUnitActor="Video ",~Video," Unit Actor With Index ",~Index
+VideoUnitActorHint=
+
+VideoCharacterActor="Video Character Actor"
+VideoCharacterActor="Video ",~Video," Character Actor"
+VideoCharacterActorHint="Only works if the flag was set on video creation."
+
+GetSimpleTransmissionDuration="Get Simple Transmission Duration"
+GetSimpleTransmissionDuration="Get Simple Transmission Duration For Sound ",~Sound
+GetSimpleTransmissionDurationHint=""
