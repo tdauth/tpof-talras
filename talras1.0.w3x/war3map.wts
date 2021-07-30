@@ -34113,7 +34113,7 @@ STRING 8259
 STRING 8260
 // Fähigkeiten: A0X3 (Kräuterheilung - Stufe 1), Name (Name (anam))
 {
-Kräuterheilung - Stufe 1
+Herbal Cure - Level 1
 }
 
 STRING 8263
@@ -34125,7 +34125,7 @@ STRING 8263
 STRING 8264
 // Fähigkeiten: A0X2 (Kräuterheilung - Stufe 1), Name (Name (anam))
 {
-Kräuterheilung - Stufe 1
+Herbal Cure - Level 1
 }
 
 STRING 8265
@@ -62791,7 +62791,7 @@ STRING 15892
 STRING 15893
 // Fähigkeiten: A0AJ (Kräuterheilung), EditorSuffix (Editor-Suffix (ansf))
 {
-(Druide - Grundzauber)
+(Druid - Basic Spell)
 }
 
 STRING 15894
@@ -70058,7 +70058,7 @@ Ranken [|cffffcc00Stufe 5|r] (|cffffcc00O|r)
 STRING 17542
 // Fähigkeiten: A0AJ (Kräuterheilung), Tip (Tooltipp - Normal (atp1))
 {
-Kräuterheilung (|cffffcc00Q|r)
+Herbal Cure (|cffffcc00Q|r)
 }
 
 STRING 17543
@@ -72728,7 +72728,7 @@ STRING 18145
 STRING 18146
 // Fähigkeiten: A1LF (Kräuterheilung - Erlernen), Name (Name (anam))
 {
-Kräuterheilung - Erlernen
+Herbal Cure - Learn
 }
 
 STRING 18149
@@ -72740,7 +72740,7 @@ STRING 18149
 STRING 18150
 // Fähigkeiten: A1LG (Kräuterheilung - Erlernen), Name (Name (anam))
 {
-Kräuterheilung - Erlernen
+Herbal Cure - Learn
 }
 
 STRING 18161
