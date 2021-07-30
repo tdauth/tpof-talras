@@ -14,7 +14,7 @@ The lore has been written for this modification and Talras is the castle which y
 
 * 8 custom classes with different custom spells.
 * Cutscenes.
-* Great voice acting from German people ([HoerTalk.de](https://www.hoer-talk.de/)).
+* Great voice acting from German people ([HoerTalk.de](https://www.hoer-talk.de/threads/beendet-rollenspiel-mod-sucht-sprecher.22379/)).
 * Dialogues with NPCs.
 * 5 Professions which allow crafting items using materials from the map.
 * Custom bases per player at hero level 30.
@@ -101,7 +101,7 @@ Core team:
 
 Voice Actors:
 
-* [HoerTalk.de](https://www.hoer-talk.de/): Voice acting.
+* [HoerTalk.de](https://www.hoer-talk.de/threads/beendet-rollenspiel-mod-sucht-sprecher.22379/): Voice acting.
 * Rainer: Narrator.
 * Jan Langer: Dago
 * jam: Wigberht
