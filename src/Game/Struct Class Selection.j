@@ -146,6 +146,9 @@ library StructGameClassSelection requires Asl, StructGameClasses, StructGameChar
 			if (not thistype.m_gameStarted) then
 				call MapData.onCreateClassItems.evaluate(character)
 			endif
+			
+			// show your own name to other players with the player number
+			call BlzSetUnitName(character.unit(), GetModifiedPlayerName(character.player()))
 
 			call character.setMovable(false)
 			call ResetCameraBoundsToMapRectForPlayer(character.player())

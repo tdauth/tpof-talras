@@ -14632,6 +14632,12 @@ STRING 2446
 Increases the speed and armor of a horse.
 }
 
+STRING 2447
+// Items: I05F (Knight Helmet), Name (Name)
+{
+Knight Helmet
+}
+
 STRING 2448
 // Destructibles: B00G (Bridge), Name (Name)
 {
@@ -15173,6 +15179,12 @@ STRING 2538
 // Abilities: A1RV (Animate Dead), Tip (Tooltip - Normal)
 {
 Tote beleben
+}
+
+STRING 2539
+// Items: I05F (Knight Helmet), Tip (Tooltip - Basic)
+{
+Buy Knight Helmet
 }
 
 STRING 2540
@@ -16384,6 +16396,12 @@ STRING 2741
 Ice Cliff 4 (Snow)
 }
 
+STRING 2742
+// Items: I05F (Knight Helmet), Ubertip (Tooltip - Extended)
+{
+Increases the armor by <A18K,DataA1>.
+}
+
 STRING 2743
 // Items: I01S (Wizard Hat), Tip (Tooltip - Basic)
 {
@@ -16426,6 +16444,12 @@ STRING 2749
 (Zauberresistenz)
 }
 
+STRING 2750
+// Items: I067 (Iron Armour), Tip (Tooltip - Basic)
+{
+Buy Iron Armour
+}
+
 STRING 2751
 // Abilities: A0RK (Ancestors Pact - Level 1), Tip (Tooltip - Normal)
 {
@@ -16448,6 +16472,18 @@ STRING 2754
 // Abilities: A0RP (Ancestors Pact - Level 1), Name (Name)
 {
 Ancestors Pact - Level 1
+}
+
+STRING 2755
+// Items: I067 (Iron Armour), Ubertip (Tooltip - Extended)
+{
+Increases the armor by <A1E4,DataA1>.
+}
+
+STRING 2756
+// Items: I067 (Iron Armour), Description (Description)
+{
+An iron armour.
 }
 
 STRING 2757
@@ -19473,7 +19509,7 @@ Increases the damage.
 }
 
 STRING 3444
-// Items: I05F (Ritterhelm), Description (Description)
+// Items: I05F (Knight Helmet), Description (Description)
 {
 Increases the armour.
 }
@@ -48834,21 +48870,9 @@ An iron strong helmet.
 }
 
 STRING 13523
-// Items: I05F (Ritterhelm), Name (Name)
+// Abilities: A18K (Ritterhelm), Name (Name)
 {
 Ritterhelm
-}
-
-STRING 13524
-// Items: I05F (Ritterhelm), Tip (Tooltip - Basic)
-{
-Ritterhelm kaufen
-}
-
-STRING 13525
-// Items: I05F (Ritterhelm), Ubertip (Tooltip - Extended)
-{
-Verstärkt die Rüstung um <A18K,DataA1>.
 }
 
 STRING 13526
@@ -48891,12 +48915,6 @@ STRING 13532
 // Buffs/Effects: B02N (), Bufftip (Tooltip)
 {
 Guardian
-}
-
-STRING 13533
-// Abilities: A18K (Ritterhelm), Name (Name)
-{
-Ritterhelm
 }
 
 STRING 13534
@@ -62313,24 +62331,6 @@ STRING 15971
 // Items: I067 (Iron Armour), Name (Name)
 {
 Iron Armour
-}
-
-STRING 15972
-// Items: I067 (Iron Armour), Tip (Tooltip - Basic)
-{
-Eisenpanzer kaufen
-}
-
-STRING 15973
-// Items: I067 (Iron Armour), Ubertip (Tooltip - Extended)
-{
-Verstärkt die Rüstung um <A1E4,DataA1>.
-}
-
-STRING 15974
-// Items: I067 (Iron Armour), Description (Description)
-{
-Eine eiserne Rüstung.
 }
 
 STRING 15975

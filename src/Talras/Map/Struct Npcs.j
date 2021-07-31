@@ -39,6 +39,9 @@ library StructMapMapNpcs requires StructGameDmdfHashTable
 		private static unit m_trommon
 		private static unit m_ursula
 		private static unit m_wieland
+		private static unit m_wielandsShop
+		private static unit m_masterGerhard
+		private static unit m_masterGerhardsShop
 		private static unit m_wigberht
 		private static unit m_sheepBoy
 		private static unit m_carsten
@@ -96,6 +99,9 @@ library StructMapMapNpcs requires StructGameDmdfHashTable
 			set thistype.m_trommon = gg_unit_n021_0004
 			set thistype.m_ursula = gg_unit_n01U_0203
 			set thistype.m_wieland = gg_unit_n01Y_0006
+			set thistype.m_wielandsShop = gg_unit_n04V_0414
+			set thistype.m_masterGerhard = gg_unit_n056_0440
+			set thistype.m_masterGerhardsShop = gg_unit_n057_0441
 			set thistype.m_wigberht = gg_unit_H01C_0228
 			set thistype.m_sheepBoy = gg_unit_n02B_0058
 			set thistype.m_carsten = gg_unit_n05G_0393
@@ -126,6 +132,8 @@ library StructMapMapNpcs requires StructGameDmdfHashTable
 			call Shop.create(thistype.m_agihard, thistype.m_agihardsShop)
 			call Shop.create(thistype.m_haid, thistype.m_haidsShop)
 			call Shop.create(thistype.m_ricman, thistype.m_ricmansShop)
+			call Shop.create(thistype.m_wieland, thistype.m_wielandsShop)
+			call Shop.create(thistype.m_masterGerhard, thistype.m_masterGerhardsShop)
 		endmethod
 
 		public static method agihard takes nothing returns unit

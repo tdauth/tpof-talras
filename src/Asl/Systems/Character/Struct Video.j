@@ -943,7 +943,7 @@ library AStructSystemsCharacterVideo requires optional ALibraryCoreDebugMisc, AS
 
 			set thistype.m_playerHasSkipped[GetPlayerId(whichPlayer)] = true
 			set thistype.m_skippingPlayers = thistype.m_skippingPlayers + 1
-			call ACharacter.displayMessageToAll(ACharacter.messageTypeInfo, StringArg(thistype.m_textPlayerSkips, GetPlayerName(whichPlayer)))
+			call ACharacter.displayMessageToAll(ACharacter.messageTypeInfo, StringArg(thistype.m_textPlayerSkips, GetModifiedPlayerName(whichPlayer)))
 
 			return this.checkForSkip()
 		endmethod
