@@ -11688,6 +11688,11 @@ STRING 1958
 B
 }
 
+STRING 1959
+{
+Must target Revival Shrine.
+}
+
 STRING 1960
 // Abilities: A1KH (Big Healing Herb), EditorSuffix (Editor Suffix)
 {
@@ -11703,6 +11708,16 @@ Loaf
 STRING 1962
 {
 "Charaktere nehmen bei Stich-, Magie- und Belagerungsangriffen sowie bei Zaubern nur reduzierten Schaden."
+}
+
+STRING 1963
+{
+Dark Elf:
+}
+
+STRING 1964
+{
+Dark Elf
 }
 
 STRING 1965
@@ -11729,6 +11744,11 @@ STRING 1968
 Loaf
 }
 
+STRING 1969
+{
+Character Points
+}
+
 STRING 1970
 // Abilities: A061 (Cep), EditorSuffix (Editor Suffix)
 {
@@ -11753,6 +11773,16 @@ STRING 1973
 |cffffcc00B|ruch kaufen
 }
 
+STRING 1974
+{
+Mission Not Yet Discovered
+}
+
+STRING 1975
+{
+Need to discover mission
+}
+
 STRING 1976
 // Items: I019 (Dickes Buch), Name (Name)
 {
@@ -11763,6 +11793,16 @@ STRING 1977
 // Items: I019 (Dickes Buch), Tip (Tooltip - Basic)
 {
 |cffffcc00D|rickes Buch kaufen
+}
+
+STRING 1978
+{
+Nearby Character
+}
+
+STRING 1979
+{
+Undiscovered Mission
 }
 
 STRING 1980
@@ -11783,10 +11823,28 @@ STRING 1982
 Buch
 }
 
+STRING 1983
+// Abilities: A015 (Open Backpack), Hotkey (Hotkey - Normal)
+{
+R
+}
+
 STRING 1984
 // Abilities: A04U (Dickes Buch), Name (Name)
 {
 Dickes Buch
+}
+
+STRING 1985
+// Abilities: A015 (Open Backpack), EditorSuffix (Editor Suffix)
+{
+(Character)
+}
+
+STRING 1986
+// Abilities: A015 (Open Backpack), Ubertip (Tooltip - Normal - Extended)
+{
+Opens/closes the backpack which allows you to carry additional item which are stacked and have no effect on your character but can be used. Use right click and left click on the same slot to equip/unequip items. Use right click and left click on the bag items to move the item to another bag.
 }
 
 STRING 1987
@@ -11859,6 +11917,12 @@ STRING 1998
 // Items: I01A (Krone des Untoten-Königs), Ubertip (Tooltip - Extended)
 {
 Die Krone des Untoten-Königs.
+}
+
+STRING 1999
+// Abilities: A015 (Open Backpack), Unhotkey (Hotkey - Turn Off)
+{
+R
 }
 
 STRING 2000
@@ -13889,11 +13953,6 @@ STRING 2379
 Humans
 }
 
-STRING 2380
-{
-Noch nicht erhaltener Auftrag
-}
-
 STRING 2381
 // Units: n071 (Demon Beast), Name (Name)
 {
@@ -14320,16 +14379,6 @@ STRING 2451
 STRING 2452
 {
 |Cffffff00Strength|R
-}
-
-STRING 2453
-{
-Auftrag wurde noch nicht erhalten.
-}
-
-STRING 2454
-{
-Auftrag muss erhalten werden
 }
 
 STRING 2455
@@ -16187,16 +16236,6 @@ Active shrine (|Cfffed312F8|R)
 STRING 2863
 {
 Besitz-Punkte
-}
-
-STRING 2864
-{
-Charakter in der Nähe
-}
-
-STRING 2865
-{
-Käufer in der Nähe
 }
 
 STRING 2866
@@ -19045,11 +19084,6 @@ STRING 3397
 Meteor
 }
 
-STRING 3398
-{
-Wiederbelebungsschrein muss angewählt werden.
-}
-
 STRING 3399
 {
 The character has the maximum level.
@@ -19108,11 +19142,6 @@ Character attributes:
 STRING 3410
 {
 Teammates (|Cfffed312F11|R)
-}
-
-STRING 3411
-{
-Charakter-Punkte
 }
 
 STRING 3412
@@ -24692,7 +24721,7 @@ Verringert die Angriffsgeschwindkeit eines Gegners für 7 Sekunden um 30 %.|n<A0
 }
 
 STRING 4855
-// Abilities: A015 (Open Backpack), EditorSuffix (Editor Suffix)
+// Abilities: A13E (Hero Glow), EditorSuffix (Editor Suffix)
 {
 (Charakter)
 }
@@ -36780,11 +36809,6 @@ STRING 9359
 Relief - Level 3
 }
 
-STRING 9362
-{
-Dunkelelf:
-}
-
 STRING 9372
 // Abilities: A1J8 (Entfernt nach 5 Sekunden alle negativen Zauberverstärker eines Verbündeten od), EditorSuffix (Editor Suffix)
 {
@@ -37796,12 +37820,6 @@ STRING 9791
 // Abilities: A07K (Animal Abilities), Tip (Tooltip - Normal)
 {
 Increases the damage of an ally by <A0A1,DataA2,%> %. |nLasts <A0A1,Dur1> seconds.
-}
-
-STRING 9792
-// Abilities: A015 (Open Backpack), Hotkey (Hotkey - Normal)
-{
-Increases the damage of an ally by <A0A1,DataA3,%> %. |nLasts <A0A1,Dur1> seconds.
 }
 
 STRING 9793
@@ -41626,11 +41644,6 @@ STRING 11293
 Zehren - Stufe 5
 }
 
-STRING 11294
-{
-Dunkelelf
-}
-
 STRING 11295
 // Abilities: A0D7 (Hain - Stufe 2), EditorSuffix (Editor Suffix)
 {
@@ -43878,12 +43891,6 @@ STRING 12146
 // Abilities: A13E (Hero Glow), Name (Name)
 {
 Hero Glow
-}
-
-STRING 12147
-// Abilities: A13E (Hero Glow), EditorSuffix (Editor Suffix)
-{
-(Charakter)
 }
 
 STRING 12148
