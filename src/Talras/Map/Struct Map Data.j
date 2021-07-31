@@ -450,6 +450,14 @@ endif
 			call ShowUnit(gg_unit_o008_0209, true)
 			call ShowUnit(gg_unit_o007_0208, true)
 		endmethod
+		
+		/**
+		 * Required by \ref Dungeon. Called by .evaluate()
+		 */
+		public static method onApplyCustomMinimap takes player whichPlayer returns nothing
+			// Talras requires a custom minimap texture because of all the dungeons on the map.
+			call BlzChangeMinimapTerrainTex("customMinimap.tga")
+		endmethod
 	endstruct
 
 endlibrary

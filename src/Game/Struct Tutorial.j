@@ -295,7 +295,7 @@ library StructGameTutorial requires Asl, StructGameCharacter, StructGameGame, St
 
 			set whichQuest = CreateQuest()
 			call QuestSetTitle(whichQuest, tre("Kontakt", "Contact"))
-			call QuestSetDescription(whichQuest, tre("E-Mail: barade.barade@web.de\nWebsite: http://www.moddb.com/mods/warcraft-iii-the-power-of-fire\nBlog: https://diemachtdesfeuers.wordpress.com/", "Email: barade.barade@web.de\nWebsite: http://www.moddb.com/mods/warcraft-iii-the-power-of-fire\nBlog: https://diemachtdesfeuers.wordpress.com/"))
+			call QuestSetDescription(whichQuest, tre("Hive: https://www.hiveworkshop.com/threads/the-power-of-fire-talras-1-0.334326/\nWebsite: https://github.com/tdauth/tpof-talras", "Hive: https://www.hiveworkshop.com/threads/the-power-of-fire-talras-1-0.334326/\nWebsite: https://github.com/tdauth/tpof-talras"))
 			call QuestSetIconPath(whichQuest, "ReplaceableTextures\\CommandButtons\\BTNPossession.blp")
 
 		endmethod

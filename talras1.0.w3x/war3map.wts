@@ -9785,13 +9785,13 @@ Restores lost hitpoints.|n|nRequired materials:|n- 2 Healing Herbs
 }
 
 STRING 1634
-// Abilities: A015 (Open Backpack), Hotkey (Hotkey - Normal)
+// Abilities: A0RV (Soul Theft - Level 2), Ubertip (Tooltip - Normal - Extended)
 {
 R
 }
 
 STRING 1635
-// Abilities: A015 (Open Backpack), EditorSuffix (Editor Suffix)
+// Abilities: A1NX (Soul Theft - Learn), Ubertip (Tooltip - Normal - Extended)
 {
 (Character)
 }
@@ -10421,9 +10421,14 @@ The backpack allows you to carry more items which are not equipped but still can
 }
 
 STRING 1740
-// Abilities: A015 (Open Backpack), Unhotkey (Hotkey - Turn Off)
+// Abilities: A0RW (Soul Theft - Level 3), Ubertip (Tooltip - Normal - Extended)
 {
 R
+}
+
+STRING 1741
+{
+       
 }
 
 STRING 1743
@@ -11859,7 +11864,7 @@ Buch
 }
 
 STRING 1983
-// Abilities: A0RV (Soul Theft - Level 2), Ubertip (Tooltip - Normal - Extended)
+// Abilities: A015 (Open Backpack), Hotkey (Hotkey - Normal)
 {
 R
 }
@@ -11871,7 +11876,7 @@ Dickes Buch
 }
 
 STRING 1985
-// Abilities: A1NX (Soul Theft - Learn), Ubertip (Tooltip - Normal - Extended)
+// Abilities: A015 (Open Backpack), EditorSuffix (Editor Suffix)
 {
 (Character)
 }
@@ -11949,7 +11954,7 @@ Die Krone des Untoten-Königs.
 }
 
 STRING 1999
-// Abilities: A0RW (Soul Theft - Level 3), Ubertip (Tooltip - Normal - Extended)
+// Abilities: A015 (Open Backpack), Unhotkey (Hotkey - Turn Off)
 {
 R
 }
@@ -16371,11 +16376,6 @@ STRING 2749
 // Abilities: A06I (Magic Cloak), EditorSuffix (Editor Suffix)
 {
 (Zauberresistenz)
-}
-
-STRING 2750
-{
-Changing minimap texture!
 }
 
 STRING 2751

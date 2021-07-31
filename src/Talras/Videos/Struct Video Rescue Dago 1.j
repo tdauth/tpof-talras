@@ -13,12 +13,14 @@ library StructMapVideosVideoRescueDago1 requires Asl, StructGameGame, StructMapM
 			call SetUnitPositionRect(this.m_actorBear0, gg_rct_video_rescue_dago_bear_0_position)
 			call SetUnitFacing(this.m_actorBear0, 56.02)
 			call UnitSuspendDecay(this.m_actorBear0, true)
+			call SetUnitTimeScale(this.m_actorBear0, 8.0)
 			call SetUnitLifeBJ(this.m_actorBear0, 0.0)
 
 			set this.m_actorBear1 = this.unitActor(this.saveUnitActor(gg_unit_n008_0027))
 			call SetUnitPositionRect(this.m_actorBear1, gg_rct_video_rescue_dago_bear_1_position)
 			call SetUnitFacing(this.m_actorBear1, 116.66)
 			call UnitSuspendDecay(this.m_actorBear1, true)
+			call SetUnitTimeScale(this.m_actorBear1, 8.0)
 			call SetUnitLifeBJ(this.m_actorBear1, 0.0)
 
 			// Dago
@@ -39,17 +41,6 @@ library StructMapVideosVideoRescueDago1 requires Asl, StructGameGame, StructMapM
 
 		public stub method onPlayAction takes nothing returns nothing
 			call FixVideoCamera(gg_cam_rescue_dago_2)
-
-			// fade delay to skip death animations of bears!!!
-			call CinematicFadeBJ(bj_CINEFADETYPE_FADEOUT, 0.0, "ReplaceableTextures\\CameraMasks\\Black_mask.blp", 100.00, 100.00, 100.00, 0.0)
-			if (wait(2.0)) then
-				return
-			endif
-			call CinematicFadeBJ(bj_CINEFADETYPE_FADEIN, 1.50, "ReplaceableTextures\\CameraMasks\\Black_mask.blp", 100.00, 100.00, 100.00, 0.0)
-			if (wait(2.0)) then
-				return
-			endif
-
 
 			call TransmissionFromUnitWithName(this.m_actorDago, tre("Dago", "Dago"), tre("Danke, dass Ihr mir geholfen habt! Diese Scheißbären können einen den Kopf kosten, wenn man nicht aufpasst. Aber sagt mal, wer seid ihr überhaupt?", "Thank you for helping me! This damned bears can cost somebody their head if you are not careful. Who are you, anyway?"), gg_snd_DagoRescueDago2)
 			if (wait(GetSimpleTransmissionDuration(gg_snd_DagoRescueDago2))) then

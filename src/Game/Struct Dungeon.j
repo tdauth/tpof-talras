@@ -108,6 +108,8 @@ library StructGameDungeon requires Asl, StructGameDmdfHashTable, StructGameMapSe
 
 			set thistype.m_playerDungeon[GetPlayerId(whichPlayer)] = this
 			call this.m_players.pushBack(whichPlayer)
+			
+			call MapData.onApplyCustomMinimap.evaluate(whichPlayer)
 
 			if (this.m_cameraSetup != null) then
 				call this.refreshCameraTimer()

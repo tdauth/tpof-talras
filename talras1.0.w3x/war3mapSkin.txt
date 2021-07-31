@@ -41,6 +41,7 @@ Goldandlumberfromally=TRIGSTR_2353
 Goldfromally=TRIGSTR_2354
 Heromaxed=TRIGSTR_3399
 HPmaxed=TRIGSTR_3400
+Inventoryfull=TRIGSTR_1741
 Lumberfromally=TRIGSTR_2355
 Nogold=TRIGSTR_2349
 Nolumber=TRIGSTR_2350

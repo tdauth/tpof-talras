@@ -254,8 +254,8 @@ library StructGameGame requires Asl, StructGameCameraHeight, StructGameCharacter
 		 * \return Returns true if the current game is in the campaign. Otherwise if it's a normal map (for example in multiplayer) it returns false.
 		 */
 		public static method isCampaign takes nothing returns boolean
-			// this custom object should only exist in the campaign not in the usual maps
-			return GetObjectName('h03V') == "IsCampaign"
+			// disable singleplayer campaign support for Reforged
+			return false
 		endmethod
 
 		/**
@@ -886,6 +886,9 @@ endif
 			local integer i = 0
 			// make sure camera is reset before waiting for other camera resets, this resets at least any pans etc.
 			call ResetToGameCamera(0.0)
+			
+			// clear all info messages etc. for example from the class selection
+			call ClearTextMessages()
 
 			// Disable all abilities which might be annoying it a video
 			set i = 0
