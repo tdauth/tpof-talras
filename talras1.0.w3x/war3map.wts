@@ -6930,7 +6930,7 @@ STRING 1158
 }
 
 STRING 1159
-// Abilities: A1I8 (Elementarwesen), EditorSuffix (Editor Suffix)
+// Abilities: A1I8 (Elemental Creatures), EditorSuffix (Editor Suffix)
 {
 (Elemental Mage)
 }
@@ -8970,7 +8970,7 @@ Inflame
 }
 
 STRING 1499
-// Abilities: A1I8 (Elementarwesen), Ubertip (Tooltip - Normal - Extended)
+// Abilities: A1I8 (Elemental Creatures), Ubertip (Tooltip - Normal - Extended)
 {
 Zerlegt den Elementarmagier in Elementarwesen, sodass 2 spezielle Elementarwesen entstehen. Wenn eines von ihnen bis zum Ablauf der Beschwörungszeitspanne überlebt, wird der Elementarmagier wiedergeboren.|nHält <A1I8,Dur1> Sekunden.
 }
@@ -10068,7 +10068,7 @@ Dämpfung
 }
 
 STRING 1682
-// Abilities: A1I9 (Elementarwesen), EditorSuffix (Editor Suffix)
+// Abilities: A1I9 (Elemental Creatures), EditorSuffix (Editor Suffix)
 {
 (Favoritenfähigkeit - Elementarmagier)
 }
@@ -10643,7 +10643,7 @@ Archer
 }
 
 STRING 1778
-// Abilities: A1BG (Kennels), EditorSuffix (Editor Suffix)
+// Abilities: A1O0 (Sprint - Learn), EditorSuffix (Editor Suffix)
 {
 (Ranger)
 }
@@ -15952,7 +15952,7 @@ Eagle Eye
 }
 
 STRING 2669
-// Abilities: A14A (Baldar's Ring), EditorSuffix (Editor Suffix)
+// Abilities: A1BG (Kennels), EditorSuffix (Editor Suffix)
 {
 (Ranger)
 }
@@ -16576,6 +16576,24 @@ STRING 2773
 Gold coins are the offical currency in most of the kingdoms.
 }
 
+STRING 2774
+// Abilities: A0PZ (Conversion), Ubertip (Tooltip - Normal - Extended)
+{
+Takes over the control of an opponent up to level <A0PZ,DataA5> for 30 seconds.
+}
+
+STRING 2775
+// Abilities: A0PZ (Conversion), Tip (Tooltip - Normal)
+{
+Conversion [|cffffcc00Level 4|r] (|cffffcc00T|r)
+}
+
+STRING 2776
+// Abilities: A0PZ (Conversion), Tip (Tooltip - Normal)
+{
+Conversion [|cffffcc00Level 1|r] (|cffffcc00T|r)
+}
+
 STRING 2777
 // Abilities: A0K8 (Magic Defense), EditorSuffix (Editor Suffix)
 {
@@ -16642,6 +16660,23 @@ STRING 2787
 Agility [|cffffcc00Level 1|r]
 }
 
+STRING 2788
+// Abilities: A0PZ (Conversion), Tip (Tooltip - Normal)
+{
+Conversion [|cffffcc00Level 3|r] (|cffffcc00T|r)
+}
+
+STRING 2789
+// Abilities: A0PZ (Conversion), Tip (Tooltip - Normal)
+{
+Conversion [|cffffcc00Level 2|r] (|cffffcc00T|r)
+}
+
+STRING 2790
+{
+    
+}
+
 STRING 2791
 // Abilities: A0RL (Ancestors Pact - Level 2), Tip (Tooltip - Normal)
 {
@@ -16697,7 +16732,7 @@ Shot in the Heart
 }
 
 STRING 2800
-// Abilities: A0HX (Poisoned Arrows), EditorSuffix (Editor Suffix)
+// Abilities: A14A (Baldar's Ring), EditorSuffix (Editor Suffix)
 {
 (Ranger)
 }
@@ -16780,6 +16815,52 @@ STRING 2813
 Ancestors Pact - Level 2
 }
 
+STRING 2814
+{
+  
+}
+
+STRING 2815
+{
+   
+}
+
+STRING 2816
+// Abilities: A1KG (Elemental Creatures - Learn), Name (Name)
+{
+Elemental Creatures - Learn
+}
+
+STRING 2817
+// Abilities: A03A (Manaschild), Tip (Tooltip - Normal)
+{
+Mana Shield [|cffffcc00Level 5|r] (|cffffcc00E|r)
+}
+
+STRING 2818
+// Abilities: A03A (Manaschild), Tip (Tooltip - Normal)
+{
+Mana Shield [|cffffcc00Level 4|r] (|cffffcc00E|r)
+}
+
+STRING 2819
+// Abilities: A03A (Manaschild), Tip (Tooltip - Normal)
+{
+Mana Shield [|cffffcc00Level 1|r] (|cffffcc00E|r)
+}
+
+STRING 2820
+// Abilities: A03A (Manaschild), Tip (Tooltip - Normal)
+{
+Mana Shield [|cffffcc00Level 3|r] (|cffffcc00E|r)
+}
+
+STRING 2821
+// Abilities: A03A (Manaschild), Tip (Tooltip - Normal)
+{
+Mana Shield [|cffffcc00Level 2|r] (|cffffcc00E|r)
+}
+
 STRING 2822
 // Abilities: A0YW (Wilder Blutrausch - Stufe 1), Tip (Tooltip - Normal)
 {
@@ -16796,6 +16877,18 @@ STRING 2824
 // Abilities: A06S (Wild Bloodlust), Name (Name)
 {
 Wild Bloodlust
+}
+
+STRING 2825
+// Abilities: A1I9 (Elemental Creatures), Name (Name)
+{
+Elemental Creatures
+}
+
+STRING 2826
+// Abilities: A056 (Revive), Tip (Tooltip - Normal)
+{
+Revive [|cffffcc00Level 5|r] (|cffffcc00O|r)
 }
 
 STRING 2827
@@ -16822,16 +16915,64 @@ STRING 2830
 Power Withdrawal
 }
 
+STRING 2831
+// Abilities: A056 (Revive), Tip (Tooltip - Normal)
+{
+Revive [|cffffcc00Level 4|r] (|cffffcc00O|r)
+}
+
+STRING 2832
+// Abilities: A056 (Revive), Tip (Tooltip - Normal)
+{
+Revive [|cffffcc00Level 1|r] (|cffffcc00O|r)
+}
+
 STRING 2833
 // Abilities: A0RN (Ancestors Pact - Level 4), Ubertip (Tooltip - Normal - Extended)
 {
 The Necromancer regenerates his life and mana with the help of a corpse. He converts a part of the life and mana of the corpse into own life and mana.|n|n|cffffcc00Level 1|r - Converts 20 % life and 10 % mana.|n|cffffcc00Level 2|r - Converts 30 % life and 20 % mana.|n|cffffcc00Level 3|r - Converts 40 % life and 30 % mana.|n|cffffcc00Level 4|r - Converts 50 % life and 40 % mana.|n|cffffcc00Level 5|r - Converts 60 % life and 50 % mana.
 }
 
+STRING 2834
+// Abilities: A056 (Revive), Tip (Tooltip - Normal)
+{
+Revive [|cffffcc00Level 2|r] (|cffffcc00O|r)
+}
+
+STRING 2835
+// Abilities: A1O0 (Sprint - Learn), Name (Name)
+{
+Sprint - Learn
+}
+
+STRING 2836
+// Abilities: A04W (Relief), Tip (Tooltip - Normal)
+{
+Relief [|cffffcc00Stufe 5|r] (|cffffcc00W|r)
+}
+
 STRING 2837
 // Units: n00B (Cat), Ubertip (Tooltip - Extended)
 {
 Eine kleine, süße Katze (auch roh genießbar).
+}
+
+STRING 2838
+// Abilities: A04W (Relief), Tip (Tooltip - Normal)
+{
+Relief [|cffffcc00Stufe 4|r] (|cffffcc00W|r)
+}
+
+STRING 2839
+// Abilities: A04W (Relief), Tip (Tooltip - Normal)
+{
+Relief [|cffffcc00Stufe 1|r] (|cffffcc00W|r)
+}
+
+STRING 2840
+// Abilities: A04W (Relief), Tip (Tooltip - Normal)
+{
+Relief [|cffffcc00Stufe 3|r] (|cffffcc00W|r)
 }
 
 STRING 2841
@@ -16900,6 +17041,18 @@ STRING 2851
 D
 }
 
+STRING 2852
+// Abilities: A04W (Relief), Tip (Tooltip - Normal)
+{
+Relief [|cffffcc00Stufe 2|r] (|cffffcc00W|r)
+}
+
+STRING 2853
+// Abilities: A01M (Sprint), Tip (Tooltip - Normal)
+{
+Sprint [|cffffcc00Level 5|r] (|cffffcc00D|r)
+}
+
 STRING 2854
 // Abilities: A0D4 (Grove), Hotkey (Hotkey - Normal)
 {
@@ -16954,6 +17107,18 @@ STRING 2863
 Besitz-Punkte
 }
 
+STRING 2864
+// Abilities: A01M (Sprint), Tip (Tooltip - Normal)
+{
+Sprint [|cffffcc00Level 4|r] (|cffffcc00D|r)
+}
+
+STRING 2865
+// Abilities: A01M (Sprint), Tip (Tooltip - Normal)
+{
+Sprint [|cffffcc00Level 1|r] (|cffffcc00D|r)
+}
+
 STRING 2866
 {
 Besitz-Handel
@@ -16999,6 +17164,30 @@ STRING 2873
 Throws an ice missile at an opponent, deals 250 points of ice damage and reduces the movement and attack speed of the opponent by 50 %.
 }
 
+STRING 2874
+// Abilities: A01M (Sprint), Tip (Tooltip - Normal)
+{
+Sprint [|cffffcc00Level 3|r] (|cffffcc00D|r)
+}
+
+STRING 2875
+// Abilities: A01M (Sprint), Tip (Tooltip - Normal)
+{
+Sprint [|cffffcc00Level 2|r] (|cffffcc00D|r)
+}
+
+STRING 2876
+// Abilities: A1I8 (Elemental Creatures), Ubertip (Tooltip - Normal - Extended)
+{
+Zerlegt den Elementarmagier in Elementarwesen, sodass 3 spezielle Elementarwesen entstehen. Wenn eines von ihnen bis zum Ablauf der Beschwörungszeitspanne überlebt, wird der Elementarmagier wiedergeboren.|nHält <A1I8,Dur1> Sekunden.
+}
+
+STRING 2877
+// Abilities: A1I8 (Elemental Creatures), Ubertip (Tooltip - Normal - Extended)
+{
+Zerlegt den Elementarmagier in Elementarwesen, sodass 4 spezielle Elementarwesen entstehen. Wenn eines von ihnen bis zum Ablauf der Beschwörungszeitspanne überlebt, wird der Elementarmagier wiedergeboren.|nHält <A1I8,Dur1> Sekunden.
+}
+
 STRING 2878
 // Abilities: A13F (Back to the Grimoire), Tip (Tooltip - Normal)
 {
@@ -17023,10 +17212,40 @@ STRING 2881
 Ancestors Pact - Level 3
 }
 
+STRING 2882
+// Abilities: A1I8 (Elemental Creatures), Name (Name)
+{
+Elemental Creatures
+}
+
+STRING 2883
+// Abilities: A1KF (Elemental Creatures - Learn), Name (Name)
+{
+Elemental Creatures - Learn
+}
+
 STRING 2884
 // Abilities: A1LL (Eiszeit - Erlernen), Ubertip (Tooltip - Normal - Extended)
 {
 Der Elementarmagier vereist das Gebiet in einem Umkreis von 600 um sich herum für 20 Sekunden, fügt alle 10 Sekunden Schaden zu und verringert Bewegungs- und Angriffsgeschwindigkeit aller Gegner um 50 %.|n<A01D,Cool1> Sekunden Abklingzeit. |n|n|cffffcc00Stufe 1|r - Fügt 50 Punkte Schaden zu. |n|cffffcc00Stufe 2|r - Fügt 100 Punkte Schaden zu. |n|cffffcc00Stufe 3|r - Fügt 150 Punkte Schaden zu. |n|cffffcc00Stufe 4|r - Fügt 200 Punkte Schaden zu.|n|cffffcc00Stufe 5|r - Fügt 250 Punkte Schaden zu.
+}
+
+STRING 2885
+// Buffs/Effects: B02G (Mastery), EditorSuffix (Editor Suffix)
+{
+(Elemental Mage)
+}
+
+STRING 2886
+// Buffs/Effects: B00F (), EditorSuffix (Editor Suffix)
+{
+(Ranger)
+}
+
+STRING 2887
+// Buffs/Effects: B039 (), EditorSuffix (Editor Suffix)
+{
+(Ranger)
 }
 
 STRING 2889
@@ -22838,12 +23057,6 @@ STRING 4158
 Stab der Verzögerung
 }
 
-STRING 4159
-// Abilities: A0PZ (Conversion), Ubertip (Tooltip - Normal - Extended)
-{
-Übernimmt 30 Sekunden lang die Kontrolle über einen Gegner bis Stufe <A0PZ,DataA5>.
-}
-
 STRING 4168
 // Abilities: A1RH (Aufträge - Vorherige Seite), Tip (Tooltip - Normal)
 {
@@ -26643,7 +26856,7 @@ Poisoned Arrows
 }
 
 STRING 5263
-// Abilities: A01M (Sprint), EditorSuffix (Editor Suffix)
+// Abilities: A0HX (Poisoned Arrows), EditorSuffix (Editor Suffix)
 {
 (Ranger)
 }
@@ -28034,12 +28247,6 @@ STRING 5834
 Tendrils
 }
 
-STRING 5835
-// Abilities: A056 (Revive), Tip (Tooltip - Normal)
-{
-Spießt eine Reihe von Gegnern auf.
-}
-
 STRING 5845
 // Abilities: A0E5 (Ranken - Stufe 3), EditorSuffix (Editor Suffix)
 {
@@ -28076,12 +28283,6 @@ STRING 5860
 Ranken - Stufe 2
 }
 
-STRING 5863
-// Abilities: A056 (Revive), Tip (Tooltip - Normal)
-{
-Spießt eine Reihe von Gegnern auf.
-}
-
 STRING 5873
 // Abilities: A1PT (Tierfähigkeiten - Bärengestalt - Stufe 3 - Tollwut), EditorSuffix (Editor Suffix)
 {
@@ -28094,12 +28295,6 @@ STRING 5874
 Ranken - Stufe 3
 }
 
-STRING 5877
-// Abilities: A056 (Revive), Tip (Tooltip - Normal)
-{
-Spießt eine Reihe von Gegnern auf.
-}
-
 STRING 5887
 // Abilities: A0E6 (Ranken - Stufe 4), EditorSuffix (Editor Suffix)
 {
@@ -28110,12 +28305,6 @@ STRING 5888
 // Abilities: A0E6 (Ranken - Stufe 4), Name (Name)
 {
 Ranken - Stufe 4
-}
-
-STRING 5891
-// Abilities: A056 (Revive), Tip (Tooltip - Normal)
-{
-Spießt eine Reihe von Gegnern auf.
 }
 
 STRING 5901
@@ -28736,13 +28925,13 @@ STRING 6113
 }
 
 STRING 6114
-// Abilities: A01A (Inferno), EditorSuffix (Editor Suffix)
+// Abilities: A1KF (Elemental Creatures - Learn), EditorSuffix (Editor Suffix)
 {
 (Elemental Mage)
 }
 
 STRING 6115
-// Abilities: A14C (Baldar's Ring), EditorSuffix (Editor Suffix)
+// Abilities: A01A (Inferno), EditorSuffix (Editor Suffix)
 {
 (Elemental Mage)
 }
@@ -30764,7 +30953,7 @@ Brandpfeile - Stufe 5
 }
 
 STRING 6907
-// Abilities: A03S (Archer), EditorSuffix (Editor Suffix)
+// Abilities: A01M (Sprint), EditorSuffix (Editor Suffix)
 {
 (Ranger)
 }
@@ -33302,7 +33491,7 @@ Inferno - Stufe 4
 }
 
 STRING 7941
-// Abilities: A1KG (Elementarwesen - Erlernen), EditorSuffix (Editor Suffix)
+// Abilities: A1KG (Elemental Creatures - Learn), EditorSuffix (Editor Suffix)
 {
 (Grimoire Ability - Elemental Mage)
 }
@@ -35288,7 +35477,7 @@ Eispfeile - Stufe 1
 }
 
 STRING 8842
-// Abilities: A1O0 (Sprinten - Erlernen), EditorSuffix (Editor Suffix)
+// Abilities: A17Y (Mehrfachschuss - Stufe 2), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -35300,7 +35489,7 @@ Eispfeile - Stufe 2
 }
 
 STRING 8844
-// Abilities: A17Y (Mehrfachschuss - Stufe 2), EditorSuffix (Editor Suffix)
+// Abilities: A04W (Relief), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -35312,7 +35501,7 @@ Eispfeile - Stufe 3
 }
 
 STRING 8846
-// Abilities: A04W (Relief), EditorSuffix (Editor Suffix)
+// Abilities: A1IQ (Leprechaun - Stufe 1), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -35324,7 +35513,7 @@ Eispfeile - Stufe 4
 }
 
 STRING 8848
-// Abilities: A1IQ (Leprechaun - Stufe 1), EditorSuffix (Editor Suffix)
+// Abilities: A050 (Protect), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -35336,7 +35525,7 @@ Eispfeile - Stufe 5
 }
 
 STRING 8850
-// Abilities: A06O (Gewandtheit), EditorSuffix (Editor Suffix)
+// Abilities: A03S (Archer), EditorSuffix (Editor Suffix)
 {
 (Ranger)
 }
@@ -35864,7 +36053,7 @@ Martyr
 }
 
 STRING 8953
-// Abilities: A050 (Protect), EditorSuffix (Editor Suffix)
+// Abilities: A130 (Lauern - Stufe 3), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -36494,7 +36683,7 @@ Blind - Level 5
 }
 
 STRING 9175
-// Abilities: A130 (Lauern - Stufe 3), EditorSuffix (Editor Suffix)
+// Abilities: A0YK (Eagle Eye - Level 4), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -36938,7 +37127,7 @@ Heals 300 life for an allied non-mechanic target.|n|cffc3dbffSpell can be used o
 }
 
 STRING 9320
-// Abilities: A0VG (Range Combat), EditorSuffix (Editor Suffix)
+// Abilities: A1NS (Schütze - Erlernen), EditorSuffix (Editor Suffix)
 {
 (Ranger)
 }
@@ -37980,18 +38169,6 @@ STRING 9787
 O
 }
 
-STRING 9788
-// Abilities: A04W (Relief), Tip (Tooltip - Normal)
-{
-Linderung [|cffffcc00Stufe 2|r] (|cffffcc00W|r)
-}
-
-STRING 9789
-// Abilities: A04W (Relief), Tip (Tooltip - Normal)
-{
-Linderung [|cffffcc00Stufe 3|r] (|cffffcc00W|r)
-}
-
 STRING 9790
 // Abilities: A0A1 (Forest Wood Fists), Ubertip (Tooltip - Normal - Extended)
 {
@@ -38467,7 +38644,7 @@ Conversion - Level 5
 }
 
 STRING 9951
-// Abilities: A0YK (Eagle Eye - Level 4), EditorSuffix (Editor Suffix)
+// Abilities: A1LW (Hundezwinger - Erlernen), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -39397,13 +39574,13 @@ Melee
 }
 
 STRING 10371
-// Abilities: A01E (Conflagration), EditorSuffix (Editor Suffix)
+// Abilities: A14C (Baldar's Ring), EditorSuffix (Editor Suffix)
 {
 (Elemental Mage)
 }
 
 STRING 10372
-// Abilities: A06Q (Shot in the Heart), EditorSuffix (Editor Suffix)
+// Abilities: A06O (Gewandtheit), EditorSuffix (Editor Suffix)
 {
 (Ranger)
 }
@@ -39475,13 +39652,13 @@ Range Combat
 }
 
 STRING 10384
-// Abilities: A1I7 (Wächter des Flusses beschwören), EditorSuffix (Editor Suffix)
+// Abilities: A01E (Conflagration), EditorSuffix (Editor Suffix)
 {
 (Elemental Mage)
 }
 
 STRING 10385
-// Abilities: A0GS (Fire Arrows), EditorSuffix (Editor Suffix)
+// Abilities: A0VG (Range Combat), EditorSuffix (Editor Suffix)
 {
 (Ranger)
 }
@@ -40207,7 +40384,7 @@ Eagle Eye - Level 5
 }
 
 STRING 10751
-// Abilities: A1LW (Hundezwinger - Erlernen), EditorSuffix (Editor Suffix)
+// Abilities: A11C (Schuss ins Herz - Stufe 2), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -40219,7 +40396,7 @@ Eagle Eye - Level 1
 }
 
 STRING 10753
-// Abilities: A11C (Schuss ins Herz - Stufe 2), EditorSuffix (Editor Suffix)
+// Abilities: A1M0 (Lauern - Erlernen), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -40231,7 +40408,7 @@ Eagle Eye - Level 2
 }
 
 STRING 10755
-// Abilities: A1M0 (Lauern - Erlernen), EditorSuffix (Editor Suffix)
+// Abilities: A1KC (Adlerauge - Erlernen), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -40243,7 +40420,7 @@ Eagle Eye - Level 3
 }
 
 STRING 10757
-// Abilities: A1KC (Adlerauge - Erlernen), EditorSuffix (Editor Suffix)
+// Abilities: A11E (Schuss ins Herz - Stufe 4), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -40255,7 +40432,7 @@ Eagle Eye - Level 4
 }
 
 STRING 10759
-// Abilities: A11E (Schuss ins Herz - Stufe 4), EditorSuffix (Editor Suffix)
+// Abilities: A18B (Falle - Stufe 1), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -40357,7 +40534,7 @@ Gewandheit - Stufe 5
 }
 
 STRING 10826
-// Abilities: A18B (Falle - Stufe 1), EditorSuffix (Editor Suffix)
+// Abilities: A01Y (Holy Power), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -40369,7 +40546,7 @@ Gewandheit - Stufe 1
 }
 
 STRING 10828
-// Abilities: A01Y (Holy Power), EditorSuffix (Editor Suffix)
+// Abilities: A0YT (Gewandheit - Stufe 3), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -40381,7 +40558,7 @@ Gewandheit - Stufe 2
 }
 
 STRING 10830
-// Abilities: A0YT (Gewandheit - Stufe 3), EditorSuffix (Editor Suffix)
+// Abilities: A0QB (Gods Favor), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -40393,7 +40570,7 @@ Gewandheit - Stufe 3
 }
 
 STRING 10832
-// Abilities: A0QB (Gods Favor), EditorSuffix (Editor Suffix)
+// Abilities: A0H2 (Brandpfeile - Stufe 4), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -40405,7 +40582,7 @@ Gewandheit - Stufe 4
 }
 
 STRING 10834
-// Abilities: A0H2 (Brandpfeile - Stufe 4), EditorSuffix (Editor Suffix)
+// Abilities: A0N0 (Eispfeile - Stufe 1), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -41466,14 +41643,8 @@ STRING 11096
 Elementare Gewalt - Stufe 1
 }
 
-STRING 11097
-// Abilities: A04W (Relief), Tip (Tooltip - Normal)
-{
-Der Elementarmagier schließt einen Gegner bis zu X Sekunden in einem Erdgefängnis ein. In dieser Zeit kann er nicht agieren. Das Gefängnis entfernt alle negativen Effekte auf dem Ziel und wird durch feindlichen Schaden gebrochen.
-}
-
 STRING 11107
-// Abilities: A1KF (Elementarwesen - Erlernen), EditorSuffix (Editor Suffix)
+// Abilities: A1L3 (Erfrierung - Erlernen), EditorSuffix (Editor Suffix)
 {
 Fire Missile [|cffffcc00Level 2|r]
 }
@@ -41484,14 +41655,8 @@ STRING 11108
 Erdgefängnis - Stufe 1
 }
 
-STRING 11111
-// Abilities: A04W (Relief), Tip (Tooltip - Normal)
-{
-Der Elementarmagier schließt einen Gegner bis zu X Sekunden in einem Erdgefängnis ein. In dieser Zeit kann er nicht agieren. Das Gefängnis entfernt alle negativen Effekte auf dem Ziel und wird durch feindlichen Schaden gebrochen.
-}
-
 STRING 11121
-// Abilities: A1L3 (Erfrierung - Erlernen), EditorSuffix (Editor Suffix)
+// Abilities: A0ZC (Erdgefängnis - Stufe 3), EditorSuffix (Editor Suffix)
 {
 Fire Missile [|cffffcc00Level 2|r]
 }
@@ -41502,14 +41667,8 @@ STRING 11122
 Erdgefängnis - Stufe 2
 }
 
-STRING 11125
-// Abilities: A04W (Relief), Tip (Tooltip - Normal)
-{
-Der Elementarmagier schließt einen Gegner bis zu X Sekunden in einem Erdgefängnis ein. In dieser Zeit kann er nicht agieren. Das Gefängnis entfernt alle negativen Effekte auf dem Ziel und wird durch feindlichen Schaden gebrochen.
-}
-
 STRING 11135
-// Abilities: A0ZC (Erdgefängnis - Stufe 3), EditorSuffix (Editor Suffix)
+// Abilities: A1OJ (Zehren - Erlernen), EditorSuffix (Editor Suffix)
 {
 Fire Missile [|cffffcc00Level 2|r]
 }
@@ -41527,7 +41686,7 @@ W
 }
 
 STRING 11149
-// Abilities: A1OJ (Zehren - Erlernen), EditorSuffix (Editor Suffix)
+// Abilities: A0TU (Entzünden - Stufe 4), EditorSuffix (Editor Suffix)
 {
 Fire Missile [|cffffcc00Level 2|r]
 }
@@ -41545,7 +41704,7 @@ U
 }
 
 STRING 11163
-// Abilities: A0TU (Entzünden - Stufe 4), EditorSuffix (Editor Suffix)
+// Abilities: A0TL (Eiszeit - Stufe 5), EditorSuffix (Editor Suffix)
 {
 Fire Missile [|cffffcc00Level 2|r]
 }
@@ -41617,7 +41776,7 @@ Erdgefängnis - Stufe 5
 }
 
 STRING 11187
-// Abilities: A0TL (Eiszeit - Stufe 5), EditorSuffix (Editor Suffix)
+// Abilities: A0T7 (Eisgeschoss - Stufe 1), EditorSuffix (Editor Suffix)
 {
 Fire Missile [|cffffcc00Level 2|r]
 }
@@ -41647,7 +41806,7 @@ Wut der Elemente [|cffffcc00Stufe 1|r]
 }
 
 STRING 11203
-// Abilities: A0T7 (Eisgeschoss - Stufe 1), EditorSuffix (Editor Suffix)
+// Abilities: A0KP (Feuergeschoss - Stufe 1), EditorSuffix (Editor Suffix)
 {
 Fire Missile [|cffffcc00Level 2|r]
 }
@@ -41671,7 +41830,7 @@ Wut der Elemente - Stufe 1
 }
 
 STRING 11219
-// Abilities: A0KP (Feuergeschoss - Stufe 1), EditorSuffix (Editor Suffix)
+// Abilities: A0UY (Erfrierung - Stufe 4), EditorSuffix (Editor Suffix)
 {
 Fire Missile [|cffffcc00Level 2|r]
 }
@@ -41689,7 +41848,7 @@ Learn Conquest
 }
 
 STRING 11233
-// Abilities: A0UY (Erfrierung - Stufe 4), EditorSuffix (Editor Suffix)
+// Abilities: A0KF (Inferno - Stufe 1), EditorSuffix (Editor Suffix)
 {
 Fire Missile [|cffffcc00Level 2|r]
 }
@@ -41707,7 +41866,7 @@ Feeding [|cffffcc00Level 3|r]
 }
 
 STRING 11247
-// Abilities: A0KF (Inferno - Stufe 1), EditorSuffix (Editor Suffix)
+// Abilities: A0ZK (Pure Energie - Stufe 1), EditorSuffix (Editor Suffix)
 {
 Fire Missile [|cffffcc00Level 2|r]
 }
@@ -41725,7 +41884,7 @@ Feeding [|cffffcc00Level 4|r]
 }
 
 STRING 11261
-// Abilities: A0ZK (Pure Energie - Stufe 1), EditorSuffix (Editor Suffix)
+// Abilities: A11J (Beherrschung - Stufe 2), EditorSuffix (Editor Suffix)
 {
 Fire Missile [|cffffcc00Level 2|r]
 }
@@ -41737,7 +41896,7 @@ Zehren - Stufe 4
 }
 
 STRING 11275
-// Abilities: A11J (Beherrschung - Stufe 2), EditorSuffix (Editor Suffix)
+// Abilities: A1IA (Elementarwesen - Stufe 1), EditorSuffix (Editor Suffix)
 {
 Fire Missile [|cffffcc00Level 2|r]
 }
@@ -41755,7 +41914,7 @@ Mastery [|cffffcc00Level 2|r]
 }
 
 STRING 11282
-// Abilities: A1IA (Elementarwesen - Stufe 1), EditorSuffix (Editor Suffix)
+// Abilities: A1KV (Feuergeschoss - Erlernen), EditorSuffix (Editor Suffix)
 {
 Fire Missile [|cffffcc00Level 2|r]
 }
@@ -42259,7 +42418,7 @@ Sprinten - Stufe 5
 }
 
 STRING 11510
-// Abilities: A0N0 (Eispfeile - Stufe 1), EditorSuffix (Editor Suffix)
+// Abilities: A11F (Schuss ins Herz - Stufe 5), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -42271,7 +42430,7 @@ Sprinten - Stufe 1
 }
 
 STRING 11512
-// Abilities: A11F (Schuss ins Herz - Stufe 5), EditorSuffix (Editor Suffix)
+// Abilities: A12N (Pfeilhagel - Stufe 2), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -42283,7 +42442,7 @@ Sprinten - Stufe 2
 }
 
 STRING 11514
-// Abilities: A12N (Pfeilhagel - Stufe 2), EditorSuffix (Editor Suffix)
+// Abilities: A0GQ (Poisoned Arrows - Level 4), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -42295,7 +42454,7 @@ Sprinten - Stufe 3
 }
 
 STRING 11516
-// Abilities: A0GQ (Poisoned Arrows - Level 4), EditorSuffix (Editor Suffix)
+// Abilities: A1OG (Falle - Erlernen), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -42307,7 +42466,7 @@ Sprinten - Stufe 4
 }
 
 STRING 11518
-// Abilities: A1OG (Falle - Erlernen), EditorSuffix (Editor Suffix)
+// Abilities: A1NU (Schuss ins Herz - Erlernen), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -42457,7 +42616,7 @@ Schuss ins Herz - Stufe 5
 }
 
 STRING 11598
-// Abilities: A1NU (Schuss ins Herz - Erlernen), EditorSuffix (Editor Suffix)
+// Abilities: A0N3 (Eispfeile - Stufe 4), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -42469,7 +42628,7 @@ Schuss ins Herz - Stufe 1
 }
 
 STRING 11600
-// Abilities: A0N3 (Eispfeile - Stufe 4), EditorSuffix (Editor Suffix)
+// Abilities: A055 (Prevent Evil), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -42481,7 +42640,7 @@ Schuss ins Herz - Stufe 2
 }
 
 STRING 11602
-// Abilities: A055 (Prevent Evil), EditorSuffix (Editor Suffix)
+// Abilities: A052 (Clarity), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -42493,7 +42652,7 @@ Schuss ins Herz - Stufe 3
 }
 
 STRING 11604
-// Abilities: A052 (Clarity), EditorSuffix (Editor Suffix)
+// Abilities: A132 (Lauern - Stufe 5), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -42505,7 +42664,7 @@ Schuss ins Herz - Stufe 4
 }
 
 STRING 11606
-// Abilities: A1NS (Schütze - Erlernen), EditorSuffix (Editor Suffix)
+// Abilities: A0H1 (Brandpfeile - Stufe 3), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -42540,7 +42699,7 @@ Schütze - Stufe 1
 }
 
 STRING 11622
-// Abilities: A132 (Lauern - Stufe 5), EditorSuffix (Editor Suffix)
+// Abilities: A1JD ((Favoritenfähigkeit - Kleriker)), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -42852,7 +43011,7 @@ Mastery [|cffffcc00Level 3|r]
 }
 
 STRING 11691
-// Abilities: A1KV (Feuergeschoss - Erlernen), EditorSuffix (Editor Suffix)
+// Abilities: A0UM (Blitzschlag - Stufe 2), EditorSuffix (Editor Suffix)
 {
 Fire Missile [|cffffcc00Level 2|r]
 }
@@ -42876,7 +43035,7 @@ Mastery [|cffffcc00Level 4|r]
 }
 
 STRING 11705
-// Abilities: A0UM (Blitzschlag - Stufe 2), EditorSuffix (Editor Suffix)
+// Abilities: A0ZP (Zehren - Stufe 2), EditorSuffix (Editor Suffix)
 {
 Fire Missile [|cffffcc00Level 2|r]
 }
@@ -42900,7 +43059,7 @@ Mastery [|cffffcc00Level 5|r]
 }
 
 STRING 11719
-// Abilities: A0ZP (Zehren - Stufe 2), EditorSuffix (Editor Suffix)
+// Abilities: A1KN (Entzünden - Erlernen), EditorSuffix (Editor Suffix)
 {
 Fire Missile [|cffffcc00Level 2|r]
 }
@@ -43416,7 +43575,7 @@ Learn spells - 8 skill points (|cffffcc00Z|r)
 }
 
 STRING 11860
-// Buffs/Effects: B005 (Earth Prison), EditorSuffix (Editor Suffix)
+// Abilities: A1I7 (Wächter des Flusses beschwören), EditorSuffix (Editor Suffix)
 {
 (Elemental Mage)
 }
@@ -43488,7 +43647,7 @@ Pfeilhagel - Stufe 5
 }
 
 STRING 11933
-// Abilities: A0H1 (Brandpfeile - Stufe 3), EditorSuffix (Editor Suffix)
+// Abilities: A113 (Sprinten - Stufe 3), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -43500,7 +43659,7 @@ Pfeilhagel - Stufe 1
 }
 
 STRING 11935
-// Abilities: A1JD ((Favoritenfähigkeit - Kleriker)), EditorSuffix (Editor Suffix)
+// Abilities: A0YL (Eagle Eye - Level 5), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -43512,7 +43671,7 @@ Pfeilhagel - Stufe 2
 }
 
 STRING 11937
-// Abilities: A113 (Sprinten - Stufe 3), EditorSuffix (Editor Suffix)
+// Abilities: A114 (Sprinten - Stufe 4), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -43524,7 +43683,7 @@ Pfeilhagel - Stufe 3
 }
 
 STRING 11939
-// Abilities: A0YL (Eagle Eye - Level 5), EditorSuffix (Editor Suffix)
+// Abilities: A0YI (Eagle Eye - Level 2), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -43536,7 +43695,7 @@ Pfeilhagel - Stufe 4
 }
 
 STRING 11941
-// Abilities: A114 (Sprinten - Stufe 4), EditorSuffix (Editor Suffix)
+// Abilities: A1BT (Hundezwinger - Stufe 1), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -43560,7 +43719,7 @@ Hail of Arrows
 }
 
 STRING 11945
-// Abilities: A12E (Hail of Arrows), EditorSuffix (Editor Suffix)
+// Abilities: A06Q (Shot in the Heart), EditorSuffix (Editor Suffix)
 {
 (Ranger)
 }
@@ -43632,7 +43791,7 @@ Templer
 }
 
 STRING 11957
-// Abilities: A12R (Lying in Wait), EditorSuffix (Editor Suffix)
+// Abilities: A0GS (Fire Arrows), EditorSuffix (Editor Suffix)
 {
 (Ranger)
 }
@@ -43650,7 +43809,7 @@ Lying in Wait
 }
 
 STRING 11960
-// Abilities: A068 (Eagle Eye), EditorSuffix (Editor Suffix)
+// Abilities: A12E (Hail of Arrows), EditorSuffix (Editor Suffix)
 {
 (Ranger)
 }
@@ -43740,7 +43899,7 @@ Lauern - Stufe 5
 }
 
 STRING 12028
-// Abilities: A0YI (Eagle Eye - Level 2), EditorSuffix (Editor Suffix)
+// Abilities: A0H4 (Blessing), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -43752,7 +43911,7 @@ Lauern - Stufe 1
 }
 
 STRING 12030
-// Abilities: A1BT (Hundezwinger - Stufe 1), EditorSuffix (Editor Suffix)
+// Abilities: A08O (Verzweifeltes Gebet), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -43764,7 +43923,7 @@ Lauern - Stufe 2
 }
 
 STRING 12032
-// Abilities: A0H4 (Blessing), EditorSuffix (Editor Suffix)
+// Abilities: A0C2 (Melee), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -43776,7 +43935,7 @@ Lauern - Stufe 3
 }
 
 STRING 12034
-// Abilities: A08O (Verzweifeltes Gebet), EditorSuffix (Editor Suffix)
+// Abilities: A0N4 (Eispfeile - Stufe 5), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -43788,7 +43947,7 @@ Lauern - Stufe 4
 }
 
 STRING 12036
-// Abilities: A0C2 (Melee), EditorSuffix (Editor Suffix)
+// Abilities: A18D (Falle - Stufe 3), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -44874,13 +45033,13 @@ Protect [|cffffcc00Level 1|r]
 }
 
 STRING 12423
-// Buffs/Effects: B00E (Feeding), EditorSuffix (Editor Suffix)
+// Buffs/Effects: B005 (Earth Prison), EditorSuffix (Editor Suffix)
 {
 (Elemental Mage)
 }
 
 STRING 12424
-// Buffs/Effects: B00J (Archer), EditorSuffix (Editor Suffix)
+// Abilities: A12R (Lying in Wait), EditorSuffix (Editor Suffix)
 {
 (Ranger)
 }
@@ -45234,13 +45393,13 @@ Crow Form - Learn
 }
 
 STRING 12589
-// Buffs/Effects: B02G (Mastery), EditorSuffix (Editor Suffix)
+// Buffs/Effects: B00E (Feeding), EditorSuffix (Editor Suffix)
 {
 (Elemental Mage)
 }
 
 STRING 12590
-// Buffs/Effects: B02I (), EditorSuffix (Editor Suffix)
+// Abilities: A068 (Eagle Eye), EditorSuffix (Editor Suffix)
 {
 (Ranger)
 }
@@ -46008,7 +46167,7 @@ Wild Bear Man
 }
 
 STRING 12872
-// Buffs/Effects: B02J (Lying in Wait), EditorSuffix (Editor Suffix)
+// Buffs/Effects: B00J (Archer), EditorSuffix (Editor Suffix)
 {
 (Ranger)
 }
@@ -46209,18 +46368,6 @@ STRING 12905
 // Abilities: A15W (Inner Fire), Tip (Tooltip - Normal)
 {
 Schwächen
-}
-
-STRING 12906
-// Abilities: A1I8 (Elementarwesen), Ubertip (Tooltip - Normal - Extended)
-{
-Schwächen
-}
-
-STRING 12907
-// Abilities: A1I8 (Elementarwesen), Ubertip (Tooltip - Normal - Extended)
-{
-Verringert die Schadenswirkung einer angewählten befreundeten Einheit um <A15W,DataA1,%> % und die Rüstung um <A15W,DataB1>. |nHält <A15W,Dur1> Sekunden lang an.
 }
 
 STRING 12908
@@ -47544,7 +47691,7 @@ Der Drachentöter schlägt kraftvoll zu und fügt dem angewählten Ziel <A070,Da
 }
 
 STRING 13181
-// Abilities: A03A (Manaschild), Tip (Tooltip - Normal)
+// Abilities: A070 (Blow), Ubertip (Tooltip - Normal - Extended)
 {
 Der Drachentöter schlägt kraftvoll zu und fügt dem angewählten Ziel <A070,DataC2> Punkte Schaden zu.|n<A070,Cool2> Sekunden Abklingzeit.
 }
@@ -48342,7 +48489,7 @@ Mehrfachschuss - Stufe 5
 }
 
 STRING 13366
-// Abilities: A0N4 (Eispfeile - Stufe 5), EditorSuffix (Editor Suffix)
+// Abilities: A0YJ (Eagle Eye - Level 3), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -48354,7 +48501,7 @@ Mehrfachschuss - Stufe 1
 }
 
 STRING 13368
-// Abilities: A18D (Falle - Stufe 3), EditorSuffix (Editor Suffix)
+// Abilities: A0C1 (Range Combat), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -48366,7 +48513,7 @@ Mehrfachschuss - Stufe 2
 }
 
 STRING 13370
-// Abilities: A0YJ (Eagle Eye - Level 3), EditorSuffix (Editor Suffix)
+// Abilities: A0GZ (Brandpfeile - Stufe 1), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -48378,7 +48525,7 @@ Mehrfachschuss - Stufe 3
 }
 
 STRING 13372
-// Abilities: A0C1 (Range Combat), EditorSuffix (Editor Suffix)
+// Abilities: A180 (Mehrfachschuss - Stufe 4), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -48390,7 +48537,7 @@ Mehrfachschuss - Stufe 4
 }
 
 STRING 13374
-// Abilities: A0GZ (Brandpfeile - Stufe 1), EditorSuffix (Editor Suffix)
+// Abilities: A1MM (Mehrfachschuss - Erlernen), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -48444,7 +48591,7 @@ Trap
 }
 
 STRING 13387
-// Buffs/Effects: X002 (Pfeilhagel Effekt), EditorSuffix (Editor Suffix)
+// Buffs/Effects: B02I (), EditorSuffix (Editor Suffix)
 {
 (Ranger)
 }
@@ -48606,7 +48753,7 @@ Falle - Stufe 5
 }
 
 STRING 13474
-// Abilities: A180 (Mehrfachschuss - Stufe 4), EditorSuffix (Editor Suffix)
+// Abilities: A18C (Falle - Stufe 2), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -48618,7 +48765,7 @@ Falle - Stufe 1
 }
 
 STRING 13476
-// Abilities: A1MM (Mehrfachschuss - Erlernen), EditorSuffix (Editor Suffix)
+// Abilities: A14N (Haldar's Ring), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -48630,7 +48777,7 @@ Falle - Stufe 2
 }
 
 STRING 13478
-// Abilities: A18C (Falle - Stufe 2), EditorSuffix (Editor Suffix)
+// Abilities: A1LE (Pfeilhagel - Erlernen), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -48642,7 +48789,7 @@ Falle - Stufe 3
 }
 
 STRING 13480
-// Abilities: A14N (Haldar's Ring), EditorSuffix (Editor Suffix)
+// Abilities: A148 (Baldar's Ring), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -48654,7 +48801,7 @@ Falle - Stufe 4
 }
 
 STRING 13482
-// Abilities: A1LE (Pfeilhagel - Erlernen), EditorSuffix (Editor Suffix)
+// Abilities: A0H3 (Brandpfeile - Stufe 5), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -48666,13 +48813,13 @@ Falle - Stufe 5
 }
 
 STRING 13484
-// Buffs/Effects: B02Q (), EditorSuffix (Editor Suffix)
+// Buffs/Effects: B02J (Lying in Wait), EditorSuffix (Editor Suffix)
 {
 (Ranger)
 }
 
 STRING 13485
-// Buffs/Effects: B02R (), EditorSuffix (Editor Suffix)
+// Buffs/Effects: X002 (Pfeilhagel Effekt), EditorSuffix (Editor Suffix)
 {
 (Ranger)
 }
@@ -49881,18 +50028,6 @@ STRING 13708
 // Abilities: A00X (ASystemGUI - shortcut t), Tip (Tooltip - Normal)
 {
 T
-}
-
-STRING 13709
-// Abilities: A0PZ (Conversion), Tip (Tooltip - Normal)
-{
-Bekehrung [|cffffcc00Stufe 1|r] (|cffffcc00T|r)
-}
-
-STRING 13710
-// Abilities: A0PZ (Conversion), Tip (Tooltip - Normal)
-{
-Bekehrung [|cffffcc00Stufe 2|r] (|cffffcc00T|r)
 }
 
 STRING 13711
@@ -60732,7 +60867,7 @@ Hundezwinger - Stufe 5
 }
 
 STRING 15624
-// Abilities: A148 (Baldar's Ring), EditorSuffix (Editor Suffix)
+// Abilities: A1LY (Leprechaun - Erlernen), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -60744,7 +60879,7 @@ Hundezwinger - Stufe 1
 }
 
 STRING 15626
-// Abilities: A0H3 (Brandpfeile - Stufe 5), EditorSuffix (Editor Suffix)
+// Abilities: A12Q (Pfeilhagel - Stufe 5), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -60756,7 +60891,7 @@ Hundezwinger - Stufe 2
 }
 
 STRING 15628
-// Abilities: A1LY (Leprechaun - Erlernen), EditorSuffix (Editor Suffix)
+// Abilities: A111 (Sprinten - Stufe 1), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -60768,7 +60903,7 @@ Hundezwinger - Stufe 3
 }
 
 STRING 15630
-// Abilities: A12Q (Pfeilhagel - Stufe 5), EditorSuffix (Editor Suffix)
+// Abilities: A0N1 (Eispfeile - Stufe 2), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -60780,7 +60915,7 @@ Hundezwinger - Stufe 4
 }
 
 STRING 15632
-// Abilities: A111 (Sprinten - Stufe 1), EditorSuffix (Editor Suffix)
+// Abilities: A0GN (Poisoned Arrows - Level 1), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -60792,7 +60927,7 @@ Hundezwinger - Stufe 5
 }
 
 STRING 15634
-// Buffs/Effects: B02U (), EditorSuffix (Editor Suffix)
+// Buffs/Effects: B02Q (), EditorSuffix (Editor Suffix)
 {
 (Ranger)
 }
@@ -60852,7 +60987,7 @@ Ein Hundezwinger.
 }
 
 STRING 15644
-// Buffs/Effects: B00F (), EditorSuffix (Editor Suffix)
+// Buffs/Effects: B02R (), EditorSuffix (Editor Suffix)
 {
 (Ranger)
 }
@@ -60867,12 +61002,6 @@ STRING 15646
 // Buffs/Effects: B02R (), Buffubertip (Tooltip - Extended)
 {
 Ein Meutehund.
-}
-
-STRING 15647
-// Abilities: A0PZ (Conversion), Tip (Tooltip - Normal)
-{
-Bekehrung [|cffffcc00Stufe 3|r] (|cffffcc00T|r)
 }
 
 STRING 15648
@@ -61641,12 +61770,6 @@ STRING 15840
 // Abilities: A0FF (Alpha), EditorSuffix (Editor Suffix)
 {
 (Druide - Ultimativzauber 1)
-}
-
-STRING 15841
-// Abilities: A0PZ (Conversion), Tip (Tooltip - Normal)
-{
-Bekehrung [|cffffcc00Stufe 4|r] (|cffffcc00T|r)
 }
 
 STRING 15842
@@ -62700,7 +62823,7 @@ Sprint
 }
 
 STRING 16042
-// Buffs/Effects: B039 (), EditorSuffix (Editor Suffix)
+// Buffs/Effects: B02U (), EditorSuffix (Editor Suffix)
 {
 (Ranger)
 }
@@ -67388,19 +67511,19 @@ Magma-Elementarwesen
 }
 
 STRING 17206
-// Abilities: A1I9 (Elementarwesen), Name (Name)
+// Buffs/Effects: B00D (), Bufftip (Tooltip)
 {
 Elementarwesen
 }
 
 STRING 17207
-// Abilities: A1I8 (Elementarwesen), Tip (Tooltip - Normal)
+// Abilities: A1I8 (Elemental Creatures), Tip (Tooltip - Normal)
 {
 Elemental Creatures [|cffffcc00Level 1|r]
 }
 
 STRING 17208
-// Abilities: A1I8 (Elementarwesen), Tip (Tooltip - Normal)
+// Abilities: A1I8 (Elemental Creatures), Tip (Tooltip - Normal)
 {
 Elemental Creatures [|cffffcc00Level 2|r]
 }
@@ -67424,13 +67547,13 @@ Elemental Creatures [|cffffcc00Level 5|r]
 }
 
 STRING 17212
-// Abilities: A1I8 (Elementarwesen), Ubertip (Tooltip - Normal - Extended)
+// Abilities: A1I8 (Elemental Creatures), Ubertip (Tooltip - Normal - Extended)
 {
 Zerlegt den Elementarmagier in Elementarwesen, sodass 5 spezielle Elementarwesen entstehen. Wenn eines von ihnen bis zum Ablauf der Beschwörungszeitspanne überlebt, wird der Elementarmagier wiedergeboren.|nHält <A1I8,Dur4> Sekunden.
 }
 
 STRING 17213
-// Abilities: A1I8 (Elementarwesen), Ubertip (Tooltip - Normal - Extended)
+// Abilities: A1I8 (Elemental Creatures), Ubertip (Tooltip - Normal - Extended)
 {
 Zerlegt den Elementarmagier in Elementarwesen, sodass 6 spezielle Elementarwesen entstehen. Wenn eines von ihnen bis zum Ablauf der Beschwörungszeitspanne überlebt, wird der Elementarmagier wiedergeboren.|nHält <A1I8,Dur5> Sekunden.
 }
@@ -67445,12 +67568,6 @@ STRING 17215
 // Abilities: A1ID (Elementarwesen - Stufe 4), Ubertip (Tooltip - Normal - Extended)
 {
 Cuts the elemental mage into elemental creatures so that special elemental creatures arise. If one of them survives until the end of the summoning period, the elemental mage is reborn. |n|n|cffffcc00Level 1|r - Water and fire elemental creatures. |n|cffffcc00Level 2|r - Water, fire and magma elemental creatures. |n|cffffcc00Level 3|r - Water, fire, magma and wind elemental creatures. |n|cffffcc00Level 4|r - Water, fire, magma, wind and sand elemental creatures. |n|cffffcc00Level 5|r - Water, fire, magma, wind, sand and ice elemental creatures.
-}
-
-STRING 17217
-// Abilities: A1I8 (Elementarwesen), Name (Name)
-{
-Elementarwesen
 }
 
 STRING 17218
@@ -67508,7 +67625,7 @@ STRING 17230
 }
 
 STRING 17232
-// Abilities: A1KF (Elementarwesen - Erlernen), Ubertip (Tooltip - Normal - Extended)
+// Abilities: A1KF (Elemental Creatures - Learn), Ubertip (Tooltip - Normal - Extended)
 {
 Cuts the elemental mage into elemental creatures so that special elemental creatures arise. If one of them survives until the end of the summoning period, the elemental mage is reborn. |n|n|cffffcc00Level 1|r - Water and fire elemental creatures. |n|cffffcc00Level 2|r - Water, fire and magma elemental creatures. |n|cffffcc00Level 3|r - Water, fire, magma and wind elemental creatures. |n|cffffcc00Level 4|r - Water, fire, magma, wind and sand elemental creatures. |n|cffffcc00Level 5|r - Water, fire, magma, wind, sand and ice elemental creatures.
 }
@@ -67568,7 +67685,7 @@ Summons a healing source for <A0D3,Dur1> seconds, which heals life per second fo
 }
 
 STRING 17255
-// Abilities: A1I8 (Elementarwesen), Tip (Tooltip - Normal)
+// Abilities: A1I8 (Elemental Creatures), Tip (Tooltip - Normal)
 {
 Elemental Creatures [|cffffcc00Level 3|r]
 }
@@ -67616,7 +67733,7 @@ Dryadenquelle - Erlernen
 }
 
 STRING 17269
-// Abilities: A1I8 (Elementarwesen), Tip (Tooltip - Normal)
+// Abilities: A1I8 (Elemental Creatures), Tip (Tooltip - Normal)
 {
 Elemental Creatures [|cffffcc00Level 4|r]
 }
@@ -67646,7 +67763,7 @@ STRING 17282
 }
 
 STRING 17283
-// Abilities: A1I8 (Elementarwesen), Tip (Tooltip - Normal)
+// Abilities: A1I8 (Elemental Creatures), Tip (Tooltip - Normal)
 {
 Elemental Creatures [|cffffcc00Level 5|r]
 }
@@ -67664,7 +67781,7 @@ Elementarwesen - Stufe 5
 }
 
 STRING 17288
-// Abilities: A0N1 (Eispfeile - Stufe 2), EditorSuffix (Editor Suffix)
+// Abilities: A0YS (Gewandheit - Stufe 2), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -67703,12 +67820,6 @@ STRING 17297
 // Abilities: A1IJ (Elementarwesen - Stufe 5), Name (Name)
 {
 Elementarwesen - Stufe 5
-}
-
-STRING 17299
-// Buffs/Effects: B00D (), Bufftip (Tooltip)
-{
-Elementarwesen
 }
 
 STRING 17300
@@ -67820,7 +67931,7 @@ Learn Earth Prison
 }
 
 STRING 17326
-// Abilities: A1KN (Entzünden - Erlernen), EditorSuffix (Editor Suffix)
+// Abilities: A11M (Beherrschung - Stufe 5), EditorSuffix (Editor Suffix)
 {
 Fire Missile [|cffffcc00Level 2|r]
 }
@@ -67850,7 +67961,7 @@ Leprechaun - Stufe 1
 }
 
 STRING 17333
-// Abilities: A0GN (Poisoned Arrows - Level 1), EditorSuffix (Editor Suffix)
+// Abilities: A06A (Recovery), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -68223,21 +68334,15 @@ Linderung - Erlernen
 }
 
 STRING 17416
-// Abilities: A1KF (Elementarwesen - Erlernen), Tip (Tooltip - Normal)
+// Abilities: A1KF (Elemental Creatures - Learn), Tip (Tooltip - Normal)
 {
 Learn Elemental Creatures
 }
 
 STRING 17417
-// Abilities: A11M (Beherrschung - Stufe 5), EditorSuffix (Editor Suffix)
+// Abilities: A1IB (Elementarwesen - Stufe 2), EditorSuffix (Editor Suffix)
 {
 Fire Missile [|cffffcc00Level 2|r]
-}
-
-STRING 17418
-// Abilities: A1KG (Elementarwesen - Erlernen), Name (Name)
-{
-Elementarwesen - Erlernen
 }
 
 STRING 17420
@@ -68301,7 +68406,7 @@ Gewandheit - Erlernen
 }
 
 STRING 17431
-// Abilities: A0YS (Gewandheit - Stufe 2), EditorSuffix (Editor Suffix)
+// Abilities: A0NP (Blind), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -68916,12 +69021,6 @@ STRING 17533
 // Abilities: A0D4 (Grove), Tip (Tooltip - Normal)
 {
 Hain beschwören [|cffffcc00Stufe 5|r] (|cffffcc00K|r)
-}
-
-STRING 17534
-// Abilities: A1KF (Elementarwesen - Erlernen), Name (Name)
-{
-Elementarwesen - Erlernen
 }
 
 STRING 17535
@@ -69758,36 +69857,6 @@ STRING 17673
 Q
 }
 
-STRING 17674
-// Abilities: A01M (Sprint), Tip (Tooltip - Normal)
-{
-Sprinten [|cffffcc00Stufe 2|r] (|cffffcc00D|r)
-}
-
-STRING 17675
-// Abilities: A01M (Sprint), Tip (Tooltip - Normal)
-{
-Sprinten [|cffffcc00Stufe 3|r] (|cffffcc00D|r)
-}
-
-STRING 17676
-// Abilities: A01M (Sprint), Tip (Tooltip - Normal)
-{
-Sprinten [|cffffcc00Stufe 4|r] (|cffffcc00D|r)
-}
-
-STRING 17677
-// Abilities: A01M (Sprint), Tip (Tooltip - Normal)
-{
-Sprinten [|cffffcc00Stufe 5|r] (|cffffcc00D|r)
-}
-
-STRING 17678
-// Abilities: A01M (Sprint), Tip (Tooltip - Normal)
-{
-Sprinten [|cffffcc00Stufe 1|r] (|cffffcc00D|r)
-}
-
 STRING 17679
 // Abilities: A06Q (Shot in the Heart), Tip (Tooltip - Normal)
 {
@@ -70598,36 +70667,6 @@ STRING 17813
 Arkaner Schutz [|cffffcc00Stufe 5|r] (|cffffcc00L|r)
 }
 
-STRING 17814
-// Abilities: A03A (Manaschild), Tip (Tooltip - Normal)
-{
-Drains up to 120 mana from an enemy, deals doubled damage to the enemy and transfers the mana to the wizard.
-}
-
-STRING 17815
-// Abilities: A070 (Blow), Ubertip (Tooltip - Normal - Extended)
-{
-Der Drachentöter schlägt kraftvoll zu und fügt dem angewählten Ziel <A070,DataC2> Punkte Schaden zu.|n<A070,Cool2> Sekunden Abklingzeit.
-}
-
-STRING 17816
-// Abilities: A03A (Manaschild), Tip (Tooltip - Normal)
-{
-Manaschild [|cffffcc00Stufe 4|r] (|cffffcc00E|r)
-}
-
-STRING 17817
-// Abilities: A03A (Manaschild), Tip (Tooltip - Normal)
-{
-Manaschild [|cffffcc00Stufe 5|r] (|cffffcc00E|r)
-}
-
-STRING 17818
-// Abilities: A03A (Manaschild), Tip (Tooltip - Normal)
-{
-Manaschild [|cffffcc00Stufe 1|r] (|cffffcc00E|r)
-}
-
 STRING 17819
 // Abilities: A03B (Dämpfung), Tip (Tooltip - Normal)
 {
@@ -71091,7 +71130,7 @@ Learn Elemental Power
 }
 
 STRING 17905
-// Abilities: A1IB (Elementarwesen - Stufe 2), EditorSuffix (Editor Suffix)
+// Abilities: A0L3 (Teleportation - Stufe 4), EditorSuffix (Editor Suffix)
 {
 Fire Missile [|cffffcc00Level 2|r]
 }
@@ -71127,7 +71166,7 @@ Learn Inflame
 }
 
 STRING 17921
-// Abilities: A0L3 (Teleportation - Stufe 4), EditorSuffix (Editor Suffix)
+// Abilities: A0KH (Inferno - Stufe 3), EditorSuffix (Editor Suffix)
 {
 Fire Missile [|cffffcc00Level 2|r]
 }
@@ -71259,7 +71298,7 @@ Learn Fire Missile
 }
 
 STRING 17985
-// Abilities: A0KH (Inferno - Stufe 3), EditorSuffix (Editor Suffix)
+// Abilities: A0TS (Entzünden - Stufe 2), EditorSuffix (Editor Suffix)
 {
 Fire Missile [|cffffcc00Level 2|r]
 }
@@ -71397,7 +71436,7 @@ Learn Freeze
 }
 
 STRING 18049
-// Abilities: A0TS (Entzünden - Stufe 2), EditorSuffix (Editor Suffix)
+// Abilities: A0ZE (Erdgefängnis - Stufe 5), EditorSuffix (Editor Suffix)
 {
 Fire Missile [|cffffcc00Level 2|r]
 }
@@ -71445,7 +71484,7 @@ Eispfeile - Erlernen
 }
 
 STRING 18069
-// Abilities: A06A (Recovery), EditorSuffix (Editor Suffix)
+// Abilities: A11H (Schütze - Stufe 1), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -71577,7 +71616,7 @@ Pfeilhagel - Erlernen
 }
 
 STRING 18133
-// Abilities: A0NP (Blind), EditorSuffix (Editor Suffix)
+// Abilities: A0YV (Gewandheit - Stufe 5), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -71697,7 +71736,7 @@ Eiszeit erlernen
 }
 
 STRING 18193
-// Abilities: A0ZE (Erdgefängnis - Stufe 5), EditorSuffix (Editor Suffix)
+// Abilities: A0ZS (Zehren - Stufe 5), EditorSuffix (Editor Suffix)
 {
 Fire Missile [|cffffcc00Level 2|r]
 }
@@ -71733,7 +71772,7 @@ Learn Ice Missile
 }
 
 STRING 18209
-// Abilities: A0ZS (Zehren - Stufe 5), EditorSuffix (Editor Suffix)
+// Abilities: A0UP (Blitzschlag - Stufe 5), EditorSuffix (Editor Suffix)
 {
 Fire Missile [|cffffcc00Level 2|r]
 }
@@ -71799,7 +71838,7 @@ Learn Inferno
 }
 
 STRING 18241
-// Abilities: A0UP (Blitzschlag - Stufe 5), EditorSuffix (Editor Suffix)
+// Abilities: A0U2 (Feuersbrunst - Stufe 2), EditorSuffix (Editor Suffix)
 {
 Fire Missile [|cffffcc00Level 2|r]
 }
@@ -71883,7 +71922,7 @@ Hundezwinger - Erlernen
 }
 
 STRING 18275
-// Abilities: A11H (Schütze - Stufe 1), EditorSuffix (Editor Suffix)
+// Abilities: A12Y (Lauern - Stufe 1), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -71913,7 +71952,7 @@ Leprechaun - Erlernen
 }
 
 STRING 18291
-// Abilities: A0YV (Gewandheit - Stufe 5), EditorSuffix (Editor Suffix)
+// Abilities: A131 (Lauern - Stufe 4), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -71943,7 +71982,7 @@ Lauern - Erlernen
 }
 
 STRING 18307
-// Abilities: A12Y (Lauern - Stufe 1), EditorSuffix (Editor Suffix)
+// Buffs/Effects: B00Z (Recovery (Target)), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -71967,7 +72006,7 @@ Learn Lightning Strike
 }
 
 STRING 18319
-// Abilities: A0U2 (Feuersbrunst - Stufe 2), EditorSuffix (Editor Suffix)
+// Abilities: A0KJ (Inferno - Stufe 5), EditorSuffix (Editor Suffix)
 {
 Fire Missile [|cffffcc00Level 2|r]
 }
@@ -72231,7 +72270,7 @@ Learn Mastery
 }
 
 STRING 18447
-// Abilities: A0KJ (Inferno - Stufe 5), EditorSuffix (Editor Suffix)
+// Abilities: A0UW (Erfrierung - Stufe 2), EditorSuffix (Editor Suffix)
 {
 Fire Missile [|cffffcc00Level 2|r]
 }
@@ -72309,7 +72348,7 @@ Mehrfachschuss - Erlernen
 }
 
 STRING 18481
-// Abilities: A131 (Lauern - Stufe 4), EditorSuffix (Editor Suffix)
+// Buffs/Effects: B01E (Exorcize Evil), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -72489,7 +72528,7 @@ Vergiftete Pfeile - Erlernen
 }
 
 STRING 18561
-// Buffs/Effects: B00Z (Recovery (Target)), EditorSuffix (Editor Suffix)
+// Buffs/Effects: B027 (Blind), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -72579,7 +72618,7 @@ STRING 18595
 }
 
 STRING 18605
-// Abilities: A0UW (Erfrierung - Stufe 2), EditorSuffix (Editor Suffix)
+// Abilities: A1M1 (Blitzschlag - Erlernen), EditorSuffix (Editor Suffix)
 {
 Fire Missile [|cffffcc00Level 2|r]
 }
@@ -72609,7 +72648,7 @@ Learn Rage of Elements
 }
 
 STRING 18621
-// Abilities: A1M1 (Blitzschlag - Erlernen), EditorSuffix (Editor Suffix)
+// Abilities: A0L1 (Teleportation - Stufe 2), EditorSuffix (Editor Suffix)
 {
 Fire Missile [|cffffcc00Level 2|r]
 }
@@ -73035,7 +73074,7 @@ Schütze - Erlernen
 }
 
 STRING 18815
-// Buffs/Effects: B01E (Exorcize Evil), EditorSuffix (Editor Suffix)
+// Buffs/Effects: B028 (), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -73071,7 +73110,7 @@ Schuss ins Herz - Erlernen
 }
 
 STRING 18831
-// Buffs/Effects: B027 (Blind), EditorSuffix (Editor Suffix)
+// Buffs/Effects: B02F (Conversion), EditorSuffix (Editor Suffix)
 {
 (Cleric)
 }
@@ -73167,18 +73206,6 @@ STRING 18875
 }
 
 STRING 18876
-// Abilities: A1O0 (Sprinten - Erlernen), Name (Name)
-{
-Sprinten - Erlernen
-}
-
-STRING 18879
-// Buffs/Effects: B028 (), EditorSuffix (Editor Suffix)
-{
-(Cleric)
-}
-
-STRING 18880
 // Abilities: A1NZ (Sprinten - Erlernen), Name (Name)
 {
 Sprinten - Erlernen
@@ -73305,7 +73332,7 @@ Learn Teleportation
 }
 
 STRING 18939
-// Abilities: A0L1 (Teleportation - Stufe 2), EditorSuffix (Editor Suffix)
+// Abilities: A0ZM (Wut der Elemente - Stufe 1), EditorSuffix (Editor Suffix)
 {
 Fire Missile [|cffffcc00Level 2|r]
 }
@@ -73460,12 +73487,6 @@ STRING 19002
 Falle - Erlernen
 }
 
-STRING 19005
-// Buffs/Effects: B02F (Conversion), EditorSuffix (Editor Suffix)
-{
-(Cleric)
-}
-
 STRING 19006
 // Abilities: A1OG (Falle - Erlernen), Name (Name)
 {
@@ -73518,12 +73539,6 @@ STRING 19032
 // Abilities: A1OJ (Zehren - Erlernen), Tip (Tooltip - Normal)
 {
 Learn Feeding
-}
-
-STRING 19033
-// Abilities: A0ZM (Wut der Elemente - Stufe 1), EditorSuffix (Editor Suffix)
-{
-Fire Missile [|cffffcc00Level 2|r]
 }
 
 STRING 19034
