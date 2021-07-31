@@ -1,1 +1,0 @@
-Audacityfilter Tonhöhe ändern -30
