@@ -22,7 +22,7 @@ The knight rushes his target and stuns it for 2 seconds and deals X points damag
 
 STRING 4
 {
-Tamino Dauth and Andreas B.
+Baradé and Deranor
 }
 
 STRING 5
@@ -4395,6 +4395,11 @@ STRING 735
 // Items: I02F (Rake), Ubertip (Tooltip - Extended)
 {
 A rake for digging.
+}
+
+STRING 736
+{
+Talras is a small castle in the borderland of the kingdom of the humans. His vanity, the duke Heimrich, rules over the castle and lands with severity and hope, in the face of the dark situation of these days.
 }
 
 STRING 737
@@ -14194,6 +14199,11 @@ STRING 2373
 Aura of the King
 }
 
+STRING 2374
+{
+Mercenary 1
+}
+
 STRING 2375
 // Abilities: A0R7 (Flammenhaut), Name (Name)
 {
@@ -17231,27 +17241,42 @@ Der Elementarmagier vereist das Gebiet in einem Umkreis von 600 um sich herum f�
 }
 
 STRING 2885
-// Buffs/Effects: B02G (Mastery), EditorSuffix (Editor Suffix)
+// Abilities: A1KF (Elemental Creatures - Learn), EditorSuffix (Editor Suffix)
 {
 (Elemental Mage)
 }
 
 STRING 2886
-// Buffs/Effects: B00F (), EditorSuffix (Editor Suffix)
+// Abilities: A0HX (Poisoned Arrows), EditorSuffix (Editor Suffix)
 {
 (Ranger)
 }
 
 STRING 2887
-// Buffs/Effects: B039 (), EditorSuffix (Editor Suffix)
+// Abilities: A01M (Sprint), EditorSuffix (Editor Suffix)
 {
 (Ranger)
+}
+
+STRING 2888
+{
+Mercenary 2
 }
 
 STRING 2889
 // Abilities: A05M (Ahnenpakt - Erlernen), Ubertip (Tooltip - Normal - Extended)
 {
 The Necromancer regenerates his life and mana with the help of a corpse. He converts a part of the life and mana of the corpse into own life and mana.|n|n|cffffcc00Level 1|r - Converts 20 % life and 10 % mana.|n|cffffcc00Level 2|r - Converts 30 % life and 20 % mana.|n|cffffcc00Level 3|r - Converts 40 % life and 30 % mana.|n|cffffcc00Level 4|r - Converts 50 % life and 40 % mana.|n|cffffcc00Level 5|r - Converts 60 % life and 50 % mana.
+}
+
+STRING 2890
+{
+Mercenary 3
+}
+
+STRING 2891
+{
+Mercenary 4
 }
 
 STRING 2892
@@ -17302,6 +17327,36 @@ STRING 2899
 (Dragon Slayer)
 }
 
+STRING 2900
+{
+Mercenary 5
+}
+
+STRING 2901
+{
+Mercenary 6
+}
+
+STRING 2902
+{
+NPC Fellows
+}
+
+STRING 2903
+{
+Arena Opponent
+}
+
+STRING 2904
+{
+Orcs and Dark Elves
+}
+
+STRING 2905
+{
+The White Legion
+}
+
 STRING 2906
 // Abilities: A0RN (Ancestors Pact - Level 4), Tip (Tooltip - Normal)
 {
@@ -17318,6 +17373,11 @@ STRING 2908
 // Abilities: A0RS (Ancestors Pact - Level 4), Name (Name)
 {
 Ancestors Pact - Level 4
+}
+
+STRING 2909
+{
+The Black Legion
 }
 
 STRING 2910
@@ -17500,6 +17560,11 @@ STRING 2939
 Blow
 }
 
+STRING 2940
+{
+Mercenaries
+}
+
 STRING 2941
 // Abilities: A0RL (Ancestors Pact - Level 2), Ubertip (Tooltip - Normal - Extended)
 {
@@ -17660,6 +17725,16 @@ STRING 2967
 // Abilities: A074 (Selflessness), Name (Name)
 {
 Selflessness
+}
+
+STRING 2968
+{
+Computer Allies
+}
+
+STRING 2969
+{
+Computer Enemies
 }
 
 STRING 2970
@@ -26856,7 +26931,7 @@ Poisoned Arrows
 }
 
 STRING 5263
-// Abilities: A0HX (Poisoned Arrows), EditorSuffix (Editor Suffix)
+// Abilities: A03S (Archer), EditorSuffix (Editor Suffix)
 {
 (Ranger)
 }
@@ -28925,13 +29000,13 @@ STRING 6113
 }
 
 STRING 6114
-// Abilities: A1KF (Elemental Creatures - Learn), EditorSuffix (Editor Suffix)
+// Abilities: A01A (Inferno), EditorSuffix (Editor Suffix)
 {
 (Elemental Mage)
 }
 
 STRING 6115
-// Abilities: A01A (Inferno), EditorSuffix (Editor Suffix)
+// Abilities: A14C (Baldar's Ring), EditorSuffix (Editor Suffix)
 {
 (Elemental Mage)
 }
@@ -30953,7 +31028,7 @@ Brandpfeile - Stufe 5
 }
 
 STRING 6907
-// Abilities: A01M (Sprint), EditorSuffix (Editor Suffix)
+// Abilities: A1NS (Schütze - Erlernen), EditorSuffix (Editor Suffix)
 {
 (Ranger)
 }
@@ -35525,7 +35600,7 @@ Eispfeile - Stufe 5
 }
 
 STRING 8850
-// Abilities: A03S (Archer), EditorSuffix (Editor Suffix)
+// Abilities: A06O (Gewandtheit), EditorSuffix (Editor Suffix)
 {
 (Ranger)
 }
@@ -37127,7 +37202,7 @@ Heals 300 life for an allied non-mechanic target.|n|cffc3dbffSpell can be used o
 }
 
 STRING 9320
-// Abilities: A1NS (Schütze - Erlernen), EditorSuffix (Editor Suffix)
+// Abilities: A0VG (Range Combat), EditorSuffix (Editor Suffix)
 {
 (Ranger)
 }
@@ -39574,13 +39649,13 @@ Melee
 }
 
 STRING 10371
-// Abilities: A14C (Baldar's Ring), EditorSuffix (Editor Suffix)
+// Abilities: A01E (Conflagration), EditorSuffix (Editor Suffix)
 {
 (Elemental Mage)
 }
 
 STRING 10372
-// Abilities: A06O (Gewandtheit), EditorSuffix (Editor Suffix)
+// Abilities: A06Q (Shot in the Heart), EditorSuffix (Editor Suffix)
 {
 (Ranger)
 }
@@ -39652,13 +39727,13 @@ Range Combat
 }
 
 STRING 10384
-// Abilities: A01E (Conflagration), EditorSuffix (Editor Suffix)
+// Abilities: A1I7 (Wächter des Flusses beschwören), EditorSuffix (Editor Suffix)
 {
 (Elemental Mage)
 }
 
 STRING 10385
-// Abilities: A0VG (Range Combat), EditorSuffix (Editor Suffix)
+// Abilities: A0GS (Fire Arrows), EditorSuffix (Editor Suffix)
 {
 (Ranger)
 }
@@ -43575,7 +43650,7 @@ Learn spells - 8 skill points (|cffffcc00Z|r)
 }
 
 STRING 11860
-// Abilities: A1I7 (Wächter des Flusses beschwören), EditorSuffix (Editor Suffix)
+// Buffs/Effects: B005 (Earth Prison), EditorSuffix (Editor Suffix)
 {
 (Elemental Mage)
 }
@@ -43719,7 +43794,7 @@ Hail of Arrows
 }
 
 STRING 11945
-// Abilities: A06Q (Shot in the Heart), EditorSuffix (Editor Suffix)
+// Abilities: A12E (Hail of Arrows), EditorSuffix (Editor Suffix)
 {
 (Ranger)
 }
@@ -43791,7 +43866,7 @@ Templer
 }
 
 STRING 11957
-// Abilities: A0GS (Fire Arrows), EditorSuffix (Editor Suffix)
+// Abilities: A12R (Lying in Wait), EditorSuffix (Editor Suffix)
 {
 (Ranger)
 }
@@ -43809,7 +43884,7 @@ Lying in Wait
 }
 
 STRING 11960
-// Abilities: A12E (Hail of Arrows), EditorSuffix (Editor Suffix)
+// Abilities: A068 (Eagle Eye), EditorSuffix (Editor Suffix)
 {
 (Ranger)
 }
@@ -45033,13 +45108,13 @@ Protect [|cffffcc00Level 1|r]
 }
 
 STRING 12423
-// Buffs/Effects: B005 (Earth Prison), EditorSuffix (Editor Suffix)
+// Buffs/Effects: B00E (Feeding), EditorSuffix (Editor Suffix)
 {
 (Elemental Mage)
 }
 
 STRING 12424
-// Abilities: A12R (Lying in Wait), EditorSuffix (Editor Suffix)
+// Buffs/Effects: B00J (Archer), EditorSuffix (Editor Suffix)
 {
 (Ranger)
 }
@@ -45393,13 +45468,13 @@ Crow Form - Learn
 }
 
 STRING 12589
-// Buffs/Effects: B00E (Feeding), EditorSuffix (Editor Suffix)
+// Buffs/Effects: B02G (Mastery), EditorSuffix (Editor Suffix)
 {
 (Elemental Mage)
 }
 
 STRING 12590
-// Abilities: A068 (Eagle Eye), EditorSuffix (Editor Suffix)
+// Buffs/Effects: B02I (), EditorSuffix (Editor Suffix)
 {
 (Ranger)
 }
@@ -46167,7 +46242,7 @@ Wild Bear Man
 }
 
 STRING 12872
-// Buffs/Effects: B00J (Archer), EditorSuffix (Editor Suffix)
+// Buffs/Effects: B02J (Lying in Wait), EditorSuffix (Editor Suffix)
 {
 (Ranger)
 }
@@ -48591,7 +48666,7 @@ Trap
 }
 
 STRING 13387
-// Buffs/Effects: B02I (), EditorSuffix (Editor Suffix)
+// Buffs/Effects: X002 (Pfeilhagel Effekt), EditorSuffix (Editor Suffix)
 {
 (Ranger)
 }
@@ -48813,13 +48888,13 @@ Falle - Stufe 5
 }
 
 STRING 13484
-// Buffs/Effects: B02J (Lying in Wait), EditorSuffix (Editor Suffix)
+// Buffs/Effects: B02Q (), EditorSuffix (Editor Suffix)
 {
 (Ranger)
 }
 
 STRING 13485
-// Buffs/Effects: X002 (Pfeilhagel Effekt), EditorSuffix (Editor Suffix)
+// Buffs/Effects: B02R (), EditorSuffix (Editor Suffix)
 {
 (Ranger)
 }
@@ -60927,7 +61002,7 @@ Hundezwinger - Stufe 5
 }
 
 STRING 15634
-// Buffs/Effects: B02Q (), EditorSuffix (Editor Suffix)
+// Buffs/Effects: B02U (), EditorSuffix (Editor Suffix)
 {
 (Ranger)
 }
@@ -60987,7 +61062,7 @@ Ein Hundezwinger.
 }
 
 STRING 15644
-// Buffs/Effects: B02R (), EditorSuffix (Editor Suffix)
+// Buffs/Effects: B00F (), EditorSuffix (Editor Suffix)
 {
 (Ranger)
 }
@@ -62823,7 +62898,7 @@ Sprint
 }
 
 STRING 16042
-// Buffs/Effects: B02U (), EditorSuffix (Editor Suffix)
+// Buffs/Effects: B039 (), EditorSuffix (Editor Suffix)
 {
 (Ranger)
 }
