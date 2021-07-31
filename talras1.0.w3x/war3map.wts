@@ -8554,18 +8554,6 @@ STRING 1428
 Moon (Extra)
 }
 
-STRING 1429
-// Doodads: D08Q (Pechkessel (Grasland)), Name (Name)
-{
-Pechkessel (Grasland)
-}
-
-STRING 1430
-// Doodads: D08R (Waffenplatz (Grasland)), Name (Name)
-{
-Waffenplatz (Grasland)
-}
-
 STRING 1431
 // Abilities: A02P (Axe), Name (Name)
 {
@@ -9778,24 +9766,6 @@ STRING 1632
 (Eingegraben)
 }
 
-STRING 1633
-// Doodads: D08S (Holzschild 1 (Grasland)), Name (Name)
-{
-Holzschild 1 (Grasland)
-}
-
-STRING 1634
-// Doodads: D08T (Holzschild 2 (Grasland)), Name (Name)
-{
-Holzschild 2 (Grasland)
-}
-
-STRING 1635
-// Doodads: D08U (Holzschild 3 (Grasland)), Name (Name)
-{
-Holzschild 3 (Grasland)
-}
-
 STRING 1636
 // Items: I07S (Frostwolffell), Ubertip (Tooltip - Extended)
 {
@@ -10658,12 +10628,6 @@ STRING 1779
 // Buffs/Effects: B00J (Archer), Buffubertip (Tooltip - Extended)
 {
 This unit is under the effect of 'Archer'; its distance damage is increased.
-}
-
-STRING 1780
-// Doodads: D08V (Wiederbelebungsschrein (Grasland)), Name (Name)
-{
-Wiederbelebungsschrein (Grasland)
 }
 
 STRING 1781
@@ -11928,12 +11892,6 @@ STRING 1991
 // Units: n01X (Forest Spirit), EditorSuffix (Name - Editor Suffix)
 {
 (weiblich)
-}
-
-STRING 1992
-// Doodads: D08Y (Langboot (Grasland)), Name (Name)
-{
-Langboot (Grasland)
 }
 
 STRING 1993
@@ -13963,12 +13921,6 @@ STRING 2331
 Stone of Sacrifice
 }
 
-STRING 2332
-// Doodads: D090 (Lichtquelle rot klein (Extra)), Name (Name)
-{
-Lichtquelle rot klein (Extra)
-}
-
 STRING 2333
 // Units: n02C (Box), Name (Name)
 {
@@ -14010,6 +13962,24 @@ STRING 2339
 Undiscovered Mission
 }
 
+STRING 2340
+// Doodads: D01R (Wooden Roof 1 (Grassland)), Name (Name)
+{
+Wooden Roof 1 (Grassland)
+}
+
+STRING 2341
+// Doodads: D03D (Forge (Grassland)), Name (Name)
+{
+Forge (Grassland)
+}
+
+STRING 2342
+// Doodads: D08Q (Tar Pot (Grasland)), Name (Name)
+{
+Tar Pot (Grasland)
+}
+
 STRING 2343
 // Abilities: A0R5 (Schmettern), Name (Name)
 {
@@ -14020,6 +13990,18 @@ STRING 2344
 // Abilities: A13K (Resistant Skin), EditorSuffix (Editor Suffix)
 {
 (Knochendrache)
+}
+
+STRING 2345
+// Doodads: D08R (Weapons Place (Grassland)), Name (Name)
+{
+Weapons Place (Grassland)
+}
+
+STRING 2346
+// Doodads: D08S (Wooden Sign 1 (Grassland)), Name (Name)
+{
+Wooden Sign 1 (Grassland)
 }
 
 STRING 2347
@@ -14200,6 +14182,12 @@ Dies ist die aktuelle Tageszeit.|N |NDie Tageszeit kann die Sicht von Einheiten 
 STRING 2379
 {
 Humans
+}
+
+STRING 2380
+// Doodads: D08T (Wooden Sign 2 (Grassland)), Name (Name)
+{
+Wooden Sign 2 (Grassland)
 }
 
 STRING 2381
@@ -14573,18 +14561,6 @@ STRING 2442
 Protection of the King
 }
 
-STRING 2446
-// Doodads: D096 (Mühle 1 (Grasland)), Name (Name)
-{
-Mühle 1 (Grasland)
-}
-
-STRING 2447
-// Doodads: D097 (Mühle 2 (Grasland)), Name (Name)
-{
-Mühle 2 (Grasland)
-}
-
 STRING 2448
 // Destructibles: B00G (Bridge), Name (Name)
 {
@@ -14610,6 +14586,18 @@ STRING 2451
 STRING 2452
 {
 |Cffffff00Strength|R
+}
+
+STRING 2453
+// Doodads: D08U (Wooden Sign 3 (Grassland)), Name (Name)
+{
+Wooden Sign 3 (Grassland)
+}
+
+STRING 2454
+// Doodads: D08V (Revival Shrine (Grassland)), Name (Name)
+{
+Revival Shrine (Grassland)
 }
 
 STRING 2455
@@ -14658,6 +14646,66 @@ STRING 2462
 // Abilities: A10Q (Arkane Zeit - Stufe 5), Ubertip (Tooltip - Normal - Extended)
 {
 Drains mana per second from each opponent in the range of 900 and transfers it to the wizard. The mana cannot exceed the mana maximum of the wizard.|n|n|cffffcc00Level 1|r - Drains 8 % mana. Lasts 7 seconds.|n|cffffcc00Level 2|r - Drains 10 % mana. Lasts 9 seconds.|n|cffffcc00Level 3|r - Drains 12 % mana. Lasts 11 seconds.|n|cffffcc00Level 4|r - Drains 14 % mana. Lasts 13 seconds.|n|cffffcc00Level 5|r - Drains 16 % mana. Lasts 15 seconds.
+}
+
+STRING 2463
+// Doodads: D08Y (Long Boat (Grassland)), Name (Name)
+{
+Long Boat (Grassland)
+}
+
+STRING 2464
+// Doodads: D090 (Light Source red small (Extra)), Name (Name)
+{
+Light Source red small (Extra)
+}
+
+STRING 2465
+// Doodads: D096 (Mill 1 (Grassland)), Name (Name)
+{
+Mill 1 (Grassland)
+}
+
+STRING 2466
+// Doodads: D097 (Mill 2 (Grassland)), Name (Name)
+{
+Mill 2 (Grassland)
+}
+
+STRING 2467
+// Doodads: D098 (Shit (Grassland)), Name (Name)
+{
+Shit (Grassland)
+}
+
+STRING 2468
+// Doodads: D09O (House Wall 1 (Grassland)), Name (Name)
+{
+House Wall 1 (Grassland)
+}
+
+STRING 2469
+// Doodads: D09P (House Wall 2 (Grassland)), Name (Name)
+{
+House Wall 2 (Grassland)
+}
+
+STRING 2470
+// Doodads: D09Q (House Wall 3 (Grassland)), Name (Name)
+{
+House Wall 3 (Grassland)
+}
+
+STRING 2471
+// Doodads: D09R (House Wall 4 (Grassland)), Name (Name)
+{
+House Wall 4 (Grassland)
+}
+
+STRING 2472
+// Doodads: D09S (House Wall 5 (Grassland)), Name (Name)
+{
+House Wall 5 (Grassland)
 }
 
 STRING 2473
@@ -14736,6 +14784,18 @@ STRING 2485
 // Abilities: A05P (Arcane Hunger), Name (Name)
 {
 Arcane Hunger
+}
+
+STRING 2486
+// Doodads: D09T (House Wall 6 (Grassland)), Name (Name)
+{
+House Wall 6 (Grassland)
+}
+
+STRING 2487
+// Doodads: D09U (House Wall 7 (Grassland)), Name (Name)
+{
+House Wall 7 (Grassland)
 }
 
 STRING 2488
@@ -14832,6 +14892,12 @@ STRING 2503
 // Abilities: A05Q (Einschüchtern), Name (Name)
 {
 Einschüchtern
+}
+
+STRING 2504
+// Doodads: D09V (House Wall 8 (Grassland)), Name (Name)
+{
+House Wall 8 (Grassland)
 }
 
 STRING 2505
@@ -15038,12 +15104,6 @@ STRING 2538
 Tote beleben
 }
 
-STRING 2539
-// Doodads: D098 (Scheiße (Grasland)), Name (Name)
-{
-Scheiße (Grasland)
-}
-
 STRING 2540
 // Abilities: A1RV (Animate Dead), Ubertip (Tooltip - Normal - Extended)
 {
@@ -15110,6 +15170,18 @@ STRING 2550
 Magische Schockwellen
 }
 
+STRING 2551
+// Doodads: D09W (House Wall 9 (Grassland)), Name (Name)
+{
+House Wall 9 (Grassland)
+}
+
+STRING 2552
+// Doodads: D09X (House Wall 10 (Grassland)), Name (Name)
+{
+House Wall 10 (Grassland)
+}
+
 STRING 2553
 // Abilities: A03E (Manaschild), EditorSuffix (Editor Suffix)
 {
@@ -15140,6 +15212,18 @@ STRING 2557
 Arcane Hunger - Learn
 }
 
+STRING 2558
+// Doodads: D09Y (House Wall 11 (Grassland)), Name (Name)
+{
+House Wall 11 (Grassland)
+}
+
+STRING 2559
+// Doodads: D09Z (Wooden Beam 1 (Grassland)), Name (Name)
+{
+Wooden Beam 1 (Grassland)
+}
+
 STRING 2560
 // Abilities: A16E (Übertragung - Stufe 5), EditorSuffix (Editor Suffix)
 {
@@ -15156,6 +15240,48 @@ STRING 2562
 // Abilities: A0K3 (Kontrollierter Zeitfluss - Stufe 1), Ubertip (Tooltip - Normal - Extended)
 {
 Creates a shield that prevents spells from affecting a selected ally or the wizard himself. Besides reduces the suffered magical damage of the target.|n|n|cffffcc00Level 1|r - <A0A8,DataB1>% magical damage reduction. Lasts <A0A8,Dur1> seconds.|n|cffffcc00Level 2|r - <A0A8,DataB2>% magical damage reduction. Lasts <A0A8,Dur2> seconds.|n|cffffcc00Level 3|r - <A0A8,DataB3>% magical damage reduction. Lasts <A0A8,Dur3> seconds.|n|cffffcc00Level 4|r - <A0A8,DataB4>% magical damage reduction. Lasts <A0A8,Dur4> seconds.|n|cffffcc00Level 5|r - <A0A8,DataB5>% magical damage reduction. Lasts <A0A8,Dur5> seconds.
+}
+
+STRING 2563
+// Doodads: D0A0 (Wooden Beam 2 (Grassland)), Name (Name)
+{
+Wooden Beam 2 (Grassland)
+}
+
+STRING 2564
+// Doodads: D0A1 (Wooden Beam 3 (Grassland)), Name (Name)
+{
+Wooden Beam 3 (Grassland)
+}
+
+STRING 2565
+// Doodads: D0A2 (Wooden Beam 4 (Grassland)), Name (Name)
+{
+Wooden Beam 4 (Grassland)
+}
+
+STRING 2566
+// Doodads: D0A3 (Wooden Beam 5 (Grassland)), Name (Name)
+{
+Wooden Beam 5 (Grassland)
+}
+
+STRING 2567
+// Doodads: D0A4 (Wooden Roof 2 (Grassland)), Name (Name)
+{
+Wooden Roof 2 (Grassland)
+}
+
+STRING 2568
+// Doodads: D0A5 (Hut Door 1 (Grassland)), Name (Name)
+{
+Hut Door 1 (Grassland)
+}
+
+STRING 2569
+// Doodads: D0A6 (Hut Door 2 (Grassland)), Name (Name)
+{
+Hut Door 2 (Grassland)
 }
 
 STRING 2570
@@ -15434,6 +15560,66 @@ STRING 2615
 Verschlingen
 }
 
+STRING 2616
+// Doodads: D0A7 (Hut Wall 1 (Grassland)), Name (Name)
+{
+Hut Wall 1 (Grassland)
+}
+
+STRING 2617
+// Doodads: D0A8 (Hut Wall 2 (Grassland)), Name (Name)
+{
+Hut Wall 2 (Grassland)
+}
+
+STRING 2618
+// Doodads: D0A9 (City Wall 3 (Grassland)), Name (Name)
+{
+City Wall 3 (Grassland)
+}
+
+STRING 2619
+// Doodads: D0AA (City Wall 4 (Grassland)), Name (Name)
+{
+City Wall 4 (Grassland)
+}
+
+STRING 2620
+// Doodads: D0AB (City Covering (Grassland)), Name (Name)
+{
+City Covering (Grassland)
+}
+
+STRING 2621
+// Doodads: D0AC (City Barricade (Grassland)), Name (Name)
+{
+City Barricade (Grassland)
+}
+
+STRING 2622
+// Doodads: D0AT (Hut Roof 1 (Grassland)), Name (Name)
+{
+Hut Roof 1 (Grassland)
+}
+
+STRING 2623
+// Doodads: D0AU (Hut Roof 2 (Grassland)), Name (Name)
+{
+Hut Roof 2 (Grassland)
+}
+
+STRING 2624
+// Doodads: D0AV (Hut Roof 3 (Grassland)), Name (Name)
+{
+Hut Roof 3 (Grassland)
+}
+
+STRING 2625
+// Doodads: D0AW (Hut Roof 4 (Grassland)), Name (Name)
+{
+Hut Roof 4 (Grassland)
+}
+
 STRING 2626
 // Abilities: A066 (Scroll of the Realm of the Dead), EditorSuffix (Editor Suffix)
 {
@@ -15444,6 +15630,18 @@ STRING 2627
 // Abilities: A08N (Ancestors Pact), Ubertip (Tooltip - Normal - Extended)
 {
 Der Nekromant regeneriert sein Leben und Mana mit Hilfe eines Kadavers. Wandelt 30 % des ursprünglichen Lebens des Ziels zu Leben und 20 % des ursprünglichen Manas des Ziels zu Mana um.
+}
+
+STRING 2628
+// Doodads: D0AX (Palisade 5 (Grassland)), Name (Name)
+{
+Palisade 5 (Grassland)
+}
+
+STRING 2629
+// Doodads: D0AY (Palisade 6 (Grassland)), Name (Name)
+{
+Palisade 6 (Grassland)
 }
 
 STRING 2630
@@ -15518,6 +15716,18 @@ STRING 2641
 Fängt die Seele einer wilden Kreatur ein.
 }
 
+STRING 2642
+// Doodads: D0AZ (Palisade 7 (Grassland)), Name (Name)
+{
+Palisade 7 (Grassland)
+}
+
+STRING 2643
+// Doodads: D0B0 (Palisade 8 (Grassland)), Name (Name)
+{
+Palisade 8 (Grassland)
+}
+
 STRING 2644
 // Abilities: A0M5 (Aura of Taking Back), Ubertip (Tooltip - Normal - Extended)
 {
@@ -15536,6 +15746,36 @@ STRING 2646
 Allies nearby the Knight within a range of <A0M5,Area1> as well as the Knight himself receive a portion of their attack damage as life and mana back when they deal damage to opponents.|n|n|cffffcc00Level 1|r - <A0M5,DataA1,%> % of the damage are converted to life and mana.|n|cffffcc00Level 2|r - <A0M5,DataA2,%> % of the damage are converted to life and mana.|n|cffffcc00Level 3|r - <A0M5,DataA3,%> % of the damage are converted to life and mana.|n|cffffcc00Level 4|r - <A0M5,DataA4,%> % of the damage are converted to life and mana.|n|cffffcc00Level 5|r - <A0M5,DataA5,%> % of the damage are converted to life and mana.
 }
 
+STRING 2647
+// Doodads: D0B1 (Palisade 9 (Grassland)), Name (Name)
+{
+Palisade 9 (Grassland)
+}
+
+STRING 2648
+// Doodads: D0B2 (Palisade 10 (Grassland)), Name (Name)
+{
+Palisade 10 (Grassland)
+}
+
+STRING 2649
+// Doodads: D0B3 (Palisade Corner 1 (Grassland)), Name (Name)
+{
+Palisade Corner 1 (Grassland)
+}
+
+STRING 2650
+// Doodads: D0B4 (Palisade Corner 2 (Grassland)), Name (Name)
+{
+Palisade Corner 2 (Grassland)
+}
+
+STRING 2651
+// Doodads: D0B5 (Palisade Ground (Grassland)), Name (Name)
+{
+Palisade Ground (Grassland)
+}
+
 STRING 2652
 // Abilities: A067 (Ursulas Totem), EditorSuffix (Editor Suffix)
 {
@@ -15546,6 +15786,12 @@ STRING 2653
 // Items: I05D (Ursulas Totem), Name (Name)
 {
 Ursulas Totem
+}
+
+STRING 2654
+// Doodads: D0B6 (Palisade Gate (Grassland)), Name (Name)
+{
+Palisade Gate (Grassland)
 }
 
 STRING 2655
@@ -15746,6 +15992,30 @@ STRING 2687
 (Cleric)
 }
 
+STRING 2688
+// Doodads: D0B7 (Pan (Grassland)), Name (Name)
+{
+Pan (Grassland)
+}
+
+STRING 2689
+// Doodads: D0B8 (Skull (Grassland)), Name (Name)
+{
+Skull (Grassland)
+}
+
+STRING 2690
+// Doodads: D0B9 (City Signpost (Grassland)), Name (Name)
+{
+City Signpost (Grassland)
+}
+
+STRING 2691
+// Doodads: D0BA (Tower Roof 1 (Grassland)), Name (Name)
+{
+Tower Roof 1 (Grassland)
+}
+
 STRING 2692
 // Abilities: A06C (Arcane Protection - Learn), Tip (Tooltip - Normal)
 {
@@ -15794,10 +16064,28 @@ STRING 2699
 (Favoritenfähigkeit - Kleriker)
 }
 
+STRING 2700
+// Doodads: D0BB (Tower Roof 2 (Grassland)), Name (Name)
+{
+Tower Roof 2 (Grassland)
+}
+
 STRING 2701
 // Abilities: A06D (Arcane Protection - Learn), Name (Name)
 {
 Arcane Protection - Learn
+}
+
+STRING 2702
+// Doodads: D0BC (Tower Roof 3 (Grassland)), Name (Name)
+{
+Tower Roof 3 (Grassland)
+}
+
+STRING 2703
+// Doodads: D0BD (Tower Roof 4 (Grassland)), Name (Name)
+{
+Tower Roof 4 (Grassland)
 }
 
 STRING 2704
@@ -15818,10 +16106,46 @@ STRING 2706
 |cffffcc00Basic Spell|r|nRemoves a positive buff of an opponent and transfers it to an ally or a negative buff of an ally and transfers it to an opponent in a radius of <A08Z,Area1>.
 }
 
+STRING 2707
+// Doodads: D0BE (Tower Wall 1 (Grassland)), Name (Name)
+{
+Tower Wall 1 (Grassland)
+}
+
+STRING 2708
+// Doodads: D0BF (Tower Wall 2 (Grassland)), Name (Name)
+{
+Tower Wall 2 (Grassland)
+}
+
+STRING 2709
+// Doodads: D0BG (Tower Wall 3 (Grassland)), Name (Name)
+{
+Tower Wall 3 (Grassland)
+}
+
+STRING 2710
+// Doodads: D0BH (Tower Wall 4 (Grassland)), Name (Name)
+{
+Tower Wall 4 (Grassland)
+}
+
+STRING 2711
+// Doodads: D0BK (Saw (Grassland)), Name (Name)
+{
+Saw (Grassland)
+}
+
 STRING 2712
 // Abilities: A0HM (Plague), EditorSuffix (Editor Suffix)
 {
 (Favoritenfähigkeit - Nekromant)
+}
+
+STRING 2713
+// Doodads: D0BL (Spoon (Grassland)), Name (Name)
+{
+Spoon (Grassland)
 }
 
 STRING 2714
@@ -15834,6 +16158,12 @@ STRING 2715
 // Abilities: A11D (Schuss ins Herz - Stufe 3), EditorSuffix (Editor Suffix)
 {
 (Cleric)
+}
+
+STRING 2716
+// Doodads: D0BM (Waterfall Sound), Name (Name)
+{
+Waterfall Sound
 }
 
 STRING 2717
@@ -17228,162 +17558,6 @@ STRING 3021
 (horizontal, 10.45)
 }
 
-STRING 3039
-// Doodads: D09O (Hauswand 1 (Grasland)), Name (Name)
-{
-Hauswand 1 (Grasland)
-}
-
-STRING 3040
-// Doodads: D09P (Hauswand 2 (Grasland)), Name (Name)
-{
-Hauswand 2 (Grasland)
-}
-
-STRING 3041
-// Doodads: D09Q (Hauswand 3 (Grasland)), Name (Name)
-{
-Hauswand 3 (Grasland)
-}
-
-STRING 3042
-// Doodads: D09R (Hauswand 4 (Grasland)), Name (Name)
-{
-Hauswand 4 (Grasland)
-}
-
-STRING 3043
-// Doodads: D09S (Hauswand 5 (Grasland)), Name (Name)
-{
-Hauswand 5 (Grasland)
-}
-
-STRING 3044
-// Doodads: D09T (Hauswand 6 (Grasland)), Name (Name)
-{
-Hauswand 6 (Grasland)
-}
-
-STRING 3045
-// Doodads: D09U (Hauswand 7 (Grasland)), Name (Name)
-{
-Hauswand 7 (Grasland)
-}
-
-STRING 3046
-// Doodads: D09V (Hauswand 8 (Grasland)), Name (Name)
-{
-Hauswand 8 (Grasland)
-}
-
-STRING 3047
-// Doodads: D09W (Hauswand 9 (Grasland)), Name (Name)
-{
-Hauswand 9 (Grasland)
-}
-
-STRING 3048
-// Doodads: D09X (Hauswand 10 (Grasland)), Name (Name)
-{
-Hauswand 10 (Grasland)
-}
-
-STRING 3049
-// Doodads: D09Y (Hauswand 11 (Grasland)), Name (Name)
-{
-Hauswand 11 (Grasland)
-}
-
-STRING 3050
-// Doodads: D01R (Holzüberdachung 1 (Grasland)), Name (Name)
-{
-Holzüberdachung 1 (Grasland)
-}
-
-STRING 3051
-// Doodads: D09Z (Holzbalken 1 (Grasland)), Name (Name)
-{
-Holzbalken 1 (Grasland)
-}
-
-STRING 3052
-// Doodads: D0A0 (Holzbalken 2 (Grasland)), Name (Name)
-{
-Holzbalken 2 (Grasland)
-}
-
-STRING 3053
-// Doodads: D0A1 (Holzbalken 3 (Grasland)), Name (Name)
-{
-Holzbalken 3 (Grasland)
-}
-
-STRING 3054
-// Doodads: D0A2 (Holzbalken 4 (Grasland)), Name (Name)
-{
-Holzbalken 4 (Grasland)
-}
-
-STRING 3055
-// Doodads: D0A3 (Holzbalken 5 (Grasland)), Name (Name)
-{
-Holzbalken 5 (Grasland)
-}
-
-STRING 3056
-// Doodads: D0A4 (Holzüberdachung 2 (Grasland)), Name (Name)
-{
-Holzüberdachung 2 (Grasland)
-}
-
-STRING 3057
-// Doodads: D0A5 (Hüttentür 1 (Grasland)), Name (Name)
-{
-Hüttentür 1 (Grasland)
-}
-
-STRING 3058
-// Doodads: D0A6 (Hüttentür 2 (Grasland)), Name (Name)
-{
-Hüttentür 2 (Grasland)
-}
-
-STRING 3059
-// Doodads: D0A7 (Hüttenwand 1 (Grasland)), Name (Name)
-{
-Hüttenwand 1 (Grasland)
-}
-
-STRING 3060
-// Doodads: D0A8 (Hüttenwand 2 (Grasland)), Name (Name)
-{
-Hüttenwand 2 (Grasland)
-}
-
-STRING 3061
-// Doodads: D0A9 (Stadtmauer 3 (Grasland)), Name (Name)
-{
-Stadtmauer 3 (Grasland)
-}
-
-STRING 3062
-// Doodads: D0AA (Stadtmauer 4 (Grasland)), Name (Name)
-{
-Stadtmauer 4 (Grasland)
-}
-
-STRING 3063
-// Doodads: D0AB (Stadtbelag (Grasland)), Name (Name)
-{
-Stadtbelag (Grasland)
-}
-
-STRING 3064
-// Doodads: D0AC (Stadthindernis (Grasland)), Name (Name)
-{
-Stadthindernis (Grasland)
-}
-
 STRING 3065
 // Doodads: D0AD (Fels 1 (Grasland)), Name (Name)
 {
@@ -17683,172 +17857,10 @@ STRING 3124
 Nicht verwenden: Giutine (Grasland)
 }
 
-STRING 3130
-// Doodads: D0AT (Hüttendach 1 (Grasland)), Name (Name)
-{
-Hüttendach 1 (Grasland)
-}
-
-STRING 3131
-// Doodads: D0AU (Hüttendach 2 (Grasland)), Name (Name)
-{
-Hüttendach 2 (Grasland)
-}
-
-STRING 3132
-// Doodads: D0AV (Hüttendach 3 (Grasland)), Name (Name)
-{
-Hüttendach 3 (Grasland)
-}
-
-STRING 3133
-// Doodads: D0AW (Hüttendach 4 (Grasland)), Name (Name)
-{
-Hüttendach 4 (Grasland)
-}
-
-STRING 3134
-// Doodads: D0AX (Palisade 5 (Grasland)), Name (Name)
-{
-Palisade 5 (Grasland)
-}
-
-STRING 3135
-// Doodads: D0AY (Palisade 6 (Grasland)), Name (Name)
-{
-Palisade 6 (Grasland)
-}
-
-STRING 3136
-// Doodads: D0AZ (Palisade 7 (Grasland)), Name (Name)
-{
-Palisade 7 (Grasland)
-}
-
-STRING 3137
-// Doodads: D0B0 (Palisade 8 (Grasland)), Name (Name)
-{
-Palisade 8 (Grasland)
-}
-
-STRING 3138
-// Doodads: D0B1 (Palisade 9 (Grasland)), Name (Name)
-{
-Palisade 9 (Grasland)
-}
-
-STRING 3139
-// Doodads: D0B2 (Palisade 10 (Grasland)), Name (Name)
-{
-Palisade 10 (Grasland)
-}
-
-STRING 3140
-// Doodads: D0B3 (Palisadenecke 1 (Grasland)), Name (Name)
-{
-Palisadenecke 1 (Grasland)
-}
-
-STRING 3141
-// Doodads: D0B4 (Palisadenecke 2 (Grasland)), Name (Name)
-{
-Palisadenecke 2 (Grasland)
-}
-
-STRING 3142
-// Doodads: D0B5 (Palisadenfläche (Grasland)), Name (Name)
-{
-Palisadenfläche (Grasland)
-}
-
-STRING 3143
-// Doodads: D0B6 (Palisadentor (Grasland)), Name (Name)
-{
-Palisadentor (Grasland)
-}
-
-STRING 3144
-// Doodads: D0B7 (Pfanne (Grasland)), Name (Name)
-{
-Pfanne (Grasland)
-}
-
-STRING 3145
-// Doodads: D0B8 (Schädel (Grasland)), Name (Name)
-{
-Schädel (Grasland)
-}
-
-STRING 3146
-// Doodads: D0B9 (Stadtwegweiser (Grasland)), Name (Name)
-{
-Stadtwegweiser (Grasland)
-}
-
-STRING 3147
-// Doodads: D0BA (Turmdach 1 (Grasland)), Name (Name)
-{
-Turmdach 1 (Grasland)
-}
-
-STRING 3148
-// Doodads: D0BB (Turmdach 2 (Grasland)), Name (Name)
-{
-Turmdach 2 (Grasland)
-}
-
-STRING 3149
-// Doodads: D0BC (Turmdach 3 (Grasland)), Name (Name)
-{
-Turmdach 3 (Grasland)
-}
-
-STRING 3150
-// Doodads: D0BD (Turmdach 4 (Grasland)), Name (Name)
-{
-Turmdach 4 (Grasland)
-}
-
-STRING 3151
-// Doodads: D0BE (Turmmauer 1 (Grasland)), Name (Name)
-{
-Turmmauer 1 (Grasland)
-}
-
-STRING 3152
-// Doodads: D0BF (Turmmauer 2 (Grasland)), Name (Name)
-{
-Turmmauer 2 (Grasland)
-}
-
-STRING 3153
-// Doodads: D0BG (Turmmauer 3 (Grasland)), Name (Name)
-{
-Turmmauer 3 (Grasland)
-}
-
-STRING 3154
-// Doodads: D0BH (Turmmauer 4 (Grasland)), Name (Name)
-{
-Turmmauer 4 (Grasland)
-}
-
 STRING 3156
 // Units: n02S (Kuno's Daughter), Name (Name)
 {
 Kuno's Daughter
-}
-
-STRING 3159
-// Doodads: D0BK (Säge (Grasland)), Name (Name)
-{
-Säge (Grasland)
-}
-
-STRING 3160
-// Doodads: D0BL (Löffel (Grasland)), Name (Name)
-{
-Löffel (Grasland)
 }
 
 STRING 3161
@@ -18239,12 +18251,6 @@ STRING 3227
 // Buffs/Effects: B019 (Erster Mann), EditorSuffix (Editor Suffix)
 {
 (von Ricman)
-}
-
-STRING 3228
-// Doodads: D03D (Schmiedeofen/Esse (Grasland)), Name (Name)
-{
-Schmiedeofen/Esse (Grasland)
 }
 
 STRING 3229
@@ -44704,12 +44710,6 @@ STRING 12401
 // Abilities: A0BM (Baldar's Ring), Name (Name)
 {
 Baldar's Ring
-}
-
-STRING 12404
-// Doodads: D0BM (Wasserfallgeräusch), Name (Name)
-{
-Wasserfallgeräusch
 }
 
 STRING 12414
