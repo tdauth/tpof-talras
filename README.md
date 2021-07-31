@@ -168,6 +168,8 @@ Models:
 * Talavaj: [HybrisFactory - Multiple packages of realtexture models and textures](http://www.hiveworkshop.com/threads/hybrisfactory-terraining-and-mapping-resources.238310/)
 * Sellenisko: [Vrykul Race Pack](http://www.hiveworkshop.com/threads/vrykul-race-pack.241083/)
 * JoySoy: [The Mage](https://www.hiveworkshop.com/threads/the-mage.293180/)
+* Sunchips: [RedApple](https://www.hiveworkshop.com/threads/redapple.223180/)
+* Kitabatake: [Nordic Warrior](https://www.hiveworkshop.com/threads/nordic-warrior.88724/)
 
 Icons:
 
@@ -181,6 +183,7 @@ Icons:
 * Norinrad: BTNZwergenkrieger.blp
 * Elenai: BTNBotschafterin.blp, BTNKoeniglicherKleriker.blp
 * Michael Peppers: BTNGeistlicheSchwertkaempferin.blp
+* Eagle XI: [BTNVrykulWorker](https://www.hiveworkshop.com/threads/btnvrykulworker.272398/)
 
 User Interface:
 
