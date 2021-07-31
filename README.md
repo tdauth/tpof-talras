@@ -6,9 +6,10 @@ It contains cutscenes, voice acted dialogues and all basic RPG elements and syst
 It tries to capture a darker look like Gothic II and Diablog II and several elements of those games.
 The lore has been written for this modification and Talras is the castle which you enter in the beginning.
 
-## Download
+## Play the Map
 
-[talras1.0.w3x](./talras1.0.w3x)
+* [Discord Server](https://discord.gg/nNPg6SqdMy)
+* [talras1.0.w3x](./talras1.0.w3x)
 
 ## Features
 
