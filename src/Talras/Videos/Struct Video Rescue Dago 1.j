@@ -86,7 +86,6 @@ library StructMapVideosVideoRescueDago1 requires Asl, StructGameGame, StructMapM
 
 		private static method create takes nothing returns thistype
 			local thistype this = thistype.allocate(true)
-			call this.setFadeIn(false) // don't fade in to skip death of bears
 			call this.setActorOwner(MapSettings.neutralPassivePlayer())
 			return this
 		endmethod

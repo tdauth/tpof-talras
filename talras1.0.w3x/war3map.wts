@@ -10431,6 +10431,12 @@ STRING 1741
        
 }
 
+STRING 1742
+// Units: n04I (Vorstehhund), Ubertip (Tooltip - Extended)
+{
+Ein Vorstehhund, der dem Jäger zeigt, dass er Wild gefunden hat und seinem Herrn treu ergeben ist.|n|n|cffffcc00Stays permanently dead after being killed.|r
+}
+
 STRING 1743
 // Abilities: A0Z8 (Elementare Gewalt - Stufe 1), Tip (Tooltip - Normal)
 {
@@ -10651,6 +10657,12 @@ STRING 1779
 // Buffs/Effects: B00J (Archer), Buffubertip (Tooltip - Extended)
 {
 This unit is under the effect of 'Archer'; its distance damage is increased.
+}
+
+STRING 1780
+// Units: n04J (Leithund), Ubertip (Tooltip - Extended)
+{
+Ein Leithund, der die Meute aufspürt und seinem Herrn treu ergeben ist.|n|n|cffffcc00Stays permanently dead after being killed.|r
 }
 
 STRING 1781
@@ -11915,6 +11927,12 @@ STRING 1991
 // Units: n01X (Forest Spirit), EditorSuffix (Name - Editor Suffix)
 {
 (weiblich)
+}
+
+STRING 1992
+// Units: n04K (Meutehund), Ubertip (Tooltip - Extended)
+{
+Ein Meutehund, der das aufgespürte Tier hetzt und seinem Herrn treu ergeben ist.|n|n|cffffcc00Stays permanently dead after being killed.|r
 }
 
 STRING 1993
@@ -13944,6 +13962,12 @@ STRING 2331
 Stone of Sacrifice
 }
 
+STRING 2332
+// Items: I003 (Staff), Ubertip (Tooltip - Extended)
+{
+Increases the damage by <A02L,DataA1>.|n|cffc3dbffMelee weapon.|r
+}
+
 STRING 2333
 // Units: n02C (Box), Name (Name)
 {
@@ -14582,6 +14606,30 @@ STRING 2442
 // Abilities: A0R9 (Protection of the King), Tip (Tooltip - Normal)
 {
 Protection of the King
+}
+
+STRING 2443
+// Items: I04J (Staff of Icing), Ubertip (Tooltip - Extended)
+{
+Increases the damage by <A0VL,DataA1>. Besides, slows down the hit target.
+}
+
+STRING 2444
+// Items: I05J (Book of Potions), Tip (Tooltip - Basic)
+{
+Buy Book of Potions
+}
+
+STRING 2445
+// Items: I074 (Saddle), Ubertip (Tooltip - Extended)
+{
+Increases the armor by <A1TH,DataA1> and the movement speed by <A1TI,DataA1>. Can only be carried when the character is riding a horse.
+}
+
+STRING 2446
+// Items: I074 (Saddle), Description (Description)
+{
+Increases the speed and armor of a horse.
 }
 
 STRING 2448
@@ -23322,12 +23370,6 @@ STRING 4327
 // Items: I04J (Staff of Icing), Tip (Tooltip - Basic)
 {
 Buy Staff of Icing
-}
-
-STRING 4328
-// Items: I04J (Staff of Icing), Ubertip (Tooltip - Extended)
-{
-Erhöht den Schaden um <A0VL,DataA1>. Außerdem verlangsamt der Träger das getroffene Ziel.
 }
 
 STRING 4329
@@ -47651,12 +47693,6 @@ STRING 13211
 Vorstehhund kaufen
 }
 
-STRING 13212
-// Units: n04I (Vorstehhund), Ubertip (Tooltip - Extended)
-{
-Ein Vorstehhund, der dem Jäger zeigt, dass er Wild gefunden hat und seinem Herrn treu ergeben ist.
-}
-
 STRING 13213
 // Units: n04J (Leithund), Name (Name)
 {
@@ -47667,12 +47703,6 @@ STRING 13214
 // Units: n04J (Leithund), Tip (Tooltip - Basic)
 {
 Leithund kaufen
-}
-
-STRING 13215
-// Units: n04J (Leithund), Ubertip (Tooltip - Extended)
-{
-Ein Leithund, der die Meute aufspürt und seinem Herrn treu ergeben ist.
 }
 
 STRING 13216
@@ -47688,7 +47718,7 @@ Meutehund kaufen
 }
 
 STRING 13218
-// Units: n04K (Meutehund), Ubertip (Tooltip - Extended)
+// Units: n05N (Meutehund), Ubertip (Tooltip - Extended)
 {
 Ein Meutehund, der das aufgespürte Tier hetzt und seinem Herrn treu ergeben ist.
 }
@@ -49119,12 +49149,6 @@ STRING 13575
 // Items: I05K (Healing Herb), Tip (Tooltip - Basic)
 {
 Buy Healing Herb
-}
-
-STRING 13576
-// Items: I05J (Book of Potions), Tip (Tooltip - Basic)
-{
-Buch der Tränke kaufen
 }
 
 STRING 13577
@@ -60204,7 +60228,7 @@ Meutehund kaufen
 }
 
 STRING 15488
-// Units: n05N (Meutehund), Ubertip (Tooltip - Extended)
+// Units: n05T (Meutehund), Ubertip (Tooltip - Extended)
 {
 Ein Meutehund, der das aufgespürte Tier hetzt und seinem Herrn treu ergeben ist.
 }
@@ -60348,7 +60372,7 @@ Meutehund kaufen
 }
 
 STRING 15512
-// Units: n05T (Meutehund), Ubertip (Tooltip - Extended)
+// Units: n05U (Meutehund), Ubertip (Tooltip - Extended)
 {
 Ein Meutehund, der das aufgespürte Tier hetzt und seinem Herrn treu ergeben ist.
 }
@@ -60372,7 +60396,7 @@ Meutehund kaufen
 }
 
 STRING 15516
-// Units: n05U (Meutehund), Ubertip (Tooltip - Extended)
+// Units: n05V (Meutehund), Ubertip (Tooltip - Extended)
 {
 Ein Meutehund, der das aufgespürte Tier hetzt und seinem Herrn treu ergeben ist.
 }
@@ -60396,7 +60420,7 @@ Meutehund kaufen
 }
 
 STRING 15520
-// Units: n05V (Meutehund), Ubertip (Tooltip - Extended)
+// Units: n05W (Meutehund), Ubertip (Tooltip - Extended)
 {
 Ein Meutehund, der das aufgespürte Tier hetzt und seinem Herrn treu ergeben ist.
 }
@@ -60420,7 +60444,7 @@ Meutehund kaufen
 }
 
 STRING 15524
-// Units: n05W (Meutehund), Ubertip (Tooltip - Extended)
+// Units: n05X (Meutehund), Ubertip (Tooltip - Extended)
 {
 Ein Meutehund, der das aufgespürte Tier hetzt und seinem Herrn treu ergeben ist.
 }
@@ -60441,12 +60465,6 @@ STRING 15527
 // Units: n05X (Meutehund), Tip (Tooltip - Basic)
 {
 Meutehund kaufen
-}
-
-STRING 15528
-// Units: n05X (Meutehund), Ubertip (Tooltip - Extended)
-{
-Ein Meutehund, der das aufgespürte Tier hetzt und seinem Herrn treu ergeben ist.
 }
 
 STRING 15529
@@ -77858,18 +77876,6 @@ STRING 20038
 Hail of Arrows
 }
 
-STRING 20039
-// Items: I074 (Saddle), Ubertip (Tooltip - Extended)
-{
-Verstärkt die Rüstung um <A1TH,DataA1> und erhöht das Bewegungstempo um <A1TI,DataA1>. Kann nur getragen werden, wenn der Charakter auf einem Pferd reitet.
-}
-
-STRING 20040
-// Items: I074 (Saddle), Description (Description)
-{
-Erhöht die Geschwindigkeit sowie die Rüstung eines Pferds.
-}
-
 STRING 20041
 // Abilities: A1TH (Saddle), EditorSuffix (Editor Suffix)
 {
@@ -78042,12 +78048,6 @@ STRING 20070
 // Buffs/Effects: B038 (), EditorSuffix (Editor Suffix)
 {
 (Dragon Slayer)
-}
-
-STRING 20071
-// Items: I003 (Staff), Ubertip (Tooltip - Extended)
-{
-Erhöht den Schaden um <A02L,DataA1>.|n|cffc3dbffNahkampfwaffe.|r
 }
 
 STRING 20072
