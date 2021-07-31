@@ -30,7 +30,7 @@ Read [the instructions](./Sound/README.md) on how to install the German voice re
 * Arena system with PvP support.
 * Automatic creep respawns.
 * Automatic item respawns.
-* Fair distribution bounty and XP system from creep kills and completing quests.
+* Fair bounty, XP and item distribution from creep kills and completing quests.
 * AOS-like PvP area.
 * Class repick.
 * Equipment system with visible items, melee and range weapons.
