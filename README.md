@@ -12,6 +12,10 @@ The lore has been written for this modification and Talras is the castle which y
 * [Official download on HiveWorkshop](https://www.hiveworkshop.com/threads/the-power-of-fire-talras-1-0.334326/)
 * [Current development version](./talras1.0.w3x)
 
+## Install German Voice Recordings
+
+Read [the instructions](./Sound/README.md) on how to install the German voice recordings.
+
 ## Features
 
 * 8 custom classes with different custom spells.

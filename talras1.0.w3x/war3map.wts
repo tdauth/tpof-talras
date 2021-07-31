@@ -4397,11 +4397,6 @@ STRING 735
 A rake for digging.
 }
 
-STRING 736
-{
-Saugt 8 % Mana pro Sekunde  jeweils von allen Gegnern im Umkreis von 900 ab und überträgt es auf den Zauberer. Das Mana kann dabei nicht über das Mana-Maximum des Zauberers hinausgehen.|nHält 7 Sekunden.|nProzentsatz, Umkreis und Dauer werden mit der Stufe erhöht.
-}
-
 STRING 737
 // Items: I04W (Der Zauberer erzeugt eine Kuppel mit einem Radius von 600 und verringert den vo), Ubertip (Tooltip - Extended)
 {
@@ -14199,11 +14194,6 @@ STRING 2373
 Aura of the King
 }
 
-STRING 2374
-{
-Goldmünzen sind die offizielle Währung in den meisten Königreichen. Sie lösten ursprünglich den oft umständlichen Tauschhandel ab.
-}
-
 STRING 2375
 // Abilities: A0R7 (Flammenhaut), Name (Name)
 {
@@ -16574,6 +16564,16 @@ STRING 2771
 // Abilities: A0VC (Range Combat), EditorSuffix (Editor Suffix)
 {
 Protect [|cffffcc00Level 1|r]
+}
+
+STRING 2772
+{
+Talras 1.1
+}
+
+STRING 2773
+{
+Gold coins are the offical currency in most of the kingdoms.
 }
 
 STRING 2777
