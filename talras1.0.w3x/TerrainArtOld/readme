@@ -1,0 +1,70 @@
+2010-02-28 Tamino Dauth <tamino@cdauth.de>
+Liste der Ids:
+Ldro - Gras 1
+Ldrg - Gras 2
+Lrok - Gras 3
+
+Vermutlich hängen die benötigten Felder von der Anzahl der verfügbaren Variationen der Textur.
+Texturen mit zwei benötigten Feldern haben 18 Variationen. Die anderen dagegen nur 2.
+Die folgende Ersetzungsmaßnahme hat nichts gebracht.
+Der erste Geländetyp benötigte dennoch 2 Felder.
+Liste der Geländetypen, welche 2 Felder im Speicher brauchen (warum auch immer) bzw. der Klippentypen:
+* Lgrs - Gras 4 kann ersetzt werden durch: Bdrg - Brachland Grasbewachsene Erde
+* Fdro - Erde 2 kann ersetzt werden durch: Adrd - Ashenvale Raue Erde
+* Fdrt - Erde 1 kann ersetzt werden durch: Adrg - Ashenvale Grasbewachsene Erde
+* Fdrg - Erde 3 kann ersetzt werden durch: Alvd - Ashenvale Blätter
+
+Neue Definition für DMdF-Karten:
+* Es gibt keine Klippengeländetypen, da alles mit Erhebungen gemacht wird.
+* Die eigenen Geländetypen werden in der Datei "Terrain.slk" definiert und überschreiben vorhandene Ids aus Warcraft 3 TFT.
+* Es werden nur Geländetypen mit einem Speicherbedarf von 1 überschrieben.
+* Es können maximal 16 verschiedene Geländetypen pro Karte verwendet werden, die je nach Karte unterschiedlich sein können.
+* Nach Möglichkeit sollten sämtliche Geländetypen begehbar, bebaubar und befliegbar sein.
+* Nach Möglichkeit sollten sämtliche Geländetypen die Anzeige von Fußspuren erlauben.
+* Nach Möglichkeit sollten sämtliche Geländetypen eine Verseuchungspriorität von 0 haben.
+* Nach Möglichkeit sollte jeder Geländepunkt auf der Karte das Wasserflag gesetzt und das Verseuchungs- und Rampenflag nicht gesetzt haben (Verseuchungen sind für Zauber vorbehalten).
+* Für die Ebenenhöhe gilt noch keine spezielle Regel.
+
+2009-12-09 Tamino Dauth <tamino@cdauth.de>
+* Der Y-Wert in SLK-Dateien bezieht das erste Definitionsfeld mit ein.
+
+2009-12-08 Tamino Dauth <tamino@cdauth.de>
+* Für jedes Tileset ist eventuell eine Anzahl von benötigten Feldern festgelegt (zumindest in der normalen Editorfunktion). Gilt dies auch für den Tilesetter und den Spielinhalt, so müssen doch Ids von Nichtklippen-Tilesets verwendet werden.
+
+2009-12-04 Tamino Dauth <tamino@cdauth.de>
+Fügt man eigene Geländetypen in die Datei "Terrain.slk" ein, so muss man darauf achten, nicht zu viele Klippentypen und bereits vorhandene Geländeset-Ids aus Warcraft 3 und keine eigenen zu verwenden.
+
+Mögliche Geländeset-Ids, welche keine Klippen sind:
+Alle außer Ldrt.
+Ldrt wird für den einzigen verfügbaren Klippentyp verwendet.
+
+Bessere Methode:
+Einen einzigen Klippentyp selbst definieren, welcher eine der Texturen verwendet und Standard-Geländeset-Ids verwenden.
+
+List:
+Warcraft-3-Klippentyp-Id		Eigener Klippentyp
+CLgr					Felsklippe
+
+Warcraft-3-Geländeset-Id		Eigene Geländeset-Id
+Ldro					Grs1
+Ldrg					Grs2
+Lrok					Grs3
+Lgrs					Grs4
+Lgrd					Grs5
+Fdrt					Grd1
+Fdro					Grd2
+Fdrg					Grd3
+Frok					Les1
+Fgrs					Les2
+Fgrd					Les3
+Wdrt					Mos1
+Wdro					Mos2
+Wsng					Rok1
+Wrok					Rok2
+Wgrs					Fis1
+Wsnw					Fis2
+Bdrt					Rod1
+Bdrh					Rod2
+Bdrr
+Bdrg
+Bdsr
