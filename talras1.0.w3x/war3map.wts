@@ -8554,6 +8554,18 @@ STRING 1428
 Moon (Extra)
 }
 
+STRING 1429
+// Abilities: A1CX (Craft Big Healing Potion), Name (Name)
+{
+Craft Big Healing Potion
+}
+
+STRING 1430
+// Abilities: A1CX (Craft Big Healing Potion), Tip (Tooltip - Normal)
+{
+Craft Big Healing Potion
+}
+
 STRING 1431
 // Abilities: A02P (Axe), Name (Name)
 {
@@ -9766,6 +9778,24 @@ STRING 1632
 (Eingegraben)
 }
 
+STRING 1633
+// Abilities: A1CX (Craft Big Healing Potion), Ubertip (Tooltip - Normal - Extended)
+{
+Restores lost hitpoints.|n|nRequired materials:|n- 2 Healing Herbs
+}
+
+STRING 1634
+// Abilities: A015 (Open Backpack), Hotkey (Hotkey - Normal)
+{
+R
+}
+
+STRING 1635
+// Abilities: A015 (Open Backpack), EditorSuffix (Editor Suffix)
+{
+(Character)
+}
+
 STRING 1636
 // Items: I07S (Frostwolffell), Ubertip (Tooltip - Extended)
 {
@@ -10382,6 +10412,18 @@ STRING 1738
 // Items: I082 (Schalmei), Ubertip (Tooltip - Extended)
 {
 Erlaubt es dem Besitzer wunderbare Lieder zu spielen.
+}
+
+STRING 1739
+// Abilities: A015 (Open Backpack), Ubertip (Tooltip - Normal - Extended)
+{
+The backpack allows you to carry more items which are not equipped but still can be used and stacked. |n|nUsage:|n- Right click on an item and left click on its slot to equip/unequip it.|n - Right click on an item and left click on the bag items to move the item into another bag.
+}
+
+STRING 1740
+// Abilities: A015 (Open Backpack), Unhotkey (Hotkey - Turn Off)
+{
+R
 }
 
 STRING 1743
@@ -16329,6 +16371,11 @@ STRING 2749
 // Abilities: A06I (Magic Cloak), EditorSuffix (Editor Suffix)
 {
 (Zauberresistenz)
+}
+
+STRING 2750
+{
+Changing minimap texture!
 }
 
 STRING 2751
@@ -24781,12 +24828,6 @@ STRING 4854
 // Abilities: A05Q (Einschüchtern), Ubertip (Tooltip - Normal - Extended)
 {
 Verringert die Angriffsgeschwindkeit eines Gegners für 7 Sekunden um 30 %.|n<A05Q,Cool3> Sekunden Abklingzeit.
-}
-
-STRING 4855
-// Abilities: A015 (Open Backpack), EditorSuffix (Editor Suffix)
-{
-(Charakter)
 }
 
 STRING 4857
@@ -44400,12 +44441,6 @@ STRING 12274
 Change to the next bag
 }
 
-STRING 12275
-// Abilities: A1CX (Changes on usage to the next bag of the backpack. Drop an item from the backpac), Name (Name)
-{
-Changes on usage to the next bag of the backpack. Drop an item from the backpack on this item to move it into the next bag.|nThe backpack has 32 bags.
-}
-
 STRING 12276
 // Items: I001 (Change to the previous bag), Name (Name)
 {
@@ -46182,12 +46217,6 @@ STRING 12919
 Bear form
 }
 
-STRING 12920
-// Abilities: A1CX (Changes on usage to the next bag of the backpack. Drop an item from the backpac), Tip (Tooltip - Normal)
-{
-Changes on usage to the next bag of the backpack. Drop an item from the backpack on this item to move it into the next bag.|nThe backpack has 32 bags.
-}
-
 STRING 12921
 // Items: I04Y (Edles Langschwert), Name (Name)
 {
@@ -47248,12 +47277,6 @@ STRING 13143
 // Buffs/Effects: B02L (Tierkunde - Stufe 5 - Bärengestalt - Bärenhöhle), EditorName (Name (Editor Only))
 {
 Tierkunde - Stufe 5 - Bärengestalt - Bärenhöhle
-}
-
-STRING 13144
-// Abilities: A1CX (Changes on usage to the next bag of the backpack. Drop an item from the backpac), Ubertip (Tooltip - Normal - Extended)
-{
-Stellt verlorene Trefferpunkte wieder her.|n|nBenötigte Rohstoffe:|n- 2 Heilkräuter
 }
 
 STRING 13145
@@ -49195,7 +49218,7 @@ Summon Guardians
 }
 
 STRING 13592
-// Abilities: A1CX (Changes on usage to the next bag of the backpack. Drop an item from the backpac), EditorSuffix (Editor Suffix)
+// Abilities: A1CX (Craft Big Healing Potion), EditorSuffix (Editor Suffix)
 {
 (Buch der Tränke)
 }

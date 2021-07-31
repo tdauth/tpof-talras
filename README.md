@@ -9,7 +9,8 @@ The lore has been written for this modification and Talras is the castle which y
 ## Play the Map
 
 * [Discord Server](https://discord.gg/nNPg6SqdMy)
-* [talras1.0.w3x](./talras1.0.w3x)
+* [Official download on HiveWorkshop](https://www.hiveworkshop.com/threads/the-power-of-fire-talras-1-0.334326/)
+* [Current development version](./talras1.0.w3x)
 
 ## Features
 
@@ -28,11 +29,12 @@ The lore has been written for this modification and Talras is the castle which y
 * Fair distribution bounty and XP system from creep kills and completing quests.
 * AOS-like PvP area.
 * Class repick.
-* Equipment system with visible items.
+* Equipment system with visible items, melee and range weapons.
 * Backpack system with stacking items and without custom GUI which can be used during the battle.
 * Up to 15 different spells at once.
 * Custom skill system with 2 skill points per level and without custom GUI which can be used during the battle.
 * Shop markers.
+* Blood effects.
 * Many custom quests which can be completed by every player once.
 * Big coop battles.
 * Big hidden dungeons.
