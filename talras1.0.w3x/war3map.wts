@@ -4403,7 +4403,7 @@ Saugt 8 % Mana pro Sekunde  jeweils von allen Gegnern im Umkreis von 900 ab und 
 }
 
 STRING 737
-// Items: I04W (), Ubertip (Tooltip - Extended)
+// Items: I04W (Der Zauberer erzeugt eine Kuppel mit einem Radius von 600 und verringert den vo), Ubertip (Tooltip - Extended)
 {
 Saugt 10 % Mana pro Sekunde  jeweils von allen Gegnern im Umkreis von 900 ab und überträgt es auf den Zauberer. Das Mana kann dabei nicht über das Mana-Maximum des Zauberers hinausgehen.|nHält 9 Sekunden.|nProzentsatz, Umkreis und Dauer werden mit der Stufe erhöht.
 }
@@ -5308,6 +5308,12 @@ STRING 887
 Increases the armour by <A094,DataA5>.
 }
 
+STRING 888
+// Doodads: D08W (Bridge (Grasland, 8.15, horizontal)), Name (Name)
+{
+Bridge (Grasland, 8.15, horizontal)
+}
+
 STRING 889
 // Abilities: A0AA (Previous page), Tip (Tooltip - Normal)
 {
@@ -5348,6 +5354,12 @@ STRING 895
 // Items: I004 (Test Helmet), Name (Name)
 {
 Test Helmet
+}
+
+STRING 896
+// Doodads: D08X (Bridge (Grasland, 10.45, horizontal)), Name (Name)
+{
+Bridge (Grasland, 10.45, horizontal)
 }
 
 STRING 897
@@ -5518,6 +5530,12 @@ STRING 924
 Changes to the next class.
 }
 
+STRING 925
+// Doodads: D093 (Gold Coin Pouch 2 (Grassland)), Name (Name)
+{
+Gold Coin Pouch 2 (Grassland)
+}
+
 STRING 926
 // Buffs/Effects: B003 (Demon Servant), Buffubertip (Tooltip - Extended)
 {
@@ -5546,6 +5564,18 @@ STRING 930
 // Abilities: A1VD (Lord of Darkness), EditorSuffix (Editor Suffix)
 {
 (Book of Demonology)
+}
+
+STRING 931
+// Doodads: D094 (Gold Coin Pouch 3 (Grassland)), Name (Name)
+{
+Gold Coin Pouch 3 (Grassland)
+}
+
+STRING 932
+// Doodads: D095 (Gold Coin Pouch 1 (Grassland)), Name (Name)
+{
+Gold Coin Pouch 1 (Grassland)
 }
 
 STRING 933
@@ -5654,6 +5684,12 @@ STRING 950
 // Abilities: A01Q (Rush), Name (Name)
 {
 Rush
+}
+
+STRING 951
+// Doodads: D099 (House Roof 1 (Grassland)), Name (Name)
+{
+House Roof 1 (Grassland)
 }
 
 STRING 952
@@ -10570,6 +10606,12 @@ STRING 1770
 (Wizard)
 }
 
+STRING 1771
+// Doodads: D09A (House Roof 2 (Grassland)), Name (Name)
+{
+House Roof 2 (Grassland)
+}
+
 STRING 1772
 // Buffs/Effects: B00I (Absorbation), EditorName (Name (Editor Only))
 {
@@ -11620,6 +11662,7 @@ STRING 1946
 }
 
 STRING 1947
+// Items: I04W (Der Zauberer erzeugt eine Kuppel mit einem Radius von 600 und verringert den vo), Name (Name)
 {
 Der Zauberer erzeugt eine Kuppel mit einem Radius von 600 und verringert den von ihm und seinen 
 }
@@ -11649,11 +11692,13 @@ Mathilda
 }
 
 STRING 1952
+// Buffs/Effects: B039 (), Buffubertip (Tooltip - Extended)
 {
 Diese Einheit steht unter der Wirkung von 'Dämpfung'; erlittener magischer Schaden wird reduzie
 }
 
 STRING 1953
+// Abilities: A0MT (Cold Arrows), EditorSuffix (Editor Suffix)
 {
 Removes after a certain time all negative buffs of an ally or all positive buffs of an opponent.
 }
@@ -11689,6 +11734,7 @@ B
 }
 
 STRING 1959
+// Units: H03U (Must target Revival Shrine.), Name (Name)
 {
 Must target Revival Shrine.
 }
@@ -11711,11 +11757,13 @@ STRING 1962
 }
 
 STRING 1963
+// Units: H03U (Must target Revival Shrine.), Propernames (Proper Names)
 {
 Dark Elf:
 }
 
 STRING 1964
+// Units: H015 (Villager), EditorSuffix (Name - Editor Suffix)
 {
 Dark Elf
 }
@@ -11745,6 +11793,7 @@ Loaf
 }
 
 STRING 1969
+// Abilities: A1WH (Thunderstorm), EditorSuffix (Editor Suffix)
 {
 Character Points
 }
@@ -11774,11 +11823,13 @@ STRING 1973
 }
 
 STRING 1974
+// Abilities: A097 (Need to discover mission), Tip (Tooltip - Normal)
 {
 Mission Not Yet Discovered
 }
 
 STRING 1975
+// Abilities: A097 (Need to discover mission), Name (Name)
 {
 Need to discover mission
 }
@@ -11796,11 +11847,13 @@ STRING 1977
 }
 
 STRING 1978
+// Abilities: A1WH (Thunderstorm), Ubertip (Tooltip - Normal - Extended)
 {
 Nearby Character
 }
 
 STRING 1979
+// Units: h02K (Riderless Horse), EditorSuffix (Name - Editor Suffix)
 {
 Undiscovered Mission
 }
@@ -11824,7 +11877,7 @@ Buch
 }
 
 STRING 1983
-// Abilities: A015 (Open Backpack), Hotkey (Hotkey - Normal)
+// Abilities: A0RV (Soul Theft - Level 2), Ubertip (Tooltip - Normal - Extended)
 {
 R
 }
@@ -11836,13 +11889,13 @@ Dickes Buch
 }
 
 STRING 1985
-// Abilities: A015 (Open Backpack), EditorSuffix (Editor Suffix)
+// Abilities: A1NX (Soul Theft - Learn), Ubertip (Tooltip - Normal - Extended)
 {
 (Character)
 }
 
 STRING 1986
-// Abilities: A015 (Open Backpack), Ubertip (Tooltip - Normal - Extended)
+// Abilities: A0RY (Seelendiebstahl - Stufe 5), Ubertip (Tooltip - Normal - Extended)
 {
 Opens/closes the backpack which allows you to carry additional item which are stacked and have no effect on your character but can be used. Use right click and left click on the same slot to equip/unequip items. Use right click and left click on the bag items to move the item to another bag.
 }
@@ -11920,7 +11973,7 @@ Die Krone des Untoten-Königs.
 }
 
 STRING 1999
-// Abilities: A015 (Open Backpack), Unhotkey (Hotkey - Turn Off)
+// Abilities: A0RW (Soul Theft - Level 3), Ubertip (Tooltip - Normal - Extended)
 {
 R
 }
@@ -11955,6 +12008,12 @@ STRING 2004
 Brogo
 }
 
+STRING 2005
+// Doodads: D09B (House Roof 3 (Grassland)), Name (Name)
+{
+House Roof 3 (Grassland)
+}
+
 STRING 2006
 // Items: I01B (Standarte der schwarzen Legion), Name (Name)
 {
@@ -11965,6 +12024,12 @@ STRING 2007
 // Items: I01B (Standarte der schwarzen Legion), Description (Description)
 {
 Die Standarte der schwarzen Legion.
+}
+
+STRING 2008
+// Doodads: D09C (House Roof 4 (Grassland)), Name (Name)
+{
+House Roof 4 (Grassland)
 }
 
 STRING 2009
@@ -12067,6 +12132,36 @@ STRING 2025
 // Items: I01G (Fire Potion), Ubertip (Tooltip - Extended)
 {
 Erhöht das Angriffstempo des Trinkenden <A05E,Dur1> Sekunden lang um <A05E,DataB1,%>%, das Bewegungstempo um <A05E,DataA1,%>%, sowie den erlittenen Schaden um <A05E,DataC1,%>%.
+}
+
+STRING 2026
+// Doodads: D09D (House Roof 5 (Grassland)), Name (Name)
+{
+House Roof 5 (Grassland)
+}
+
+STRING 2027
+// Doodads: D09E (House Roof 6 (Grassland)), Name (Name)
+{
+House Roof 6 (Grassland)
+}
+
+STRING 2028
+// Doodads: D09F (House Roof 7 (Grassland)), Name (Name)
+{
+House Roof 7 (Grassland)
+}
+
+STRING 2029
+// Doodads: D09G (House Roof 8 (Grassland)), Name (Name)
+{
+House Roof 8 (Grassland)
+}
+
+STRING 2030
+// Doodads: D09H (House Roof Half 1 (Grassland)), Name (Name)
+{
+House Roof Half 1 (Grassland)
 }
 
 STRING 2031
@@ -12261,6 +12356,36 @@ STRING 2062
 (Favoritenfähigkeit - Kleriker)
 }
 
+STRING 2063
+// Doodads: D09I (House Roof Half 2 (Grassland)), Name (Name)
+{
+House Roof Half 2 (Grassland)
+}
+
+STRING 2064
+// Doodads: D09J (House Roof Half 3 (Grassland)), Name (Name)
+{
+House Roof Half 3 (Grassland)
+}
+
+STRING 2065
+// Doodads: D09K (House Roof Half 4 (Grassland)), Name (Name)
+{
+House Roof Half 4 (Grassland)
+}
+
+STRING 2066
+// Doodads: D09L (House Door 1 (Grassland)), Name (Name)
+{
+House Door 1 (Grassland)
+}
+
+STRING 2067
+// Doodads: D09M (House Door 2 (Grassland)), Name (Name)
+{
+House Door 2 (Grassland)
+}
+
 STRING 2068
 // Abilities: A0OY (Clarity - Level 2), Tip (Tooltip - Normal)
 {
@@ -12301,6 +12426,12 @@ STRING 2074
 // Abilities: A053 (Clarity), Name (Name)
 {
 Clarity
+}
+
+STRING 2075
+// Doodads: D09N (House Door 3 (Grassland)), Name (Name)
+{
+House Door 3 (Grassland)
 }
 
 STRING 2076
@@ -12687,6 +12818,36 @@ STRING 2139
 ASL
 }
 
+STRING 2140
+// Doodads: D0AG (Bottle - blue (Grassland)), Name (Name)
+{
+Bottle - blue (Grassland)
+}
+
+STRING 2141
+// Doodads: D0AH (Bottle - green (Grassland)), Name (Name)
+{
+Bottle - green (Grassland)
+}
+
+STRING 2142
+// Doodads: D0AI (Bottle - pink (Grassland)), Name (Name)
+{
+Bottle - pink (Grassland)
+}
+
+STRING 2143
+// Doodads: D0AJ (Bottle - red (Grassland)), Name (Name)
+{
+Bottle - red (Grassland)
+}
+
+STRING 2144
+// Doodads: D0AK (Gold Coin (Grassland)), Name (Name)
+{
+Gold Coin (Grassland)
+}
+
 STRING 2145
 // Abilities: A0O4 (Revive - Level 2), Tip (Tooltip - Normal)
 {
@@ -12727,6 +12888,12 @@ STRING 2151
 // Abilities: A072 (Revive), Name (Name)
 {
 Revive
+}
+
+STRING 2152
+// Doodads: D0AL (Gold Coins (Grassland)), Name (Name)
+{
+Gold Coins (Grassland)
 }
 
 STRING 2153
@@ -13053,6 +13220,12 @@ STRING 2206
 ASL
 }
 
+STRING 2207
+// Doodads: D0AO (Gold Chunks (Grassland)), Name (Name)
+{
+Gold Chunks (Grassland)
+}
+
 STRING 2208
 // Abilities: A0M5 (Aura of Taking Back), Ubertip (Tooltip - Normal - Extended)
 {
@@ -13069,6 +13242,12 @@ STRING 2210
 // Abilities: AZZA (Damage -512), Name (Name)
 {
 Damage -512
+}
+
+STRING 2211
+// Doodads: D0AP (Pit Wall 1 (Grassland)), Name (Name)
+{
+Pit Wall 1 (Grassland)
 }
 
 STRING 2212
@@ -13143,6 +13322,18 @@ STRING 2223
 Dämonenfeuer [|cffffcc00Stufe %d|r] erlernen
 }
 
+STRING 2224
+// Doodads: D0AQ (Pit Wall 2 (Grassland)), Name (Name)
+{
+Pit Wall 2 (Grassland)
+}
+
+STRING 2225
+// Doodads: D0AR (Pit Wall 3 (Grassland)), Name (Name)
+{
+Pit Wall 3 (Grassland)
+}
+
 STRING 2226
 // Abilities: A0R3 (Inventory), EditorSuffix (Editor Suffix)
 {
@@ -13203,6 +13394,12 @@ STRING 2235
 Relief
 }
 
+STRING 2236
+// Doodads: D0AS (Hammer (Grassland)), Name (Name)
+{
+Hammer (Grassland)
+}
+
 STRING 2237
 // Abilities: A0NB (Next class), EditorSuffix (Editor Suffix)
 {
@@ -13257,6 +13454,18 @@ STRING 2245
 Ein Todesmantel, der eine befreundete untote Einheit um <A0I7,DataA4> Trefferpunkte heilen oder eine feindliche lebende Einheit um die Hälfte verletzen kann.|n|cffc3dbffKann auf sich selbst gewirkt werden.|r
 }
 
+STRING 2246
+// Doodads: D0BI (Beer (Grasland)), Name (Name)
+{
+Beer (Grasland)
+}
+
+STRING 2247
+// Doodads: D0BJ (Ore (Grassland)), Name (Name)
+{
+Ore (Grassland)
+}
+
 STRING 2248
 // Abilities: A05M (Ahnenpakt - Erlernen), Tip (Tooltip - Normal)
 {
@@ -13281,6 +13490,11 @@ STRING 2251
 (Cleric)
 }
 
+STRING 2252
+{
+Must target Revival Shrine.
+}
+
 STRING 2253
 // Abilities: A0I7 (Dark Spell), Ubertip (Tooltip - Normal - Extended)
 {
@@ -13291,6 +13505,11 @@ STRING 2254
 // Abilities: A0Q0 (Conversion), EditorSuffix (Editor Suffix)
 {
 (Favoritenfähigkeit - Kleriker)
+}
+
+STRING 2255
+{
+Dark Elf:
 }
 
 STRING 2256
@@ -13527,6 +13746,31 @@ STRING 2294
 Summon Snake
 }
 
+STRING 2295
+{
+Dark Elf
+}
+
+STRING 2296
+{
+Character Points
+}
+
+STRING 2297
+{
+Mission Not Yet Discovered
+}
+
+STRING 2298
+{
+Need to discover mission
+}
+
+STRING 2299
+{
+Nearby Character
+}
+
 STRING 2300
 // Doodads: D04E (Weizenstängel (Grasland)), Name (Name)
 {
@@ -13759,6 +14003,11 @@ STRING 2338
 // Abilities: A04F (Call Dragon), EditorSuffix (Editor Suffix)
 {
 (Stab der Unsterblichkeit)
+}
+
+STRING 2339
+{
+Undiscovered Mission
 }
 
 STRING 2343
@@ -14322,24 +14571,6 @@ STRING 2442
 // Abilities: A0R9 (Protection of the King), Tip (Tooltip - Normal)
 {
 Protection of the King
-}
-
-STRING 2443
-// Doodads: D093 (Goldmünzenbeutel 2 (Grasland)), Name (Name)
-{
-Goldmünzenbeutel 2 (Grasland)
-}
-
-STRING 2444
-// Doodads: D094 (Goldmünzenbeutel 3 (Grasland)), Name (Name)
-{
-Goldmünzenbeutel 3 (Grasland)
-}
-
-STRING 2445
-// Doodads: D095 (Goldmünzenbeutel 1 (Grasland)), Name (Name)
-{
-Goldmünzenbeutel 1 (Grasland)
 }
 
 STRING 2446
@@ -16997,108 +17228,6 @@ STRING 3021
 (horizontal, 10.45)
 }
 
-STRING 3022
-// Doodads: D08W (Brücke (Grasland, 8.15, horizontal)), Name (Name)
-{
-Brücke (Grasland, 8.15, horizontal)
-}
-
-STRING 3023
-// Doodads: D08X (Brücke (Grasland, 10.45, horizontal)), Name (Name)
-{
-Brücke (Grasland, 10.45, horizontal)
-}
-
-STRING 3024
-// Doodads: D099 (Hausdach 1 (Grasland)), Name (Name)
-{
-Hausdach 1 (Grasland)
-}
-
-STRING 3025
-// Doodads: D09A (Hausdach 2 (Grasland)), Name (Name)
-{
-Hausdach 2 (Grasland)
-}
-
-STRING 3026
-// Doodads: D09B (Hausdach 3 (Grasland)), Name (Name)
-{
-Hausdach 3 (Grasland)
-}
-
-STRING 3027
-// Doodads: D09C (Hausdach 4 (Grasland)), Name (Name)
-{
-Hausdach 4 (Grasland)
-}
-
-STRING 3028
-// Doodads: D09D (Hausdach 5 (Grasland)), Name (Name)
-{
-Hausdach 5 (Grasland)
-}
-
-STRING 3029
-// Doodads: D09E (Hausdach 6 (Grasland)), Name (Name)
-{
-Hausdach 6 (Grasland)
-}
-
-STRING 3030
-// Doodads: D09F (Hausdach 7 (Grasland)), Name (Name)
-{
-Hausdach 7 (Grasland)
-}
-
-STRING 3031
-// Doodads: D09G (Hausdach 8 (Grasland)), Name (Name)
-{
-Hausdach 8 (Grasland)
-}
-
-STRING 3032
-// Doodads: D09H (Hausdachhälfte 1 (Grasland)), Name (Name)
-{
-Hausdachhälfte 1 (Grasland)
-}
-
-STRING 3033
-// Doodads: D09I (Hausdachhälfte 2 (Grasland)), Name (Name)
-{
-Hausdachhälfte 2 (Grasland)
-}
-
-STRING 3034
-// Doodads: D09J (Hausdachhälfte 3 (Grasland)), Name (Name)
-{
-Hausdachhälfte 3 (Grasland)
-}
-
-STRING 3035
-// Doodads: D09K (Hausdachhälfte 4 (Grasland)), Name (Name)
-{
-Hausdachhälfte 4 (Grasland)
-}
-
-STRING 3036
-// Doodads: D09L (Haustür 1 (Grasland)), Name (Name)
-{
-Haustür 1 (Grasland)
-}
-
-STRING 3037
-// Doodads: D09M (Haustür 2 (Grasland)), Name (Name)
-{
-Haustür 2 (Grasland)
-}
-
-STRING 3038
-// Doodads: D09N (Haustür 3 (Grasland)), Name (Name)
-{
-Haustür 3 (Grasland)
-}
-
 STRING 3039
 // Doodads: D09O (Hauswand 1 (Grasland)), Name (Name)
 {
@@ -17542,42 +17671,6 @@ STRING 3116
 Ancestors Pact - Level 2
 }
 
-STRING 3117
-// Doodads: D0AG (Flasche - blau (Grasland)), Name (Name)
-{
-Flasche - blau (Grasland)
-}
-
-STRING 3118
-// Doodads: D0AH (Flasche - grün (Grasland)), Name (Name)
-{
-Flasche - grün (Grasland)
-}
-
-STRING 3119
-// Doodads: D0AI (Flasche - rosa (Grasland)), Name (Name)
-{
-Flasche - rosa (Grasland)
-}
-
-STRING 3120
-// Doodads: D0AJ (Flasche - rot (Grasland)), Name (Name)
-{
-Flasche - rot (Grasland)
-}
-
-STRING 3121
-// Doodads: D0AK (Goldmünze (Grasland)), Name (Name)
-{
-Goldmünze (Grasland)
-}
-
-STRING 3122
-// Doodads: D0AL (Goldmünzen (Grasland)), Name (Name)
-{
-Goldmünzen (Grasland)
-}
-
 STRING 3123
 // Doodads: D0AM (Futtertrog (Grasland)), Name (Name)
 {
@@ -17588,36 +17681,6 @@ STRING 3124
 // Doodads: D0AN (Nicht verwenden: Giutine (Grasland)), Name (Name)
 {
 Nicht verwenden: Giutine (Grasland)
-}
-
-STRING 3125
-// Doodads: D0AO (Goldbrocken (Grasland)), Name (Name)
-{
-Goldbrocken (Grasland)
-}
-
-STRING 3126
-// Doodads: D0AP (Grubenwand 1 (Grasland)), Name (Name)
-{
-Grubenwand 1 (Grasland)
-}
-
-STRING 3127
-// Doodads: D0AQ (Grubenwand 2 (Grasland)), Name (Name)
-{
-Grubenwand 2 (Grasland)
-}
-
-STRING 3128
-// Doodads: D0AR (Grubenwand 3 (Grasland)), Name (Name)
-{
-Grubenwand 3 (Grasland)
-}
-
-STRING 3129
-// Doodads: D0AS (Hammer (Grasland)), Name (Name)
-{
-Hammer (Grasland)
 }
 
 STRING 3130
@@ -17770,22 +17833,10 @@ STRING 3154
 Turmmauer 4 (Grasland)
 }
 
-STRING 3155
-// Doodads: D0BI (Bier (Grasland)), Name (Name)
-{
-Bier (Grasland)
-}
-
 STRING 3156
 // Units: n02S (Kuno's Daughter), Name (Name)
 {
 Kuno's Daughter
-}
-
-STRING 3158
-// Doodads: D0BJ (Erz (Grasland)), Name (Name)
-{
-Erz (Grasland)
 }
 
 STRING 3159
@@ -20905,7 +20956,7 @@ Thunderstorm
 }
 
 STRING 3817
-// Abilities: A097 (), Ubertip (Tooltip - Normal - Extended)
+// Abilities: A097 (Need to discover mission), Ubertip (Tooltip - Normal - Extended)
 {
 Ruft ein Gewitter über dem angewählten Gegner herbei, durch das bis zu <A097,DataB1> Gegner getroffen und <A097,DataA1> Schaden zugefügt werden.
 }
@@ -20917,7 +20968,7 @@ Versteinerung
 }
 
 STRING 3819
-// Abilities: A097 (), EditorSuffix (Editor Suffix)
+// Abilities: A097 (Need to discover mission), EditorSuffix (Editor Suffix)
 {
 (Medusa)
 }
@@ -24721,7 +24772,7 @@ Verringert die Angriffsgeschwindkeit eines Gegners für 7 Sekunden um 30 %.|n<A0
 }
 
 STRING 4855
-// Abilities: A13E (Hero Glow), EditorSuffix (Editor Suffix)
+// Abilities: A015 (Open Backpack), EditorSuffix (Editor Suffix)
 {
 (Charakter)
 }
@@ -42856,7 +42907,7 @@ Arrows Quiver
 }
 
 STRING 11746
-// Items: I04W (), Tip (Tooltip - Basic)
+// Items: I04W (Der Zauberer erzeugt eine Kuppel mit einem Radius von 600 und verringert den vo), Tip (Tooltip - Basic)
 {
 Buy Arrows Quiver
 }
@@ -78697,7 +78748,7 @@ Converted Inquisitor
 }
 
 STRING 20196
-// Units: H03U (), EditorSuffix (Name - Editor Suffix)
+// Units: H03U (Must target Revival Shrine.), EditorSuffix (Name - Editor Suffix)
 {
 (Hero)
 }
