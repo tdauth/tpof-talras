@@ -199,6 +199,9 @@ library StructSpellsSpellMetamorphosis requires Asl, StructGameCharacter, Struct
 
 						// morph spells are expected to morph immediately
 						call this.onMorph.evaluate()
+						
+						// make sure the proper name is correct
+						call character.updateProperName()
 
 						if (GetUnitAbilityLevel(character.unit(), this.abilityId()) > 0) then
 							debug call Print("UNIT HAS ABILITY AFTERWARDS WTF!")
@@ -259,12 +262,18 @@ library StructSpellsSpellMetamorphosis requires Asl, StructGameCharacter, Struct
 					endif
 
 					call this.onRestore.evaluate()
+					
+					// make sure the proper name is correct
+					call this.character().updateProperName()
 
 					return true
 				endif
 			debug else
 				debug call Print("Cannot restore")
 			endif
+			
+			// make sure the proper name is correct
+			call this.character().updateProperName()
 
 			return false
 		endmethod
