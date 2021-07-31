@@ -824,1331 +824,24 @@ globals
     camerasetup             gg_cam_wigberht_7          = null
     camerasetup             gg_cam_wigberht_8          = null
     camerasetup             gg_cam_wigberht_9          = null
-    sound                   gg_snd_C0_0                = null
+    sound                   gg_snd_AxeMissile1         = null
+    sound                   gg_snd_BattleRoar          = null
+    sound                   gg_snd_BlacksmithWhat1     = null
+    sound                   gg_snd_DispelMagicTarget   = null
+    sound                   gg_snd_GrizzlyBearReady1   = null
+    sound                   gg_snd_GruntWhat3          = null
+    sound                   gg_snd_HowlOfTerror        = null
+    sound                   gg_snd_InvisibilityTarget  = null
+    sound                   gg_snd_mshawm              = null
     sound                   gg_snd_PeasantWhat1        = null
     sound                   gg_snd_PeasantWhat2        = null
     sound                   gg_snd_PeasantWhat3        = null
     sound                   gg_snd_PeasantWhat4        = null
-    sound                   gg_snd_TheHornOfCenarius   = null
-    sound                   gg_snd_BlacksmithWhat1     = null
-    sound                   gg_snd_AxeMissile1         = null
-    sound                   gg_snd_PeonRepair1         = null
-    sound                   gg_snd_Tanka2              = null
-    sound                   gg_snd_Tanka3              = null
-    sound                   gg_snd_Tanka4              = null
-    sound                   gg_snd_Tanka5              = null
-    sound                   gg_snd_Tanka6              = null
-    sound                   gg_snd_Tanka7              = null
-    sound                   gg_snd_Tanka8              = null
-    sound                   gg_snd_Tanka9              = null
-    sound                   gg_snd_Tanka10             = null
-    sound                   gg_snd_Tanka11             = null
-    sound                   gg_snd_Tanka12             = null
-    sound                   gg_snd_Tanka13             = null
-    sound                   gg_snd_Tanka14             = null
-    sound                   gg_snd_Tanka15             = null
-    sound                   gg_snd_Tanka16             = null
-    sound                   gg_snd_Tanka17             = null
-    sound                   gg_snd_Tanka18             = null
-    sound                   gg_snd_Tanka19             = null
-    sound                   gg_snd_Tanka21             = null
-    sound                   gg_snd_Tanka22             = null
-    sound                   gg_snd_Tanka23             = null
-    sound                   gg_snd_Tanka24             = null
-    sound                   gg_snd_Tanka25             = null
-    sound                   gg_snd_Tanka29             = null
-    sound                   gg_snd_Tanka30             = null
-    sound                   gg_snd_Tanka31             = null
-    sound                   gg_snd_Tanka32             = null
-    sound                   gg_snd_Tanka33             = null
-    sound                   gg_snd_Tanka34             = null
-    sound                   gg_snd_Tanka35             = null
-    sound                   gg_snd_Tanka36             = null
-    sound                   gg_snd_Tanka37             = null
-    sound                   gg_snd_Tanka38             = null
-    sound                   gg_snd_Tanka39             = null
-    sound                   gg_snd_Tanka40             = null
-    sound                   gg_snd_Tanka41             = null
-    sound                   gg_snd_Tanka42             = null
-    sound                   gg_snd_Dago1               = null
-    sound                   gg_snd_Dago2               = null
-    sound                   gg_snd_Dago3               = null
-    sound                   gg_snd_Dago4               = null
-    sound                   gg_snd_Dago5               = null
-    sound                   gg_snd_Dago6               = null
-    sound                   gg_snd_Dago7               = null
-    sound                   gg_snd_Dago8               = null
-    sound                   gg_snd_Dago9               = null
-    sound                   gg_snd_Dago10              = null
-    sound                   gg_snd_Dago11              = null
-    sound                   gg_snd_Dago12              = null
-    sound                   gg_snd_Dago13              = null
-    sound                   gg_snd_Dago14              = null
-    sound                   gg_snd_Dago15              = null
-    sound                   gg_snd_Dago16              = null
-    sound                   gg_snd_Dago17              = null
-    sound                   gg_snd_Dago18              = null
-    sound                   gg_snd_Dago19              = null
-    sound                   gg_snd_Dago20              = null
-    sound                   gg_snd_Dago21              = null
-    sound                   gg_snd_Dago22              = null
-    sound                   gg_snd_Dago23              = null
-    sound                   gg_snd_Dago24              = null
-    sound                   gg_snd_Dago25              = null
-    sound                   gg_snd_Dago26              = null
-    sound                   gg_snd_Dago27              = null
-    sound                   gg_snd_Dago28              = null
-    sound                   gg_snd_Dago29              = null
-    sound                   gg_snd_Dago30              = null
-    sound                   gg_snd_Dago31              = null
-    sound                   gg_snd_Dago32              = null
-    sound                   gg_snd_Dago33              = null
-    sound                   gg_snd_DagoRescueDago1     = null
-    sound                   gg_snd_DagoRescueDago2     = null
-    sound                   gg_snd_DagoRescueDago3     = null
-    sound                   gg_snd_DagoRescueDago4     = null
-    sound                   gg_snd_DagoRescueDago5     = null
-    sound                   gg_snd_DagoRescueDago6     = null
-    sound                   gg_snd_DagoRescueDago7     = null
-    sound                   gg_snd_Schafshirte_01      = null
-    sound                   gg_snd_Schafshirte_02      = null
-    sound                   gg_snd_Schafshirte_03      = null
-    sound                   gg_snd_Schafshirte_04      = null
-    sound                   gg_snd_Schafshirte_05      = null
-    sound                   gg_snd_Schafshirte_06      = null
-    sound                   gg_snd_Schafshirte_07      = null
-    sound                   gg_snd_Schafshirte_08      = null
-    sound                   gg_snd_Schafshirte_09      = null
-    sound                   gg_snd_Schafshirte_10      = null
-    sound                   gg_snd_Schafshirte_11      = null
-    sound                   gg_snd_Schafshirte_12      = null
-    sound                   gg_snd_Schafshirte_13      = null
-    sound                   gg_snd_Schafshirte_14      = null
-    sound                   gg_snd_Schafshirte_15      = null
-    sound                   gg_snd_Schafshirte_16      = null
-    sound                   gg_snd_Schafshirte_17      = null
-    sound                   gg_snd_Schafshirte_18      = null
-    sound                   gg_snd_Schafshirte_19      = null
-    sound                   gg_snd_Schafshirte_20      = null
-    sound                   gg_snd_Schafshirte_21      = null
-    sound                   gg_snd_Schafshirte_22      = null
-    sound                   gg_snd_Schafshirte_23      = null
-    sound                   gg_snd_Schafshirte_24      = null
-    sound                   gg_snd_Schafshirte_25      = null
-    sound                   gg_snd_Schafshirte_26      = null
-    sound                   gg_snd_Schafshirte_27      = null
-    sound                   gg_snd_Schafshirte_28      = null
-    sound                   gg_snd_Schafshirte_29      = null
-    sound                   gg_snd_Schafshirte_30      = null
-    sound                   gg_snd_Schafshirte_31      = null
-    sound                   gg_snd_Schafshirte_32      = null
-    sound                   gg_snd_Ursula1             = null
-    sound                   gg_snd_Ursula2             = null
-    sound                   gg_snd_Ursula3             = null
-    sound                   gg_snd_Ursula4             = null
-    sound                   gg_snd_Ursula5             = null
-    sound                   gg_snd_Ursula6             = null
-    sound                   gg_snd_Ursula7             = null
-    sound                   gg_snd_Ursula8             = null
-    sound                   gg_snd_Ursula9             = null
-    sound                   gg_snd_Ursula10            = null
-    sound                   gg_snd_Ursula11            = null
-    sound                   gg_snd_Ursula12            = null
-    sound                   gg_snd_Ursula13            = null
-    sound                   gg_snd_Ursula14            = null
-    sound                   gg_snd_Ursula15            = null
-    sound                   gg_snd_Ursula16            = null
-    sound                   gg_snd_Ursula17            = null
-    sound                   gg_snd_Ursula18            = null
-    sound                   gg_snd_Ursula19            = null
-    sound                   gg_snd_Ursula20            = null
-    sound                   gg_snd_Ursula21            = null
-    sound                   gg_snd_Ursula22            = null
-    sound                   gg_snd_Ursula23            = null
-    sound                   gg_snd_Ursula24            = null
-    sound                   gg_snd_Ursula25            = null
-    sound                   gg_snd_Ursula26            = null
-    sound                   gg_snd_Ursula27            = null
-    sound                   gg_snd_Ursula28            = null
-    sound                   gg_snd_Ursula29            = null
-    sound                   gg_snd_Ursula30            = null
-    sound                   gg_snd_Ursula31            = null
-    sound                   gg_snd_Ursula32            = null
-    sound                   gg_snd_Ursula33            = null
-    sound                   gg_snd_Ursula34            = null
-    sound                   gg_snd_Ursula35            = null
-    sound                   gg_snd_Ursula36            = null
-    sound                   gg_snd_Ursula37            = null
-    sound                   gg_snd_Ursula38            = null
-    sound                   gg_snd_Ursula39            = null
-    sound                   gg_snd_Ursula40            = null
-    sound                   gg_snd_Ursula41            = null
-    sound                   gg_snd_Ursula42            = null
-    sound                   gg_snd_Ursula43            = null
-    sound                   gg_snd_Kuno1               = null
-    sound                   gg_snd_Kuno2               = null
-    sound                   gg_snd_Kuno3               = null
-    sound                   gg_snd_Kuno4               = null
-    sound                   gg_snd_Kuno5               = null
-    sound                   gg_snd_Kuno6               = null
-    sound                   gg_snd_Kuno7               = null
-    sound                   gg_snd_Kuno8               = null
-    sound                   gg_snd_Kuno9               = null
-    sound                   gg_snd_Kuno10              = null
-    sound                   gg_snd_Kuno11              = null
-    sound                   gg_snd_Kuno12              = null
-    sound                   gg_snd_Kuno13              = null
-    sound                   gg_snd_Kuno14              = null
-    sound                   gg_snd_Kuno15              = null
-    sound                   gg_snd_Kuno16              = null
-    sound                   gg_snd_Kuno17              = null
-    sound                   gg_snd_Kuno18              = null
-    sound                   gg_snd_Kuno19              = null
-    sound                   gg_snd_Kuno20              = null
-    sound                   gg_snd_Kuno21              = null
-    sound                   gg_snd_Kuno22              = null
-    sound                   gg_snd_Kuno23              = null
-    sound                   gg_snd_Kuno24              = null
-    sound                   gg_snd_Kuno25              = null
-    sound                   gg_snd_Kuno26              = null
-    sound                   gg_snd_Kuno27              = null
-    sound                   gg_snd_Kuno28              = null
-    sound                   gg_snd_Kuno29              = null
-    sound                   gg_snd_Kuno30              = null
-    sound                   gg_snd_Kuno31              = null
-    sound                   gg_snd_Kuno32              = null
-    sound                   gg_snd_Kuno33              = null
-    sound                   gg_snd_Kuno34              = null
-    sound                   gg_snd_Kuno35              = null
-    sound                   gg_snd_Kuno36              = null
-    sound                   gg_snd_Kuno37              = null
-    sound                   gg_snd_Kuno38              = null
-    sound                   gg_snd_Kuno39              = null
-    sound                   gg_snd_ErzaehlerIntro1     = null
-    sound                   gg_snd_ErzaehlerIntro2     = null
-    sound                   gg_snd_ErzaehlerIntro3     = null
-    sound                   gg_snd_ErzaehlerIntro4     = null
-    sound                   gg_snd_ErzaehlerIntro5     = null
-    sound                   gg_snd_ErzaehlerIntro6     = null
-    sound                   gg_snd_ErzaehlerDieBurg1   = null
-    sound                   gg_snd_ErzaehlerDieBurg2   = null
-    sound                   gg_snd_ErzaehlerDieBurg3   = null
-    sound                   gg_snd_ErzaehlerSieg1      = null
-    sound                   gg_snd_ErzaehlerSieg2      = null
-    sound                   gg_snd_ErzaehlerFlussaufwaerts1 = null
-    sound                   gg_snd_Irmina1             = null
-    sound                   gg_snd_Irmina3             = null
-    sound                   gg_snd_Irmina4             = null
-    sound                   gg_snd_Irmina5             = null
-    sound                   gg_snd_Irmina6             = null
-    sound                   gg_snd_Irmina7             = null
-    sound                   gg_snd_Irmina8             = null
-    sound                   gg_snd_Irmina9             = null
-    sound                   gg_snd_Irmina10            = null
-    sound                   gg_snd_Irmina11            = null
-    sound                   gg_snd_Irmina12            = null
-    sound                   gg_snd_Irmina13            = null
-    sound                   gg_snd_Irmina14            = null
-    sound                   gg_snd_Irmina15            = null
-    sound                   gg_snd_Irmina16            = null
-    sound                   gg_snd_Irmina17            = null
-    sound                   gg_snd_Irmina18            = null
-    sound                   gg_snd_Irmina19            = null
-    sound                   gg_snd_Irmina20            = null
-    sound                   gg_snd_Irmina21            = null
-    sound                   gg_snd_Irmina22            = null
-    sound                   gg_snd_Irmina23            = null
-    sound                   gg_snd_Irmina24            = null
-    sound                   gg_snd_Irmina25            = null
-    sound                   gg_snd_Irmina26            = null
-    sound                   gg_snd_Irmina27            = null
-    sound                   gg_snd_Irmina28            = null
-    sound                   gg_snd_Irmina29            = null
-    sound                   gg_snd_Irmina30            = null
-    sound                   gg_snd_Irmina31            = null
-    sound                   gg_snd_Irmina32            = null
-    sound                   gg_snd_Irmina33            = null
-    sound                   gg_snd_Irmina34            = null
-    sound                   gg_snd_Irmina2             = null
-    sound                   gg_snd_Ricman1             = null
-    sound                   gg_snd_Ricman2             = null
-    sound                   gg_snd_Ricman3             = null
-    sound                   gg_snd_Ricman4             = null
-    sound                   gg_snd_Ricman5             = null
-    sound                   gg_snd_Ricman6             = null
-    sound                   gg_snd_Ricman7             = null
-    sound                   gg_snd_Ricman8             = null
-    sound                   gg_snd_Ricman9             = null
-    sound                   gg_snd_Ricman10            = null
-    sound                   gg_snd_Ricman11            = null
-    sound                   gg_snd_Ricman12            = null
-    sound                   gg_snd_Ricman13            = null
-    sound                   gg_snd_Ricman14            = null
-    sound                   gg_snd_Ricman15            = null
-    sound                   gg_snd_Ricman16            = null
-    sound                   gg_snd_Ricman17            = null
-    sound                   gg_snd_Ricman18            = null
-    sound                   gg_snd_Ricman19            = null
-    sound                   gg_snd_Ricman20            = null
-    sound                   gg_snd_Ricman21            = null
-    sound                   gg_snd_Ricman22            = null
-    sound                   gg_snd_Ricman23            = null
-    sound                   gg_snd_Ricman24            = null
-    sound                   gg_snd_Ricman25            = null
-    sound                   gg_snd_Ricman26            = null
-    sound                   gg_snd_Ricman27            = null
-    sound                   gg_snd_Ricman28            = null
-    sound                   gg_snd_Ricman29            = null
-    sound                   gg_snd_Ricman30            = null
-    sound                   gg_snd_Ricman31            = null
-    sound                   gg_snd_Ricman32            = null
-    sound                   gg_snd_Ricman33            = null
-    sound                   gg_snd_Ricman34            = null
-    sound                   gg_snd_Ricman35            = null
-    sound                   gg_snd_Ricman36            = null
-    sound                   gg_snd_Ricman37            = null
-    sound                   gg_snd_Ricman38            = null
-    sound                   gg_snd_Ricman39            = null
-    sound                   gg_snd_Ricman40            = null
-    sound                   gg_snd_Ricman41            = null
-    sound                   gg_snd_Ricman42            = null
-    sound                   gg_snd_Ricman43            = null
-    sound                   gg_snd_Ricman44            = null
-    sound                   gg_snd_Ricman45            = null
-    sound                   gg_snd_Ricman46            = null
-    sound                   gg_snd_Ricman47            = null
-    sound                   gg_snd_Ricman48            = null
-    sound                   gg_snd_Ricman49            = null
-    sound                   gg_snd_Ricman50            = null
-    sound                   gg_snd_RicmanTheChiefRicman1 = null
-    sound                   gg_snd_RicmanTheChiefRicman2 = null
-    sound                   gg_snd_RicmanTheDefenseOfTalrasRicman1 = null
-    sound                   gg_snd_RicmanTheDefenseOfTalrasRicman2 = null
-    sound                   gg_snd_RicmanTheNorsemenRicman1 = null
-    sound                   gg_snd_RicmanTheNorsemenRicman2 = null
-    sound                   gg_snd_RicmanTheNorsemenRicman3 = null
-    sound                   gg_snd_RicmanTheNorsemenRicman4 = null
-    sound                   gg_snd_RicmanTheNorsemenRicman5 = null
-    sound                   gg_snd_RicmanVictoryRicman1 = null
-    sound                   gg_snd_GrizzlyBearReady1   = null
-    sound                   gg_snd_Guntrich1           = null
-    sound                   gg_snd_Guntrich2           = null
-    sound                   gg_snd_Guntrich3           = null
-    sound                   gg_snd_Guntrich4           = null
-    sound                   gg_snd_Guntrich5           = null
-    sound                   gg_snd_Guntrich6           = null
-    sound                   gg_snd_Guntrich7           = null
-    sound                   gg_snd_Guntrich8           = null
-    sound                   gg_snd_Guntrich9           = null
-    sound                   gg_snd_Guntrich10          = null
-    sound                   gg_snd_Guntrich11          = null
-    sound                   gg_snd_Guntrich12          = null
-    sound                   gg_snd_Guntrich13          = null
-    sound                   gg_snd_Guntrich14          = null
-    sound                   gg_snd_Heimrich1           = null
-    sound                   gg_snd_Heimrich2           = null
-    sound                   gg_snd_Heimrich3           = null
-    sound                   gg_snd_Heimrich4           = null
-    sound                   gg_snd_Heimrich5           = null
-    sound                   gg_snd_Heimrich6           = null
-    sound                   gg_snd_Heimrich7           = null
-    sound                   gg_snd_Heimrich8           = null
-    sound                   gg_snd_Heimrich9           = null
-    sound                   gg_snd_Heimrich10          = null
-    sound                   gg_snd_Heimrich11          = null
-    sound                   gg_snd_Heimrich12          = null
-    sound                   gg_snd_Heimrich13          = null
-    sound                   gg_snd_Heimrich14          = null
-    sound                   gg_snd_Heimrich15          = null
-    sound                   gg_snd_Wigberht1           = null
-    sound                   gg_snd_Wigberht2           = null
-    sound                   gg_snd_Wigberht3           = null
-    sound                   gg_snd_Wigberht4           = null
-    sound                   gg_snd_Wigberht5           = null
-    sound                   gg_snd_Wigberht6           = null
-    sound                   gg_snd_Wigberht7           = null
-    sound                   gg_snd_Wigberht8           = null
-    sound                   gg_snd_Wigberht9           = null
-    sound                   gg_snd_Wigberht10          = null
-    sound                   gg_snd_Wigberht11          = null
-    sound                   gg_snd_Wigberht12          = null
-    sound                   gg_snd_Wigberht13          = null
-    sound                   gg_snd_Wigberht14          = null
-    sound                   gg_snd_Wigberht15          = null
-    sound                   gg_snd_Wigberht16          = null
-    sound                   gg_snd_Wigberht17          = null
-    sound                   gg_snd_Wigberht18          = null
-    sound                   gg_snd_Wigberht19          = null
-    sound                   gg_snd_Wigberht20          = null
-    sound                   gg_snd_Wigberht21          = null
-    sound                   gg_snd_Wigberht22          = null
-    sound                   gg_snd_Wigberht23          = null
-    sound                   gg_snd_Wigberht24          = null
-    sound                   gg_snd_Wigberht25          = null
-    sound                   gg_snd_Wigberht26          = null
-    sound                   gg_snd_Wigberht27          = null
-    sound                   gg_snd_Wigberht28          = null
-    sound                   gg_snd_Wigberht29          = null
-    sound                   gg_snd_Wigberht30          = null
-    sound                   gg_snd_Wigberht31          = null
-    sound                   gg_snd_Wigberht32          = null
-    sound                   gg_snd_Wigberht33          = null
-    sound                   gg_snd_Wigberht34          = null
-    sound                   gg_snd_Wigberht35          = null
-    sound                   gg_snd_Wigberht36          = null
-    sound                   gg_snd_Wigberht37          = null
-    sound                   gg_snd_Wigberht38          = null
-    sound                   gg_snd_Wigberht39          = null
-    sound                   gg_snd_Wigberht40          = null
-    sound                   gg_snd_Wigberht41          = null
-    sound                   gg_snd_Wigberht42          = null
-    sound                   gg_snd_Wigberht43          = null
-    sound                   gg_snd_Wigberht44          = null
-    sound                   gg_snd_Wigberht45          = null
-    sound                   gg_snd_BattleRoar          = null
-    sound                   gg_snd_Wieland1            = null
-    sound                   gg_snd_Wieland2            = null
-    sound                   gg_snd_Wieland3            = null
-    sound                   gg_snd_Wieland4            = null
-    sound                   gg_snd_Wieland5            = null
-    sound                   gg_snd_Wieland6            = null
-    sound                   gg_snd_Wieland7            = null
-    sound                   gg_snd_Wieland8            = null
-    sound                   gg_snd_Wieland9            = null
-    sound                   gg_snd_Wieland10           = null
-    sound                   gg_snd_Wieland11           = null
-    sound                   gg_snd_Wieland12           = null
-    sound                   gg_snd_Wieland13           = null
-    sound                   gg_snd_Wieland14           = null
-    sound                   gg_snd_Wieland15           = null
-    sound                   gg_snd_Wieland16           = null
-    sound                   gg_snd_Wieland17           = null
-    sound                   gg_snd_Wieland18           = null
-    sound                   gg_snd_Wieland19           = null
-    sound                   gg_snd_Wieland20           = null
-    sound                   gg_snd_Wieland21           = null
-    sound                   gg_snd_Wieland22           = null
-    sound                   gg_snd_Wieland23           = null
-    sound                   gg_snd_Wieland24           = null
-    sound                   gg_snd_Wieland25           = null
-    sound                   gg_snd_Wieland26           = null
-    sound                   gg_snd_Wieland27           = null
-    sound                   gg_snd_Wieland28           = null
-    sound                   gg_snd_Wieland29           = null
-    sound                   gg_snd_Wieland30           = null
-    sound                   gg_snd_Wieland31           = null
-    sound                   gg_snd_Wieland32           = null
-    sound                   gg_snd_Wieland33           = null
-    sound                   gg_snd_Wieland34           = null
-    sound                   gg_snd_Wieland35           = null
-    sound                   gg_snd_Wieland36           = null
-    sound                   gg_snd_Wieland37           = null
-    sound                   gg_snd_Wieland38           = null
-    sound                   gg_snd_Wieland39           = null
-    sound                   gg_snd_Wieland40           = null
-    sound                   gg_snd_Wieland41           = null
-    sound                   gg_snd_Wieland_a           = null
-    sound                   gg_snd_Wieland_b           = null
-    sound                   gg_snd_Wieland_c           = null
-    sound                   gg_snd_Wieland_d           = null
-    sound                   gg_snd_Wieland_e           = null
-    sound                   gg_snd_Wieland_f           = null
-    sound                   gg_snd_Wieland_g           = null
-    sound                   gg_snd_Wieland_h           = null
-    sound                   gg_snd_Wieland_i           = null
-    sound                   gg_snd_Wieland_j           = null
     sound                   gg_snd_PeonReady1          = null
-    sound                   gg_snd_GruntWhat3          = null
-    sound                   gg_snd_Heimrich16          = null
-    sound                   gg_snd_Heimrich17          = null
-    sound                   gg_snd_Heimrich18          = null
-    sound                   gg_snd_Heimrich19          = null
-    sound                   gg_snd_Heimrich20          = null
-    sound                   gg_snd_Heimrich21          = null
-    sound                   gg_snd_Heimrich22          = null
-    sound                   gg_snd_Heimrich23          = null
-    sound                   gg_snd_Heimrich24          = null
-    sound                   gg_snd_Heimrich25          = null
-    sound                   gg_snd_Heimrich26          = null
-    sound                   gg_snd_Heimrich27          = null
-    sound                   gg_snd_Heimrich28          = null
-    sound                   gg_snd_Heimrich29          = null
-    sound                   gg_snd_Heimrich30          = null
-    sound                   gg_snd_Haid1               = null
-    sound                   gg_snd_Haid2               = null
-    sound                   gg_snd_Haid3               = null
-    sound                   gg_snd_Haid4               = null
-    sound                   gg_snd_Haid5               = null
-    sound                   gg_snd_Haid6               = null
-    sound                   gg_snd_Haid7               = null
-    sound                   gg_snd_Haid8               = null
-    sound                   gg_snd_Haid9               = null
-    sound                   gg_snd_Haid10              = null
-    sound                   gg_snd_Haid11              = null
-    sound                   gg_snd_Haid12              = null
-    sound                   gg_snd_Haid13              = null
-    sound                   gg_snd_Haid14              = null
-    sound                   gg_snd_Haid15              = null
-    sound                   gg_snd_Haid16              = null
-    sound                   gg_snd_Haid17              = null
-    sound                   gg_snd_Haid18              = null
-    sound                   gg_snd_Haid19              = null
-    sound                   gg_snd_Haid20              = null
-    sound                   gg_snd_Haid21              = null
-    sound                   gg_snd_InvisibilityTarget  = null
-    sound                   gg_snd_DragonSlayer1       = null
-    sound                   gg_snd_DragonSlayer2       = null
-    sound                   gg_snd_DragonSlayer3       = null
-    sound                   gg_snd_DragonSlayer4       = null
-    sound                   gg_snd_DragonSlayer5       = null
-    sound                   gg_snd_DragonSlayer6       = null
-    sound                   gg_snd_DragonSlayer7       = null
-    sound                   gg_snd_DragonSlayer8       = null
-    sound                   gg_snd_DragonSlayer9       = null
-    sound                   gg_snd_DragonSlayer10      = null
-    sound                   gg_snd_DragonSlayer11      = null
-    sound                   gg_snd_DragonSlayer12      = null
-    sound                   gg_snd_DragonSlayer13      = null
-    sound                   gg_snd_DragonSlayer14      = null
-    sound                   gg_snd_DragonSlayer15      = null
-    sound                   gg_snd_DragonSlayer16      = null
-    sound                   gg_snd_DragonSlayer17      = null
-    sound                   gg_snd_DragonSlayer18      = null
-    sound                   gg_snd_DragonSlayer19      = null
-    sound                   gg_snd_DragonSlayer20      = null
-    sound                   gg_snd_DragonSlayer21      = null
-    sound                   gg_snd_DragonSlayer22      = null
-    sound                   gg_snd_DragonSlayer23      = null
-    sound                   gg_snd_DragonSlayer24      = null
-    sound                   gg_snd_DragonSlayer25      = null
-    sound                   gg_snd_DragonSlayer26      = null
-    sound                   gg_snd_DragonSlayer27      = null
-    sound                   gg_snd_DragonSlayer28      = null
-    sound                   gg_snd_DragonSlayer29      = null
-    sound                   gg_snd_DragonSlayer30      = null
-    sound                   gg_snd_DragonSlayer31      = null
-    sound                   gg_snd_DragonSlayer32      = null
-    sound                   gg_snd_DragonSlayer33      = null
-    sound                   gg_snd_DragonSlayer34      = null
-    sound                   gg_snd_DragonSlayer35      = null
-    sound                   gg_snd_DragonSlayer36      = null
-    sound                   gg_snd_DragonSlayer37      = null
-    sound                   gg_snd_DragonSlayer38      = null
-    sound                   gg_snd_DragonSlayer39      = null
-    sound                   gg_snd_DragonSlayer40      = null
-    sound                   gg_snd_DragonSlayer41      = null
-    sound                   gg_snd_DragonSlayer42      = null
-    sound                   gg_snd_DragonSlayer43      = null
-    sound                   gg_snd_DragonSlayer44      = null
-    sound                   gg_snd_DragonSlayer45      = null
-    sound                   gg_snd_DragonSlayer46      = null
-    sound                   gg_snd_DragonSlayer47      = null
-    sound                   gg_snd_DragonSlayer48      = null
-    sound                   gg_snd_DragonSlayer49      = null
-    sound                   gg_snd_DragonSlayer50      = null
-    sound                   gg_snd_DragonSlayer51      = null
-    sound                   gg_snd_DragonSlayer52      = null
-    sound                   gg_snd_DragonSlayer53      = null
-    sound                   gg_snd_DragonSlayerTalk1   = null
-    sound                   gg_snd_DragonSlayerTalk2   = null
-    sound                   gg_snd_DragonSlayerTalk3   = null
-    sound                   gg_snd_DragonSlayerTalk4   = null
+    sound                   gg_snd_PeonRepair1         = null
     sound                   gg_snd_RollingThunder1     = null
-    sound                   gg_snd_DispelMagicTarget   = null
-    sound                   gg_snd_Markward1           = null
-    sound                   gg_snd_Markward2           = null
-    sound                   gg_snd_Markward3           = null
-    sound                   gg_snd_Markward4           = null
-    sound                   gg_snd_Markward5           = null
-    sound                   gg_snd_Markward6           = null
-    sound                   gg_snd_Markward7           = null
-    sound                   gg_snd_Markward8           = null
-    sound                   gg_snd_Markward9           = null
-    sound                   gg_snd_Markward10          = null
-    sound                   gg_snd_Markward11          = null
-    sound                   gg_snd_Markward12          = null
-    sound                   gg_snd_Markward13          = null
-    sound                   gg_snd_Markward14          = null
-    sound                   gg_snd_Markward15          = null
-    sound                   gg_snd_Markward16          = null
-    sound                   gg_snd_Markward17          = null
-    sound                   gg_snd_Markward18          = null
-    sound                   gg_snd_Markward19          = null
-    sound                   gg_snd_Markward20          = null
-    sound                   gg_snd_Markward21          = null
-    sound                   gg_snd_Markward22          = null
-    sound                   gg_snd_Markward23          = null
-    sound                   gg_snd_Markward24          = null
-    sound                   gg_snd_Markward25          = null
-    sound                   gg_snd_Markward26          = null
-    sound                   gg_snd_Markward27          = null
-    sound                   gg_snd_Markward28          = null
-    sound                   gg_snd_Markward29          = null
-    sound                   gg_snd_Markward30          = null
-    sound                   gg_snd_Markward31          = null
-    sound                   gg_snd_Markward32          = null
-    sound                   gg_snd_Markward33          = null
-    sound                   gg_snd_Markward34          = null
-    sound                   gg_snd_Markward35          = null
-    sound                   gg_snd_Markward36          = null
-    sound                   gg_snd_Markward37          = null
-    sound                   gg_snd_Markward38          = null
-    sound                   gg_snd_Markward39          = null
-    sound                   gg_snd_Markward40          = null
-    sound                   gg_snd_Markward41          = null
-    sound                   gg_snd_Markward42          = null
-    sound                   gg_snd_Markward43          = null
-    sound                   gg_snd_Markward44          = null
-    sound                   gg_snd_Markward45          = null
-    sound                   gg_snd_Markward46          = null
-    sound                   gg_snd_Markward47          = null
-    sound                   gg_snd_Markward48          = null
-    sound                   gg_snd_Markward49          = null
-    sound                   gg_snd_Carsten1            = null
-    sound                   gg_snd_Carsten2            = null
-    sound                   gg_snd_Carsten3            = null
-    sound                   gg_snd_Carsten4            = null
-    sound                   gg_snd_Carsten5            = null
-    sound                   gg_snd_Carsten6            = null
-    sound                   gg_snd_Carsten7            = null
-    sound                   gg_snd_Carsten8            = null
-    sound                   gg_snd_Markward50          = null
+    sound                   gg_snd_TheHornOfCenarius   = null
     sound                   gg_snd_TheHornOfCenarius01 = null
-    sound                   gg_snd_Lothar1             = null
-    sound                   gg_snd_Lothar2             = null
-    sound                   gg_snd_Lothar3             = null
-    sound                   gg_snd_Lothar4             = null
-    sound                   gg_snd_Lothar5             = null
-    sound                   gg_snd_Lothar6             = null
-    sound                   gg_snd_Lothar7             = null
-    sound                   gg_snd_Lothar8             = null
-    sound                   gg_snd_Lothar9             = null
-    sound                   gg_snd_Lothar10            = null
-    sound                   gg_snd_Lothar11            = null
-    sound                   gg_snd_Lothar12            = null
-    sound                   gg_snd_Lothar13            = null
-    sound                   gg_snd_Lothar14            = null
-    sound                   gg_snd_Lothar15            = null
-    sound                   gg_snd_Lothar16            = null
-    sound                   gg_snd_Lothar17            = null
-    sound                   gg_snd_Lothar18            = null
-    sound                   gg_snd_Lothar19            = null
-    sound                   gg_snd_Lothar20            = null
-    sound                   gg_snd_Lothar21            = null
-    sound                   gg_snd_Lothar22            = null
-    sound                   gg_snd_Lothar23            = null
-    sound                   gg_snd_Lothar24            = null
-    sound                   gg_snd_Lothar25            = null
-    sound                   gg_snd_Lothar26            = null
-    sound                   gg_snd_Lothar27            = null
-    sound                   gg_snd_Lothar28            = null
-    sound                   gg_snd_Lothar29            = null
-    sound                   gg_snd_Lothar30            = null
-    sound                   gg_snd_Lothar31            = null
-    sound                   gg_snd_Lothar32            = null
-    sound                   gg_snd_Lothar33            = null
-    sound                   gg_snd_Lothar34            = null
-    sound                   gg_snd_Lothar35            = null
-    sound                   gg_snd_Lothar36            = null
-    sound                   gg_snd_Lothar37            = null
-    sound                   gg_snd_Lothar38            = null
-    sound                   gg_snd_Lothar39            = null
-    sound                   gg_snd_Lothar41            = null
-    sound                   gg_snd_Lothar42            = null
-    sound                   gg_snd_Lothar43            = null
-    sound                   gg_snd_Lothar44            = null
-    sound                   gg_snd_Lothar45            = null
-    sound                   gg_snd_Lothar46            = null
-    sound                   gg_snd_Lothar47            = null
-    sound                   gg_snd_Lothar48            = null
-    sound                   gg_snd_Lothar49            = null
-    sound                   gg_snd_Lothar50            = null
-    sound                   gg_snd_Lothar51            = null
-    sound                   gg_snd_Lothar52            = null
-    sound                   gg_snd_Lothar53            = null
-    sound                   gg_snd_Lothar54            = null
-    sound                   gg_snd_Lothar55            = null
-    sound                   gg_snd_Lothar56            = null
-    sound                   gg_snd_Lothar57            = null
-    sound                   gg_snd_Lothar58            = null
-    sound                   gg_snd_Lothar59            = null
-    sound                   gg_snd_Lothar40            = null
-    sound                   gg_snd_Baldar1             = null
-    sound                   gg_snd_Baldar2             = null
-    sound                   gg_snd_Baldar3             = null
-    sound                   gg_snd_Baldar4             = null
-    sound                   gg_snd_Baldar5             = null
-    sound                   gg_snd_Baldar6             = null
-    sound                   gg_snd_Baldar7             = null
-    sound                   gg_snd_Baldar8             = null
-    sound                   gg_snd_Baldar9             = null
-    sound                   gg_snd_Baldar10            = null
-    sound                   gg_snd_Baldar11            = null
-    sound                   gg_snd_Baldar12            = null
-    sound                   gg_snd_Baldar13            = null
-    sound                   gg_snd_Baldar14            = null
-    sound                   gg_snd_Baldar15            = null
-    sound                   gg_snd_Baldar16            = null
-    sound                   gg_snd_Baldar17            = null
-    sound                   gg_snd_Baldar18            = null
-    sound                   gg_snd_Baldar19            = null
-    sound                   gg_snd_Baldar20            = null
-    sound                   gg_snd_Baldar21            = null
-    sound                   gg_snd_Baldar22            = null
-    sound                   gg_snd_Baldar23            = null
-    sound                   gg_snd_Baldar24            = null
-    sound                   gg_snd_Baldar25            = null
-    sound                   gg_snd_Baldar26            = null
-    sound                   gg_snd_Baldar27            = null
-    sound                   gg_snd_Baldar28            = null
-    sound                   gg_snd_Baldar29            = null
-    sound                   gg_snd_Baldar30            = null
-    sound                   gg_snd_Baldar31            = null
-    sound                   gg_snd_Baldar32            = null
-    sound                   gg_snd_Baldar33            = null
-    sound                   gg_snd_Baldar34            = null
-    sound                   gg_snd_Baldar35            = null
-    sound                   gg_snd_Baldar36            = null
-    sound                   gg_snd_Baldar37            = null
-    sound                   gg_snd_Baldar38            = null
-    sound                   gg_snd_Haldar1             = null
-    sound                   gg_snd_Haldar2             = null
-    sound                   gg_snd_Haldar3             = null
-    sound                   gg_snd_Haldar4             = null
-    sound                   gg_snd_Haldar5             = null
-    sound                   gg_snd_Haldar6             = null
-    sound                   gg_snd_Haldar7             = null
-    sound                   gg_snd_Haldar8             = null
-    sound                   gg_snd_Haldar9             = null
-    sound                   gg_snd_Haldar10            = null
-    sound                   gg_snd_Haldar11            = null
-    sound                   gg_snd_Haldar12            = null
-    sound                   gg_snd_Haldar13            = null
-    sound                   gg_snd_Haldar14            = null
-    sound                   gg_snd_Haldar15            = null
-    sound                   gg_snd_Haldar16            = null
-    sound                   gg_snd_Haldar17            = null
-    sound                   gg_snd_Haldar18            = null
-    sound                   gg_snd_Haldar19            = null
-    sound                   gg_snd_Haldar20            = null
-    sound                   gg_snd_Haldar21            = null
-    sound                   gg_snd_Haldar22            = null
-    sound                   gg_snd_Haldar23            = null
-    sound                   gg_snd_Haldar24            = null
-    sound                   gg_snd_Haldar25            = null
-    sound                   gg_snd_Haldar26            = null
-    sound                   gg_snd_Haldar27            = null
-    sound                   gg_snd_Haldar28            = null
-    sound                   gg_snd_Haldar29            = null
-    sound                   gg_snd_Haldar30            = null
-    sound                   gg_snd_Haldar31            = null
-    sound                   gg_snd_Ferdinand1          = null
-    sound                   gg_snd_Ferdinand2          = null
-    sound                   gg_snd_Ferdinand3          = null
-    sound                   gg_snd_Ferdinand4          = null
-    sound                   gg_snd_Ferdinand5          = null
-    sound                   gg_snd_Ferdinand6          = null
-    sound                   gg_snd_Ferdinand7          = null
-    sound                   gg_snd_Ferdinand8          = null
-    sound                   gg_snd_Ferdinand9          = null
-    sound                   gg_snd_Ferdinand10         = null
-    sound                   gg_snd_Ferdinand11         = null
-    sound                   gg_snd_Ferdinand12         = null
-    sound                   gg_snd_Ferdinand13         = null
-    sound                   gg_snd_Ferdinand14         = null
-    sound                   gg_snd_Ferdinand15         = null
-    sound                   gg_snd_Ferdinand16         = null
-    sound                   gg_snd_Ferdinand17         = null
-    sound                   gg_snd_Ferdinand18         = null
-    sound                   gg_snd_Manfred1            = null
-    sound                   gg_snd_Manfred2            = null
-    sound                   gg_snd_Manfred3            = null
-    sound                   gg_snd_Manfred4            = null
-    sound                   gg_snd_Manfred5            = null
-    sound                   gg_snd_Manfred6            = null
-    sound                   gg_snd_Manfred7            = null
-    sound                   gg_snd_Manfred8            = null
-    sound                   gg_snd_Manfred9            = null
-    sound                   gg_snd_Manfred10           = null
-    sound                   gg_snd_Manfred11           = null
-    sound                   gg_snd_Manfred12           = null
-    sound                   gg_snd_Manfred13           = null
-    sound                   gg_snd_Manfred14           = null
-    sound                   gg_snd_Manfred15           = null
-    sound                   gg_snd_Manfred16           = null
-    sound                   gg_snd_Manfred17           = null
-    sound                   gg_snd_Manfred18           = null
-    sound                   gg_snd_Manfred19           = null
-    sound                   gg_snd_Manfred20           = null
-    sound                   gg_snd_Manfred21           = null
-    sound                   gg_snd_Manfred22           = null
-    sound                   gg_snd_Manfred23           = null
-    sound                   gg_snd_Manfred24           = null
-    sound                   gg_snd_Manfred25           = null
-    sound                   gg_snd_Manfred26           = null
-    sound                   gg_snd_Manfred27           = null
-    sound                   gg_snd_Manfred28           = null
-    sound                   gg_snd_Manfred29           = null
-    sound                   gg_snd_Manfred30           = null
-    sound                   gg_snd_Manfred31           = null
-    sound                   gg_snd_Manfred32           = null
-    sound                   gg_snd_Manfred33           = null
-    sound                   gg_snd_Manfred34           = null
-    sound                   gg_snd_Manfred35           = null
-    sound                   gg_snd_Manfred36           = null
-    sound                   gg_snd_Manfred37           = null
-    sound                   gg_snd_Manfred38           = null
-    sound                   gg_snd_Manfred39           = null
-    sound                   gg_snd_Manfred101          = null
-    sound                   gg_snd_Manfred201          = null
-    sound                   gg_snd_Manfred301          = null
-    sound                   gg_snd_Einar_1             = null
-    sound                   gg_snd_Einar_2             = null
-    sound                   gg_snd_Einar_3             = null
-    sound                   gg_snd_Einar_4             = null
-    sound                   gg_snd_Einar_5             = null
-    sound                   gg_snd_Einar_6             = null
-    sound                   gg_snd_Einar_6_2           = null
-    sound                   gg_snd_Einar_7             = null
-    sound                   gg_snd_Einar_7_2           = null
-    sound                   gg_snd_Einar_8             = null
-    sound                   gg_snd_Einar_8_2           = null
-    sound                   gg_snd_Einar_9             = null
-    sound                   gg_snd_Einar_10            = null
-    sound                   gg_snd_Einar_11            = null
-    sound                   gg_snd_Einar_12            = null
-    sound                   gg_snd_Einar_13            = null
-    sound                   gg_snd_Einar_14            = null
-    sound                   gg_snd_Einar_15            = null
-    sound                   gg_snd_Einar_16            = null
-    sound                   gg_snd_Einar_17            = null
-    sound                   gg_snd_Einar_18            = null
-    sound                   gg_snd_Einar_19            = null
-    sound                   gg_snd_Einar_20            = null
-    sound                   gg_snd_Einar_21            = null
-    sound                   gg_snd_Einar_22            = null
-    sound                   gg_snd_Einar_23            = null
-    sound                   gg_snd_Einar_24_1          = null
-    sound                   gg_snd_Einar_24_2          = null
-    sound                   gg_snd_Einar_25            = null
-    sound                   gg_snd_Einar_26            = null
-    sound                   gg_snd_Einar_27            = null
-    sound                   gg_snd_Trommon1            = null
-    sound                   gg_snd_Trommon3            = null
-    sound                   gg_snd_Trommon4            = null
-    sound                   gg_snd_Trommon5            = null
-    sound                   gg_snd_Trommon6            = null
-    sound                   gg_snd_Trommon7            = null
-    sound                   gg_snd_Trommon8            = null
-    sound                   gg_snd_Trommon9            = null
-    sound                   gg_snd_Trommon10           = null
-    sound                   gg_snd_Trommon11           = null
-    sound                   gg_snd_Trommon12           = null
-    sound                   gg_snd_Trommon13           = null
-    sound                   gg_snd_Trommon14           = null
-    sound                   gg_snd_Trommon15           = null
-    sound                   gg_snd_Trommon16           = null
-    sound                   gg_snd_Trommon17           = null
-    sound                   gg_snd_Trommon18           = null
-    sound                   gg_snd_Trommon19           = null
-    sound                   gg_snd_Trommon20           = null
-    sound                   gg_snd_Trommon21           = null
-    sound                   gg_snd_Trommon23           = null
-    sound                   gg_snd_Trommon26           = null
-    sound                   gg_snd_Trommon27           = null
-    sound                   gg_snd_Trommon28           = null
-    sound                   gg_snd_Trommon29           = null
-    sound                   gg_snd_Trommon30           = null
-    sound                   gg_snd_Trommon31           = null
-    sound                   gg_snd_Trommon32           = null
-    sound                   gg_snd_Trommon33           = null
-    sound                   gg_snd_Trommon34           = null
-    sound                   gg_snd_Trommon35           = null
-    sound                   gg_snd_Trommon36           = null
-    sound                   gg_snd_Trommon2            = null
-    sound                   gg_snd_Trommon24           = null
-    sound                   gg_snd_Trommon25           = null
-    sound                   gg_snd_Trommon22           = null
-    sound                   gg_snd_Bjoern1             = null
-    sound                   gg_snd_Bjoern2             = null
-    sound                   gg_snd_Bjoern3             = null
-    sound                   gg_snd_Bjoern4             = null
-    sound                   gg_snd_Bjoern5             = null
-    sound                   gg_snd_Bjoern6             = null
-    sound                   gg_snd_Bjoern7             = null
-    sound                   gg_snd_Bjoern8             = null
-    sound                   gg_snd_Bjoern9             = null
-    sound                   gg_snd_Bjoern10            = null
-    sound                   gg_snd_Bjoern11            = null
-    sound                   gg_snd_Bjoern12            = null
-    sound                   gg_snd_Bjoern13            = null
-    sound                   gg_snd_Bjoern14            = null
-    sound                   gg_snd_Bjoern15            = null
-    sound                   gg_snd_Bjoern16            = null
-    sound                   gg_snd_Bjoern17            = null
-    sound                   gg_snd_Bjoern18            = null
-    sound                   gg_snd_Bjoern19            = null
-    sound                   gg_snd_Bjoern20            = null
-    sound                   gg_snd_Bjoern21            = null
-    sound                   gg_snd_Bjoern22            = null
-    sound                   gg_snd_Bjoern23            = null
-    sound                   gg_snd_Bjoern24            = null
-    sound                   gg_snd_Bjoern25            = null
-    sound                   gg_snd_Bjoern26            = null
-    sound                   gg_snd_Bjoern27            = null
-    sound                   gg_snd_Bjoern28            = null
-    sound                   gg_snd_Bjoern29            = null
-    sound                   gg_snd_Bjoern30            = null
-    sound                   gg_snd_Bjoern31            = null
-    sound                   gg_snd_Bjoern32            = null
-    sound                   gg_snd_Bjoern33            = null
-    sound                   gg_snd_Bjoern34            = null
-    sound                   gg_snd_Bjoern35            = null
-    sound                   gg_snd_Bjoern36            = null
-    sound                   gg_snd_Bjoern37            = null
-    sound                   gg_snd_Bjoern38            = null
-    sound                   gg_snd_Bjoern39            = null
-    sound                   gg_snd_Bjoern40            = null
-    sound                   gg_snd_Bjoern41            = null
-    sound                   gg_snd_Bjoern42            = null
-    sound                   gg_snd_Bjoern43            = null
-    sound                   gg_snd_Bjoern44            = null
-    sound                   gg_snd_Bjoern45            = null
-    sound                   gg_snd_Bjoern46            = null
-    sound                   gg_snd_Bjoern47            = null
-    sound                   gg_snd_Bjoern48            = null
-    sound                   gg_snd_Bjoern49            = null
-    sound                   gg_snd_Bjoern50            = null
-    sound                   gg_snd_Bjoern51            = null
-    sound                   gg_snd_Bjoern52            = null
-    sound                   gg_snd_Bjoern53            = null
-    sound                   gg_snd_Bjoern54            = null
-    sound                   gg_snd_Bjoern55            = null
-    sound                   gg_snd_Bjoern56            = null
-    sound                   gg_snd_Bjoern57            = null
-    sound                   gg_snd_Bjoern58            = null
-    sound                   gg_snd_Bjoern59            = null
-    sound                   gg_snd_Bjoern60            = null
-    sound                   gg_snd_Bjoern61            = null
-    sound                   gg_snd_Bjoern62            = null
-    sound                   gg_snd_Bjoern63            = null
-    sound                   gg_snd_Bjoern64            = null
-    sound                   gg_snd_Bjoern65            = null
-    sound                   gg_snd_Bjoern66            = null
-    sound                   gg_snd_Bjoern67            = null
-    sound                   gg_snd_Bjoern68            = null
-    sound                   gg_snd_Bjoern69            = null
-    sound                   gg_snd_Bjoern101           = null
-    sound                   gg_snd_Bjoern201           = null
-    sound                   gg_snd_Bjoern301           = null
-    sound                   gg_snd_Bjoern401           = null
-    sound                   gg_snd_Bjoern501           = null
-    sound                   gg_snd_Bjoern601           = null
-    sound                   gg_snd_Bjoern701           = null
-    sound                   gg_snd_Bjoern801           = null
-    sound                   gg_snd_HowlOfTerror        = null
-    sound                   gg_snd_Einar_28            = null
-    sound                   gg_snd_Tobias1             = null
-    sound                   gg_snd_Tobias2             = null
-    sound                   gg_snd_Tobias3             = null
-    sound                   gg_snd_Tobias4             = null
-    sound                   gg_snd_Tobias5             = null
-    sound                   gg_snd_Tobias6             = null
-    sound                   gg_snd_Tobias7             = null
-    sound                   gg_snd_Tobias8             = null
-    sound                   gg_snd_Tobias9             = null
-    sound                   gg_snd_Tobias10            = null
-    sound                   gg_snd_Tobias11            = null
-    sound                   gg_snd_Tobias12            = null
-    sound                   gg_snd_Tobias13            = null
-    sound                   gg_snd_Tobias101           = null
-    sound                   gg_snd_Tobias201           = null
-    sound                   gg_snd_Tobias301           = null
-    sound                   gg_snd_Tobias401           = null
-    sound                   gg_snd_Tobias14            = null
-    sound                   gg_snd_Brogo1              = null
-    sound                   gg_snd_Brogo2              = null
-    sound                   gg_snd_Brogo3              = null
-    sound                   gg_snd_Brogo4              = null
-    sound                   gg_snd_Brogo5              = null
-    sound                   gg_snd_Brogo6              = null
-    sound                   gg_snd_Brogo7              = null
-    sound                   gg_snd_Brogo8              = null
-    sound                   gg_snd_Brogo9              = null
-    sound                   gg_snd_Brogo10             = null
-    sound                   gg_snd_Brogo11             = null
-    sound                   gg_snd_Brogo12             = null
-    sound                   gg_snd_Brogo13             = null
-    sound                   gg_snd_Brogo14             = null
-    sound                   gg_snd_Brogo15             = null
-    sound                   gg_snd_Brogo16             = null
-    sound                   gg_snd_DragonSlayerFarm1   = null
-    sound                   gg_snd_DragonSlayerFarm2   = null
-    sound                   gg_snd_DragonSlayerFarm3   = null
-    sound                   gg_snd_DragonSlayerFarm4   = null
-    sound                   gg_snd_DragonSlayerBloodthirstiness1 = null
-    sound                   gg_snd_DragonSlayerBloodthirstiness2 = null
-    sound                   gg_snd_DragonSlayerBloodthirstiness3 = null
-    sound                   gg_snd_DragonSlayerBloodthirstiness4 = null
-    sound                   gg_snd_DragonSlayerBloodthirstiness5 = null
-    sound                   gg_snd_DragonSlayerDeranorsDeath1 = null
-    sound                   gg_snd_DragonSlayerDeranorsDeath2 = null
-    sound                   gg_snd_DragonSlayerDeranorsDeath3 = null
-    sound                   gg_snd_DragonSlayerDeranorsDeath4 = null
-    sound                   gg_snd_DragonSlayerDeranorsDeath5 = null
-    sound                   gg_snd_DragonSlayerRecruitTheHighElf1 = null
-    sound                   gg_snd_DragonSlayerRecruitTheHighElf2 = null
-    sound                   gg_snd_DragonSlayerRecruitTheHighElf3 = null
-    sound                   gg_snd_DragonSlayerRecruitTheHighElf4 = null
-    sound                   gg_snd_DragonSlayerRecruitTheHighElf5 = null
-    sound                   gg_snd_DragonSlayerRecruitTheHighElf6 = null
-    sound                   gg_snd_DragonSlayerRecruitTheHighElf7 = null
-    sound                   gg_snd_DragonSlayerRecruitTheHighElf8 = null
-    sound                   gg_snd_DragonSlayerRecruitTheHighElf9 = null
-    sound                   gg_snd_DragonSlayerRecruitTheHighElf10 = null
-    sound                   gg_snd_DragonSlayerRecruitTheHighElf11 = null
-    sound                   gg_snd_DragonSlayerPrepareForTheDefense1 = null
-    sound                   gg_snd_DragonSlayerPrepareForTheDefense2 = null
-    sound                   gg_snd_DragonSlayerPrepareForTheDefense3 = null
-    sound                   gg_snd_DragonSlayerHolzbruck1 = null
-    sound                   gg_snd_DragonSlayerSlaughter1 = null
-    sound                   gg_snd_DragonSlayerSlaughter2 = null
-    sound                   gg_snd_DragonSlayerSlaughter3 = null
-    sound                   gg_snd_DragonSlayerSlaughter4 = null
-    sound                   gg_snd_DragonSlayerSlaughter5 = null
-    sound                   gg_snd_DragonSlayerSlaughter6 = null
-    sound                   gg_snd_DragonSlayerDeranor1 = null
-    sound                   gg_snd_DragonSlayerDeranor2 = null
-    sound                   gg_snd_DragonSlayerDeranor3 = null
-    sound                   gg_snd_Meister1            = null
-    sound                   gg_snd_Meister2            = null
-    sound                   gg_snd_Meister3            = null
-    sound                   gg_snd_Meister4            = null
-    sound                   gg_snd_Meister5            = null
-    sound                   gg_snd_Deranor1Mod         = null
-    sound                   gg_snd_Deranor2Mod         = null
-    sound                   gg_snd_Sisgard1            = null
-    sound                   gg_snd_Sisgard2            = null
-    sound                   gg_snd_Sisgard3            = null
-    sound                   gg_snd_Sisgard4            = null
-    sound                   gg_snd_Sisgard5            = null
-    sound                   gg_snd_Sisgard6            = null
-    sound                   gg_snd_Sisgard7            = null
-    sound                   gg_snd_Sisgard8            = null
-    sound                   gg_snd_Sisgard9            = null
-    sound                   gg_snd_Sisgard10           = null
-    sound                   gg_snd_Sisgard10_1         = null
-    sound                   gg_snd_Sisgard11           = null
-    sound                   gg_snd_Sisgard12           = null
-    sound                   gg_snd_Sisgard13           = null
-    sound                   gg_snd_Sisgard14           = null
-    sound                   gg_snd_Sisgard15           = null
-    sound                   gg_snd_Sisgard16           = null
-    sound                   gg_snd_Sisgard17           = null
-    sound                   gg_snd_Sisgard18           = null
-    sound                   gg_snd_Sisgard19           = null
-    sound                   gg_snd_Sisgard20           = null
-    sound                   gg_snd_Sisgard21           = null
-    sound                   gg_snd_Sisgard22           = null
-    sound                   gg_snd_Sisgard23           = null
-    sound                   gg_snd_Sisgard24           = null
-    sound                   gg_snd_Sisgard25           = null
-    sound                   gg_snd_Sisgard26           = null
-    sound                   gg_snd_Sisgard27           = null
-    sound                   gg_snd_Sisgard28           = null
-    sound                   gg_snd_Sisgard29           = null
-    sound                   gg_snd_Sisgard30           = null
-    sound                   gg_snd_Sisgard31           = null
-    sound                   gg_snd_Sisgard32           = null
-    sound                   gg_snd_Sisgard33           = null
-    sound                   gg_snd_Sisgard34           = null
-    sound                   gg_snd_Sisgard35           = null
-    sound                   gg_snd_Sisgard36           = null
-    sound                   gg_snd_Sisgard37           = null
-    sound                   gg_snd_Sisgard38           = null
-    sound                   gg_snd_Sisgard39           = null
-    sound                   gg_snd_Sisgard40           = null
-    sound                   gg_snd_Sisgard41           = null
-    sound                   gg_snd_Sisgard42           = null
-    sound                   gg_snd_Sisgard43           = null
-    sound                   gg_snd_Sisgard44           = null
-    sound                   gg_snd_Sisgard45           = null
-    sound                   gg_snd_Sisgard46           = null
-    sound                   gg_snd_Sisgard47           = null
-    sound                   gg_snd_Sisgard48           = null
-    sound                   gg_snd_Sisgard49           = null
-    sound                   gg_snd_Sisgard50           = null
-    sound                   gg_snd_Sisgard51           = null
-    sound                   gg_snd_Sisgard52           = null
-    sound                   gg_snd_Sisgard53           = null
-    sound                   gg_snd_Sisgard54           = null
-    sound                   gg_snd_Sisgard55           = null
-    sound                   gg_snd_Sisgard56           = null
-    sound                   gg_snd_Sisgard57           = null
-    sound                   gg_snd_Sisgard58           = null
-    sound                   gg_snd_Sisgard59           = null
-    sound                   gg_snd_Sisgard60           = null
-    sound                   gg_snd_Sisgard61           = null
-    sound                   gg_snd_Sisgard62           = null
-    sound                   gg_snd_Sisgard63           = null
-    sound                   gg_snd_Sisgard64           = null
-    sound                   gg_snd_SisgardRevival      = null
-    sound                   gg_snd_Farmer1             = null
-    sound                   gg_snd_Giant1              = null
-    sound                   gg_snd_Giant2              = null
-    sound                   gg_snd_Mercenary1          = null
-    sound                   gg_snd_OrcLeader1          = null
-    sound                   gg_snd_OrcLeader2          = null
-    sound                   gg_snd_OrcLeader3          = null
-    sound                   gg_snd_OrcLeader4          = null
-    sound                   gg_snd_Osman1              = null
-    sound                   gg_snd_Osman2              = null
-    sound                   gg_snd_Osman3              = null
-    sound                   gg_snd_Osman4              = null
-    sound                   gg_snd_Osman5              = null
-    sound                   gg_snd_Osman6              = null
-    sound                   gg_snd_Osman7              = null
-    sound                   gg_snd_Osman8              = null
-    sound                   gg_snd_Osman9              = null
-    sound                   gg_snd_Osman10             = null
-    sound                   gg_snd_Osman11             = null
-    sound                   gg_snd_Osman12             = null
-    sound                   gg_snd_Osman13             = null
-    sound                   gg_snd_Osman14             = null
-    sound                   gg_snd_Osman15             = null
-    sound                   gg_snd_Osman16             = null
-    sound                   gg_snd_Osman17             = null
-    sound                   gg_snd_Osman18             = null
-    sound                   gg_snd_Osman19             = null
-    sound                   gg_snd_Osman20             = null
-    sound                   gg_snd_Osman21             = null
-    sound                   gg_snd_Osman22             = null
-    sound                   gg_snd_Osman23             = null
-    sound                   gg_snd_Osman24             = null
-    sound                   gg_snd_Osman25             = null
-    sound                   gg_snd_Osman26             = null
-    sound                   gg_snd_Osman27             = null
-    sound                   gg_snd_Osman28             = null
-    sound                   gg_snd_Osman29             = null
-    sound                   gg_snd_Osman30             = null
-    sound                   gg_snd_Osman31             = null
-    sound                   gg_snd_Osman32             = null
-    sound                   gg_snd_Osman33             = null
-    sound                   gg_snd_Osman34             = null
-    sound                   gg_snd_Osman35             = null
-    sound                   gg_snd_Osman36             = null
-    sound                   gg_snd_Osman37             = null
-    sound                   gg_snd_Osman38             = null
-    sound                   gg_snd_Osman39             = null
-    sound                   gg_snd_Osman40             = null
-    sound                   gg_snd_Osman41             = null
-    sound                   gg_snd_Osman42             = null
-    sound                   gg_snd_Osman43             = null
-    sound                   gg_snd_Osman44             = null
-    sound                   gg_snd_Osman45             = null
-    sound                   gg_snd_Osman46             = null
-    sound                   gg_snd_Osman47             = null
-    sound                   gg_snd_Osman48             = null
-    sound                   gg_snd_Osman49             = null
-    sound                   gg_snd_Osman50             = null
-    sound                   gg_snd_Osman51             = null
-    sound                   gg_snd_DragonSlayerDeathVault1 = null
-    sound                   gg_snd_DragonSlayerDeathVault2 = null
-    sound                   gg_snd_DragonSlayerSlaughter7 = null
-    sound                   gg_snd_DragonSlayerBloodthirstiness6 = null
-    sound                   gg_snd_DragonSlayerBloodthirstiness7 = null
-    sound                   gg_snd_DragonSlayerBloodthirstiness8 = null
-    sound                   gg_snd_DragonSlayerBloodthirstiness9 = null
-    sound                   gg_snd_DragonSlayerVictory1 = null
-    sound                   gg_snd_DragonSlayerVictory2 = null
-    sound                   gg_snd_DragonSlayerVictory3 = null
-    sound                   gg_snd_Tellborn1           = null
-    sound                   gg_snd_Tellborn2           = null
-    sound                   gg_snd_Tellborn4           = null
-    sound                   gg_snd_Tellborn5           = null
-    sound                   gg_snd_Tellborn6           = null
-    sound                   gg_snd_Tellborn7           = null
-    sound                   gg_snd_Tellborn8           = null
-    sound                   gg_snd_Tellborn9           = null
-    sound                   gg_snd_Tellborn10          = null
-    sound                   gg_snd_Tellborn11          = null
-    sound                   gg_snd_Tellborn12          = null
-    sound                   gg_snd_Tellborn13          = null
-    sound                   gg_snd_Tellborn14          = null
-    sound                   gg_snd_Tellborn15          = null
-    sound                   gg_snd_Tellborn16          = null
-    sound                   gg_snd_Tellborn17          = null
-    sound                   gg_snd_Tellborn18          = null
-    sound                   gg_snd_Tellborn19          = null
-    sound                   gg_snd_Tellborn20          = null
-    sound                   gg_snd_Tellborn21          = null
-    sound                   gg_snd_Tellborn22          = null
-    sound                   gg_snd_Tellborn23          = null
-    sound                   gg_snd_Tellborn24          = null
-    sound                   gg_snd_Tellborn25          = null
-    sound                   gg_snd_Tellborn26          = null
-    sound                   gg_snd_Tellborn27          = null
-    sound                   gg_snd_Tellborn28          = null
-    sound                   gg_snd_Tellborn29          = null
-    sound                   gg_snd_Tellborn30          = null
-    sound                   gg_snd_Tellborn31          = null
-    sound                   gg_snd_Tellborn32          = null
-    sound                   gg_snd_Tellborn33          = null
-    sound                   gg_snd_Tellborn34          = null
-    sound                   gg_snd_Tellborn35          = null
-    sound                   gg_snd_Tellborn36          = null
-    sound                   gg_snd_Tellborn37          = null
-    sound                   gg_snd_TellbornTontext1    = null
-    sound                   gg_snd_TellbornTontext2    = null
-    sound                   gg_snd_TellbornTontext3    = null
-    sound                   gg_snd_TellbornTontext4    = null
-    sound                   gg_snd_TellbornTontext5    = null
-    sound                   gg_snd_TellbornTontext6    = null
-    sound                   gg_snd_Tellborn3           = null
-    sound                   gg_snd_CarstenRoutine1     = null
-    sound                   gg_snd_CarstenRoutine2     = null
-    sound                   gg_snd_CarstenRoutine3     = null
-    sound                   gg_snd_CarstenRoutine4     = null
-    sound                   gg_snd_CarstenRoutine5     = null
-    sound                   gg_snd_CarstenRoutine6     = null
-    sound                   gg_snd_Agihard1            = null
-    sound                   gg_snd_Agihard2            = null
-    sound                   gg_snd_Agihard3            = null
-    sound                   gg_snd_Agihard4            = null
-    sound                   gg_snd_Agihard5            = null
-    sound                   gg_snd_Agihard6            = null
-    sound                   gg_snd_Agihard7            = null
-    sound                   gg_snd_Agihard8            = null
-    sound                   gg_snd_Agihard9            = null
-    sound                   gg_snd_Agihard10           = null
-    sound                   gg_snd_Agihard11           = null
-    sound                   gg_snd_Agihard12           = null
-    sound                   gg_snd_Agihard13           = null
-    sound                   gg_snd_Agihard14           = null
-    sound                   gg_snd_Agihard15           = null
-    sound                   gg_snd_Agihard16           = null
-    sound                   gg_snd_Agihard17           = null
-    sound                   gg_snd_Agihard18           = null
-    sound                   gg_snd_Agihard19           = null
-    sound                   gg_snd_Agihard20           = null
-    sound                   gg_snd_Agihard21           = null
-    sound                   gg_snd_Agihard22           = null
-    sound                   gg_snd_Agihard23           = null
-    sound                   gg_snd_Agihard24           = null
-    sound                   gg_snd_Agihard25           = null
-    sound                   gg_snd_Agihard26           = null
-    sound                   gg_snd_Agihard27           = null
-    sound                   gg_snd_Agihard28           = null
-    sound                   gg_snd_Agihard29           = null
-    sound                   gg_snd_Agihard30           = null
-    sound                   gg_snd_Agihard31           = null
-    sound                   gg_snd_Agihard32           = null
-    sound                   gg_snd_Agihard33           = null
-    sound                   gg_snd_Agihard34           = null
-    sound                   gg_snd_Agihard35           = null
-    sound                   gg_snd_Agihard36           = null
-    sound                   gg_snd_Agihard37           = null
-    sound                   gg_snd_Agihard38           = null
-    sound                   gg_snd_Agihard39           = null
-    sound                   gg_snd_Agihard40           = null
-    sound                   gg_snd_Bjoern37_1          = null
-    sound                   gg_snd_Mathilda1           = null
-    sound                   gg_snd_Mathilda2           = null
-    sound                   gg_snd_Mathilda3           = null
-    sound                   gg_snd_Mathilda4           = null
-    sound                   gg_snd_Mathilda5           = null
-    sound                   gg_snd_Mathilda6           = null
-    sound                   gg_snd_Mathilda7           = null
-    sound                   gg_snd_Mathilda8           = null
-    sound                   gg_snd_Mathilda9           = null
-    sound                   gg_snd_Mathilda10          = null
-    sound                   gg_snd_Mathilda11          = null
-    sound                   gg_snd_Mathilda12          = null
-    sound                   gg_snd_Mathilda13          = null
-    sound                   gg_snd_Mathilda14          = null
-    sound                   gg_snd_Mathilda15          = null
-    sound                   gg_snd_Mathilda16          = null
-    sound                   gg_snd_Mathilda17          = null
-    sound                   gg_snd_Mathilda18          = null
-    sound                   gg_snd_Mathilda19          = null
-    sound                   gg_snd_Mathilda20          = null
-    sound                   gg_snd_Mathilda21          = null
-    sound                   gg_snd_Mathilda22          = null
-    sound                   gg_snd_Mathilda23          = null
-    sound                   gg_snd_Mathilda24          = null
-    sound                   gg_snd_Mathilda25          = null
-    sound                   gg_snd_Mathilda26          = null
-    sound                   gg_snd_Mathilda27          = null
-    sound                   gg_snd_Mathilda28          = null
-    sound                   gg_snd_Mathilda29          = null
-    sound                   gg_snd_Mathilda30          = null
-    sound                   gg_snd_Mathilda31          = null
-    sound                   gg_snd_Mathilda32          = null
-    sound                   gg_snd_Mathilda33          = null
-    sound                   gg_snd_Mathilda34          = null
-    sound                   gg_snd_Mathilda35          = null
-    sound                   gg_snd_Mathilda36          = null
-    sound                   gg_snd_Mathilda37          = null
-    sound                   gg_snd_Mathilda38          = null
-    sound                   gg_snd_Mathilda39          = null
-    sound                   gg_snd_Mathilda40          = null
-    sound                   gg_snd_Mathilda41          = null
-    sound                   gg_snd_Mathilda42          = null
-    sound                   gg_snd_Mathilda43          = null
-    sound                   gg_snd_Mathilda44          = null
-    sound                   gg_snd_Mathilda45          = null
-    sound                   gg_snd_Mathilda46          = null
-    sound                   gg_snd_Mathilda47          = null
-    sound                   gg_snd_Mathilda48          = null
-    sound                   gg_snd_Mathilda49          = null
-    sound                   gg_snd_Mathilda50          = null
-    sound                   gg_snd_Mathilda51          = null
-    sound                   gg_snd_Mathilda52          = null
-    sound                   gg_snd_Mathilda53          = null
-    sound                   gg_snd_Mathilda54          = null
-    sound                   gg_snd_Mathilda55          = null
-    sound                   gg_snd_Mathilda56          = null
-    sound                   gg_snd_Mathilda57          = null
-    sound                   gg_snd_Mathilda58          = null
-    sound                   gg_snd_Mathilda59          = null
-    sound                   gg_snd_Mathilda60          = null
-    sound                   gg_snd_Mathilda61          = null
-    sound                   gg_snd_Mathilda62          = null
-    sound                   gg_snd_Mathilda63          = null
-    sound                   gg_snd_Mathilda64          = null
-    sound                   gg_snd_Mathilda65          = null
-    sound                   gg_snd_Mathilda66          = null
-    sound                   gg_snd_Mathilda67          = null
-    sound                   gg_snd_Mathilda68          = null
-    sound                   gg_snd_Mathilda69          = null
-    sound                   gg_snd_Mathilda70          = null
-    sound                   gg_snd_Mathilda71          = null
-    sound                   gg_snd_Mathilda72          = null
-    sound                   gg_snd_mshawm              = null
-    sound                   gg_snd_Fulco1              = null
-    sound                   gg_snd_Fulco2              = null
-    sound                   gg_snd_Fulco3              = null
-    sound                   gg_snd_Fulco4              = null
-    sound                   gg_snd_Fulco5              = null
-    sound                   gg_snd_Fulco6              = null
-    sound                   gg_snd_Fulco7              = null
-    sound                   gg_snd_Fulco8              = null
-    sound                   gg_snd_Fulco9              = null
-    sound                   gg_snd_FulcoAmbient1       = null
-    sound                   gg_snd_FulcoAmbient2       = null
-    sound                   gg_snd_FulcoAmbient3       = null
-    sound                   gg_snd_FulcoAmbient4       = null
-    sound                   gg_snd_Dararos1            = null
-    sound                   gg_snd_Dararos2            = null
-    sound                   gg_snd_Dararos3            = null
-    sound                   gg_snd_Dararos4            = null
-    sound                   gg_snd_Dararos5            = null
-    sound                   gg_snd_Dararos6            = null
-    sound                   gg_snd_Dararos7            = null
-    sound                   gg_snd_DararosTalk1        = null
-    sound                   gg_snd_DararosTalk2        = null
-    sound                   gg_snd_DararosTalk3        = null
-    sound                   gg_snd_DararosTalk4        = null
     trigger                 gg_trg_Video_Deranor       = null
     trigger                 gg_trg_Video_Intro         = null
     trigger                 gg_trg_Video_Intro_new     = null
@@ -2777,6 +1470,1381 @@ globals
     destructable            gg_dest_B008_21758         = null
     destructable            gg_dest_B008_30012         = null
     sound                   gg_snd_Tanka101            = null
+    sound                   gg_snd_Tanka1001           = null
+    sound                   gg_snd_Tanka11             = null
+    sound                   gg_snd_Tanka12             = null
+    sound                   gg_snd_Tanka13             = null
+    sound                   gg_snd_Tanka14             = null
+    sound                   gg_snd_Tanka15             = null
+    sound                   gg_snd_Tanka16             = null
+    sound                   gg_snd_Tanka17             = null
+    sound                   gg_snd_Tanka18             = null
+    sound                   gg_snd_Tanka19             = null
+    sound                   gg_snd_Tanka2              = null
+    sound                   gg_snd_Tanka21             = null
+    sound                   gg_snd_Tanka22             = null
+    sound                   gg_snd_Tanka23             = null
+    sound                   gg_snd_Tanka24             = null
+    sound                   gg_snd_Tanka25             = null
+    sound                   gg_snd_Tanka29             = null
+    sound                   gg_snd_Tanka3              = null
+    sound                   gg_snd_Tanka30             = null
+    sound                   gg_snd_Tanka31             = null
+    sound                   gg_snd_Tanka32             = null
+    sound                   gg_snd_Tanka33             = null
+    sound                   gg_snd_Tanka34             = null
+    sound                   gg_snd_Tanka35             = null
+    sound                   gg_snd_Tanka36             = null
+    sound                   gg_snd_Tanka37             = null
+    sound                   gg_snd_Tanka38             = null
+    sound                   gg_snd_Tanka39             = null
+    sound                   gg_snd_Tanka4              = null
+    sound                   gg_snd_Tanka40             = null
+    sound                   gg_snd_Tanka41             = null
+    sound                   gg_snd_Tanka42             = null
+    sound                   gg_snd_Tanka5              = null
+    sound                   gg_snd_Tanka6              = null
+    sound                   gg_snd_Tanka7              = null
+    sound                   gg_snd_Tanka8              = null
+    sound                   gg_snd_Tanka9              = null
+    sound                   gg_snd_Agihard1            = null
+    sound                   gg_snd_Agihard10           = null
+    sound                   gg_snd_Agihard11           = null
+    sound                   gg_snd_Agihard12           = null
+    sound                   gg_snd_Agihard13           = null
+    sound                   gg_snd_Agihard14           = null
+    sound                   gg_snd_Agihard15           = null
+    sound                   gg_snd_Agihard16           = null
+    sound                   gg_snd_Agihard17           = null
+    sound                   gg_snd_Agihard18           = null
+    sound                   gg_snd_Agihard19           = null
+    sound                   gg_snd_Agihard2            = null
+    sound                   gg_snd_Agihard20           = null
+    sound                   gg_snd_Agihard21           = null
+    sound                   gg_snd_Agihard22           = null
+    sound                   gg_snd_Agihard23           = null
+    sound                   gg_snd_Agihard24           = null
+    sound                   gg_snd_Agihard25           = null
+    sound                   gg_snd_Agihard26           = null
+    sound                   gg_snd_Agihard27           = null
+    sound                   gg_snd_Agihard28           = null
+    sound                   gg_snd_Agihard29           = null
+    sound                   gg_snd_Agihard3            = null
+    sound                   gg_snd_Agihard30           = null
+    sound                   gg_snd_Agihard31           = null
+    sound                   gg_snd_Agihard32           = null
+    sound                   gg_snd_Agihard33           = null
+    sound                   gg_snd_Agihard34           = null
+    sound                   gg_snd_Agihard35           = null
+    sound                   gg_snd_Agihard36           = null
+    sound                   gg_snd_Agihard37           = null
+    sound                   gg_snd_Agihard38           = null
+    sound                   gg_snd_Agihard39           = null
+    sound                   gg_snd_Agihard4            = null
+    sound                   gg_snd_Agihard40           = null
+    sound                   gg_snd_Agihard5            = null
+    sound                   gg_snd_Agihard6            = null
+    sound                   gg_snd_Agihard7            = null
+    sound                   gg_snd_Agihard8            = null
+    sound                   gg_snd_Agihard9            = null
+    sound                   gg_snd_Baldar1             = null
+    sound                   gg_snd_Baldar10            = null
+    sound                   gg_snd_Baldar11            = null
+    sound                   gg_snd_Baldar12            = null
+    sound                   gg_snd_Baldar13            = null
+    sound                   gg_snd_Baldar14            = null
+    sound                   gg_snd_Baldar15            = null
+    sound                   gg_snd_Baldar16            = null
+    sound                   gg_snd_Baldar17            = null
+    sound                   gg_snd_Baldar18            = null
+    sound                   gg_snd_Baldar19            = null
+    sound                   gg_snd_Baldar2             = null
+    sound                   gg_snd_Baldar20            = null
+    sound                   gg_snd_Baldar21            = null
+    sound                   gg_snd_Baldar22            = null
+    sound                   gg_snd_Baldar23            = null
+    sound                   gg_snd_Baldar24            = null
+    sound                   gg_snd_Baldar25            = null
+    sound                   gg_snd_Baldar26            = null
+    sound                   gg_snd_Baldar27            = null
+    sound                   gg_snd_Baldar28            = null
+    sound                   gg_snd_Baldar29            = null
+    sound                   gg_snd_Baldar3             = null
+    sound                   gg_snd_Baldar30            = null
+    sound                   gg_snd_Baldar31            = null
+    sound                   gg_snd_Baldar32            = null
+    sound                   gg_snd_Baldar33            = null
+    sound                   gg_snd_Baldar34            = null
+    sound                   gg_snd_Baldar35            = null
+    sound                   gg_snd_Baldar36            = null
+    sound                   gg_snd_Baldar37            = null
+    sound                   gg_snd_Baldar38            = null
+    sound                   gg_snd_Baldar4             = null
+    sound                   gg_snd_Baldar5             = null
+    sound                   gg_snd_Baldar6             = null
+    sound                   gg_snd_Baldar7             = null
+    sound                   gg_snd_Baldar8             = null
+    sound                   gg_snd_Baldar9             = null
+    sound                   gg_snd_Bjoern1             = null
+    sound                   gg_snd_Bjoern101           = null
+    sound                   gg_snd_Bjoern10            = null
+    sound                   gg_snd_Bjoern11            = null
+    sound                   gg_snd_Bjoern12            = null
+    sound                   gg_snd_Bjoern13            = null
+    sound                   gg_snd_Bjoern14            = null
+    sound                   gg_snd_Bjoern15            = null
+    sound                   gg_snd_Bjoern16            = null
+    sound                   gg_snd_Bjoern17            = null
+    sound                   gg_snd_Bjoern18            = null
+    sound                   gg_snd_Bjoern19            = null
+    sound                   gg_snd_Bjoern2             = null
+    sound                   gg_snd_Bjoern201           = null
+    sound                   gg_snd_Bjoern20            = null
+    sound                   gg_snd_Bjoern21            = null
+    sound                   gg_snd_Bjoern22            = null
+    sound                   gg_snd_Bjoern23            = null
+    sound                   gg_snd_Bjoern24            = null
+    sound                   gg_snd_Bjoern25            = null
+    sound                   gg_snd_Bjoern26            = null
+    sound                   gg_snd_Bjoern27            = null
+    sound                   gg_snd_Bjoern28            = null
+    sound                   gg_snd_Bjoern29            = null
+    sound                   gg_snd_Bjoern3             = null
+    sound                   gg_snd_Bjoern301           = null
+    sound                   gg_snd_Bjoern30            = null
+    sound                   gg_snd_Bjoern31            = null
+    sound                   gg_snd_Bjoern32            = null
+    sound                   gg_snd_Bjoern33            = null
+    sound                   gg_snd_Bjoern34            = null
+    sound                   gg_snd_Bjoern35            = null
+    sound                   gg_snd_Bjoern36            = null
+    sound                   gg_snd_Bjoern37            = null
+    sound                   gg_snd_Bjoern37_1          = null
+    sound                   gg_snd_Bjoern38            = null
+    sound                   gg_snd_Bjoern39            = null
+    sound                   gg_snd_Bjoern4             = null
+    sound                   gg_snd_Bjoern401           = null
+    sound                   gg_snd_Bjoern40            = null
+    sound                   gg_snd_Bjoern41            = null
+    sound                   gg_snd_Bjoern42            = null
+    sound                   gg_snd_Bjoern43            = null
+    sound                   gg_snd_Bjoern44            = null
+    sound                   gg_snd_Bjoern45            = null
+    sound                   gg_snd_Bjoern46            = null
+    sound                   gg_snd_Bjoern47            = null
+    sound                   gg_snd_Bjoern48            = null
+    sound                   gg_snd_Bjoern49            = null
+    sound                   gg_snd_Bjoern5             = null
+    sound                   gg_snd_Bjoern501           = null
+    sound                   gg_snd_Bjoern50            = null
+    sound                   gg_snd_Bjoern51            = null
+    sound                   gg_snd_Bjoern52            = null
+    sound                   gg_snd_Bjoern53            = null
+    sound                   gg_snd_Bjoern54            = null
+    sound                   gg_snd_Bjoern55            = null
+    sound                   gg_snd_Bjoern56            = null
+    sound                   gg_snd_Bjoern57            = null
+    sound                   gg_snd_Bjoern58            = null
+    sound                   gg_snd_Bjoern59            = null
+    sound                   gg_snd_Bjoern6             = null
+    sound                   gg_snd_Bjoern601           = null
+    sound                   gg_snd_Bjoern60            = null
+    sound                   gg_snd_Bjoern61            = null
+    sound                   gg_snd_Bjoern62            = null
+    sound                   gg_snd_Bjoern63            = null
+    sound                   gg_snd_Bjoern64            = null
+    sound                   gg_snd_Bjoern65            = null
+    sound                   gg_snd_Bjoern66            = null
+    sound                   gg_snd_Bjoern67            = null
+    sound                   gg_snd_Bjoern68            = null
+    sound                   gg_snd_Bjoern69            = null
+    sound                   gg_snd_Bjoern7             = null
+    sound                   gg_snd_Bjoern701           = null
+    sound                   gg_snd_Bjoern8             = null
+    sound                   gg_snd_Bjoern801           = null
+    sound                   gg_snd_Bjoern9             = null
+    sound                   gg_snd_Brogo1              = null
+    sound                   gg_snd_Brogo10             = null
+    sound                   gg_snd_Brogo11             = null
+    sound                   gg_snd_Brogo12             = null
+    sound                   gg_snd_Brogo13             = null
+    sound                   gg_snd_Brogo14             = null
+    sound                   gg_snd_Brogo15             = null
+    sound                   gg_snd_Brogo16             = null
+    sound                   gg_snd_Brogo2              = null
+    sound                   gg_snd_Brogo3              = null
+    sound                   gg_snd_Brogo4              = null
+    sound                   gg_snd_Brogo6              = null
+    sound                   gg_snd_Brogo5              = null
+    sound                   gg_snd_Brogo7              = null
+    sound                   gg_snd_Brogo8              = null
+    sound                   gg_snd_Brogo9              = null
+    sound                   gg_snd_Carsten1            = null
+    sound                   gg_snd_Carsten2            = null
+    sound                   gg_snd_Carsten3            = null
+    sound                   gg_snd_Carsten4            = null
+    sound                   gg_snd_Carsten5            = null
+    sound                   gg_snd_Carsten6            = null
+    sound                   gg_snd_Carsten7            = null
+    sound                   gg_snd_Carsten8            = null
+    sound                   gg_snd_CarstenRoutine1     = null
+    sound                   gg_snd_CarstenRoutine2     = null
+    sound                   gg_snd_CarstenRoutine3     = null
+    sound                   gg_snd_CarstenRoutine4     = null
+    sound                   gg_snd_CarstenRoutine5     = null
+    sound                   gg_snd_CarstenRoutine6     = null
+    sound                   gg_snd_Dago1               = null
+    sound                   gg_snd_Dago10              = null
+    sound                   gg_snd_Dago11              = null
+    sound                   gg_snd_Dago12              = null
+    sound                   gg_snd_Dago13              = null
+    sound                   gg_snd_Dago14              = null
+    sound                   gg_snd_Dago15              = null
+    sound                   gg_snd_Dago16              = null
+    sound                   gg_snd_Dago17              = null
+    sound                   gg_snd_Dago18              = null
+    sound                   gg_snd_Dago19              = null
+    sound                   gg_snd_Dago2               = null
+    sound                   gg_snd_Dago20              = null
+    sound                   gg_snd_Dago21              = null
+    sound                   gg_snd_Dago22              = null
+    sound                   gg_snd_Dago23              = null
+    sound                   gg_snd_Dago24              = null
+    sound                   gg_snd_Dago25              = null
+    sound                   gg_snd_Dago26              = null
+    sound                   gg_snd_Dago27              = null
+    sound                   gg_snd_Dago28              = null
+    sound                   gg_snd_Dago29              = null
+    sound                   gg_snd_Dago3               = null
+    sound                   gg_snd_Dago30              = null
+    sound                   gg_snd_Dago31              = null
+    sound                   gg_snd_Dago32              = null
+    sound                   gg_snd_Dago33              = null
+    sound                   gg_snd_Dago4               = null
+    sound                   gg_snd_Dago5               = null
+    sound                   gg_snd_Dago6               = null
+    sound                   gg_snd_Dago7               = null
+    sound                   gg_snd_Dago8               = null
+    sound                   gg_snd_Dago9               = null
+    sound                   gg_snd_DagoRescueDago1     = null
+    sound                   gg_snd_DagoRescueDago2     = null
+    sound                   gg_snd_DagoRescueDago3     = null
+    sound                   gg_snd_DagoRescueDago4     = null
+    sound                   gg_snd_DagoRescueDago5     = null
+    sound                   gg_snd_DagoRescueDago6     = null
+    sound                   gg_snd_DagoRescueDago7     = null
+    sound                   gg_snd_Dararos1            = null
+    sound                   gg_snd_Dararos2            = null
+    sound                   gg_snd_Dararos3            = null
+    sound                   gg_snd_Dararos4            = null
+    sound                   gg_snd_Dararos5            = null
+    sound                   gg_snd_Dararos6            = null
+    sound                   gg_snd_Dararos7            = null
+    sound                   gg_snd_DararosDeath1       = null
+    sound                   gg_snd_DararosTalk1        = null
+    sound                   gg_snd_DararosTalk2        = null
+    sound                   gg_snd_DararosTalk3        = null
+    sound                   gg_snd_DararosTalk4        = null
+    sound                   gg_snd_DararosWhat1        = null
+    sound                   gg_snd_DararosWhat2        = null
+    sound                   gg_snd_DararosWhat3        = null
+    sound                   gg_snd_DararosYes1         = null
+    sound                   gg_snd_DararosYes2         = null
+    sound                   gg_snd_DararosYes3         = null
+    sound                   gg_snd_DararosYesAttack1   = null
+    sound                   gg_snd_DararosYesAttack2   = null
+    sound                   gg_snd_DararosYesAttack3   = null
+    sound                   gg_snd_Deranor1            = null
+    sound                   gg_snd_Deranor1Mod         = null
+    sound                   gg_snd_Deranor2            = null
+    sound                   gg_snd_Deranor2Mod         = null
+    sound                   gg_snd_DragonSlayer1       = null
+    sound                   gg_snd_DragonSlayer2       = null
+    sound                   gg_snd_DragonSlayer3       = null
+    sound                   gg_snd_DragonSlayer4       = null
+    sound                   gg_snd_DragonSlayer5       = null
+    sound                   gg_snd_DragonSlayer6       = null
+    sound                   gg_snd_DragonSlayer7       = null
+    sound                   gg_snd_DragonSlayer8       = null
+    sound                   gg_snd_DragonSlayerBloodthirstiness1 = null
+    sound                   gg_snd_DragonSlayerBloodthirstiness2 = null
+    sound                   gg_snd_DragonSlayerBloodthirstiness3 = null
+    sound                   gg_snd_DragonSlayerBloodthirstiness4 = null
+    sound                   gg_snd_DragonSlayerBloodthirstiness5 = null
+    sound                   gg_snd_DragonSlayerBloodthirstiness6 = null
+    sound                   gg_snd_DragonSlayerBloodthirstiness7 = null
+    sound                   gg_snd_DragonSlayerBloodthirstiness8 = null
+    sound                   gg_snd_DragonSlayerBloodthirstiness9 = null
+    sound                   gg_snd_DragonSlayerDeathVault1 = null
+    sound                   gg_snd_DragonSlayerDeathVault2 = null
+    sound                   gg_snd_DragonSlayerDeranor1 = null
+    sound                   gg_snd_DragonSlayerDeranor2 = null
+    sound                   gg_snd_DragonSlayerDeranor3 = null
+    sound                   gg_snd_DragonSlayerDeranorsDeath1 = null
+    sound                   gg_snd_DragonSlayerDeranorsDeath2 = null
+    sound                   gg_snd_DragonSlayerDeranorsDeath3 = null
+    sound                   gg_snd_DragonSlayerDeranorsDeath4 = null
+    sound                   gg_snd_DragonSlayerDeranorsDeath5 = null
+    sound                   gg_snd_DragonSlayerFarm1   = null
+    sound                   gg_snd_DragonSlayerFarm2   = null
+    sound                   gg_snd_DragonSlayerFarm3   = null
+    sound                   gg_snd_DragonSlayerFarm4   = null
+    sound                   gg_snd_DragonSlayerHolzbruck1 = null
+    sound                   gg_snd_DragonSlayerPrepareForTheDefense1 = null
+    sound                   gg_snd_DragonSlayerPrepareForTheDefense2 = null
+    sound                   gg_snd_DragonSlayerPrepareForTheDefense3 = null
+    sound                   gg_snd_DragonSlayerRecruitTheHighElf1 = null
+    sound                   gg_snd_DragonSlayerRecruitTheHighElf10 = null
+    sound                   gg_snd_DragonSlayerRecruitTheHighElf11 = null
+    sound                   gg_snd_DragonSlayerRecruitTheHighElf2 = null
+    sound                   gg_snd_DragonSlayerRecruitTheHighElf3 = null
+    sound                   gg_snd_DragonSlayerRecruitTheHighElf4 = null
+    sound                   gg_snd_DragonSlayerRecruitTheHighElf5 = null
+    sound                   gg_snd_DragonSlayerRecruitTheHighElf6 = null
+    sound                   gg_snd_DragonSlayerRecruitTheHighElf7 = null
+    sound                   gg_snd_DragonSlayerRecruitTheHighElf8 = null
+    sound                   gg_snd_DragonSlayerRecruitTheHighElf9 = null
+    sound                   gg_snd_DragonSlayerSlaughter1 = null
+    sound                   gg_snd_DragonSlayerSlaughter2 = null
+    sound                   gg_snd_DragonSlayerSlaughter3 = null
+    sound                   gg_snd_DragonSlayerSlaughter4 = null
+    sound                   gg_snd_DragonSlayerSlaughter5 = null
+    sound                   gg_snd_DragonSlayerSlaughter6 = null
+    sound                   gg_snd_DragonSlayerSlaughter7 = null
+    sound                   gg_snd_DragonSlayerVictory1 = null
+    sound                   gg_snd_DragonSlayerVictory2 = null
+    sound                   gg_snd_DragonSlayerVictory3 = null
+    sound                   gg_snd_DragonSlayerWhat1   = null
+    sound                   gg_snd_DragonSlayerWhat2   = null
+    sound                   gg_snd_DragonSlayerWhat3   = null
+    sound                   gg_snd_DragonSlayerYes1    = null
+    sound                   gg_snd_DragonSlayerYes2    = null
+    sound                   gg_snd_DragonSlayerYes3    = null
+    sound                   gg_snd_DragonSlayerYesAttack1 = null
+    sound                   gg_snd_DragonSlayerYesAttack2 = null
+    sound                   gg_snd_DragonSlayerYesAttack3 = null
+    sound                   gg_snd_Einar_1             = null
+    sound                   gg_snd_Einar_10            = null
+    sound                   gg_snd_Einar_11            = null
+    sound                   gg_snd_Einar_12            = null
+    sound                   gg_snd_Einar_13            = null
+    sound                   gg_snd_Einar_14            = null
+    sound                   gg_snd_Einar_15            = null
+    sound                   gg_snd_Einar_16            = null
+    sound                   gg_snd_Einar_17            = null
+    sound                   gg_snd_Einar_18            = null
+    sound                   gg_snd_Einar_19            = null
+    sound                   gg_snd_Einar_2             = null
+    sound                   gg_snd_Einar_20            = null
+    sound                   gg_snd_Einar_21            = null
+    sound                   gg_snd_Einar_22            = null
+    sound                   gg_snd_Einar_23            = null
+    sound                   gg_snd_Einar_24_1          = null
+    sound                   gg_snd_Einar_24_2          = null
+    sound                   gg_snd_Einar_25            = null
+    sound                   gg_snd_Einar_26            = null
+    sound                   gg_snd_Einar_27            = null
+    sound                   gg_snd_Einar_28            = null
+    sound                   gg_snd_Einar_3             = null
+    sound                   gg_snd_Einar_4             = null
+    sound                   gg_snd_Einar_5             = null
+    sound                   gg_snd_Einar_6             = null
+    sound                   gg_snd_Einar_6_2           = null
+    sound                   gg_snd_Einar_7             = null
+    sound                   gg_snd_Einar_7_2           = null
+    sound                   gg_snd_Einar_8             = null
+    sound                   gg_snd_Einar_8_2           = null
+    sound                   gg_snd_Einar_9             = null
+    sound                   gg_snd_ErzaehlerDieBurg1   = null
+    sound                   gg_snd_ErzaehlerDieBurg2   = null
+    sound                   gg_snd_ErzaehlerDieBurg3   = null
+    sound                   gg_snd_ErzaehlerFlussaufwaerts1 = null
+    sound                   gg_snd_ErzaehlerIntro1     = null
+    sound                   gg_snd_ErzaehlerIntro2     = null
+    sound                   gg_snd_ErzaehlerIntro3     = null
+    sound                   gg_snd_ErzaehlerIntro4     = null
+    sound                   gg_snd_ErzaehlerIntro5     = null
+    sound                   gg_snd_ErzaehlerIntro6     = null
+    sound                   gg_snd_ErzaehlerSieg1      = null
+    sound                   gg_snd_ErzaehlerSieg2      = null
+    sound                   gg_snd_Farmer1             = null
+    sound                   gg_snd_Ferdinand1          = null
+    sound                   gg_snd_Ferdinand10         = null
+    sound                   gg_snd_Ferdinand11         = null
+    sound                   gg_snd_Ferdinand12         = null
+    sound                   gg_snd_Ferdinand13         = null
+    sound                   gg_snd_Ferdinand14         = null
+    sound                   gg_snd_Ferdinand15         = null
+    sound                   gg_snd_Ferdinand16         = null
+    sound                   gg_snd_Ferdinand17         = null
+    sound                   gg_snd_Ferdinand18         = null
+    sound                   gg_snd_Ferdinand2          = null
+    sound                   gg_snd_Ferdinand3          = null
+    sound                   gg_snd_Ferdinand4          = null
+    sound                   gg_snd_Ferdinand5          = null
+    sound                   gg_snd_Ferdinand6          = null
+    sound                   gg_snd_Ferdinand7          = null
+    sound                   gg_snd_Ferdinand8          = null
+    sound                   gg_snd_Ferdinand9          = null
+    sound                   gg_snd_Fulco1              = null
+    sound                   gg_snd_Fulco2              = null
+    sound                   gg_snd_Fulco3              = null
+    sound                   gg_snd_Fulco4              = null
+    sound                   gg_snd_Fulco5              = null
+    sound                   gg_snd_Fulco6              = null
+    sound                   gg_snd_Fulco7              = null
+    sound                   gg_snd_Fulco8              = null
+    sound                   gg_snd_Fulco9              = null
+    sound                   gg_snd_FulcoAmbient1       = null
+    sound                   gg_snd_FulcoAmbient2       = null
+    sound                   gg_snd_FulcoAmbient3       = null
+    sound                   gg_snd_FulcoAmbient4       = null
+    sound                   gg_snd_Giant1              = null
+    sound                   gg_snd_Giant2              = null
+    sound                   gg_snd_Gotlinde1           = null
+    sound                   gg_snd_Gotlinde10          = null
+    sound                   gg_snd_Gotlinde2           = null
+    sound                   gg_snd_Gotlinde3           = null
+    sound                   gg_snd_Gotlinde4           = null
+    sound                   gg_snd_Gotlinde5           = null
+    sound                   gg_snd_Gotlinde6           = null
+    sound                   gg_snd_Gotlinde7           = null
+    sound                   gg_snd_Gotlinde8           = null
+    sound                   gg_snd_Gotlinde9           = null
+    sound                   gg_snd_Guntrich1           = null
+    sound                   gg_snd_Guntrich10          = null
+    sound                   gg_snd_Guntrich11          = null
+    sound                   gg_snd_Guntrich12          = null
+    sound                   gg_snd_Guntrich13          = null
+    sound                   gg_snd_Guntrich14          = null
+    sound                   gg_snd_Guntrich2           = null
+    sound                   gg_snd_Guntrich3           = null
+    sound                   gg_snd_Guntrich4           = null
+    sound                   gg_snd_Guntrich5           = null
+    sound                   gg_snd_Guntrich6           = null
+    sound                   gg_snd_Guntrich7           = null
+    sound                   gg_snd_Guntrich8           = null
+    sound                   gg_snd_Guntrich9           = null
+    sound                   gg_snd_Haid1               = null
+    sound                   gg_snd_Haid10              = null
+    sound                   gg_snd_Haid11              = null
+    sound                   gg_snd_Haid12              = null
+    sound                   gg_snd_Haid13              = null
+    sound                   gg_snd_Haid14              = null
+    sound                   gg_snd_Haid15              = null
+    sound                   gg_snd_Haid16              = null
+    sound                   gg_snd_Haid17              = null
+    sound                   gg_snd_Haid18              = null
+    sound                   gg_snd_Haid19              = null
+    sound                   gg_snd_Haid1old            = null
+    sound                   gg_snd_Haid2               = null
+    sound                   gg_snd_Haid20              = null
+    sound                   gg_snd_Haid21              = null
+    sound                   gg_snd_Haid3               = null
+    sound                   gg_snd_Haid4               = null
+    sound                   gg_snd_Haid5               = null
+    sound                   gg_snd_Haid6               = null
+    sound                   gg_snd_Haid7               = null
+    sound                   gg_snd_Haid8               = null
+    sound                   gg_snd_Haid9               = null
+    sound                   gg_snd_Haldar1             = null
+    sound                   gg_snd_Haldar10            = null
+    sound                   gg_snd_Haldar11            = null
+    sound                   gg_snd_Haldar12            = null
+    sound                   gg_snd_Haldar13            = null
+    sound                   gg_snd_Haldar14            = null
+    sound                   gg_snd_Haldar15            = null
+    sound                   gg_snd_Haldar16            = null
+    sound                   gg_snd_Haldar17            = null
+    sound                   gg_snd_Haldar18            = null
+    sound                   gg_snd_Haldar19            = null
+    sound                   gg_snd_Haldar2             = null
+    sound                   gg_snd_Haldar20            = null
+    sound                   gg_snd_Haldar21            = null
+    sound                   gg_snd_Haldar22            = null
+    sound                   gg_snd_Haldar23            = null
+    sound                   gg_snd_Haldar24            = null
+    sound                   gg_snd_Haldar25            = null
+    sound                   gg_snd_Haldar26            = null
+    sound                   gg_snd_Haldar27            = null
+    sound                   gg_snd_Haldar28            = null
+    sound                   gg_snd_Haldar29            = null
+    sound                   gg_snd_Haldar3             = null
+    sound                   gg_snd_Haldar30            = null
+    sound                   gg_snd_Haldar31            = null
+    sound                   gg_snd_Haldar4             = null
+    sound                   gg_snd_Haldar5             = null
+    sound                   gg_snd_Haldar6             = null
+    sound                   gg_snd_Haldar7             = null
+    sound                   gg_snd_Haldar8             = null
+    sound                   gg_snd_Haldar9             = null
+    sound                   gg_snd_Heimrich1           = null
+    sound                   gg_snd_Heimrich10          = null
+    sound                   gg_snd_Heimrich11          = null
+    sound                   gg_snd_Heimrich12          = null
+    sound                   gg_snd_Heimrich13          = null
+    sound                   gg_snd_Heimrich14          = null
+    sound                   gg_snd_Heimrich15          = null
+    sound                   gg_snd_Heimrich16          = null
+    sound                   gg_snd_Heimrich17          = null
+    sound                   gg_snd_Heimrich18          = null
+    sound                   gg_snd_Heimrich19          = null
+    sound                   gg_snd_Heimrich2           = null
+    sound                   gg_snd_Heimrich20          = null
+    sound                   gg_snd_Heimrich21          = null
+    sound                   gg_snd_Heimrich22          = null
+    sound                   gg_snd_Heimrich23          = null
+    sound                   gg_snd_Heimrich24          = null
+    sound                   gg_snd_Heimrich25          = null
+    sound                   gg_snd_Heimrich26          = null
+    sound                   gg_snd_Heimrich27          = null
+    sound                   gg_snd_Heimrich28          = null
+    sound                   gg_snd_Heimrich29          = null
+    sound                   gg_snd_Heimrich3           = null
+    sound                   gg_snd_Heimrich30          = null
+    sound                   gg_snd_Heimrich4           = null
+    sound                   gg_snd_Heimrich5           = null
+    sound                   gg_snd_Heimrich6           = null
+    sound                   gg_snd_Heimrich7           = null
+    sound                   gg_snd_Heimrich8           = null
+    sound                   gg_snd_Heimrich9           = null
+    sound                   gg_snd_Irmina1             = null
+    sound                   gg_snd_Irmina10            = null
+    sound                   gg_snd_Irmina11            = null
+    sound                   gg_snd_Irmina12            = null
+    sound                   gg_snd_Irmina13            = null
+    sound                   gg_snd_Irmina14            = null
+    sound                   gg_snd_Irmina15            = null
+    sound                   gg_snd_Irmina16            = null
+    sound                   gg_snd_Irmina17            = null
+    sound                   gg_snd_Irmina18            = null
+    sound                   gg_snd_Irmina19            = null
+    sound                   gg_snd_Irmina2             = null
+    sound                   gg_snd_Irmina20            = null
+    sound                   gg_snd_Irmina21            = null
+    sound                   gg_snd_Irmina22            = null
+    sound                   gg_snd_Irmina23            = null
+    sound                   gg_snd_Irmina24            = null
+    sound                   gg_snd_Irmina25            = null
+    sound                   gg_snd_Irmina26            = null
+    sound                   gg_snd_Irmina27            = null
+    sound                   gg_snd_Irmina28            = null
+    sound                   gg_snd_Irmina29            = null
+    sound                   gg_snd_Irmina3             = null
+    sound                   gg_snd_Irmina30            = null
+    sound                   gg_snd_Irmina31            = null
+    sound                   gg_snd_Irmina32            = null
+    sound                   gg_snd_Irmina33            = null
+    sound                   gg_snd_Irmina34            = null
+    sound                   gg_snd_Irmina4             = null
+    sound                   gg_snd_Irmina5             = null
+    sound                   gg_snd_Irmina6             = null
+    sound                   gg_snd_Irmina7             = null
+    sound                   gg_snd_Irmina8             = null
+    sound                   gg_snd_Irmina9             = null
+    sound                   gg_snd_Kuno1               = null
+    sound                   gg_snd_Kuno10              = null
+    sound                   gg_snd_Kuno11              = null
+    sound                   gg_snd_Kuno12              = null
+    sound                   gg_snd_Kuno13              = null
+    sound                   gg_snd_Kuno14              = null
+    sound                   gg_snd_Kuno15              = null
+    sound                   gg_snd_Kuno16              = null
+    sound                   gg_snd_Kuno17              = null
+    sound                   gg_snd_Kuno18              = null
+    sound                   gg_snd_Kuno19              = null
+    sound                   gg_snd_Kuno2               = null
+    sound                   gg_snd_Kuno20              = null
+    sound                   gg_snd_Kuno21              = null
+    sound                   gg_snd_Kuno22              = null
+    sound                   gg_snd_Kuno23              = null
+    sound                   gg_snd_Kuno24              = null
+    sound                   gg_snd_Kuno25              = null
+    sound                   gg_snd_Kuno26              = null
+    sound                   gg_snd_Kuno27              = null
+    sound                   gg_snd_Kuno28              = null
+    sound                   gg_snd_Kuno29              = null
+    sound                   gg_snd_Kuno3               = null
+    sound                   gg_snd_Kuno30              = null
+    sound                   gg_snd_Kuno31              = null
+    sound                   gg_snd_Kuno32              = null
+    sound                   gg_snd_Kuno33              = null
+    sound                   gg_snd_Kuno34              = null
+    sound                   gg_snd_Kuno35              = null
+    sound                   gg_snd_Kuno36              = null
+    sound                   gg_snd_Kuno37              = null
+    sound                   gg_snd_Kuno38              = null
+    sound                   gg_snd_Kuno39              = null
+    sound                   gg_snd_Kuno4               = null
+    sound                   gg_snd_Kuno5               = null
+    sound                   gg_snd_Kuno6               = null
+    sound                   gg_snd_Kuno7               = null
+    sound                   gg_snd_Kuno8               = null
+    sound                   gg_snd_Kuno9               = null
+    sound                   gg_snd_Lothar1             = null
+    sound                   gg_snd_Lothar10            = null
+    sound                   gg_snd_Lothar11            = null
+    sound                   gg_snd_Lothar12            = null
+    sound                   gg_snd_Lothar13            = null
+    sound                   gg_snd_Lothar14            = null
+    sound                   gg_snd_Lothar15            = null
+    sound                   gg_snd_Lothar16            = null
+    sound                   gg_snd_Lothar17            = null
+    sound                   gg_snd_Lothar18            = null
+    sound                   gg_snd_Lothar19            = null
+    sound                   gg_snd_Lothar2             = null
+    sound                   gg_snd_Lothar20            = null
+    sound                   gg_snd_Lothar21            = null
+    sound                   gg_snd_Lothar22            = null
+    sound                   gg_snd_Lothar23            = null
+    sound                   gg_snd_Lothar24            = null
+    sound                   gg_snd_Lothar25            = null
+    sound                   gg_snd_Lothar26            = null
+    sound                   gg_snd_Lothar27            = null
+    sound                   gg_snd_Lothar28            = null
+    sound                   gg_snd_Lothar29            = null
+    sound                   gg_snd_Lothar3             = null
+    sound                   gg_snd_Lothar30            = null
+    sound                   gg_snd_Lothar31            = null
+    sound                   gg_snd_Lothar32            = null
+    sound                   gg_snd_Lothar33            = null
+    sound                   gg_snd_Lothar34            = null
+    sound                   gg_snd_Lothar35            = null
+    sound                   gg_snd_Lothar36            = null
+    sound                   gg_snd_Lothar37            = null
+    sound                   gg_snd_Lothar38            = null
+    sound                   gg_snd_Lothar39            = null
+    sound                   gg_snd_Lothar4             = null
+    sound                   gg_snd_Lothar40            = null
+    sound                   gg_snd_Lothar41            = null
+    sound                   gg_snd_Lothar42            = null
+    sound                   gg_snd_Lothar43            = null
+    sound                   gg_snd_Lothar44            = null
+    sound                   gg_snd_Lothar45            = null
+    sound                   gg_snd_Lothar46            = null
+    sound                   gg_snd_Lothar47            = null
+    sound                   gg_snd_Lothar48            = null
+    sound                   gg_snd_Lothar49            = null
+    sound                   gg_snd_Lothar5             = null
+    sound                   gg_snd_Lothar50            = null
+    sound                   gg_snd_Lothar51            = null
+    sound                   gg_snd_Lothar52            = null
+    sound                   gg_snd_Lothar53            = null
+    sound                   gg_snd_Lothar54            = null
+    sound                   gg_snd_Lothar55            = null
+    sound                   gg_snd_Lothar56            = null
+    sound                   gg_snd_Lothar57            = null
+    sound                   gg_snd_Lothar58            = null
+    sound                   gg_snd_Lothar59            = null
+    sound                   gg_snd_Lothar6             = null
+    sound                   gg_snd_Lothar7             = null
+    sound                   gg_snd_Lothar8             = null
+    sound                   gg_snd_Lothar9             = null
+    sound                   gg_snd_Manfred1            = null
+    sound                   gg_snd_Manfred101          = null
+    sound                   gg_snd_Manfred10           = null
+    sound                   gg_snd_Manfred11           = null
+    sound                   gg_snd_Manfred12           = null
+    sound                   gg_snd_Manfred13           = null
+    sound                   gg_snd_Manfred14           = null
+    sound                   gg_snd_Manfred15           = null
+    sound                   gg_snd_Manfred16           = null
+    sound                   gg_snd_Manfred17           = null
+    sound                   gg_snd_Manfred18           = null
+    sound                   gg_snd_Manfred19           = null
+    sound                   gg_snd_Manfred2            = null
+    sound                   gg_snd_Manfred201          = null
+    sound                   gg_snd_Manfred20           = null
+    sound                   gg_snd_Manfred21           = null
+    sound                   gg_snd_Manfred22           = null
+    sound                   gg_snd_Manfred23           = null
+    sound                   gg_snd_Manfred24           = null
+    sound                   gg_snd_Manfred25           = null
+    sound                   gg_snd_Manfred26           = null
+    sound                   gg_snd_Manfred27           = null
+    sound                   gg_snd_Manfred28           = null
+    sound                   gg_snd_Manfred29           = null
+    sound                   gg_snd_Manfred3            = null
+    sound                   gg_snd_Manfred301          = null
+    sound                   gg_snd_Manfred30           = null
+    sound                   gg_snd_Manfred31           = null
+    sound                   gg_snd_Manfred32           = null
+    sound                   gg_snd_Manfred33           = null
+    sound                   gg_snd_Manfred34           = null
+    sound                   gg_snd_Manfred35           = null
+    sound                   gg_snd_Manfred36           = null
+    sound                   gg_snd_Manfred37           = null
+    sound                   gg_snd_Manfred38           = null
+    sound                   gg_snd_Manfred39           = null
+    sound                   gg_snd_Manfred4            = null
+    sound                   gg_snd_Manfred5            = null
+    sound                   gg_snd_Manfred6            = null
+    sound                   gg_snd_Manfred7            = null
+    sound                   gg_snd_Manfred8            = null
+    sound                   gg_snd_Manfred9            = null
+    sound                   gg_snd_Markward1           = null
+    sound                   gg_snd_Markward10          = null
+    sound                   gg_snd_Markward11          = null
+    sound                   gg_snd_Markward12          = null
+    sound                   gg_snd_Markward13          = null
+    sound                   gg_snd_Markward14          = null
+    sound                   gg_snd_Markward15          = null
+    sound                   gg_snd_Markward16          = null
+    sound                   gg_snd_Markward17          = null
+    sound                   gg_snd_Markward18          = null
+    sound                   gg_snd_Markward19          = null
+    sound                   gg_snd_Markward2           = null
+    sound                   gg_snd_Markward20          = null
+    sound                   gg_snd_Markward21          = null
+    sound                   gg_snd_Markward22          = null
+    sound                   gg_snd_Markward23          = null
+    sound                   gg_snd_Markward24          = null
+    sound                   gg_snd_Markward25          = null
+    sound                   gg_snd_Markward26          = null
+    sound                   gg_snd_Markward27          = null
+    sound                   gg_snd_Markward28          = null
+    sound                   gg_snd_Markward29          = null
+    sound                   gg_snd_Markward3           = null
+    sound                   gg_snd_Markward30          = null
+    sound                   gg_snd_Markward31          = null
+    sound                   gg_snd_Markward32          = null
+    sound                   gg_snd_Markward33          = null
+    sound                   gg_snd_Markward34          = null
+    sound                   gg_snd_Markward35          = null
+    sound                   gg_snd_Markward36          = null
+    sound                   gg_snd_Markward37          = null
+    sound                   gg_snd_Markward38          = null
+    sound                   gg_snd_Markward39          = null
+    sound                   gg_snd_Markward4           = null
+    sound                   gg_snd_Markward40          = null
+    sound                   gg_snd_Markward41          = null
+    sound                   gg_snd_Markward42          = null
+    sound                   gg_snd_Markward43          = null
+    sound                   gg_snd_Markward44          = null
+    sound                   gg_snd_Markward45          = null
+    sound                   gg_snd_Markward46          = null
+    sound                   gg_snd_Markward47          = null
+    sound                   gg_snd_Markward48          = null
+    sound                   gg_snd_Markward49          = null
+    sound                   gg_snd_Markward5           = null
+    sound                   gg_snd_Markward50          = null
+    sound                   gg_snd_Markward6           = null
+    sound                   gg_snd_Markward7           = null
+    sound                   gg_snd_Markward8           = null
+    sound                   gg_snd_Markward9           = null
+    sound                   gg_snd_Mathilda1           = null
+    sound                   gg_snd_Mathilda10          = null
+    sound                   gg_snd_Mathilda11          = null
+    sound                   gg_snd_Mathilda12          = null
+    sound                   gg_snd_Mathilda13          = null
+    sound                   gg_snd_Mathilda14          = null
+    sound                   gg_snd_Mathilda15          = null
+    sound                   gg_snd_Mathilda16          = null
+    sound                   gg_snd_Mathilda17          = null
+    sound                   gg_snd_Mathilda18          = null
+    sound                   gg_snd_Mathilda19          = null
+    sound                   gg_snd_Mathilda2           = null
+    sound                   gg_snd_Mathilda20          = null
+    sound                   gg_snd_Mathilda21          = null
+    sound                   gg_snd_Mathilda22          = null
+    sound                   gg_snd_Mathilda23          = null
+    sound                   gg_snd_Mathilda24          = null
+    sound                   gg_snd_Mathilda25          = null
+    sound                   gg_snd_Mathilda26          = null
+    sound                   gg_snd_Mathilda27          = null
+    sound                   gg_snd_Mathilda28          = null
+    sound                   gg_snd_Mathilda29          = null
+    sound                   gg_snd_Mathilda3           = null
+    sound                   gg_snd_Mathilda30          = null
+    sound                   gg_snd_Mathilda31          = null
+    sound                   gg_snd_Mathilda32          = null
+    sound                   gg_snd_Mathilda33          = null
+    sound                   gg_snd_Mathilda34          = null
+    sound                   gg_snd_Mathilda35          = null
+    sound                   gg_snd_Mathilda36          = null
+    sound                   gg_snd_Mathilda37          = null
+    sound                   gg_snd_Mathilda38          = null
+    sound                   gg_snd_Mathilda39          = null
+    sound                   gg_snd_Mathilda4           = null
+    sound                   gg_snd_Mathilda40          = null
+    sound                   gg_snd_Mathilda41          = null
+    sound                   gg_snd_Mathilda42          = null
+    sound                   gg_snd_Mathilda43          = null
+    sound                   gg_snd_Mathilda44          = null
+    sound                   gg_snd_Mathilda45          = null
+    sound                   gg_snd_Mathilda46          = null
+    sound                   gg_snd_Mathilda47          = null
+    sound                   gg_snd_Mathilda48          = null
+    sound                   gg_snd_Mathilda49          = null
+    sound                   gg_snd_Mathilda5           = null
+    sound                   gg_snd_Mathilda50          = null
+    sound                   gg_snd_Mathilda51          = null
+    sound                   gg_snd_Mathilda52          = null
+    sound                   gg_snd_Mathilda53          = null
+    sound                   gg_snd_Mathilda54          = null
+    sound                   gg_snd_Mathilda55          = null
+    sound                   gg_snd_Mathilda56          = null
+    sound                   gg_snd_Mathilda57          = null
+    sound                   gg_snd_Mathilda58          = null
+    sound                   gg_snd_Mathilda59          = null
+    sound                   gg_snd_Mathilda6           = null
+    sound                   gg_snd_Mathilda60          = null
+    sound                   gg_snd_Mathilda61          = null
+    sound                   gg_snd_Mathilda62          = null
+    sound                   gg_snd_Mathilda63          = null
+    sound                   gg_snd_Mathilda64          = null
+    sound                   gg_snd_Mathilda65          = null
+    sound                   gg_snd_Mathilda66          = null
+    sound                   gg_snd_Mathilda67          = null
+    sound                   gg_snd_Mathilda68          = null
+    sound                   gg_snd_Mathilda69          = null
+    sound                   gg_snd_Mathilda7           = null
+    sound                   gg_snd_Mathilda70          = null
+    sound                   gg_snd_Mathilda71          = null
+    sound                   gg_snd_Mathilda72          = null
+    sound                   gg_snd_Mathilda8           = null
+    sound                   gg_snd_Mathilda9           = null
+    sound                   gg_snd_MathildaAttack1     = null
+    sound                   gg_snd_MathildaAttack2     = null
+    sound                   gg_snd_MathildaAttack3     = null
+    sound                   gg_snd_MathildaRevival     = null
+    sound                   gg_snd_MathildaWhat1       = null
+    sound                   gg_snd_MathildaWhat2       = null
+    sound                   gg_snd_MathildaWhat3       = null
+    sound                   gg_snd_MathildaYes1        = null
+    sound                   gg_snd_MathildaYes2        = null
+    sound                   gg_snd_MathildaYes3        = null
+    sound                   gg_snd_Mercenary1          = null
+    sound                   gg_snd_Mother01            = null
+    sound                   gg_snd_Mother02            = null
+    sound                   gg_snd_Mother03            = null
+    sound                   gg_snd_Mother04            = null
+    sound                   gg_snd_Mother05            = null
+    sound                   gg_snd_Mother06            = null
+    sound                   gg_snd_Mother07            = null
+    sound                   gg_snd_Mother08            = null
+    sound                   gg_snd_Mother09            = null
+    sound                   gg_snd_Mother10            = null
+    sound                   gg_snd_Mother11            = null
+    sound                   gg_snd_Mother12            = null
+    sound                   gg_snd_Mother13            = null
+    sound                   gg_snd_Mother14            = null
+    sound                   gg_snd_Mother15            = null
+    sound                   gg_snd_Mother16            = null
+    sound                   gg_snd_OrcLeader1          = null
+    sound                   gg_snd_OrcLeader2          = null
+    sound                   gg_snd_OrcLeader3          = null
+    sound                   gg_snd_OrcLeader4          = null
+    sound                   gg_snd_Osman1              = null
+    sound                   gg_snd_Osman10             = null
+    sound                   gg_snd_Osman11             = null
+    sound                   gg_snd_Osman12             = null
+    sound                   gg_snd_Osman13             = null
+    sound                   gg_snd_Osman14             = null
+    sound                   gg_snd_Osman15             = null
+    sound                   gg_snd_Osman16             = null
+    sound                   gg_snd_Osman17             = null
+    sound                   gg_snd_Osman18             = null
+    sound                   gg_snd_Osman19             = null
+    sound                   gg_snd_Osman2              = null
+    sound                   gg_snd_Osman20             = null
+    sound                   gg_snd_Osman21             = null
+    sound                   gg_snd_Osman22             = null
+    sound                   gg_snd_Osman23             = null
+    sound                   gg_snd_Osman24             = null
+    sound                   gg_snd_Osman25             = null
+    sound                   gg_snd_Osman26             = null
+    sound                   gg_snd_Osman27             = null
+    sound                   gg_snd_Osman28             = null
+    sound                   gg_snd_Osman29             = null
+    sound                   gg_snd_Osman3              = null
+    sound                   gg_snd_Osman30             = null
+    sound                   gg_snd_Osman31             = null
+    sound                   gg_snd_Osman32             = null
+    sound                   gg_snd_Osman33             = null
+    sound                   gg_snd_Osman34             = null
+    sound                   gg_snd_Osman35             = null
+    sound                   gg_snd_Osman36             = null
+    sound                   gg_snd_Osman37             = null
+    sound                   gg_snd_Osman38             = null
+    sound                   gg_snd_Osman39             = null
+    sound                   gg_snd_Osman4              = null
+    sound                   gg_snd_Osman40             = null
+    sound                   gg_snd_Osman41             = null
+    sound                   gg_snd_Osman42             = null
+    sound                   gg_snd_Osman43             = null
+    sound                   gg_snd_Osman44             = null
+    sound                   gg_snd_Osman45             = null
+    sound                   gg_snd_Osman46             = null
+    sound                   gg_snd_Osman47             = null
+    sound                   gg_snd_Osman48             = null
+    sound                   gg_snd_Osman49             = null
+    sound                   gg_snd_Osman5              = null
+    sound                   gg_snd_Osman50             = null
+    sound                   gg_snd_Osman51             = null
+    sound                   gg_snd_Osman6              = null
+    sound                   gg_snd_Osman7              = null
+    sound                   gg_snd_Osman8              = null
+    sound                   gg_snd_Osman9              = null
+    sound                   gg_snd_RalphCharacter1     = null
+    sound                   gg_snd_RalphCharacter10    = null
+    sound                   gg_snd_RalphCharacter11    = null
+    sound                   gg_snd_RalphCharacter12    = null
+    sound                   gg_snd_RalphCharacter13    = null
+    sound                   gg_snd_RalphCharacter14    = null
+    sound                   gg_snd_RalphCharacter2     = null
+    sound                   gg_snd_RalphCharacter3     = null
+    sound                   gg_snd_RalphCharacter4     = null
+    sound                   gg_snd_RalphCharacter5     = null
+    sound                   gg_snd_RalphCharacter6     = null
+    sound                   gg_snd_RalphCharacter7     = null
+    sound                   gg_snd_RalphCharacter8     = null
+    sound                   gg_snd_RalphCharacter9     = null
+    sound                   gg_snd_Ricman1             = null
+    sound                   gg_snd_Ricman10            = null
+    sound                   gg_snd_Ricman11            = null
+    sound                   gg_snd_Ricman12            = null
+    sound                   gg_snd_Ricman13            = null
+    sound                   gg_snd_Ricman14            = null
+    sound                   gg_snd_Ricman15            = null
+    sound                   gg_snd_Ricman16            = null
+    sound                   gg_snd_Ricman17            = null
+    sound                   gg_snd_Ricman18            = null
+    sound                   gg_snd_Ricman19            = null
+    sound                   gg_snd_Ricman2             = null
+    sound                   gg_snd_Ricman20            = null
+    sound                   gg_snd_Ricman21            = null
+    sound                   gg_snd_Ricman22            = null
+    sound                   gg_snd_Ricman23            = null
+    sound                   gg_snd_Ricman24            = null
+    sound                   gg_snd_Ricman25            = null
+    sound                   gg_snd_Ricman26            = null
+    sound                   gg_snd_Ricman27            = null
+    sound                   gg_snd_Ricman28            = null
+    sound                   gg_snd_Ricman29            = null
+    sound                   gg_snd_Ricman3             = null
+    sound                   gg_snd_Ricman30            = null
+    sound                   gg_snd_Ricman31            = null
+    sound                   gg_snd_Ricman32            = null
+    sound                   gg_snd_Ricman33            = null
+    sound                   gg_snd_Ricman34            = null
+    sound                   gg_snd_Ricman35            = null
+    sound                   gg_snd_Ricman36            = null
+    sound                   gg_snd_Ricman37            = null
+    sound                   gg_snd_Ricman38            = null
+    sound                   gg_snd_Ricman39            = null
+    sound                   gg_snd_Ricman4             = null
+    sound                   gg_snd_Ricman40            = null
+    sound                   gg_snd_Ricman41            = null
+    sound                   gg_snd_Ricman42            = null
+    sound                   gg_snd_Ricman43            = null
+    sound                   gg_snd_Ricman44            = null
+    sound                   gg_snd_Ricman45            = null
+    sound                   gg_snd_Ricman46            = null
+    sound                   gg_snd_Ricman47            = null
+    sound                   gg_snd_Ricman48            = null
+    sound                   gg_snd_Ricman49            = null
+    sound                   gg_snd_Ricman5             = null
+    sound                   gg_snd_Ricman50            = null
+    sound                   gg_snd_Ricman6             = null
+    sound                   gg_snd_Ricman7             = null
+    sound                   gg_snd_Ricman8             = null
+    sound                   gg_snd_Ricman9             = null
+    sound                   gg_snd_RicmanTheChiefRicman1 = null
+    sound                   gg_snd_RicmanTheChiefRicman2 = null
+    sound                   gg_snd_RicmanTheDefenseOfTalrasRicman1 = null
+    sound                   gg_snd_RicmanTheDefenseOfTalrasRicman2 = null
+    sound                   gg_snd_RicmanTheNorsemenRicman1 = null
+    sound                   gg_snd_RicmanTheNorsemenRicman2 = null
+    sound                   gg_snd_RicmanTheNorsemenRicman3 = null
+    sound                   gg_snd_RicmanTheNorsemenRicman4 = null
+    sound                   gg_snd_RicmanTheNorsemenRicman5 = null
+    sound                   gg_snd_RicmanVictoryRicman1 = null
+    sound                   gg_snd_RicmanWhat1         = null
+    sound                   gg_snd_RicmanWhat2         = null
+    sound                   gg_snd_RicmanWhat3         = null
+    sound                   gg_snd_RicmanYes1          = null
+    sound                   gg_snd_RicmanYes2          = null
+    sound                   gg_snd_RicmanYes3          = null
+    sound                   gg_snd_RicmanYesAttack1    = null
+    sound                   gg_snd_RicmanYesAttack2    = null
+    sound                   gg_snd_RicmanYesAttack3    = null
+    sound                   gg_snd_Schafshirte_01      = null
+    sound                   gg_snd_Schafshirte_02      = null
+    sound                   gg_snd_Schafshirte_03      = null
+    sound                   gg_snd_Schafshirte_04      = null
+    sound                   gg_snd_Schafshirte_05      = null
+    sound                   gg_snd_Schafshirte_06      = null
+    sound                   gg_snd_Schafshirte_07      = null
+    sound                   gg_snd_Schafshirte_08      = null
+    sound                   gg_snd_Schafshirte_09      = null
+    sound                   gg_snd_Schafshirte_10      = null
+    sound                   gg_snd_Schafshirte_11      = null
+    sound                   gg_snd_Schafshirte_12      = null
+    sound                   gg_snd_Schafshirte_13      = null
+    sound                   gg_snd_Schafshirte_14      = null
+    sound                   gg_snd_Schafshirte_15      = null
+    sound                   gg_snd_Schafshirte_16      = null
+    sound                   gg_snd_Schafshirte_17      = null
+    sound                   gg_snd_Schafshirte_18      = null
+    sound                   gg_snd_Schafshirte_19      = null
+    sound                   gg_snd_Schafshirte_20      = null
+    sound                   gg_snd_Schafshirte_21      = null
+    sound                   gg_snd_Schafshirte_22      = null
+    sound                   gg_snd_Schafshirte_23      = null
+    sound                   gg_snd_Schafshirte_24      = null
+    sound                   gg_snd_Schafshirte_25      = null
+    sound                   gg_snd_Schafshirte_26      = null
+    sound                   gg_snd_Schafshirte_27      = null
+    sound                   gg_snd_Schafshirte_28      = null
+    sound                   gg_snd_Schafshirte_29      = null
+    sound                   gg_snd_Schafshirte_30      = null
+    sound                   gg_snd_Schafshirte_31      = null
+    sound                   gg_snd_Schafshirte_32      = null
+    sound                   gg_snd_Sisgard1            = null
+    sound                   gg_snd_Sisgard10           = null
+    sound                   gg_snd_Sisgard10_1         = null
+    sound                   gg_snd_Sisgard11           = null
+    sound                   gg_snd_Sisgard12           = null
+    sound                   gg_snd_Sisgard13           = null
+    sound                   gg_snd_Sisgard14           = null
+    sound                   gg_snd_Sisgard15           = null
+    sound                   gg_snd_Sisgard16           = null
+    sound                   gg_snd_Sisgard17           = null
+    sound                   gg_snd_Sisgard18           = null
+    sound                   gg_snd_Sisgard19           = null
+    sound                   gg_snd_Sisgard2            = null
+    sound                   gg_snd_Sisgard20           = null
+    sound                   gg_snd_Sisgard21           = null
+    sound                   gg_snd_Sisgard22           = null
+    sound                   gg_snd_Sisgard23           = null
+    sound                   gg_snd_Sisgard24           = null
+    sound                   gg_snd_Sisgard25           = null
+    sound                   gg_snd_Sisgard26           = null
+    sound                   gg_snd_Sisgard27           = null
+    sound                   gg_snd_Sisgard28           = null
+    sound                   gg_snd_Sisgard29           = null
+    sound                   gg_snd_Sisgard3            = null
+    sound                   gg_snd_Sisgard30           = null
+    sound                   gg_snd_Sisgard31           = null
+    sound                   gg_snd_Sisgard32           = null
+    sound                   gg_snd_Sisgard33           = null
+    sound                   gg_snd_Sisgard34           = null
+    sound                   gg_snd_Sisgard35           = null
+    sound                   gg_snd_Sisgard36           = null
+    sound                   gg_snd_Sisgard37           = null
+    sound                   gg_snd_Sisgard38           = null
+    sound                   gg_snd_Sisgard39           = null
+    sound                   gg_snd_Sisgard4            = null
+    sound                   gg_snd_Sisgard40           = null
+    sound                   gg_snd_Sisgard41           = null
+    sound                   gg_snd_Sisgard42           = null
+    sound                   gg_snd_Sisgard43           = null
+    sound                   gg_snd_Sisgard44           = null
+    sound                   gg_snd_Sisgard45           = null
+    sound                   gg_snd_Sisgard46           = null
+    sound                   gg_snd_Sisgard47           = null
+    sound                   gg_snd_Sisgard48           = null
+    sound                   gg_snd_Sisgard49           = null
+    sound                   gg_snd_Sisgard5            = null
+    sound                   gg_snd_Sisgard50           = null
+    sound                   gg_snd_Sisgard51           = null
+    sound                   gg_snd_Sisgard52           = null
+    sound                   gg_snd_Sisgard53           = null
+    sound                   gg_snd_Sisgard54           = null
+    sound                   gg_snd_Sisgard55           = null
+    sound                   gg_snd_Sisgard56           = null
+    sound                   gg_snd_Sisgard57           = null
+    sound                   gg_snd_Sisgard58           = null
+    sound                   gg_snd_Sisgard59           = null
+    sound                   gg_snd_Sisgard6            = null
+    sound                   gg_snd_Sisgard60           = null
+    sound                   gg_snd_Sisgard61           = null
+    sound                   gg_snd_Sisgard62           = null
+    sound                   gg_snd_Sisgard63           = null
+    sound                   gg_snd_Sisgard64           = null
+    sound                   gg_snd_Sisgard7            = null
+    sound                   gg_snd_Sisgard8            = null
+    sound                   gg_snd_Sisgard9            = null
+    sound                   gg_snd_SisgardPissed1      = null
+    sound                   gg_snd_SisgardRevival      = null
+    sound                   gg_snd_SisgardWarcry1      = null
+    sound                   gg_snd_SisgardWhat1        = null
+    sound                   gg_snd_SisgardWhat2        = null
+    sound                   gg_snd_SisgardWhat3        = null
+    sound                   gg_snd_SisgardYes1         = null
+    sound                   gg_snd_SisgardYes2         = null
+    sound                   gg_snd_SisgardYes3         = null
+    sound                   gg_snd_SisgardYesAttack1   = null
+    sound                   gg_snd_SisgardYesAttack2   = null
+    sound                   gg_snd_SisgardYesAttack3   = null
+    sound                   gg_snd_Meister1            = null
+    sound                   gg_snd_Meister2            = null
+    sound                   gg_snd_Meister3            = null
+    sound                   gg_snd_Meister4            = null
+    sound                   gg_snd_Meister5            = null
+    sound                   gg_snd_Tellborn1           = null
+    sound                   gg_snd_Tellborn10          = null
+    sound                   gg_snd_Tellborn11          = null
+    sound                   gg_snd_Tellborn12          = null
+    sound                   gg_snd_Tellborn13          = null
+    sound                   gg_snd_Tellborn14          = null
+    sound                   gg_snd_Tellborn15          = null
+    sound                   gg_snd_Tellborn16          = null
+    sound                   gg_snd_Tellborn17          = null
+    sound                   gg_snd_Tellborn18          = null
+    sound                   gg_snd_Tellborn19          = null
+    sound                   gg_snd_Tellborn2           = null
+    sound                   gg_snd_Tellborn20          = null
+    sound                   gg_snd_Tellborn21          = null
+    sound                   gg_snd_Tellborn22          = null
+    sound                   gg_snd_Tellborn23          = null
+    sound                   gg_snd_Tellborn24          = null
+    sound                   gg_snd_Tellborn25          = null
+    sound                   gg_snd_Tellborn26          = null
+    sound                   gg_snd_Tellborn27          = null
+    sound                   gg_snd_Tellborn28          = null
+    sound                   gg_snd_Tellborn29          = null
+    sound                   gg_snd_Tellborn3           = null
+    sound                   gg_snd_Tellborn30          = null
+    sound                   gg_snd_Tellborn31          = null
+    sound                   gg_snd_Tellborn32          = null
+    sound                   gg_snd_Tellborn33          = null
+    sound                   gg_snd_Tellborn34          = null
+    sound                   gg_snd_Tellborn35          = null
+    sound                   gg_snd_Tellborn36          = null
+    sound                   gg_snd_Tellborn37          = null
+    sound                   gg_snd_Tellborn4           = null
+    sound                   gg_snd_Tellborn5           = null
+    sound                   gg_snd_Tellborn6           = null
+    sound                   gg_snd_Tellborn7           = null
+    sound                   gg_snd_Tellborn8           = null
+    sound                   gg_snd_Tellborn9           = null
+    sound                   gg_snd_TellbornTontext1    = null
+    sound                   gg_snd_TellbornTontext2    = null
+    sound                   gg_snd_TellbornTontext3    = null
+    sound                   gg_snd_TellbornTontext4    = null
+    sound                   gg_snd_TellbornTontext5    = null
+    sound                   gg_snd_TellbornTontext6    = null
+    sound                   gg_snd_Tobias1             = null
+    sound                   gg_snd_Tobias101           = null
+    sound                   gg_snd_Tobias10            = null
+    sound                   gg_snd_Tobias11            = null
+    sound                   gg_snd_Tobias12            = null
+    sound                   gg_snd_Tobias13            = null
+    sound                   gg_snd_Tobias14            = null
+    sound                   gg_snd_Tobias2             = null
+    sound                   gg_snd_Tobias201           = null
+    sound                   gg_snd_Tobias3             = null
+    sound                   gg_snd_Tobias301           = null
+    sound                   gg_snd_Tobias4             = null
+    sound                   gg_snd_Tobias401           = null
+    sound                   gg_snd_Tobias5             = null
+    sound                   gg_snd_Tobias6             = null
+    sound                   gg_snd_Tobias7             = null
+    sound                   gg_snd_Tobias8             = null
+    sound                   gg_snd_Tobias9             = null
+    sound                   gg_snd_Trommon1            = null
+    sound                   gg_snd_Trommon10           = null
+    sound                   gg_snd_Trommon11           = null
+    sound                   gg_snd_Trommon12           = null
+    sound                   gg_snd_Trommon13           = null
+    sound                   gg_snd_Trommon14           = null
+    sound                   gg_snd_Trommon15           = null
+    sound                   gg_snd_Trommon16           = null
+    sound                   gg_snd_Trommon17           = null
+    sound                   gg_snd_Trommon18           = null
+    sound                   gg_snd_Trommon19           = null
+    sound                   gg_snd_Trommon2            = null
+    sound                   gg_snd_Trommon20           = null
+    sound                   gg_snd_Trommon21           = null
+    sound                   gg_snd_Trommon22           = null
+    sound                   gg_snd_Trommon23           = null
+    sound                   gg_snd_Trommon24           = null
+    sound                   gg_snd_Trommon25           = null
+    sound                   gg_snd_Trommon26           = null
+    sound                   gg_snd_Trommon27           = null
+    sound                   gg_snd_Trommon28           = null
+    sound                   gg_snd_Trommon29           = null
+    sound                   gg_snd_Trommon3            = null
+    sound                   gg_snd_Trommon30           = null
+    sound                   gg_snd_Trommon31           = null
+    sound                   gg_snd_Trommon32           = null
+    sound                   gg_snd_Trommon33           = null
+    sound                   gg_snd_Trommon34           = null
+    sound                   gg_snd_Trommon35           = null
+    sound                   gg_snd_Trommon36           = null
+    sound                   gg_snd_Trommon4            = null
+    sound                   gg_snd_Trommon5            = null
+    sound                   gg_snd_Trommon6            = null
+    sound                   gg_snd_Trommon7            = null
+    sound                   gg_snd_Trommon8            = null
+    sound                   gg_snd_Trommon9            = null
+    sound                   gg_snd_Ursula1             = null
+    sound                   gg_snd_Ursula10            = null
+    sound                   gg_snd_Ursula11            = null
+    sound                   gg_snd_Ursula12            = null
+    sound                   gg_snd_Ursula13            = null
+    sound                   gg_snd_Ursula14            = null
+    sound                   gg_snd_Ursula15            = null
+    sound                   gg_snd_Ursula16            = null
+    sound                   gg_snd_Ursula17            = null
+    sound                   gg_snd_Ursula18            = null
+    sound                   gg_snd_Ursula19            = null
+    sound                   gg_snd_Ursula2             = null
+    sound                   gg_snd_Ursula20            = null
+    sound                   gg_snd_Ursula21            = null
+    sound                   gg_snd_Ursula22            = null
+    sound                   gg_snd_Ursula23            = null
+    sound                   gg_snd_Ursula24            = null
+    sound                   gg_snd_Ursula25            = null
+    sound                   gg_snd_Ursula26            = null
+    sound                   gg_snd_Ursula27            = null
+    sound                   gg_snd_Ursula28            = null
+    sound                   gg_snd_Ursula29            = null
+    sound                   gg_snd_Ursula3             = null
+    sound                   gg_snd_Ursula30            = null
+    sound                   gg_snd_Ursula31            = null
+    sound                   gg_snd_Ursula32            = null
+    sound                   gg_snd_Ursula33            = null
+    sound                   gg_snd_Ursula34            = null
+    sound                   gg_snd_Ursula35            = null
+    sound                   gg_snd_Ursula36            = null
+    sound                   gg_snd_Ursula37            = null
+    sound                   gg_snd_Ursula38            = null
+    sound                   gg_snd_Ursula39            = null
+    sound                   gg_snd_Ursula4             = null
+    sound                   gg_snd_Ursula40            = null
+    sound                   gg_snd_Ursula41            = null
+    sound                   gg_snd_Ursula42            = null
+    sound                   gg_snd_Ursula43            = null
+    sound                   gg_snd_Ursula5             = null
+    sound                   gg_snd_Ursula6             = null
+    sound                   gg_snd_Ursula7             = null
+    sound                   gg_snd_Ursula8             = null
+    sound                   gg_snd_Ursula9             = null
+    sound                   gg_snd_Wieland1            = null
+    sound                   gg_snd_Wieland10           = null
+    sound                   gg_snd_Wieland11           = null
+    sound                   gg_snd_Wieland12           = null
+    sound                   gg_snd_Wieland13           = null
+    sound                   gg_snd_Wieland14           = null
+    sound                   gg_snd_Wieland15           = null
+    sound                   gg_snd_Wieland16           = null
+    sound                   gg_snd_Wieland17           = null
+    sound                   gg_snd_Wieland18           = null
+    sound                   gg_snd_Wieland19           = null
+    sound                   gg_snd_Wieland2            = null
+    sound                   gg_snd_Wieland20           = null
+    sound                   gg_snd_Wieland21           = null
+    sound                   gg_snd_Wieland22           = null
+    sound                   gg_snd_Wieland23           = null
+    sound                   gg_snd_Wieland24           = null
+    sound                   gg_snd_Wieland25           = null
+    sound                   gg_snd_Wieland26           = null
+    sound                   gg_snd_Wieland27           = null
+    sound                   gg_snd_Wieland28           = null
+    sound                   gg_snd_Wieland29           = null
+    sound                   gg_snd_Wieland3            = null
+    sound                   gg_snd_Wieland30           = null
+    sound                   gg_snd_Wieland31           = null
+    sound                   gg_snd_Wieland32           = null
+    sound                   gg_snd_Wieland33           = null
+    sound                   gg_snd_Wieland34           = null
+    sound                   gg_snd_Wieland35           = null
+    sound                   gg_snd_Wieland36           = null
+    sound                   gg_snd_Wieland37           = null
+    sound                   gg_snd_Wieland38           = null
+    sound                   gg_snd_Wieland39           = null
+    sound                   gg_snd_Wieland4            = null
+    sound                   gg_snd_Wieland40           = null
+    sound                   gg_snd_Wieland41           = null
+    sound                   gg_snd_Wieland5            = null
+    sound                   gg_snd_Wieland6            = null
+    sound                   gg_snd_Wieland7            = null
+    sound                   gg_snd_Wieland8            = null
+    sound                   gg_snd_Wieland9            = null
+    sound                   gg_snd_Wieland_a           = null
+    sound                   gg_snd_Wieland_b           = null
+    sound                   gg_snd_Wieland_c           = null
+    sound                   gg_snd_Wieland_d           = null
+    sound                   gg_snd_Wieland_e           = null
+    sound                   gg_snd_Wieland_f           = null
+    sound                   gg_snd_Wieland_g           = null
+    sound                   gg_snd_Wieland_h           = null
+    sound                   gg_snd_Wieland_i           = null
+    sound                   gg_snd_Wieland_j           = null
+    sound                   gg_snd_Wigberht1           = null
+    sound                   gg_snd_Wigberht10          = null
+    sound                   gg_snd_Wigberht11          = null
+    sound                   gg_snd_Wigberht12          = null
+    sound                   gg_snd_Wigberht13          = null
+    sound                   gg_snd_Wigberht14          = null
+    sound                   gg_snd_Wigberht15          = null
+    sound                   gg_snd_Wigberht16          = null
+    sound                   gg_snd_Wigberht17          = null
+    sound                   gg_snd_Wigberht18          = null
+    sound                   gg_snd_Wigberht19          = null
+    sound                   gg_snd_Wigberht2           = null
+    sound                   gg_snd_Wigberht20          = null
+    sound                   gg_snd_Wigberht21          = null
+    sound                   gg_snd_Wigberht22          = null
+    sound                   gg_snd_Wigberht23          = null
+    sound                   gg_snd_Wigberht24          = null
+    sound                   gg_snd_Wigberht25          = null
+    sound                   gg_snd_Wigberht26          = null
+    sound                   gg_snd_Wigberht27          = null
+    sound                   gg_snd_Wigberht28          = null
+    sound                   gg_snd_Wigberht29          = null
+    sound                   gg_snd_Wigberht3           = null
+    sound                   gg_snd_Wigberht30          = null
+    sound                   gg_snd_Wigberht31          = null
+    sound                   gg_snd_Wigberht32          = null
+    sound                   gg_snd_Wigberht33          = null
+    sound                   gg_snd_Wigberht34          = null
+    sound                   gg_snd_Wigberht35          = null
+    sound                   gg_snd_Wigberht36          = null
+    sound                   gg_snd_Wigberht37          = null
+    sound                   gg_snd_Wigberht38          = null
+    sound                   gg_snd_Wigberht39          = null
+    sound                   gg_snd_Wigberht4           = null
+    sound                   gg_snd_Wigberht40          = null
+    sound                   gg_snd_Wigberht41          = null
+    sound                   gg_snd_Wigberht42          = null
+    sound                   gg_snd_Wigberht43          = null
+    sound                   gg_snd_Wigberht44          = null
+    sound                   gg_snd_Wigberht45          = null
+    sound                   gg_snd_Wigberht5           = null
+    sound                   gg_snd_Wigberht6           = null
+    sound                   gg_snd_Wigberht7           = null
+    sound                   gg_snd_Wigberht8           = null
+    sound                   gg_snd_Wigberht9           = null
+    sound                   gg_snd_WigberhtDeath1      = null
+    sound                   gg_snd_WigberhtDeath2      = null
+    sound                   gg_snd_WigberhtWhat1       = null
+    sound                   gg_snd_WigberhtWhat2       = null
+    sound                   gg_snd_WigberhtWhat3       = null
+    sound                   gg_snd_WigberhtYes1        = null
+    sound                   gg_snd_WigberhtYes2        = null
+    sound                   gg_snd_WigberhtYes3        = null
+    sound                   gg_snd_WigberhtYesAttack1  = null
+    sound                   gg_snd_WigberhtYesAttack2  = null
+    sound                   gg_snd_WigberhtYesAttack3  = null
+    sound                   gg_snd_Wotan1              = null
+    sound                   gg_snd_Wotan10             = null
+    sound                   gg_snd_Wotan11             = null
+    sound                   gg_snd_Wotan12             = null
+    sound                   gg_snd_Wotan13             = null
+    sound                   gg_snd_Wotan14             = null
+    sound                   gg_snd_Wotan15             = null
+    sound                   gg_snd_Wotan2              = null
+    sound                   gg_snd_Wotan3              = null
+    sound                   gg_snd_Wotan4              = null
+    sound                   gg_snd_Wotan5              = null
+    sound                   gg_snd_Wotan6              = null
+    sound                   gg_snd_Wotan7              = null
+    sound                   gg_snd_Wotan8              = null
+    sound                   gg_snd_Wotan9              = null
 endglobals
 
 function InitGlobals takes nothing returns nothing
@@ -2795,205 +2863,205 @@ endfunction
 //***************************************************************************
 
 function InitSounds takes nothing returns nothing
-    set gg_snd_Agihard1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Agihard1, 147 )
+    set gg_snd_Agihard1 = CreateSound( "Sound/Dialogue/Agihard/Agihard1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Agihard1, 4257 )
     call SetSoundChannel( gg_snd_Agihard1, 0 )
-    call SetSoundVolume( gg_snd_Agihard1, -1 )
+    call SetSoundVolume( gg_snd_Agihard1, 127 )
     call SetSoundPitch( gg_snd_Agihard1, 1.0 )
-    set gg_snd_Agihard10 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Agihard10, 147 )
+    set gg_snd_Agihard10 = CreateSound( "Sound/Dialogue/Agihard/Agihard10.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Agihard10, 5746 )
     call SetSoundChannel( gg_snd_Agihard10, 0 )
-    call SetSoundVolume( gg_snd_Agihard10, -1 )
+    call SetSoundVolume( gg_snd_Agihard10, 127 )
     call SetSoundPitch( gg_snd_Agihard10, 1.0 )
-    set gg_snd_Agihard11 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Agihard11, 147 )
+    set gg_snd_Agihard11 = CreateSound( "Sound/Dialogue/Agihard/Agihard11.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Agihard11, 7627 )
     call SetSoundChannel( gg_snd_Agihard11, 0 )
-    call SetSoundVolume( gg_snd_Agihard11, -1 )
+    call SetSoundVolume( gg_snd_Agihard11, 127 )
     call SetSoundPitch( gg_snd_Agihard11, 1.0 )
-    set gg_snd_Agihard12 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Agihard12, 147 )
+    set gg_snd_Agihard12 = CreateSound( "Sound/Dialogue/Agihard/Agihard12.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Agihard12, 7601 )
     call SetSoundChannel( gg_snd_Agihard12, 0 )
-    call SetSoundVolume( gg_snd_Agihard12, -1 )
+    call SetSoundVolume( gg_snd_Agihard12, 127 )
     call SetSoundPitch( gg_snd_Agihard12, 1.0 )
-    set gg_snd_Agihard13 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Agihard13, 147 )
+    set gg_snd_Agihard13 = CreateSound( "Sound/Dialogue/Agihard/Agihard13.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Agihard13, 6164 )
     call SetSoundChannel( gg_snd_Agihard13, 0 )
-    call SetSoundVolume( gg_snd_Agihard13, -1 )
+    call SetSoundVolume( gg_snd_Agihard13, 127 )
     call SetSoundPitch( gg_snd_Agihard13, 1.0 )
-    set gg_snd_Agihard14 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Agihard14, 147 )
+    set gg_snd_Agihard14 = CreateSound( "Sound/Dialogue/Agihard/Agihard14.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Agihard14, 6739 )
     call SetSoundChannel( gg_snd_Agihard14, 0 )
-    call SetSoundVolume( gg_snd_Agihard14, -1 )
+    call SetSoundVolume( gg_snd_Agihard14, 127 )
     call SetSoundPitch( gg_snd_Agihard14, 1.0 )
-    set gg_snd_Agihard15 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Agihard15, 147 )
+    set gg_snd_Agihard15 = CreateSound( "Sound/Dialogue/Agihard/Agihard15.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Agihard15, 2795 )
     call SetSoundChannel( gg_snd_Agihard15, 0 )
-    call SetSoundVolume( gg_snd_Agihard15, -1 )
+    call SetSoundVolume( gg_snd_Agihard15, 127 )
     call SetSoundPitch( gg_snd_Agihard15, 1.0 )
-    set gg_snd_Agihard16 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Agihard16, 147 )
+    set gg_snd_Agihard16 = CreateSound( "Sound/Dialogue/Agihard/Agihard16.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Agihard16, 6008 )
     call SetSoundChannel( gg_snd_Agihard16, 0 )
-    call SetSoundVolume( gg_snd_Agihard16, -1 )
+    call SetSoundVolume( gg_snd_Agihard16, 127 )
     call SetSoundPitch( gg_snd_Agihard16, 1.0 )
-    set gg_snd_Agihard17 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Agihard17, 147 )
+    set gg_snd_Agihard17 = CreateSound( "Sound/Dialogue/Agihard/Agihard17.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Agihard17, 6896 )
     call SetSoundChannel( gg_snd_Agihard17, 0 )
-    call SetSoundVolume( gg_snd_Agihard17, -1 )
+    call SetSoundVolume( gg_snd_Agihard17, 127 )
     call SetSoundPitch( gg_snd_Agihard17, 1.0 )
-    set gg_snd_Agihard18 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Agihard18, 147 )
+    set gg_snd_Agihard18 = CreateSound( "Sound/Dialogue/Agihard/Agihard18.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Agihard18, 6112 )
     call SetSoundChannel( gg_snd_Agihard18, 0 )
-    call SetSoundVolume( gg_snd_Agihard18, -1 )
+    call SetSoundVolume( gg_snd_Agihard18, 127 )
     call SetSoundPitch( gg_snd_Agihard18, 1.0 )
-    set gg_snd_Agihard19 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Agihard19, 147 )
+    set gg_snd_Agihard19 = CreateSound( "Sound/Dialogue/Agihard/Agihard19.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Agihard19, 5903 )
     call SetSoundChannel( gg_snd_Agihard19, 0 )
-    call SetSoundVolume( gg_snd_Agihard19, -1 )
+    call SetSoundVolume( gg_snd_Agihard19, 127 )
     call SetSoundPitch( gg_snd_Agihard19, 1.0 )
-    set gg_snd_Agihard2 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Agihard2, 147 )
+    set gg_snd_Agihard2 = CreateSound( "Sound/Dialogue/Agihard/Agihard2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Agihard2, 2194 )
     call SetSoundChannel( gg_snd_Agihard2, 0 )
-    call SetSoundVolume( gg_snd_Agihard2, -1 )
+    call SetSoundVolume( gg_snd_Agihard2, 127 )
     call SetSoundPitch( gg_snd_Agihard2, 1.0 )
-    set gg_snd_Agihard20 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Agihard20, 147 )
+    set gg_snd_Agihard20 = CreateSound( "Sound/Dialogue/Agihard/Agihard20.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Agihard20, 1985 )
     call SetSoundChannel( gg_snd_Agihard20, 0 )
-    call SetSoundVolume( gg_snd_Agihard20, -1 )
+    call SetSoundVolume( gg_snd_Agihard20, 127 )
     call SetSoundPitch( gg_snd_Agihard20, 1.0 )
-    set gg_snd_Agihard21 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Agihard21, 147 )
+    set gg_snd_Agihard21 = CreateSound( "Sound/Dialogue/Agihard/Agihard21.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Agihard21, 9534 )
     call SetSoundChannel( gg_snd_Agihard21, 0 )
-    call SetSoundVolume( gg_snd_Agihard21, -1 )
+    call SetSoundVolume( gg_snd_Agihard21, 127 )
     call SetSoundPitch( gg_snd_Agihard21, 1.0 )
-    set gg_snd_Agihard22 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Agihard22, 147 )
+    set gg_snd_Agihard22 = CreateSound( "Sound/Dialogue/Agihard/Agihard22.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Agihard22, 10057 )
     call SetSoundChannel( gg_snd_Agihard22, 0 )
-    call SetSoundVolume( gg_snd_Agihard22, -1 )
+    call SetSoundVolume( gg_snd_Agihard22, 127 )
     call SetSoundPitch( gg_snd_Agihard22, 1.0 )
-    set gg_snd_Agihard23 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Agihard23, 147 )
+    set gg_snd_Agihard23 = CreateSound( "Sound/Dialogue/Agihard/Agihard23.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Agihard23, 7888 )
     call SetSoundChannel( gg_snd_Agihard23, 0 )
-    call SetSoundVolume( gg_snd_Agihard23, -1 )
+    call SetSoundVolume( gg_snd_Agihard23, 127 )
     call SetSoundPitch( gg_snd_Agihard23, 1.0 )
-    set gg_snd_Agihard24 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Agihard24, 147 )
+    set gg_snd_Agihard24 = CreateSound( "Sound/Dialogue/Agihard/Agihard24.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Agihard24, 1750 )
     call SetSoundChannel( gg_snd_Agihard24, 0 )
-    call SetSoundVolume( gg_snd_Agihard24, -1 )
+    call SetSoundVolume( gg_snd_Agihard24, 127 )
     call SetSoundPitch( gg_snd_Agihard24, 1.0 )
-    set gg_snd_Agihard25 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Agihard25, 147 )
+    set gg_snd_Agihard25 = CreateSound( "Sound/Dialogue/Agihard/Agihard25.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Agihard25, 11023 )
     call SetSoundChannel( gg_snd_Agihard25, 0 )
-    call SetSoundVolume( gg_snd_Agihard25, -1 )
+    call SetSoundVolume( gg_snd_Agihard25, 127 )
     call SetSoundPitch( gg_snd_Agihard25, 1.0 )
-    set gg_snd_Agihard26 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Agihard26, 147 )
+    set gg_snd_Agihard26 = CreateSound( "Sound/Dialogue/Agihard/Agihard26.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Agihard26, 2403 )
     call SetSoundChannel( gg_snd_Agihard26, 0 )
-    call SetSoundVolume( gg_snd_Agihard26, -1 )
+    call SetSoundVolume( gg_snd_Agihard26, 127 )
     call SetSoundPitch( gg_snd_Agihard26, 1.0 )
-    set gg_snd_Agihard27 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Agihard27, 147 )
+    set gg_snd_Agihard27 = CreateSound( "Sound/Dialogue/Agihard/Agihard27.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Agihard27, 3631 )
     call SetSoundChannel( gg_snd_Agihard27, 0 )
-    call SetSoundVolume( gg_snd_Agihard27, -1 )
+    call SetSoundVolume( gg_snd_Agihard27, 127 )
     call SetSoundPitch( gg_snd_Agihard27, 1.0 )
-    set gg_snd_Agihard28 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Agihard28, 147 )
+    set gg_snd_Agihard28 = CreateSound( "Sound/Dialogue/Agihard/Agihard28.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Agihard28, 2638 )
     call SetSoundChannel( gg_snd_Agihard28, 0 )
-    call SetSoundVolume( gg_snd_Agihard28, -1 )
+    call SetSoundVolume( gg_snd_Agihard28, 127 )
     call SetSoundPitch( gg_snd_Agihard28, 1.0 )
-    set gg_snd_Agihard29 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Agihard29, 147 )
+    set gg_snd_Agihard29 = CreateSound( "Sound/Dialogue/Agihard/Agihard29.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Agihard29, 6791 )
     call SetSoundChannel( gg_snd_Agihard29, 0 )
-    call SetSoundVolume( gg_snd_Agihard29, -1 )
+    call SetSoundVolume( gg_snd_Agihard29, 127 )
     call SetSoundPitch( gg_snd_Agihard29, 1.0 )
-    set gg_snd_Agihard3 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Agihard3, 147 )
+    set gg_snd_Agihard3 = CreateSound( "Sound/Dialogue/Agihard/Agihard3.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Agihard3, 4649 )
     call SetSoundChannel( gg_snd_Agihard3, 0 )
-    call SetSoundVolume( gg_snd_Agihard3, -1 )
+    call SetSoundVolume( gg_snd_Agihard3, 127 )
     call SetSoundPitch( gg_snd_Agihard3, 1.0 )
-    set gg_snd_Agihard30 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Agihard30, 147 )
+    set gg_snd_Agihard30 = CreateSound( "Sound/Dialogue/Agihard/Agihard30.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Agihard30, 888 )
     call SetSoundChannel( gg_snd_Agihard30, 0 )
-    call SetSoundVolume( gg_snd_Agihard30, -1 )
+    call SetSoundVolume( gg_snd_Agihard30, 127 )
     call SetSoundPitch( gg_snd_Agihard30, 1.0 )
-    set gg_snd_Agihard31 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Agihard31, 147 )
+    set gg_snd_Agihard31 = CreateSound( "Sound/Dialogue/Agihard/Agihard31.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Agihard31, 2899 )
     call SetSoundChannel( gg_snd_Agihard31, 0 )
-    call SetSoundVolume( gg_snd_Agihard31, -1 )
+    call SetSoundVolume( gg_snd_Agihard31, 127 )
     call SetSoundPitch( gg_snd_Agihard31, 1.0 )
-    set gg_snd_Agihard32 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Agihard32, 147 )
+    set gg_snd_Agihard32 = CreateSound( "Sound/Dialogue/Agihard/Agihard32.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Agihard32, 5276 )
     call SetSoundChannel( gg_snd_Agihard32, 0 )
-    call SetSoundVolume( gg_snd_Agihard32, -1 )
+    call SetSoundVolume( gg_snd_Agihard32, 127 )
     call SetSoundPitch( gg_snd_Agihard32, 1.0 )
-    set gg_snd_Agihard33 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Agihard33, 147 )
+    set gg_snd_Agihard33 = CreateSound( "Sound/Dialogue/Agihard/Agihard33.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Agihard33, 3813 )
     call SetSoundChannel( gg_snd_Agihard33, 0 )
-    call SetSoundVolume( gg_snd_Agihard33, -1 )
+    call SetSoundVolume( gg_snd_Agihard33, 127 )
     call SetSoundPitch( gg_snd_Agihard33, 1.0 )
-    set gg_snd_Agihard34 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Agihard34, 147 )
+    set gg_snd_Agihard34 = CreateSound( "Sound/Dialogue/Agihard/Agihard34.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Agihard34, 8437 )
     call SetSoundChannel( gg_snd_Agihard34, 0 )
-    call SetSoundVolume( gg_snd_Agihard34, -1 )
+    call SetSoundVolume( gg_snd_Agihard34, 127 )
     call SetSoundPitch( gg_snd_Agihard34, 1.0 )
-    set gg_snd_Agihard35 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Agihard35, 147 )
+    set gg_snd_Agihard35 = CreateSound( "Sound/Dialogue/Agihard/Agihard35.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Agihard35, 7131 )
     call SetSoundChannel( gg_snd_Agihard35, 0 )
-    call SetSoundVolume( gg_snd_Agihard35, -1 )
+    call SetSoundVolume( gg_snd_Agihard35, 127 )
     call SetSoundPitch( gg_snd_Agihard35, 1.0 )
-    set gg_snd_Agihard36 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Agihard36, 147 )
+    set gg_snd_Agihard36 = CreateSound( "Sound/Dialogue/Agihard/Agihard36.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Agihard36, 9952 )
     call SetSoundChannel( gg_snd_Agihard36, 0 )
-    call SetSoundVolume( gg_snd_Agihard36, -1 )
+    call SetSoundVolume( gg_snd_Agihard36, 127 )
     call SetSoundPitch( gg_snd_Agihard36, 1.0 )
-    set gg_snd_Agihard37 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Agihard37, 147 )
+    set gg_snd_Agihard37 = CreateSound( "Sound/Dialogue/Agihard/Agihard37.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Agihard37, 914 )
     call SetSoundChannel( gg_snd_Agihard37, 0 )
-    call SetSoundVolume( gg_snd_Agihard37, -1 )
+    call SetSoundVolume( gg_snd_Agihard37, 127 )
     call SetSoundPitch( gg_snd_Agihard37, 1.0 )
-    set gg_snd_Agihard38 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Agihard38, 147 )
+    set gg_snd_Agihard38 = CreateSound( "Sound/Dialogue/Agihard/Agihard38.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Agihard38, 3160 )
     call SetSoundChannel( gg_snd_Agihard38, 0 )
-    call SetSoundVolume( gg_snd_Agihard38, -1 )
+    call SetSoundVolume( gg_snd_Agihard38, 127 )
     call SetSoundPitch( gg_snd_Agihard38, 1.0 )
-    set gg_snd_Agihard39 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Agihard39, 147 )
+    set gg_snd_Agihard39 = CreateSound( "Sound/Dialogue/Agihard/Agihard39.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Agihard39, 8594 )
     call SetSoundChannel( gg_snd_Agihard39, 0 )
-    call SetSoundVolume( gg_snd_Agihard39, -1 )
+    call SetSoundVolume( gg_snd_Agihard39, 127 )
     call SetSoundPitch( gg_snd_Agihard39, 1.0 )
-    set gg_snd_Agihard4 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Agihard4, 147 )
+    set gg_snd_Agihard4 = CreateSound( "Sound/Dialogue/Agihard/Agihard4.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Agihard4, 3082 )
     call SetSoundChannel( gg_snd_Agihard4, 0 )
-    call SetSoundVolume( gg_snd_Agihard4, -1 )
+    call SetSoundVolume( gg_snd_Agihard4, 127 )
     call SetSoundPitch( gg_snd_Agihard4, 1.0 )
-    set gg_snd_Agihard40 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Agihard40, 147 )
+    set gg_snd_Agihard40 = CreateSound( "Sound/Dialogue/Agihard/Agihard40.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Agihard40, 7941 )
     call SetSoundChannel( gg_snd_Agihard40, 0 )
-    call SetSoundVolume( gg_snd_Agihard40, -1 )
+    call SetSoundVolume( gg_snd_Agihard40, 127 )
     call SetSoundPitch( gg_snd_Agihard40, 1.0 )
-    set gg_snd_Agihard5 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Agihard5, 147 )
+    set gg_snd_Agihard5 = CreateSound( "Sound/Dialogue/Agihard/Agihard5.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Agihard5, 6817 )
     call SetSoundChannel( gg_snd_Agihard5, 0 )
-    call SetSoundVolume( gg_snd_Agihard5, -1 )
+    call SetSoundVolume( gg_snd_Agihard5, 127 )
     call SetSoundPitch( gg_snd_Agihard5, 1.0 )
-    set gg_snd_Agihard6 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Agihard6, 147 )
+    set gg_snd_Agihard6 = CreateSound( "Sound/Dialogue/Agihard/Agihard6.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Agihard6, 9822 )
     call SetSoundChannel( gg_snd_Agihard6, 0 )
-    call SetSoundVolume( gg_snd_Agihard6, -1 )
+    call SetSoundVolume( gg_snd_Agihard6, 127 )
     call SetSoundPitch( gg_snd_Agihard6, 1.0 )
-    set gg_snd_Agihard7 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Agihard7, 147 )
+    set gg_snd_Agihard7 = CreateSound( "Sound/Dialogue/Agihard/Agihard7.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Agihard7, 6164 )
     call SetSoundChannel( gg_snd_Agihard7, 0 )
-    call SetSoundVolume( gg_snd_Agihard7, -1 )
+    call SetSoundVolume( gg_snd_Agihard7, 127 )
     call SetSoundPitch( gg_snd_Agihard7, 1.0 )
-    set gg_snd_Agihard8 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Agihard8, 147 )
+    set gg_snd_Agihard8 = CreateSound( "Sound/Dialogue/Agihard/Agihard8.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Agihard8, 3448 )
     call SetSoundChannel( gg_snd_Agihard8, 0 )
-    call SetSoundVolume( gg_snd_Agihard8, -1 )
+    call SetSoundVolume( gg_snd_Agihard8, 127 )
     call SetSoundPitch( gg_snd_Agihard8, 1.0 )
-    set gg_snd_Agihard9 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Agihard9, 147 )
+    set gg_snd_Agihard9 = CreateSound( "Sound/Dialogue/Agihard/Agihard9.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Agihard9, 10031 )
     call SetSoundChannel( gg_snd_Agihard9, 0 )
-    call SetSoundVolume( gg_snd_Agihard9, -1 )
+    call SetSoundVolume( gg_snd_Agihard9, 127 )
     call SetSoundPitch( gg_snd_Agihard9, 1.0 )
     set gg_snd_AxeMissile1 = CreateSound( "Abilities\\Weapons\\Axe\\AxeMissile1.wav", false, true, true, 10, 10, "MissilesEAX" )
     call SetSoundDuration( gg_snd_AxeMissile1, 1210 )
@@ -3004,590 +3072,590 @@ function InitSounds takes nothing returns nothing
     call SetSoundDistanceCutoff( gg_snd_AxeMissile1, 3000.0 )
     call SetSoundConeAngles( gg_snd_AxeMissile1, 0.0, 0.0, 127 )
     call SetSoundConeOrientation( gg_snd_AxeMissile1, 0.0, 0.0, 0.0 )
-    set gg_snd_Baldar1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Baldar1, 1210 )
+    set gg_snd_Baldar1 = CreateSound( "Sound/Dialogue/Baldar/Baldar1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Baldar1, 3735 )
     call SetSoundChannel( gg_snd_Baldar1, 0 )
-    call SetSoundVolume( gg_snd_Baldar1, -1 )
+    call SetSoundVolume( gg_snd_Baldar1, 127 )
     call SetSoundPitch( gg_snd_Baldar1, 1.0 )
-    set gg_snd_Baldar10 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Baldar10, 1210 )
+    set gg_snd_Baldar10 = CreateSound( "Sound/Dialogue/Baldar/Baldar10.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Baldar10, 3160 )
     call SetSoundChannel( gg_snd_Baldar10, 0 )
-    call SetSoundVolume( gg_snd_Baldar10, -1 )
+    call SetSoundVolume( gg_snd_Baldar10, 127 )
     call SetSoundPitch( gg_snd_Baldar10, 1.0 )
-    set gg_snd_Baldar11 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Baldar11, 1210 )
+    set gg_snd_Baldar11 = CreateSound( "Sound/Dialogue/Baldar/Baldar11.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Baldar11, 2115 )
     call SetSoundChannel( gg_snd_Baldar11, 0 )
-    call SetSoundVolume( gg_snd_Baldar11, -1 )
+    call SetSoundVolume( gg_snd_Baldar11, 127 )
     call SetSoundPitch( gg_snd_Baldar11, 1.0 )
-    set gg_snd_Baldar12 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Baldar12, 1210 )
+    set gg_snd_Baldar12 = CreateSound( "Sound/Dialogue/Baldar/Baldar12.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Baldar12, 17528 )
     call SetSoundChannel( gg_snd_Baldar12, 0 )
-    call SetSoundVolume( gg_snd_Baldar12, -1 )
+    call SetSoundVolume( gg_snd_Baldar12, 127 )
     call SetSoundPitch( gg_snd_Baldar12, 1.0 )
-    set gg_snd_Baldar13 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Baldar13, 1210 )
+    set gg_snd_Baldar13 = CreateSound( "Sound/Dialogue/Baldar/Baldar13.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Baldar13, 22909 )
     call SetSoundChannel( gg_snd_Baldar13, 0 )
-    call SetSoundVolume( gg_snd_Baldar13, -1 )
+    call SetSoundVolume( gg_snd_Baldar13, 127 )
     call SetSoundPitch( gg_snd_Baldar13, 1.0 )
-    set gg_snd_Baldar14 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Baldar14, 1210 )
+    set gg_snd_Baldar14 = CreateSound( "Sound/Dialogue/Baldar/Baldar14.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Baldar14, 20062 )
     call SetSoundChannel( gg_snd_Baldar14, 0 )
-    call SetSoundVolume( gg_snd_Baldar14, -1 )
+    call SetSoundVolume( gg_snd_Baldar14, 127 )
     call SetSoundPitch( gg_snd_Baldar14, 1.0 )
-    set gg_snd_Baldar15 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Baldar15, 1210 )
+    set gg_snd_Baldar15 = CreateSound( "Sound/Dialogue/Baldar/Baldar15.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Baldar15, 9168 )
     call SetSoundChannel( gg_snd_Baldar15, 0 )
-    call SetSoundVolume( gg_snd_Baldar15, -1 )
+    call SetSoundVolume( gg_snd_Baldar15, 127 )
     call SetSoundPitch( gg_snd_Baldar15, 1.0 )
-    set gg_snd_Baldar16 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Baldar16, 1210 )
+    set gg_snd_Baldar16 = CreateSound( "Sound/Dialogue/Baldar/Baldar16.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Baldar16, 10501 )
     call SetSoundChannel( gg_snd_Baldar16, 0 )
-    call SetSoundVolume( gg_snd_Baldar16, -1 )
+    call SetSoundVolume( gg_snd_Baldar16, 127 )
     call SetSoundPitch( gg_snd_Baldar16, 1.0 )
-    set gg_snd_Baldar17 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Baldar17, 1210 )
+    set gg_snd_Baldar17 = CreateSound( "Sound/Dialogue/Baldar/Baldar17.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Baldar17, 5799 )
     call SetSoundChannel( gg_snd_Baldar17, 0 )
-    call SetSoundVolume( gg_snd_Baldar17, -1 )
+    call SetSoundVolume( gg_snd_Baldar17, 127 )
     call SetSoundPitch( gg_snd_Baldar17, 1.0 )
-    set gg_snd_Baldar18 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Baldar18, 1210 )
+    set gg_snd_Baldar18 = CreateSound( "Sound/Dialogue/Baldar/Baldar18.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Baldar18, 6739 )
     call SetSoundChannel( gg_snd_Baldar18, 0 )
-    call SetSoundVolume( gg_snd_Baldar18, -1 )
+    call SetSoundVolume( gg_snd_Baldar18, 127 )
     call SetSoundPitch( gg_snd_Baldar18, 1.0 )
-    set gg_snd_Baldar19 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Baldar19, 1210 )
+    set gg_snd_Baldar19 = CreateSound( "Sound/Dialogue/Baldar/Baldar19.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Baldar19, 10710 )
     call SetSoundChannel( gg_snd_Baldar19, 0 )
-    call SetSoundVolume( gg_snd_Baldar19, -1 )
+    call SetSoundVolume( gg_snd_Baldar19, 127 )
     call SetSoundPitch( gg_snd_Baldar19, 1.0 )
-    set gg_snd_Baldar2 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Baldar2, 1210 )
+    set gg_snd_Baldar2 = CreateSound( "Sound/Dialogue/Baldar/Baldar2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Baldar2, 2690 )
     call SetSoundChannel( gg_snd_Baldar2, 0 )
-    call SetSoundVolume( gg_snd_Baldar2, -1 )
+    call SetSoundVolume( gg_snd_Baldar2, 127 )
     call SetSoundPitch( gg_snd_Baldar2, 1.0 )
-    set gg_snd_Baldar20 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Baldar20, 1210 )
+    set gg_snd_Baldar20 = CreateSound( "Sound/Dialogue/Baldar/Baldar20.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Baldar20, 6635 )
     call SetSoundChannel( gg_snd_Baldar20, 0 )
-    call SetSoundVolume( gg_snd_Baldar20, -1 )
+    call SetSoundVolume( gg_snd_Baldar20, 127 )
     call SetSoundPitch( gg_snd_Baldar20, 1.0 )
-    set gg_snd_Baldar21 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Baldar21, 1210 )
+    set gg_snd_Baldar21 = CreateSound( "Sound/Dialogue/Baldar/Baldar21.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Baldar21, 5564 )
     call SetSoundChannel( gg_snd_Baldar21, 0 )
-    call SetSoundVolume( gg_snd_Baldar21, -1 )
+    call SetSoundVolume( gg_snd_Baldar21, 127 )
     call SetSoundPitch( gg_snd_Baldar21, 1.0 )
-    set gg_snd_Baldar22 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Baldar22, 1210 )
+    set gg_snd_Baldar22 = CreateSound( "Sound/Dialogue/Baldar/Baldar22.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Baldar22, 10631 )
     call SetSoundChannel( gg_snd_Baldar22, 0 )
-    call SetSoundVolume( gg_snd_Baldar22, -1 )
+    call SetSoundVolume( gg_snd_Baldar22, 127 )
     call SetSoundPitch( gg_snd_Baldar22, 1.0 )
-    set gg_snd_Baldar23 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Baldar23, 1210 )
+    set gg_snd_Baldar23 = CreateSound( "Sound/Dialogue/Baldar/Baldar23.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Baldar23, 14628 )
     call SetSoundChannel( gg_snd_Baldar23, 0 )
-    call SetSoundVolume( gg_snd_Baldar23, -1 )
+    call SetSoundVolume( gg_snd_Baldar23, 127 )
     call SetSoundPitch( gg_snd_Baldar23, 1.0 )
-    set gg_snd_Baldar24 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Baldar24, 1210 )
+    set gg_snd_Baldar24 = CreateSound( "Sound/Dialogue/Baldar/Baldar24.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Baldar24, 3500 )
     call SetSoundChannel( gg_snd_Baldar24, 0 )
-    call SetSoundVolume( gg_snd_Baldar24, -1 )
+    call SetSoundVolume( gg_snd_Baldar24, 127 )
     call SetSoundPitch( gg_snd_Baldar24, 1.0 )
-    set gg_snd_Baldar25 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Baldar25, 1210 )
+    set gg_snd_Baldar25 = CreateSound( "Sound/Dialogue/Baldar/Baldar25.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Baldar25, 4179 )
     call SetSoundChannel( gg_snd_Baldar25, 0 )
-    call SetSoundVolume( gg_snd_Baldar25, -1 )
+    call SetSoundVolume( gg_snd_Baldar25, 127 )
     call SetSoundPitch( gg_snd_Baldar25, 1.0 )
-    set gg_snd_Baldar26 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Baldar26, 1210 )
+    set gg_snd_Baldar26 = CreateSound( "Sound/Dialogue/Baldar/Baldar26.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Baldar26, 4101 )
     call SetSoundChannel( gg_snd_Baldar26, 0 )
-    call SetSoundVolume( gg_snd_Baldar26, -1 )
+    call SetSoundVolume( gg_snd_Baldar26, 127 )
     call SetSoundPitch( gg_snd_Baldar26, 1.0 )
-    set gg_snd_Baldar27 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Baldar27, 1210 )
+    set gg_snd_Baldar27 = CreateSound( "Sound/Dialogue/Baldar/Baldar27.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Baldar27, 14367 )
     call SetSoundChannel( gg_snd_Baldar27, 0 )
-    call SetSoundVolume( gg_snd_Baldar27, -1 )
+    call SetSoundVolume( gg_snd_Baldar27, 127 )
     call SetSoundPitch( gg_snd_Baldar27, 1.0 )
-    set gg_snd_Baldar28 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Baldar28, 1210 )
+    set gg_snd_Baldar28 = CreateSound( "Sound/Dialogue/Baldar/Baldar28.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Baldar28, 6086 )
     call SetSoundChannel( gg_snd_Baldar28, 0 )
-    call SetSoundVolume( gg_snd_Baldar28, -1 )
+    call SetSoundVolume( gg_snd_Baldar28, 127 )
     call SetSoundPitch( gg_snd_Baldar28, 1.0 )
-    set gg_snd_Baldar29 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Baldar29, 1210 )
+    set gg_snd_Baldar29 = CreateSound( "Sound/Dialogue/Baldar/Baldar29.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Baldar29, 14106 )
     call SetSoundChannel( gg_snd_Baldar29, 0 )
-    call SetSoundVolume( gg_snd_Baldar29, -1 )
+    call SetSoundVolume( gg_snd_Baldar29, 127 )
     call SetSoundPitch( gg_snd_Baldar29, 1.0 )
-    set gg_snd_Baldar3 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Baldar3, 1210 )
+    set gg_snd_Baldar3 = CreateSound( "Sound/Dialogue/Baldar/Baldar3.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Baldar3, 4205 )
     call SetSoundChannel( gg_snd_Baldar3, 0 )
-    call SetSoundVolume( gg_snd_Baldar3, -1 )
+    call SetSoundVolume( gg_snd_Baldar3, 127 )
     call SetSoundPitch( gg_snd_Baldar3, 1.0 )
-    set gg_snd_Baldar30 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Baldar30, 1210 )
+    set gg_snd_Baldar30 = CreateSound( "Sound/Dialogue/Baldar/Baldar30.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Baldar30, 4022 )
     call SetSoundChannel( gg_snd_Baldar30, 0 )
-    call SetSoundVolume( gg_snd_Baldar30, -1 )
+    call SetSoundVolume( gg_snd_Baldar30, 127 )
     call SetSoundPitch( gg_snd_Baldar30, 1.0 )
-    set gg_snd_Baldar31 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Baldar31, 1210 )
+    set gg_snd_Baldar31 = CreateSound( "Sound/Dialogue/Baldar/Baldar31.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Baldar31, 6112 )
     call SetSoundChannel( gg_snd_Baldar31, 0 )
-    call SetSoundVolume( gg_snd_Baldar31, -1 )
+    call SetSoundVolume( gg_snd_Baldar31, 127 )
     call SetSoundPitch( gg_snd_Baldar31, 1.0 )
-    set gg_snd_Baldar32 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Baldar32, 1210 )
+    set gg_snd_Baldar32 = CreateSound( "Sound/Dialogue/Baldar/Baldar32.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Baldar32, 12591 )
     call SetSoundChannel( gg_snd_Baldar32, 0 )
-    call SetSoundVolume( gg_snd_Baldar32, -1 )
+    call SetSoundVolume( gg_snd_Baldar32, 127 )
     call SetSoundPitch( gg_snd_Baldar32, 1.0 )
-    set gg_snd_Baldar33 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Baldar33, 1210 )
+    set gg_snd_Baldar33 = CreateSound( "Sound/Dialogue/Baldar/Baldar33.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Baldar33, 3944 )
     call SetSoundChannel( gg_snd_Baldar33, 0 )
-    call SetSoundVolume( gg_snd_Baldar33, -1 )
+    call SetSoundVolume( gg_snd_Baldar33, 127 )
     call SetSoundPitch( gg_snd_Baldar33, 1.0 )
-    set gg_snd_Baldar34 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Baldar34, 1210 )
+    set gg_snd_Baldar34 = CreateSound( "Sound/Dialogue/Baldar/Baldar34.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Baldar34, 8542 )
     call SetSoundChannel( gg_snd_Baldar34, 0 )
-    call SetSoundVolume( gg_snd_Baldar34, -1 )
+    call SetSoundVolume( gg_snd_Baldar34, 127 )
     call SetSoundPitch( gg_snd_Baldar34, 1.0 )
-    set gg_snd_Baldar35 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Baldar35, 1210 )
+    set gg_snd_Baldar35 = CreateSound( "Sound/Dialogue/Baldar/Baldar35.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Baldar35, 13505 )
     call SetSoundChannel( gg_snd_Baldar35, 0 )
-    call SetSoundVolume( gg_snd_Baldar35, -1 )
+    call SetSoundVolume( gg_snd_Baldar35, 127 )
     call SetSoundPitch( gg_snd_Baldar35, 1.0 )
-    set gg_snd_Baldar36 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Baldar36, 1210 )
+    set gg_snd_Baldar36 = CreateSound( "Sound/Dialogue/Baldar/Baldar36.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Baldar36, 21733 )
     call SetSoundChannel( gg_snd_Baldar36, 0 )
-    call SetSoundVolume( gg_snd_Baldar36, -1 )
+    call SetSoundVolume( gg_snd_Baldar36, 127 )
     call SetSoundPitch( gg_snd_Baldar36, 1.0 )
-    set gg_snd_Baldar37 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Baldar37, 1210 )
+    set gg_snd_Baldar37 = CreateSound( "Sound/Dialogue/Baldar/Baldar37.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Baldar37, 17475 )
     call SetSoundChannel( gg_snd_Baldar37, 0 )
-    call SetSoundVolume( gg_snd_Baldar37, -1 )
+    call SetSoundVolume( gg_snd_Baldar37, 127 )
     call SetSoundPitch( gg_snd_Baldar37, 1.0 )
-    set gg_snd_Baldar38 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Baldar38, 1210 )
+    set gg_snd_Baldar38 = CreateSound( "Sound/Dialogue/Baldar/Baldar38.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Baldar38, 18599 )
     call SetSoundChannel( gg_snd_Baldar38, 0 )
-    call SetSoundVolume( gg_snd_Baldar38, -1 )
+    call SetSoundVolume( gg_snd_Baldar38, 127 )
     call SetSoundPitch( gg_snd_Baldar38, 1.0 )
-    set gg_snd_Baldar4 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Baldar4, 1210 )
+    set gg_snd_Baldar4 = CreateSound( "Sound/Dialogue/Baldar/Baldar4.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Baldar4, 1410 )
     call SetSoundChannel( gg_snd_Baldar4, 0 )
-    call SetSoundVolume( gg_snd_Baldar4, -1 )
+    call SetSoundVolume( gg_snd_Baldar4, 127 )
     call SetSoundPitch( gg_snd_Baldar4, 1.0 )
-    set gg_snd_Baldar5 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Baldar5, 1210 )
+    set gg_snd_Baldar5 = CreateSound( "Sound/Dialogue/Baldar/Baldar5.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Baldar5, 6008 )
     call SetSoundChannel( gg_snd_Baldar5, 0 )
-    call SetSoundVolume( gg_snd_Baldar5, -1 )
+    call SetSoundVolume( gg_snd_Baldar5, 127 )
     call SetSoundPitch( gg_snd_Baldar5, 1.0 )
-    set gg_snd_Baldar6 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Baldar6, 1210 )
+    set gg_snd_Baldar6 = CreateSound( "Sound/Dialogue/Baldar/Baldar6.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Baldar6, 7836 )
     call SetSoundChannel( gg_snd_Baldar6, 0 )
-    call SetSoundVolume( gg_snd_Baldar6, -1 )
+    call SetSoundVolume( gg_snd_Baldar6, 127 )
     call SetSoundPitch( gg_snd_Baldar6, 1.0 )
-    set gg_snd_Baldar7 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Baldar7, 1210 )
+    set gg_snd_Baldar7 = CreateSound( "Sound/Dialogue/Baldar/Baldar7.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Baldar7, 1175 )
     call SetSoundChannel( gg_snd_Baldar7, 0 )
-    call SetSoundVolume( gg_snd_Baldar7, -1 )
+    call SetSoundVolume( gg_snd_Baldar7, 127 )
     call SetSoundPitch( gg_snd_Baldar7, 1.0 )
-    set gg_snd_Baldar8 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Baldar8, 1210 )
+    set gg_snd_Baldar8 = CreateSound( "Sound/Dialogue/Baldar/Baldar8.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Baldar8, 6295 )
     call SetSoundChannel( gg_snd_Baldar8, 0 )
-    call SetSoundVolume( gg_snd_Baldar8, -1 )
+    call SetSoundVolume( gg_snd_Baldar8, 127 )
     call SetSoundPitch( gg_snd_Baldar8, 1.0 )
-    set gg_snd_Baldar9 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Baldar9, 1210 )
+    set gg_snd_Baldar9 = CreateSound( "Sound/Dialogue/Baldar/Baldar9.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Baldar9, 5590 )
     call SetSoundChannel( gg_snd_Baldar9, 0 )
-    call SetSoundVolume( gg_snd_Baldar9, -1 )
+    call SetSoundVolume( gg_snd_Baldar9, 127 )
     call SetSoundPitch( gg_snd_Baldar9, 1.0 )
     set gg_snd_BattleRoar = CreateSound( "Abilities\\Spells\\NightElf\\BattleRoar\\BattleRoar.wav", false, false, true, 10, 10, "SpellsEAX" )
     call SetSoundDuration( gg_snd_BattleRoar, 1991 )
     call SetSoundChannel( gg_snd_BattleRoar, 0 )
     call SetSoundVolume( gg_snd_BattleRoar, -1 )
     call SetSoundPitch( gg_snd_BattleRoar, 1.0 )
-    set gg_snd_Bjoern1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern1, 1991 )
+    set gg_snd_Bjoern1 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern1, 2586 )
     call SetSoundChannel( gg_snd_Bjoern1, 0 )
-    call SetSoundVolume( gg_snd_Bjoern1, -1 )
+    call SetSoundVolume( gg_snd_Bjoern1, 127 )
     call SetSoundPitch( gg_snd_Bjoern1, 1.0 )
-    set gg_snd_Bjoern10 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern10, 1991 )
+    set gg_snd_Bjoern10 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern10.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern10, 7366 )
     call SetSoundChannel( gg_snd_Bjoern10, 0 )
-    call SetSoundVolume( gg_snd_Bjoern10, -1 )
+    call SetSoundVolume( gg_snd_Bjoern10, 127 )
     call SetSoundPitch( gg_snd_Bjoern10, 1.0 )
-    set gg_snd_Bjoern101 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern101, 1991 )
+    set gg_snd_Bjoern101 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern1.wav", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern101, 1184 )
     call SetSoundChannel( gg_snd_Bjoern101, 0 )
-    call SetSoundVolume( gg_snd_Bjoern101, -1 )
+    call SetSoundVolume( gg_snd_Bjoern101, 127 )
     call SetSoundPitch( gg_snd_Bjoern101, 1.0 )
-    set gg_snd_Bjoern11 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern11, 1991 )
+    set gg_snd_Bjoern11 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern11.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern11, 10866 )
     call SetSoundChannel( gg_snd_Bjoern11, 0 )
-    call SetSoundVolume( gg_snd_Bjoern11, -1 )
+    call SetSoundVolume( gg_snd_Bjoern11, 127 )
     call SetSoundPitch( gg_snd_Bjoern11, 1.0 )
-    set gg_snd_Bjoern12 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern12, 1991 )
+    set gg_snd_Bjoern12 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern12.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern12, 6060 )
     call SetSoundChannel( gg_snd_Bjoern12, 0 )
-    call SetSoundVolume( gg_snd_Bjoern12, -1 )
+    call SetSoundVolume( gg_snd_Bjoern12, 127 )
     call SetSoundPitch( gg_snd_Bjoern12, 1.0 )
-    set gg_snd_Bjoern13 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern13, 1991 )
+    set gg_snd_Bjoern13 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern13.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern13, 9404 )
     call SetSoundChannel( gg_snd_Bjoern13, 0 )
-    call SetSoundVolume( gg_snd_Bjoern13, -1 )
+    call SetSoundVolume( gg_snd_Bjoern13, 127 )
     call SetSoundPitch( gg_snd_Bjoern13, 1.0 )
-    set gg_snd_Bjoern14 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern14, 1991 )
+    set gg_snd_Bjoern14 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern14.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern14, 1593 )
     call SetSoundChannel( gg_snd_Bjoern14, 0 )
-    call SetSoundVolume( gg_snd_Bjoern14, -1 )
+    call SetSoundVolume( gg_snd_Bjoern14, 127 )
     call SetSoundPitch( gg_snd_Bjoern14, 1.0 )
-    set gg_snd_Bjoern15 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern15, 1991 )
+    set gg_snd_Bjoern15 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern15.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern15, 1593 )
     call SetSoundChannel( gg_snd_Bjoern15, 0 )
-    call SetSoundVolume( gg_snd_Bjoern15, -1 )
+    call SetSoundVolume( gg_snd_Bjoern15, 127 )
     call SetSoundPitch( gg_snd_Bjoern15, 1.0 )
-    set gg_snd_Bjoern16 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern16, 1991 )
+    set gg_snd_Bjoern16 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern16.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern16, 8150 )
     call SetSoundChannel( gg_snd_Bjoern16, 0 )
-    call SetSoundVolume( gg_snd_Bjoern16, -1 )
+    call SetSoundVolume( gg_snd_Bjoern16, 127 )
     call SetSoundPitch( gg_snd_Bjoern16, 1.0 )
-    set gg_snd_Bjoern17 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern17, 1991 )
+    set gg_snd_Bjoern17 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern17.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern17, 4806 )
     call SetSoundChannel( gg_snd_Bjoern17, 0 )
-    call SetSoundVolume( gg_snd_Bjoern17, -1 )
+    call SetSoundVolume( gg_snd_Bjoern17, 127 )
     call SetSoundPitch( gg_snd_Bjoern17, 1.0 )
-    set gg_snd_Bjoern18 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern18, 1991 )
+    set gg_snd_Bjoern18 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern18.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern18, 2089 )
     call SetSoundChannel( gg_snd_Bjoern18, 0 )
-    call SetSoundVolume( gg_snd_Bjoern18, -1 )
+    call SetSoundVolume( gg_snd_Bjoern18, 127 )
     call SetSoundPitch( gg_snd_Bjoern18, 1.0 )
-    set gg_snd_Bjoern19 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern19, 1991 )
+    set gg_snd_Bjoern19 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern19.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern19, 10292 )
     call SetSoundChannel( gg_snd_Bjoern19, 0 )
-    call SetSoundVolume( gg_snd_Bjoern19, -1 )
+    call SetSoundVolume( gg_snd_Bjoern19, 127 )
     call SetSoundPitch( gg_snd_Bjoern19, 1.0 )
-    set gg_snd_Bjoern2 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern2, 1991 )
+    set gg_snd_Bjoern2 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern2, 4205 )
     call SetSoundChannel( gg_snd_Bjoern2, 0 )
-    call SetSoundVolume( gg_snd_Bjoern2, -1 )
+    call SetSoundVolume( gg_snd_Bjoern2, 127 )
     call SetSoundPitch( gg_snd_Bjoern2, 1.0 )
-    set gg_snd_Bjoern20 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern20, 1991 )
+    set gg_snd_Bjoern20 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern20.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern20, 6948 )
     call SetSoundChannel( gg_snd_Bjoern20, 0 )
-    call SetSoundVolume( gg_snd_Bjoern20, -1 )
+    call SetSoundVolume( gg_snd_Bjoern20, 127 )
     call SetSoundPitch( gg_snd_Bjoern20, 1.0 )
-    set gg_snd_Bjoern201 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern201, 1991 )
+    set gg_snd_Bjoern201 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern2.wav", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern201, 1904 )
     call SetSoundChannel( gg_snd_Bjoern201, 0 )
-    call SetSoundVolume( gg_snd_Bjoern201, -1 )
+    call SetSoundVolume( gg_snd_Bjoern201, 127 )
     call SetSoundPitch( gg_snd_Bjoern201, 1.0 )
-    set gg_snd_Bjoern21 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern21, 1991 )
+    set gg_snd_Bjoern21 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern21.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern21, 6948 )
     call SetSoundChannel( gg_snd_Bjoern21, 0 )
-    call SetSoundVolume( gg_snd_Bjoern21, -1 )
+    call SetSoundVolume( gg_snd_Bjoern21, 127 )
     call SetSoundPitch( gg_snd_Bjoern21, 1.0 )
-    set gg_snd_Bjoern22 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern22, 1991 )
+    set gg_snd_Bjoern22 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern22.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern22, 7000 )
     call SetSoundChannel( gg_snd_Bjoern22, 0 )
-    call SetSoundVolume( gg_snd_Bjoern22, -1 )
+    call SetSoundVolume( gg_snd_Bjoern22, 127 )
     call SetSoundPitch( gg_snd_Bjoern22, 1.0 )
-    set gg_snd_Bjoern23 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern23, 1991 )
+    set gg_snd_Bjoern23 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern23.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern23, 11755 )
     call SetSoundChannel( gg_snd_Bjoern23, 0 )
-    call SetSoundVolume( gg_snd_Bjoern23, -1 )
+    call SetSoundVolume( gg_snd_Bjoern23, 127 )
     call SetSoundPitch( gg_snd_Bjoern23, 1.0 )
-    set gg_snd_Bjoern24 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern24, 1991 )
+    set gg_snd_Bjoern24 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern24.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern24, 11363 )
     call SetSoundChannel( gg_snd_Bjoern24, 0 )
-    call SetSoundVolume( gg_snd_Bjoern24, -1 )
+    call SetSoundVolume( gg_snd_Bjoern24, 127 )
     call SetSoundPitch( gg_snd_Bjoern24, 1.0 )
-    set gg_snd_Bjoern25 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern25, 1991 )
+    set gg_snd_Bjoern25 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern25.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern25, 9116 )
     call SetSoundChannel( gg_snd_Bjoern25, 0 )
-    call SetSoundVolume( gg_snd_Bjoern25, -1 )
+    call SetSoundVolume( gg_snd_Bjoern25, 127 )
     call SetSoundPitch( gg_snd_Bjoern25, 1.0 )
-    set gg_snd_Bjoern26 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern26, 1991 )
+    set gg_snd_Bjoern26 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern26.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern26, 5407 )
     call SetSoundChannel( gg_snd_Bjoern26, 0 )
-    call SetSoundVolume( gg_snd_Bjoern26, -1 )
+    call SetSoundVolume( gg_snd_Bjoern26, 127 )
     call SetSoundPitch( gg_snd_Bjoern26, 1.0 )
-    set gg_snd_Bjoern27 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern27, 1991 )
+    set gg_snd_Bjoern27 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern27.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern27, 7288 )
     call SetSoundChannel( gg_snd_Bjoern27, 0 )
-    call SetSoundVolume( gg_snd_Bjoern27, -1 )
+    call SetSoundVolume( gg_snd_Bjoern27, 127 )
     call SetSoundPitch( gg_snd_Bjoern27, 1.0 )
-    set gg_snd_Bjoern28 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern28, 1991 )
+    set gg_snd_Bjoern28 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern28.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern28, 6530 )
     call SetSoundChannel( gg_snd_Bjoern28, 0 )
-    call SetSoundVolume( gg_snd_Bjoern28, -1 )
+    call SetSoundVolume( gg_snd_Bjoern28, 127 )
     call SetSoundPitch( gg_snd_Bjoern28, 1.0 )
-    set gg_snd_Bjoern29 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern29, 1991 )
+    set gg_snd_Bjoern29 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern29.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern29, 7627 )
     call SetSoundChannel( gg_snd_Bjoern29, 0 )
-    call SetSoundVolume( gg_snd_Bjoern29, -1 )
+    call SetSoundVolume( gg_snd_Bjoern29, 127 )
     call SetSoundPitch( gg_snd_Bjoern29, 1.0 )
-    set gg_snd_Bjoern3 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern3, 1991 )
+    set gg_snd_Bjoern3 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern3.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern3, 4858 )
     call SetSoundChannel( gg_snd_Bjoern3, 0 )
-    call SetSoundVolume( gg_snd_Bjoern3, -1 )
+    call SetSoundVolume( gg_snd_Bjoern3, 127 )
     call SetSoundPitch( gg_snd_Bjoern3, 1.0 )
-    set gg_snd_Bjoern30 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern30, 1991 )
+    set gg_snd_Bjoern30 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern30.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern30, 4336 )
     call SetSoundChannel( gg_snd_Bjoern30, 0 )
-    call SetSoundVolume( gg_snd_Bjoern30, -1 )
+    call SetSoundVolume( gg_snd_Bjoern30, 127 )
     call SetSoundPitch( gg_snd_Bjoern30, 1.0 )
-    set gg_snd_Bjoern301 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern301, 1991 )
+    set gg_snd_Bjoern301 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern3.wav", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern301, 3087 )
     call SetSoundChannel( gg_snd_Bjoern301, 0 )
-    call SetSoundVolume( gg_snd_Bjoern301, -1 )
+    call SetSoundVolume( gg_snd_Bjoern301, 127 )
     call SetSoundPitch( gg_snd_Bjoern301, 1.0 )
-    set gg_snd_Bjoern31 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern31, 1991 )
+    set gg_snd_Bjoern31 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern31.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern31, 4754 )
     call SetSoundChannel( gg_snd_Bjoern31, 0 )
-    call SetSoundVolume( gg_snd_Bjoern31, -1 )
+    call SetSoundVolume( gg_snd_Bjoern31, 127 )
     call SetSoundPitch( gg_snd_Bjoern31, 1.0 )
-    set gg_snd_Bjoern32 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern32, 1991 )
+    set gg_snd_Bjoern32 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern32.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern32, 6948 )
     call SetSoundChannel( gg_snd_Bjoern32, 0 )
-    call SetSoundVolume( gg_snd_Bjoern32, -1 )
+    call SetSoundVolume( gg_snd_Bjoern32, 127 )
     call SetSoundPitch( gg_snd_Bjoern32, 1.0 )
-    set gg_snd_Bjoern33 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern33, 1991 )
+    set gg_snd_Bjoern33 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern33.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern33, 6426 )
     call SetSoundChannel( gg_snd_Bjoern33, 0 )
-    call SetSoundVolume( gg_snd_Bjoern33, -1 )
+    call SetSoundVolume( gg_snd_Bjoern33, 127 )
     call SetSoundPitch( gg_snd_Bjoern33, 1.0 )
-    set gg_snd_Bjoern34 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern34, 1991 )
+    set gg_snd_Bjoern34 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern34.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern34, 10893 )
     call SetSoundChannel( gg_snd_Bjoern34, 0 )
-    call SetSoundVolume( gg_snd_Bjoern34, -1 )
+    call SetSoundVolume( gg_snd_Bjoern34, 127 )
     call SetSoundPitch( gg_snd_Bjoern34, 1.0 )
-    set gg_snd_Bjoern35 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern35, 1991 )
+    set gg_snd_Bjoern35 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern35.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern35, 5903 )
     call SetSoundChannel( gg_snd_Bjoern35, 0 )
-    call SetSoundVolume( gg_snd_Bjoern35, -1 )
+    call SetSoundVolume( gg_snd_Bjoern35, 127 )
     call SetSoundPitch( gg_snd_Bjoern35, 1.0 )
-    set gg_snd_Bjoern36 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern36, 1991 )
+    set gg_snd_Bjoern36 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern36.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern36, 1724 )
     call SetSoundChannel( gg_snd_Bjoern36, 0 )
-    call SetSoundVolume( gg_snd_Bjoern36, -1 )
+    call SetSoundVolume( gg_snd_Bjoern36, 127 )
     call SetSoundPitch( gg_snd_Bjoern36, 1.0 )
-    set gg_snd_Bjoern37 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern37, 1991 )
+    set gg_snd_Bjoern37 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern37.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern37, 8646 )
     call SetSoundChannel( gg_snd_Bjoern37, 0 )
-    call SetSoundVolume( gg_snd_Bjoern37, -1 )
+    call SetSoundVolume( gg_snd_Bjoern37, 127 )
     call SetSoundPitch( gg_snd_Bjoern37, 1.0 )
-    set gg_snd_Bjoern37_1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern37_1, 1991 )
+    set gg_snd_Bjoern37_1 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern37_1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern37_1, 3526 )
     call SetSoundChannel( gg_snd_Bjoern37_1, 0 )
-    call SetSoundVolume( gg_snd_Bjoern37_1, -1 )
+    call SetSoundVolume( gg_snd_Bjoern37_1, 127 )
     call SetSoundPitch( gg_snd_Bjoern37_1, 1.0 )
-    set gg_snd_Bjoern38 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern38, 1991 )
+    set gg_snd_Bjoern38 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern38.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern38, 12277 )
     call SetSoundChannel( gg_snd_Bjoern38, 0 )
-    call SetSoundVolume( gg_snd_Bjoern38, -1 )
+    call SetSoundVolume( gg_snd_Bjoern38, 127 )
     call SetSoundPitch( gg_snd_Bjoern38, 1.0 )
-    set gg_snd_Bjoern39 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern39, 1991 )
+    set gg_snd_Bjoern39 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern39.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern39, 3657 )
     call SetSoundChannel( gg_snd_Bjoern39, 0 )
-    call SetSoundVolume( gg_snd_Bjoern39, -1 )
+    call SetSoundVolume( gg_snd_Bjoern39, 127 )
     call SetSoundPitch( gg_snd_Bjoern39, 1.0 )
-    set gg_snd_Bjoern4 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern4, 1991 )
+    set gg_snd_Bjoern4 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern4.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern4, 5877 )
     call SetSoundChannel( gg_snd_Bjoern4, 0 )
-    call SetSoundVolume( gg_snd_Bjoern4, -1 )
+    call SetSoundVolume( gg_snd_Bjoern4, 127 )
     call SetSoundPitch( gg_snd_Bjoern4, 1.0 )
-    set gg_snd_Bjoern40 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern40, 1991 )
+    set gg_snd_Bjoern40 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern40.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern40, 4075 )
     call SetSoundChannel( gg_snd_Bjoern40, 0 )
-    call SetSoundVolume( gg_snd_Bjoern40, -1 )
+    call SetSoundVolume( gg_snd_Bjoern40, 127 )
     call SetSoundPitch( gg_snd_Bjoern40, 1.0 )
-    set gg_snd_Bjoern401 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern401, 1991 )
+    set gg_snd_Bjoern401 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern4.wav", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern401, 2721 )
     call SetSoundChannel( gg_snd_Bjoern401, 0 )
-    call SetSoundVolume( gg_snd_Bjoern401, -1 )
+    call SetSoundVolume( gg_snd_Bjoern401, 127 )
     call SetSoundPitch( gg_snd_Bjoern401, 1.0 )
-    set gg_snd_Bjoern41 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern41, 1991 )
+    set gg_snd_Bjoern41 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern41.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern41, 2246 )
     call SetSoundChannel( gg_snd_Bjoern41, 0 )
-    call SetSoundVolume( gg_snd_Bjoern41, -1 )
+    call SetSoundVolume( gg_snd_Bjoern41, 127 )
     call SetSoundPitch( gg_snd_Bjoern41, 1.0 )
-    set gg_snd_Bjoern42 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern42, 1991 )
+    set gg_snd_Bjoern42 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern42.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern42, 9900 )
     call SetSoundChannel( gg_snd_Bjoern42, 0 )
-    call SetSoundVolume( gg_snd_Bjoern42, -1 )
+    call SetSoundVolume( gg_snd_Bjoern42, 127 )
     call SetSoundPitch( gg_snd_Bjoern42, 1.0 )
-    set gg_snd_Bjoern43 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern43, 1991 )
+    set gg_snd_Bjoern43 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern43.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern43, 7000 )
     call SetSoundChannel( gg_snd_Bjoern43, 0 )
-    call SetSoundVolume( gg_snd_Bjoern43, -1 )
+    call SetSoundVolume( gg_snd_Bjoern43, 127 )
     call SetSoundPitch( gg_snd_Bjoern43, 1.0 )
-    set gg_snd_Bjoern44 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern44, 1991 )
+    set gg_snd_Bjoern44 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern44.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern44, 3004 )
     call SetSoundChannel( gg_snd_Bjoern44, 0 )
-    call SetSoundVolume( gg_snd_Bjoern44, -1 )
+    call SetSoundVolume( gg_snd_Bjoern44, 127 )
     call SetSoundPitch( gg_snd_Bjoern44, 1.0 )
-    set gg_snd_Bjoern45 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern45, 1991 )
+    set gg_snd_Bjoern45 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern45.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern45, 9482 )
     call SetSoundChannel( gg_snd_Bjoern45, 0 )
-    call SetSoundVolume( gg_snd_Bjoern45, -1 )
+    call SetSoundVolume( gg_snd_Bjoern45, 127 )
     call SetSoundPitch( gg_snd_Bjoern45, 1.0 )
-    set gg_snd_Bjoern46 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern46, 1991 )
+    set gg_snd_Bjoern46 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern46.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern46, 8463 )
     call SetSoundChannel( gg_snd_Bjoern46, 0 )
-    call SetSoundVolume( gg_snd_Bjoern46, -1 )
+    call SetSoundVolume( gg_snd_Bjoern46, 127 )
     call SetSoundPitch( gg_snd_Bjoern46, 1.0 )
-    set gg_snd_Bjoern47 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern47, 1991 )
+    set gg_snd_Bjoern47 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern47.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern47, 5929 )
     call SetSoundChannel( gg_snd_Bjoern47, 0 )
-    call SetSoundVolume( gg_snd_Bjoern47, -1 )
+    call SetSoundVolume( gg_snd_Bjoern47, 127 )
     call SetSoundPitch( gg_snd_Bjoern47, 1.0 )
-    set gg_snd_Bjoern48 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern48, 1991 )
+    set gg_snd_Bjoern48 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern48.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern48, 12460 )
     call SetSoundChannel( gg_snd_Bjoern48, 0 )
-    call SetSoundVolume( gg_snd_Bjoern48, -1 )
+    call SetSoundVolume( gg_snd_Bjoern48, 127 )
     call SetSoundPitch( gg_snd_Bjoern48, 1.0 )
-    set gg_snd_Bjoern49 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern49, 1991 )
+    set gg_snd_Bjoern49 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern49.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern49, 10971 )
     call SetSoundChannel( gg_snd_Bjoern49, 0 )
-    call SetSoundVolume( gg_snd_Bjoern49, -1 )
+    call SetSoundVolume( gg_snd_Bjoern49, 127 )
     call SetSoundPitch( gg_snd_Bjoern49, 1.0 )
-    set gg_snd_Bjoern5 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern5, 1991 )
+    set gg_snd_Bjoern5 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern5.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern5, 7680 )
     call SetSoundChannel( gg_snd_Bjoern5, 0 )
-    call SetSoundVolume( gg_snd_Bjoern5, -1 )
+    call SetSoundVolume( gg_snd_Bjoern5, 127 )
     call SetSoundPitch( gg_snd_Bjoern5, 1.0 )
-    set gg_snd_Bjoern50 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern50, 1991 )
+    set gg_snd_Bjoern50 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern50.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern50, 6896 )
     call SetSoundChannel( gg_snd_Bjoern50, 0 )
-    call SetSoundVolume( gg_snd_Bjoern50, -1 )
+    call SetSoundVolume( gg_snd_Bjoern50, 127 )
     call SetSoundPitch( gg_snd_Bjoern50, 1.0 )
-    set gg_snd_Bjoern501 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern501, 1991 )
+    set gg_snd_Bjoern501 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern5.wav", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern501, 2145 )
     call SetSoundChannel( gg_snd_Bjoern501, 0 )
-    call SetSoundVolume( gg_snd_Bjoern501, -1 )
+    call SetSoundVolume( gg_snd_Bjoern501, 127 )
     call SetSoundPitch( gg_snd_Bjoern501, 1.0 )
-    set gg_snd_Bjoern51 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern51, 1991 )
+    set gg_snd_Bjoern51 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern51.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern51, 3082 )
     call SetSoundChannel( gg_snd_Bjoern51, 0 )
-    call SetSoundVolume( gg_snd_Bjoern51, -1 )
+    call SetSoundVolume( gg_snd_Bjoern51, 127 )
     call SetSoundPitch( gg_snd_Bjoern51, 1.0 )
-    set gg_snd_Bjoern52 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern52, 1991 )
+    set gg_snd_Bjoern52 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern52.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern52, 11258 )
     call SetSoundChannel( gg_snd_Bjoern52, 0 )
-    call SetSoundVolume( gg_snd_Bjoern52, -1 )
+    call SetSoundVolume( gg_snd_Bjoern52, 127 )
     call SetSoundPitch( gg_snd_Bjoern52, 1.0 )
-    set gg_snd_Bjoern53 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern53, 1991 )
+    set gg_snd_Bjoern53 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern53.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern53, 7601 )
     call SetSoundChannel( gg_snd_Bjoern53, 0 )
-    call SetSoundVolume( gg_snd_Bjoern53, -1 )
+    call SetSoundVolume( gg_snd_Bjoern53, 127 )
     call SetSoundPitch( gg_snd_Bjoern53, 1.0 )
-    set gg_snd_Bjoern54 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern54, 1991 )
+    set gg_snd_Bjoern54 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern54.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern54, 6765 )
     call SetSoundChannel( gg_snd_Bjoern54, 0 )
-    call SetSoundVolume( gg_snd_Bjoern54, -1 )
+    call SetSoundVolume( gg_snd_Bjoern54, 127 )
     call SetSoundPitch( gg_snd_Bjoern54, 1.0 )
-    set gg_snd_Bjoern55 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern55, 1991 )
+    set gg_snd_Bjoern55 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern55.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern55, 13113 )
     call SetSoundChannel( gg_snd_Bjoern55, 0 )
-    call SetSoundVolume( gg_snd_Bjoern55, -1 )
+    call SetSoundVolume( gg_snd_Bjoern55, 127 )
     call SetSoundPitch( gg_snd_Bjoern55, 1.0 )
-    set gg_snd_Bjoern56 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern56, 1991 )
+    set gg_snd_Bjoern56 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern56.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern56, 5851 )
     call SetSoundChannel( gg_snd_Bjoern56, 0 )
-    call SetSoundVolume( gg_snd_Bjoern56, -1 )
+    call SetSoundVolume( gg_snd_Bjoern56, 127 )
     call SetSoundPitch( gg_snd_Bjoern56, 1.0 )
-    set gg_snd_Bjoern57 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern57, 1991 )
+    set gg_snd_Bjoern57 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern57.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern57, 18520 )
     call SetSoundChannel( gg_snd_Bjoern57, 0 )
-    call SetSoundVolume( gg_snd_Bjoern57, -1 )
+    call SetSoundVolume( gg_snd_Bjoern57, 127 )
     call SetSoundPitch( gg_snd_Bjoern57, 1.0 )
-    set gg_snd_Bjoern58 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern58, 1991 )
+    set gg_snd_Bjoern58 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern58.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern58, 9874 )
     call SetSoundChannel( gg_snd_Bjoern58, 0 )
-    call SetSoundVolume( gg_snd_Bjoern58, -1 )
+    call SetSoundVolume( gg_snd_Bjoern58, 127 )
     call SetSoundPitch( gg_snd_Bjoern58, 1.0 )
-    set gg_snd_Bjoern59 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern59, 1991 )
+    set gg_snd_Bjoern59 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern59.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern59, 8777 )
     call SetSoundChannel( gg_snd_Bjoern59, 0 )
-    call SetSoundVolume( gg_snd_Bjoern59, -1 )
+    call SetSoundVolume( gg_snd_Bjoern59, 127 )
     call SetSoundPitch( gg_snd_Bjoern59, 1.0 )
-    set gg_snd_Bjoern6 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern6, 1991 )
+    set gg_snd_Bjoern6 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern6.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern6, 6400 )
     call SetSoundChannel( gg_snd_Bjoern6, 0 )
-    call SetSoundVolume( gg_snd_Bjoern6, -1 )
+    call SetSoundVolume( gg_snd_Bjoern6, 127 )
     call SetSoundPitch( gg_snd_Bjoern6, 1.0 )
-    set gg_snd_Bjoern60 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern60, 1991 )
+    set gg_snd_Bjoern60 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern60.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern60, 2742 )
     call SetSoundChannel( gg_snd_Bjoern60, 0 )
-    call SetSoundVolume( gg_snd_Bjoern60, -1 )
+    call SetSoundVolume( gg_snd_Bjoern60, 127 )
     call SetSoundPitch( gg_snd_Bjoern60, 1.0 )
-    set gg_snd_Bjoern601 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern601, 1991 )
+    set gg_snd_Bjoern601 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern6.wav", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern601, 2337 )
     call SetSoundChannel( gg_snd_Bjoern601, 0 )
-    call SetSoundVolume( gg_snd_Bjoern601, -1 )
+    call SetSoundVolume( gg_snd_Bjoern601, 127 )
     call SetSoundPitch( gg_snd_Bjoern601, 1.0 )
-    set gg_snd_Bjoern61 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern61, 1991 )
+    set gg_snd_Bjoern61 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern61.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern61, 3578 )
     call SetSoundChannel( gg_snd_Bjoern61, 0 )
-    call SetSoundVolume( gg_snd_Bjoern61, -1 )
+    call SetSoundVolume( gg_snd_Bjoern61, 127 )
     call SetSoundPitch( gg_snd_Bjoern61, 1.0 )
-    set gg_snd_Bjoern62 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern62, 1991 )
+    set gg_snd_Bjoern62 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern62.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern62, 7523 )
     call SetSoundChannel( gg_snd_Bjoern62, 0 )
-    call SetSoundVolume( gg_snd_Bjoern62, -1 )
+    call SetSoundVolume( gg_snd_Bjoern62, 127 )
     call SetSoundPitch( gg_snd_Bjoern62, 1.0 )
-    set gg_snd_Bjoern63 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern63, 1991 )
+    set gg_snd_Bjoern63 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern63.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern63, 5720 )
     call SetSoundChannel( gg_snd_Bjoern63, 0 )
-    call SetSoundVolume( gg_snd_Bjoern63, -1 )
+    call SetSoundVolume( gg_snd_Bjoern63, 127 )
     call SetSoundPitch( gg_snd_Bjoern63, 1.0 )
-    set gg_snd_Bjoern64 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern64, 1991 )
+    set gg_snd_Bjoern64 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern64.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern64, 10370 )
     call SetSoundChannel( gg_snd_Bjoern64, 0 )
-    call SetSoundVolume( gg_snd_Bjoern64, -1 )
+    call SetSoundVolume( gg_snd_Bjoern64, 127 )
     call SetSoundPitch( gg_snd_Bjoern64, 1.0 )
-    set gg_snd_Bjoern65 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern65, 1991 )
+    set gg_snd_Bjoern65 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern65.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern65, 9247 )
     call SetSoundChannel( gg_snd_Bjoern65, 0 )
-    call SetSoundVolume( gg_snd_Bjoern65, -1 )
+    call SetSoundVolume( gg_snd_Bjoern65, 127 )
     call SetSoundPitch( gg_snd_Bjoern65, 1.0 )
-    set gg_snd_Bjoern66 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern66, 1991 )
+    set gg_snd_Bjoern66 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern66.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern66, 10448 )
     call SetSoundChannel( gg_snd_Bjoern66, 0 )
-    call SetSoundVolume( gg_snd_Bjoern66, -1 )
+    call SetSoundVolume( gg_snd_Bjoern66, 127 )
     call SetSoundPitch( gg_snd_Bjoern66, 1.0 )
-    set gg_snd_Bjoern67 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern67, 1991 )
+    set gg_snd_Bjoern67 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern67.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern67, 1332 )
     call SetSoundChannel( gg_snd_Bjoern67, 0 )
-    call SetSoundVolume( gg_snd_Bjoern67, -1 )
+    call SetSoundVolume( gg_snd_Bjoern67, 127 )
     call SetSoundPitch( gg_snd_Bjoern67, 1.0 )
-    set gg_snd_Bjoern68 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern68, 1991 )
+    set gg_snd_Bjoern68 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern68.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern68, 3448 )
     call SetSoundChannel( gg_snd_Bjoern68, 0 )
-    call SetSoundVolume( gg_snd_Bjoern68, -1 )
+    call SetSoundVolume( gg_snd_Bjoern68, 127 )
     call SetSoundPitch( gg_snd_Bjoern68, 1.0 )
-    set gg_snd_Bjoern69 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern69, 1991 )
+    set gg_snd_Bjoern69 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern69.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern69, 8306 )
     call SetSoundChannel( gg_snd_Bjoern69, 0 )
-    call SetSoundVolume( gg_snd_Bjoern69, -1 )
+    call SetSoundVolume( gg_snd_Bjoern69, 127 )
     call SetSoundPitch( gg_snd_Bjoern69, 1.0 )
-    set gg_snd_Bjoern7 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern7, 1991 )
+    set gg_snd_Bjoern7 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern7.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern7, 6164 )
     call SetSoundChannel( gg_snd_Bjoern7, 0 )
-    call SetSoundVolume( gg_snd_Bjoern7, -1 )
+    call SetSoundVolume( gg_snd_Bjoern7, 127 )
     call SetSoundPitch( gg_snd_Bjoern7, 1.0 )
-    set gg_snd_Bjoern701 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern701, 1991 )
+    set gg_snd_Bjoern701 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern7.wav", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern701, 2047 )
     call SetSoundChannel( gg_snd_Bjoern701, 0 )
-    call SetSoundVolume( gg_snd_Bjoern701, -1 )
+    call SetSoundVolume( gg_snd_Bjoern701, 127 )
     call SetSoundPitch( gg_snd_Bjoern701, 1.0 )
-    set gg_snd_Bjoern8 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern8, 1991 )
+    set gg_snd_Bjoern8 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern8.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern8, 12251 )
     call SetSoundChannel( gg_snd_Bjoern8, 0 )
-    call SetSoundVolume( gg_snd_Bjoern8, -1 )
+    call SetSoundVolume( gg_snd_Bjoern8, 127 )
     call SetSoundPitch( gg_snd_Bjoern8, 1.0 )
-    set gg_snd_Bjoern801 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern801, 1991 )
+    set gg_snd_Bjoern801 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern8.wav", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern801, 1698 )
     call SetSoundChannel( gg_snd_Bjoern801, 0 )
-    call SetSoundVolume( gg_snd_Bjoern801, -1 )
+    call SetSoundVolume( gg_snd_Bjoern801, 127 )
     call SetSoundPitch( gg_snd_Bjoern801, 1.0 )
-    set gg_snd_Bjoern9 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Bjoern9, 1991 )
+    set gg_snd_Bjoern9 = CreateSound( "Sound/Dialogue/Bjoern/Bjoern9.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Bjoern9, 5433 )
     call SetSoundChannel( gg_snd_Bjoern9, 0 )
-    call SetSoundVolume( gg_snd_Bjoern9, -1 )
+    call SetSoundVolume( gg_snd_Bjoern9, 127 )
     call SetSoundPitch( gg_snd_Bjoern9, 1.0 )
     set gg_snd_BlacksmithWhat1 = CreateSound( "Buildings\\Human\\Blacksmith\\BlacksmithWhat1.wav", false, true, true, 10, 10, "DefaultEAXON" )
     call SetSoundDuration( gg_snd_BlacksmithWhat1, 3059 )
@@ -3598,425 +3666,480 @@ function InitSounds takes nothing returns nothing
     call SetSoundDistanceCutoff( gg_snd_BlacksmithWhat1, 3000.0 )
     call SetSoundConeAngles( gg_snd_BlacksmithWhat1, 0.0, 0.0, 127 )
     call SetSoundConeOrientation( gg_snd_BlacksmithWhat1, 0.0, 0.0, 0.0 )
-    set gg_snd_Brogo1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Brogo1, 3059 )
+    set gg_snd_Brogo1 = CreateSound( "Sound/Dialogue/Brogo/Brogo1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Brogo1, 1071 )
     call SetSoundChannel( gg_snd_Brogo1, 0 )
-    call SetSoundVolume( gg_snd_Brogo1, -1 )
+    call SetSoundVolume( gg_snd_Brogo1, 127 )
     call SetSoundPitch( gg_snd_Brogo1, 1.0 )
-    set gg_snd_Brogo10 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Brogo10, 3059 )
+    set gg_snd_Brogo10 = CreateSound( "Sound/Dialogue/Brogo/Brogo10.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Brogo10, 13191 )
     call SetSoundChannel( gg_snd_Brogo10, 0 )
-    call SetSoundVolume( gg_snd_Brogo10, -1 )
+    call SetSoundVolume( gg_snd_Brogo10, 127 )
     call SetSoundPitch( gg_snd_Brogo10, 1.0 )
-    set gg_snd_Brogo11 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Brogo11, 3059 )
+    set gg_snd_Brogo11 = CreateSound( "Sound/Dialogue/Brogo/Brogo11.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Brogo11, 9848 )
     call SetSoundChannel( gg_snd_Brogo11, 0 )
-    call SetSoundVolume( gg_snd_Brogo11, -1 )
+    call SetSoundVolume( gg_snd_Brogo11, 127 )
     call SetSoundPitch( gg_snd_Brogo11, 1.0 )
-    set gg_snd_Brogo12 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Brogo12, 3059 )
+    set gg_snd_Brogo12 = CreateSound( "Sound/Dialogue/Brogo/Brogo12.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Brogo12, 12721 )
     call SetSoundChannel( gg_snd_Brogo12, 0 )
-    call SetSoundVolume( gg_snd_Brogo12, -1 )
+    call SetSoundVolume( gg_snd_Brogo12, 127 )
     call SetSoundPitch( gg_snd_Brogo12, 1.0 )
-    set gg_snd_Brogo13 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Brogo13, 3059 )
+    set gg_snd_Brogo13 = CreateSound( "Sound/Dialogue/Brogo/Brogo13.wav", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Brogo13, 1985 )
     call SetSoundChannel( gg_snd_Brogo13, 0 )
-    call SetSoundVolume( gg_snd_Brogo13, -1 )
+    call SetSoundVolume( gg_snd_Brogo13, 127 )
     call SetSoundPitch( gg_snd_Brogo13, 1.0 )
-    set gg_snd_Brogo14 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Brogo14, 3059 )
+    set gg_snd_Brogo14 = CreateSound( "Sound/Dialogue/Brogo/Brogo14.wav", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Brogo14, 1921 )
     call SetSoundChannel( gg_snd_Brogo14, 0 )
-    call SetSoundVolume( gg_snd_Brogo14, -1 )
+    call SetSoundVolume( gg_snd_Brogo14, 127 )
     call SetSoundPitch( gg_snd_Brogo14, 1.0 )
-    set gg_snd_Brogo15 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Brogo15, 3059 )
+    set gg_snd_Brogo15 = CreateSound( "Sound/Dialogue/Brogo/Brogo15.wav", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Brogo15, 2205 )
     call SetSoundChannel( gg_snd_Brogo15, 0 )
-    call SetSoundVolume( gg_snd_Brogo15, -1 )
+    call SetSoundVolume( gg_snd_Brogo15, 127 )
     call SetSoundPitch( gg_snd_Brogo15, 1.0 )
-    set gg_snd_Brogo16 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Brogo16, 3059 )
+    set gg_snd_Brogo16 = CreateSound( "Sound/Dialogue/Brogo/Brogo16.wav", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Brogo16, 3983 )
     call SetSoundChannel( gg_snd_Brogo16, 0 )
-    call SetSoundVolume( gg_snd_Brogo16, -1 )
+    call SetSoundVolume( gg_snd_Brogo16, 127 )
     call SetSoundPitch( gg_snd_Brogo16, 1.0 )
-    set gg_snd_Brogo2 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Brogo2, 3059 )
+    set gg_snd_Brogo2 = CreateSound( "Sound/Dialogue/Brogo/Brogo2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Brogo2, 940 )
     call SetSoundChannel( gg_snd_Brogo2, 0 )
-    call SetSoundVolume( gg_snd_Brogo2, -1 )
+    call SetSoundVolume( gg_snd_Brogo2, 127 )
     call SetSoundPitch( gg_snd_Brogo2, 1.0 )
-    set gg_snd_Brogo3 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Brogo3, 3059 )
+    set gg_snd_Brogo3 = CreateSound( "Sound/Dialogue/Brogo/Brogo3.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Brogo3, 1253 )
     call SetSoundChannel( gg_snd_Brogo3, 0 )
-    call SetSoundVolume( gg_snd_Brogo3, -1 )
+    call SetSoundVolume( gg_snd_Brogo3, 127 )
     call SetSoundPitch( gg_snd_Brogo3, 1.0 )
-    set gg_snd_Brogo4 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Brogo4, 3059 )
+    set gg_snd_Brogo4 = CreateSound( "Sound/Dialogue/Brogo/Brogo4.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Brogo4, 10710 )
     call SetSoundChannel( gg_snd_Brogo4, 0 )
-    call SetSoundVolume( gg_snd_Brogo4, -1 )
+    call SetSoundVolume( gg_snd_Brogo4, 127 )
     call SetSoundPitch( gg_snd_Brogo4, 1.0 )
-    set gg_snd_Brogo5 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Brogo5, 3059 )
+    set gg_snd_Brogo5 = CreateSound( "Sound/Dialogue/Brogo/Brogo5.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Brogo5, 4728 )
     call SetSoundChannel( gg_snd_Brogo5, 0 )
-    call SetSoundVolume( gg_snd_Brogo5, -1 )
+    call SetSoundVolume( gg_snd_Brogo5, 127 )
     call SetSoundPitch( gg_snd_Brogo5, 1.0 )
-    set gg_snd_Brogo6 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Brogo6, 3059 )
+    set gg_snd_Brogo6 = CreateSound( "Sound/Dialogue/Brogo/Brogo6.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Brogo6, 4466 )
     call SetSoundChannel( gg_snd_Brogo6, 0 )
-    call SetSoundVolume( gg_snd_Brogo6, -1 )
+    call SetSoundVolume( gg_snd_Brogo6, 127 )
     call SetSoundPitch( gg_snd_Brogo6, 1.0 )
-    set gg_snd_Brogo7 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Brogo7, 3059 )
+    set gg_snd_Brogo7 = CreateSound( "Sound/Dialogue/Brogo/Brogo7.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Brogo7, 2377 )
     call SetSoundChannel( gg_snd_Brogo7, 0 )
-    call SetSoundVolume( gg_snd_Brogo7, -1 )
+    call SetSoundVolume( gg_snd_Brogo7, 127 )
     call SetSoundPitch( gg_snd_Brogo7, 1.0 )
-    set gg_snd_Brogo8 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Brogo8, 3059 )
+    set gg_snd_Brogo8 = CreateSound( "Sound/Dialogue/Brogo/Brogo8.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Brogo8, 2246 )
     call SetSoundChannel( gg_snd_Brogo8, 0 )
-    call SetSoundVolume( gg_snd_Brogo8, -1 )
+    call SetSoundVolume( gg_snd_Brogo8, 127 )
     call SetSoundPitch( gg_snd_Brogo8, 1.0 )
-    set gg_snd_Brogo9 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Brogo9, 3059 )
+    set gg_snd_Brogo9 = CreateSound( "Sound/Dialogue/Brogo/Brogo9.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Brogo9, 5041 )
     call SetSoundChannel( gg_snd_Brogo9, 0 )
-    call SetSoundVolume( gg_snd_Brogo9, -1 )
+    call SetSoundVolume( gg_snd_Brogo9, 127 )
     call SetSoundPitch( gg_snd_Brogo9, 1.0 )
-    set gg_snd_C0_0 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_C0_0, 3059 )
-    call SetSoundChannel( gg_snd_C0_0, 0 )
-    call SetSoundVolume( gg_snd_C0_0, 127 )
-    call SetSoundPitch( gg_snd_C0_0, 1.0 )
-    set gg_snd_Carsten1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Carsten1, 3059 )
+    set gg_snd_Carsten1 = CreateSound( "Sound/Dialogue/Carsten/Carsten1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Carsten1, 4832 )
     call SetSoundChannel( gg_snd_Carsten1, 0 )
-    call SetSoundVolume( gg_snd_Carsten1, -1 )
+    call SetSoundVolume( gg_snd_Carsten1, 127 )
     call SetSoundPitch( gg_snd_Carsten1, 1.0 )
-    set gg_snd_Carsten2 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Carsten2, 3059 )
+    set gg_snd_Carsten2 = CreateSound( "Sound/Dialogue/Carsten/Carsten2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Carsten2, 8306 )
     call SetSoundChannel( gg_snd_Carsten2, 0 )
-    call SetSoundVolume( gg_snd_Carsten2, -1 )
+    call SetSoundVolume( gg_snd_Carsten2, 127 )
     call SetSoundPitch( gg_snd_Carsten2, 1.0 )
-    set gg_snd_Carsten3 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Carsten3, 3059 )
+    set gg_snd_Carsten3 = CreateSound( "Sound/Dialogue/Carsten/Carsten3.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Carsten3, 13792 )
     call SetSoundChannel( gg_snd_Carsten3, 0 )
-    call SetSoundVolume( gg_snd_Carsten3, -1 )
+    call SetSoundVolume( gg_snd_Carsten3, 127 )
     call SetSoundPitch( gg_snd_Carsten3, 1.0 )
-    set gg_snd_Carsten4 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Carsten4, 3059 )
+    set gg_snd_Carsten4 = CreateSound( "Sound/Dialogue/Carsten/Carsten4.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Carsten4, 7183 )
     call SetSoundChannel( gg_snd_Carsten4, 0 )
-    call SetSoundVolume( gg_snd_Carsten4, -1 )
+    call SetSoundVolume( gg_snd_Carsten4, 127 )
     call SetSoundPitch( gg_snd_Carsten4, 1.0 )
-    set gg_snd_Carsten5 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Carsten5, 3059 )
+    set gg_snd_Carsten5 = CreateSound( "Sound/Dialogue/Carsten/Carsten5.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Carsten5, 5955 )
     call SetSoundChannel( gg_snd_Carsten5, 0 )
-    call SetSoundVolume( gg_snd_Carsten5, -1 )
+    call SetSoundVolume( gg_snd_Carsten5, 127 )
     call SetSoundPitch( gg_snd_Carsten5, 1.0 )
-    set gg_snd_Carsten6 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Carsten6, 3059 )
+    set gg_snd_Carsten6 = CreateSound( "Sound/Dialogue/Carsten/Carsten6.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Carsten6, 14524 )
     call SetSoundChannel( gg_snd_Carsten6, 0 )
-    call SetSoundVolume( gg_snd_Carsten6, -1 )
+    call SetSoundVolume( gg_snd_Carsten6, 127 )
     call SetSoundPitch( gg_snd_Carsten6, 1.0 )
-    set gg_snd_Carsten7 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Carsten7, 3059 )
+    set gg_snd_Carsten7 = CreateSound( "Sound/Dialogue/Carsten/Carsten7.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Carsten7, 18912 )
     call SetSoundChannel( gg_snd_Carsten7, 0 )
-    call SetSoundVolume( gg_snd_Carsten7, -1 )
+    call SetSoundVolume( gg_snd_Carsten7, 127 )
     call SetSoundPitch( gg_snd_Carsten7, 1.0 )
-    set gg_snd_Carsten8 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Carsten8, 3059 )
+    set gg_snd_Carsten8 = CreateSound( "Sound/Dialogue/Carsten/Carsten8.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Carsten8, 15124 )
     call SetSoundChannel( gg_snd_Carsten8, 0 )
-    call SetSoundVolume( gg_snd_Carsten8, -1 )
+    call SetSoundVolume( gg_snd_Carsten8, 127 )
     call SetSoundPitch( gg_snd_Carsten8, 1.0 )
-    set gg_snd_CarstenRoutine1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_CarstenRoutine1, 3059 )
+    set gg_snd_CarstenRoutine1 = CreateSound( "Sound/Dialogue/Carsten/CarstenRoutine1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_CarstenRoutine1, 1462 )
     call SetSoundChannel( gg_snd_CarstenRoutine1, 0 )
-    call SetSoundVolume( gg_snd_CarstenRoutine1, -1 )
+    call SetSoundVolume( gg_snd_CarstenRoutine1, 127 )
     call SetSoundPitch( gg_snd_CarstenRoutine1, 1.0 )
-    set gg_snd_CarstenRoutine2 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_CarstenRoutine2, 3059 )
+    set gg_snd_CarstenRoutine2 = CreateSound( "Sound/Dialogue/Carsten/CarstenRoutine2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_CarstenRoutine2, 1567 )
     call SetSoundChannel( gg_snd_CarstenRoutine2, 0 )
-    call SetSoundVolume( gg_snd_CarstenRoutine2, -1 )
+    call SetSoundVolume( gg_snd_CarstenRoutine2, 127 )
     call SetSoundPitch( gg_snd_CarstenRoutine2, 1.0 )
-    set gg_snd_CarstenRoutine3 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_CarstenRoutine3, 3059 )
+    set gg_snd_CarstenRoutine3 = CreateSound( "Sound/Dialogue/Carsten/CarstenRoutine3.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_CarstenRoutine3, 1201 )
     call SetSoundChannel( gg_snd_CarstenRoutine3, 0 )
-    call SetSoundVolume( gg_snd_CarstenRoutine3, -1 )
+    call SetSoundVolume( gg_snd_CarstenRoutine3, 127 )
     call SetSoundPitch( gg_snd_CarstenRoutine3, 1.0 )
-    set gg_snd_CarstenRoutine4 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_CarstenRoutine4, 3059 )
+    set gg_snd_CarstenRoutine4 = CreateSound( "Sound/Dialogue/Carsten/CarstenRoutine4.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_CarstenRoutine4, 5799 )
     call SetSoundChannel( gg_snd_CarstenRoutine4, 0 )
-    call SetSoundVolume( gg_snd_CarstenRoutine4, -1 )
+    call SetSoundVolume( gg_snd_CarstenRoutine4, 127 )
     call SetSoundPitch( gg_snd_CarstenRoutine4, 1.0 )
-    set gg_snd_CarstenRoutine5 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_CarstenRoutine5, 3059 )
+    set gg_snd_CarstenRoutine5 = CreateSound( "Sound/Dialogue/Carsten/CarstenRoutine5.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_CarstenRoutine5, 2638 )
     call SetSoundChannel( gg_snd_CarstenRoutine5, 0 )
-    call SetSoundVolume( gg_snd_CarstenRoutine5, -1 )
+    call SetSoundVolume( gg_snd_CarstenRoutine5, 127 )
     call SetSoundPitch( gg_snd_CarstenRoutine5, 1.0 )
-    set gg_snd_CarstenRoutine6 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_CarstenRoutine6, 3059 )
+    set gg_snd_CarstenRoutine6 = CreateSound( "Sound/Dialogue/Carsten/CarstenRoutine6.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_CarstenRoutine6, 11833 )
     call SetSoundChannel( gg_snd_CarstenRoutine6, 0 )
-    call SetSoundVolume( gg_snd_CarstenRoutine6, -1 )
+    call SetSoundVolume( gg_snd_CarstenRoutine6, 127 )
     call SetSoundPitch( gg_snd_CarstenRoutine6, 1.0 )
-    set gg_snd_Dago1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Dago1, 3059 )
+    set gg_snd_Dago1 = CreateSound( "Sound/Dialogue/Dago/Dago1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Dago1, 3631 )
     call SetSoundChannel( gg_snd_Dago1, 0 )
     call SetSoundVolume( gg_snd_Dago1, 127 )
     call SetSoundPitch( gg_snd_Dago1, 1.0 )
-    set gg_snd_Dago10 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Dago10, 3059 )
+    set gg_snd_Dago10 = CreateSound( "Sound/Dialogue/Dago/Dago10.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Dago10, 4257 )
     call SetSoundChannel( gg_snd_Dago10, 0 )
     call SetSoundVolume( gg_snd_Dago10, 127 )
     call SetSoundPitch( gg_snd_Dago10, 1.0 )
-    set gg_snd_Dago11 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Dago11, 3059 )
+    set gg_snd_Dago11 = CreateSound( "Sound/Dialogue/Dago/Dago11.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Dago11, 862 )
     call SetSoundChannel( gg_snd_Dago11, 0 )
     call SetSoundVolume( gg_snd_Dago11, 127 )
     call SetSoundPitch( gg_snd_Dago11, 1.0 )
-    set gg_snd_Dago12 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Dago12, 3059 )
+    set gg_snd_Dago12 = CreateSound( "Sound/Dialogue/Dago/Dago12.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Dago12, 783 )
     call SetSoundChannel( gg_snd_Dago12, 0 )
     call SetSoundVolume( gg_snd_Dago12, 127 )
     call SetSoundPitch( gg_snd_Dago12, 1.0 )
-    set gg_snd_Dago13 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Dago13, 3059 )
+    set gg_snd_Dago13 = CreateSound( "Sound/Dialogue/Dago/Dago13.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Dago13, 2272 )
     call SetSoundChannel( gg_snd_Dago13, 0 )
     call SetSoundVolume( gg_snd_Dago13, 127 )
     call SetSoundPitch( gg_snd_Dago13, 1.0 )
-    set gg_snd_Dago14 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Dago14, 3059 )
+    set gg_snd_Dago14 = CreateSound( "Sound/Dialogue/Dago/Dago14.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Dago14, 5668 )
     call SetSoundChannel( gg_snd_Dago14, 0 )
     call SetSoundVolume( gg_snd_Dago14, 127 )
     call SetSoundPitch( gg_snd_Dago14, 1.0 )
-    set gg_snd_Dago15 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Dago15, 3059 )
+    set gg_snd_Dago15 = CreateSound( "Sound/Dialogue/Dago/Dago15.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Dago15, 8254 )
     call SetSoundChannel( gg_snd_Dago15, 0 )
     call SetSoundVolume( gg_snd_Dago15, 127 )
     call SetSoundPitch( gg_snd_Dago15, 1.0 )
-    set gg_snd_Dago16 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Dago16, 3059 )
+    set gg_snd_Dago16 = CreateSound( "Sound/Dialogue/Dago/Dago16.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Dago16, 4989 )
     call SetSoundChannel( gg_snd_Dago16, 0 )
     call SetSoundVolume( gg_snd_Dago16, 127 )
     call SetSoundPitch( gg_snd_Dago16, 1.0 )
-    set gg_snd_Dago17 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Dago17, 3059 )
+    set gg_snd_Dago17 = CreateSound( "Sound/Dialogue/Dago/Dago17.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Dago17, 8463 )
     call SetSoundChannel( gg_snd_Dago17, 0 )
     call SetSoundVolume( gg_snd_Dago17, 127 )
     call SetSoundPitch( gg_snd_Dago17, 1.0 )
-    set gg_snd_Dago18 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Dago18, 3059 )
+    set gg_snd_Dago18 = CreateSound( "Sound/Dialogue/Dago/Dago18.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Dago18, 11206 )
     call SetSoundChannel( gg_snd_Dago18, 0 )
     call SetSoundVolume( gg_snd_Dago18, 127 )
     call SetSoundPitch( gg_snd_Dago18, 1.0 )
-    set gg_snd_Dago19 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Dago19, 3059 )
+    set gg_snd_Dago19 = CreateSound( "Sound/Dialogue/Dago/Dago19.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Dago19, 5877 )
     call SetSoundChannel( gg_snd_Dago19, 0 )
     call SetSoundVolume( gg_snd_Dago19, 127 )
     call SetSoundPitch( gg_snd_Dago19, 1.0 )
-    set gg_snd_Dago2 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Dago2, 3059 )
+    set gg_snd_Dago2 = CreateSound( "Sound/Dialogue/Dago/Dago2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Dago2, 3813 )
     call SetSoundChannel( gg_snd_Dago2, 0 )
     call SetSoundVolume( gg_snd_Dago2, 127 )
     call SetSoundPitch( gg_snd_Dago2, 1.0 )
-    set gg_snd_Dago20 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Dago20, 3059 )
+    set gg_snd_Dago20 = CreateSound( "Sound/Dialogue/Dago/Dago20.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Dago20, 16587 )
     call SetSoundChannel( gg_snd_Dago20, 0 )
     call SetSoundVolume( gg_snd_Dago20, 127 )
     call SetSoundPitch( gg_snd_Dago20, 1.0 )
-    set gg_snd_Dago21 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Dago21, 3059 )
+    set gg_snd_Dago21 = CreateSound( "Sound/Dialogue/Dago/Dago21.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Dago21, 7627 )
     call SetSoundChannel( gg_snd_Dago21, 0 )
     call SetSoundVolume( gg_snd_Dago21, 127 )
     call SetSoundPitch( gg_snd_Dago21, 1.0 )
-    set gg_snd_Dago22 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Dago22, 3059 )
+    set gg_snd_Dago22 = CreateSound( "Sound/Dialogue/Dago/Dago22.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Dago22, 14602 )
     call SetSoundChannel( gg_snd_Dago22, 0 )
     call SetSoundVolume( gg_snd_Dago22, 127 )
     call SetSoundPitch( gg_snd_Dago22, 1.0 )
-    set gg_snd_Dago23 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Dago23, 3059 )
+    set gg_snd_Dago23 = CreateSound( "Sound/Dialogue/Dago/Dago23.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Dago23, 1854 )
     call SetSoundChannel( gg_snd_Dago23, 0 )
     call SetSoundVolume( gg_snd_Dago23, 127 )
     call SetSoundPitch( gg_snd_Dago23, 1.0 )
-    set gg_snd_Dago24 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Dago24, 3059 )
+    set gg_snd_Dago24 = CreateSound( "Sound/Dialogue/Dago/Dago24.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Dago24, 15699 )
     call SetSoundChannel( gg_snd_Dago24, 0 )
     call SetSoundVolume( gg_snd_Dago24, 127 )
     call SetSoundPitch( gg_snd_Dago24, 1.0 )
-    set gg_snd_Dago25 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Dago25, 3059 )
+    set gg_snd_Dago25 = CreateSound( "Sound/Dialogue/Dago/Dago25.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Dago25, 3631 )
     call SetSoundChannel( gg_snd_Dago25, 0 )
     call SetSoundVolume( gg_snd_Dago25, 127 )
     call SetSoundPitch( gg_snd_Dago25, 1.0 )
-    set gg_snd_Dago26 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Dago26, 3059 )
+    set gg_snd_Dago26 = CreateSound( "Sound/Dialogue/Dago/Dago26.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Dago26, 9848 )
     call SetSoundChannel( gg_snd_Dago26, 0 )
     call SetSoundVolume( gg_snd_Dago26, 127 )
     call SetSoundPitch( gg_snd_Dago26, 1.0 )
-    set gg_snd_Dago27 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Dago27, 3059 )
+    set gg_snd_Dago27 = CreateSound( "Sound/Dialogue/Dago/Dago27.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Dago27, 10083 )
     call SetSoundChannel( gg_snd_Dago27, 0 )
     call SetSoundVolume( gg_snd_Dago27, 127 )
     call SetSoundPitch( gg_snd_Dago27, 1.0 )
-    set gg_snd_Dago28 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Dago28, 3059 )
+    set gg_snd_Dago28 = CreateSound( "Sound/Dialogue/Dago/Dago28.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Dago28, 5929 )
     call SetSoundChannel( gg_snd_Dago28, 0 )
     call SetSoundVolume( gg_snd_Dago28, 127 )
     call SetSoundPitch( gg_snd_Dago28, 1.0 )
-    set gg_snd_Dago29 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Dago29, 3059 )
+    set gg_snd_Dago29 = CreateSound( "Sound/Dialogue/Dago/Dago29.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Dago29, 4257 )
     call SetSoundChannel( gg_snd_Dago29, 0 )
     call SetSoundVolume( gg_snd_Dago29, 127 )
     call SetSoundPitch( gg_snd_Dago29, 1.0 )
-    set gg_snd_Dago3 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Dago3, 3059 )
+    set gg_snd_Dago3 = CreateSound( "Sound/Dialogue/Dago/Dago3.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Dago3, 3526 )
     call SetSoundChannel( gg_snd_Dago3, 0 )
     call SetSoundVolume( gg_snd_Dago3, 127 )
     call SetSoundPitch( gg_snd_Dago3, 1.0 )
-    set gg_snd_Dago30 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Dago30, 3059 )
+    set gg_snd_Dago30 = CreateSound( "Sound/Dialogue/Dago/Dago30.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Dago30, 2063 )
     call SetSoundChannel( gg_snd_Dago30, 0 )
     call SetSoundVolume( gg_snd_Dago30, 127 )
     call SetSoundPitch( gg_snd_Dago30, 1.0 )
-    set gg_snd_Dago31 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Dago31, 3059 )
+    set gg_snd_Dago31 = CreateSound( "Sound/Dialogue/Dago/Dago31.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Dago31, 4048 )
     call SetSoundChannel( gg_snd_Dago31, 0 )
     call SetSoundVolume( gg_snd_Dago31, 127 )
     call SetSoundPitch( gg_snd_Dago31, 1.0 )
-    set gg_snd_Dago32 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Dago32, 3059 )
+    set gg_snd_Dago32 = CreateSound( "Sound/Dialogue/Dago/Dago32.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Dago32, 4231 )
     call SetSoundChannel( gg_snd_Dago32, 0 )
     call SetSoundVolume( gg_snd_Dago32, 127 )
     call SetSoundPitch( gg_snd_Dago32, 1.0 )
-    set gg_snd_Dago33 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Dago33, 3059 )
+    set gg_snd_Dago33 = CreateSound( "Sound/Dialogue/Dago/Dago33.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Dago33, 10814 )
     call SetSoundChannel( gg_snd_Dago33, 0 )
     call SetSoundVolume( gg_snd_Dago33, 127 )
     call SetSoundPitch( gg_snd_Dago33, 1.0 )
-    set gg_snd_Dago4 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Dago4, 3059 )
+    set gg_snd_Dago4 = CreateSound( "Sound/Dialogue/Dago/Dago4.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Dago4, 6452 )
     call SetSoundChannel( gg_snd_Dago4, 0 )
     call SetSoundVolume( gg_snd_Dago4, 127 )
     call SetSoundPitch( gg_snd_Dago4, 1.0 )
-    set gg_snd_Dago5 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Dago5, 3059 )
+    set gg_snd_Dago5 = CreateSound( "Sound/Dialogue/Dago/Dago5.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Dago5, 4571 )
     call SetSoundChannel( gg_snd_Dago5, 0 )
     call SetSoundVolume( gg_snd_Dago5, 127 )
     call SetSoundPitch( gg_snd_Dago5, 1.0 )
-    set gg_snd_Dago6 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Dago6, 3059 )
+    set gg_snd_Dago6 = CreateSound( "Sound/Dialogue/Dago/Dago6.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Dago6, 6608 )
     call SetSoundChannel( gg_snd_Dago6, 0 )
     call SetSoundVolume( gg_snd_Dago6, 127 )
     call SetSoundPitch( gg_snd_Dago6, 1.0 )
-    set gg_snd_Dago7 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Dago7, 3059 )
+    set gg_snd_Dago7 = CreateSound( "Sound/Dialogue/Dago/Dago7.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Dago7, 2246 )
     call SetSoundChannel( gg_snd_Dago7, 0 )
     call SetSoundVolume( gg_snd_Dago7, 127 )
     call SetSoundPitch( gg_snd_Dago7, 1.0 )
-    set gg_snd_Dago8 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Dago8, 3059 )
+    set gg_snd_Dago8 = CreateSound( "Sound/Dialogue/Dago/Dago8.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Dago8, 2429 )
     call SetSoundChannel( gg_snd_Dago8, 0 )
     call SetSoundVolume( gg_snd_Dago8, 127 )
     call SetSoundPitch( gg_snd_Dago8, 1.0 )
-    set gg_snd_Dago9 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Dago9, 3059 )
+    set gg_snd_Dago9 = CreateSound( "Sound/Dialogue/Dago/Dago9.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Dago9, 2873 )
     call SetSoundChannel( gg_snd_Dago9, 0 )
     call SetSoundVolume( gg_snd_Dago9, 127 )
     call SetSoundPitch( gg_snd_Dago9, 1.0 )
-    set gg_snd_DagoRescueDago1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DagoRescueDago1, 3059 )
+    set gg_snd_DagoRescueDago1 = CreateSound( "Sound/Dialogue/Dago/DagoRescueDago1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DagoRescueDago1, 2037 )
     call SetSoundChannel( gg_snd_DagoRescueDago1, 0 )
     call SetSoundVolume( gg_snd_DagoRescueDago1, 127 )
     call SetSoundPitch( gg_snd_DagoRescueDago1, 1.0 )
-    set gg_snd_DagoRescueDago2 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DagoRescueDago2, 3059 )
+    set gg_snd_DagoRescueDago2 = CreateSound( "Sound/Dialogue/Dago/DagoRescueDago2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DagoRescueDago2, 7993 )
     call SetSoundChannel( gg_snd_DagoRescueDago2, 0 )
     call SetSoundVolume( gg_snd_DagoRescueDago2, 127 )
     call SetSoundPitch( gg_snd_DagoRescueDago2, 1.0 )
-    set gg_snd_DagoRescueDago3 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DagoRescueDago3, 3059 )
+    set gg_snd_DagoRescueDago3 = CreateSound( "Sound/Dialogue/Dago/DagoRescueDago3.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DagoRescueDago3, 7392 )
     call SetSoundChannel( gg_snd_DagoRescueDago3, 0 )
     call SetSoundVolume( gg_snd_DagoRescueDago3, 127 )
     call SetSoundPitch( gg_snd_DagoRescueDago3, 1.0 )
-    set gg_snd_DagoRescueDago4 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DagoRescueDago4, 3059 )
+    set gg_snd_DagoRescueDago4 = CreateSound( "Sound/Dialogue/Dago/DagoRescueDago4.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DagoRescueDago4, 8071 )
     call SetSoundChannel( gg_snd_DagoRescueDago4, 0 )
     call SetSoundVolume( gg_snd_DagoRescueDago4, 127 )
     call SetSoundPitch( gg_snd_DagoRescueDago4, 1.0 )
-    set gg_snd_DagoRescueDago5 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DagoRescueDago5, 3059 )
+    set gg_snd_DagoRescueDago5 = CreateSound( "Sound/Dialogue/Dago/DagoRescueDago5.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DagoRescueDago5, 7915 )
     call SetSoundChannel( gg_snd_DagoRescueDago5, 0 )
     call SetSoundVolume( gg_snd_DagoRescueDago5, 127 )
     call SetSoundPitch( gg_snd_DagoRescueDago5, 1.0 )
-    set gg_snd_DagoRescueDago6 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DagoRescueDago6, 3059 )
+    set gg_snd_DagoRescueDago6 = CreateSound( "Sound/Dialogue/Dago/DagoRescueDago6.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DagoRescueDago6, 1227 )
     call SetSoundChannel( gg_snd_DagoRescueDago6, 0 )
     call SetSoundVolume( gg_snd_DagoRescueDago6, 127 )
     call SetSoundPitch( gg_snd_DagoRescueDago6, 1.0 )
-    set gg_snd_DagoRescueDago7 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DagoRescueDago7, 3059 )
+    set gg_snd_DagoRescueDago7 = CreateSound( "Sound/Dialogue/Dago/DagoRescueDago7.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DagoRescueDago7, 8437 )
     call SetSoundChannel( gg_snd_DagoRescueDago7, 0 )
     call SetSoundVolume( gg_snd_DagoRescueDago7, 127 )
     call SetSoundPitch( gg_snd_DagoRescueDago7, 1.0 )
-    set gg_snd_Dararos1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Dararos1, 3059 )
+    set gg_snd_Dararos1 = CreateSound( "Sound/Dialogue/Dararos/Dararos1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Dararos1, 11964 )
     call SetSoundChannel( gg_snd_Dararos1, 0 )
-    call SetSoundVolume( gg_snd_Dararos1, -1 )
+    call SetSoundVolume( gg_snd_Dararos1, 127 )
     call SetSoundPitch( gg_snd_Dararos1, 1.0 )
-    set gg_snd_Dararos2 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Dararos2, 3059 )
+    set gg_snd_Dararos2 = CreateSound( "Sound/Dialogue/Dararos/Dararos2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Dararos2, 10344 )
     call SetSoundChannel( gg_snd_Dararos2, 0 )
-    call SetSoundVolume( gg_snd_Dararos2, -1 )
+    call SetSoundVolume( gg_snd_Dararos2, 127 )
     call SetSoundPitch( gg_snd_Dararos2, 1.0 )
-    set gg_snd_Dararos3 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Dararos3, 3059 )
+    set gg_snd_Dararos3 = CreateSound( "Sound/Dialogue/Dararos/Dararos3.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Dararos3, 6974 )
     call SetSoundChannel( gg_snd_Dararos3, 0 )
-    call SetSoundVolume( gg_snd_Dararos3, -1 )
+    call SetSoundVolume( gg_snd_Dararos3, 127 )
     call SetSoundPitch( gg_snd_Dararos3, 1.0 )
-    set gg_snd_Dararos4 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Dararos4, 3059 )
+    set gg_snd_Dararos4 = CreateSound( "Sound/Dialogue/Dararos/Dararos4.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Dararos4, 12225 )
     call SetSoundChannel( gg_snd_Dararos4, 0 )
-    call SetSoundVolume( gg_snd_Dararos4, -1 )
+    call SetSoundVolume( gg_snd_Dararos4, 127 )
     call SetSoundPitch( gg_snd_Dararos4, 1.0 )
-    set gg_snd_Dararos5 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Dararos5, 3059 )
+    set gg_snd_Dararos5 = CreateSound( "Sound/Dialogue/Dararos/Dararos5.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Dararos5, 13479 )
     call SetSoundChannel( gg_snd_Dararos5, 0 )
-    call SetSoundVolume( gg_snd_Dararos5, -1 )
+    call SetSoundVolume( gg_snd_Dararos5, 127 )
     call SetSoundPitch( gg_snd_Dararos5, 1.0 )
-    set gg_snd_Dararos6 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Dararos6, 3059 )
+    set gg_snd_Dararos6 = CreateSound( "Sound/Dialogue/Dararos/Dararos6.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Dararos6, 14080 )
     call SetSoundChannel( gg_snd_Dararos6, 0 )
-    call SetSoundVolume( gg_snd_Dararos6, -1 )
+    call SetSoundVolume( gg_snd_Dararos6, 127 )
     call SetSoundPitch( gg_snd_Dararos6, 1.0 )
-    set gg_snd_Dararos7 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Dararos7, 3059 )
+    set gg_snd_Dararos7 = CreateSound( "Sound/Dialogue/Dararos/Dararos7.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Dararos7, 4963 )
     call SetSoundChannel( gg_snd_Dararos7, 0 )
-    call SetSoundVolume( gg_snd_Dararos7, -1 )
+    call SetSoundVolume( gg_snd_Dararos7, 127 )
     call SetSoundPitch( gg_snd_Dararos7, 1.0 )
-    set gg_snd_DararosTalk1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DararosTalk1, 3059 )
+    set gg_snd_DararosDeath1 = CreateSound( "Sound/Dialogue/Dararos/DararosDeath1.wav", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DararosDeath1, 812 )
+    call SetSoundChannel( gg_snd_DararosDeath1, 0 )
+    call SetSoundVolume( gg_snd_DararosDeath1, 127 )
+    call SetSoundPitch( gg_snd_DararosDeath1, 1.0 )
+    set gg_snd_DararosTalk1 = CreateSound( "Sound/Dialogue/Dararos/DararosTalk1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DararosTalk1, 3030 )
     call SetSoundChannel( gg_snd_DararosTalk1, 0 )
-    call SetSoundVolume( gg_snd_DararosTalk1, -1 )
+    call SetSoundVolume( gg_snd_DararosTalk1, 127 )
     call SetSoundPitch( gg_snd_DararosTalk1, 1.0 )
-    set gg_snd_DararosTalk2 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DararosTalk2, 3059 )
+    set gg_snd_DararosTalk2 = CreateSound( "Sound/Dialogue/Dararos/DararosTalk2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DararosTalk2, 1645 )
     call SetSoundChannel( gg_snd_DararosTalk2, 0 )
-    call SetSoundVolume( gg_snd_DararosTalk2, -1 )
+    call SetSoundVolume( gg_snd_DararosTalk2, 127 )
     call SetSoundPitch( gg_snd_DararosTalk2, 1.0 )
-    set gg_snd_DararosTalk3 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DararosTalk3, 3059 )
+    set gg_snd_DararosTalk3 = CreateSound( "Sound/Dialogue/Dararos/DararosTalk3.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DararosTalk3, 3213 )
     call SetSoundChannel( gg_snd_DararosTalk3, 0 )
-    call SetSoundVolume( gg_snd_DararosTalk3, -1 )
+    call SetSoundVolume( gg_snd_DararosTalk3, 127 )
     call SetSoundPitch( gg_snd_DararosTalk3, 1.0 )
-    set gg_snd_DararosTalk4 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DararosTalk4, 3059 )
+    set gg_snd_DararosTalk4 = CreateSound( "Sound/Dialogue/Dararos/DararosTalk4.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DararosTalk4, 2716 )
     call SetSoundChannel( gg_snd_DararosTalk4, 0 )
-    call SetSoundVolume( gg_snd_DararosTalk4, -1 )
+    call SetSoundVolume( gg_snd_DararosTalk4, 127 )
     call SetSoundPitch( gg_snd_DararosTalk4, 1.0 )
-    set gg_snd_Deranor1Mod = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Deranor1Mod, 3059 )
+    set gg_snd_DararosWhat1 = CreateSound( "Sound/Dialogue/Dararos/DararosWhat1.wav", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DararosWhat1, 1958 )
+    call SetSoundChannel( gg_snd_DararosWhat1, 0 )
+    call SetSoundVolume( gg_snd_DararosWhat1, 127 )
+    call SetSoundPitch( gg_snd_DararosWhat1, 1.0 )
+    set gg_snd_DararosWhat2 = CreateSound( "Sound/Dialogue/Dararos/DararosWhat2.wav", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DararosWhat2, 1833 )
+    call SetSoundChannel( gg_snd_DararosWhat2, 0 )
+    call SetSoundVolume( gg_snd_DararosWhat2, 127 )
+    call SetSoundPitch( gg_snd_DararosWhat2, 1.0 )
+    set gg_snd_DararosWhat3 = CreateSound( "Sound/Dialogue/Dararos/DararosWhat3.wav", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DararosWhat3, 2374 )
+    call SetSoundChannel( gg_snd_DararosWhat3, 0 )
+    call SetSoundVolume( gg_snd_DararosWhat3, 127 )
+    call SetSoundPitch( gg_snd_DararosWhat3, 1.0 )
+    set gg_snd_DararosYes1 = CreateSound( "Sound/Dialogue/Dararos/DararosYes1.wav", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DararosYes1, 2375 )
+    call SetSoundChannel( gg_snd_DararosYes1, 0 )
+    call SetSoundVolume( gg_snd_DararosYes1, 127 )
+    call SetSoundPitch( gg_snd_DararosYes1, 1.0 )
+    set gg_snd_DararosYes2 = CreateSound( "Sound/Dialogue/Dararos/DararosYes2.wav", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DararosYes2, 2250 )
+    call SetSoundChannel( gg_snd_DararosYes2, 0 )
+    call SetSoundVolume( gg_snd_DararosYes2, 127 )
+    call SetSoundPitch( gg_snd_DararosYes2, 1.0 )
+    set gg_snd_DararosYes3 = CreateSound( "Sound/Dialogue/Dararos/DararosYes3.wav", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DararosYes3, 1375 )
+    call SetSoundChannel( gg_snd_DararosYes3, 0 )
+    call SetSoundVolume( gg_snd_DararosYes3, 127 )
+    call SetSoundPitch( gg_snd_DararosYes3, 1.0 )
+    set gg_snd_DararosYesAttack1 = CreateSound( "Sound/Dialogue/Dararos/DararosYesAttack1.wav", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DararosYesAttack1, 1791 )
+    call SetSoundChannel( gg_snd_DararosYesAttack1, 0 )
+    call SetSoundVolume( gg_snd_DararosYesAttack1, 127 )
+    call SetSoundPitch( gg_snd_DararosYesAttack1, 1.0 )
+    set gg_snd_DararosYesAttack2 = CreateSound( "Sound/Dialogue/Dararos/DararosYesAttack2.wav", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DararosYesAttack2, 1666 )
+    call SetSoundChannel( gg_snd_DararosYesAttack2, 0 )
+    call SetSoundVolume( gg_snd_DararosYesAttack2, 127 )
+    call SetSoundPitch( gg_snd_DararosYesAttack2, 1.0 )
+    set gg_snd_DararosYesAttack3 = CreateSound( "Sound/Dialogue/Dararos/DararosYesAttack3.wav", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DararosYesAttack3, 1887 )
+    call SetSoundChannel( gg_snd_DararosYesAttack3, 0 )
+    call SetSoundVolume( gg_snd_DararosYesAttack3, 127 )
+    call SetSoundPitch( gg_snd_DararosYesAttack3, 1.0 )
+    set gg_snd_Deranor1 = CreateSound( "Sound/Dialogue/Deranor/Deranor1.mp3", false, false, false, 1, 1, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Deranor1, 13113 )
+    call SetSoundChannel( gg_snd_Deranor1, 19 )
+    call SetSoundVolume( gg_snd_Deranor1, 127 )
+    call SetSoundPitch( gg_snd_Deranor1, 1.0 )
+    set gg_snd_Deranor1Mod = CreateSound( "Sound/Dialogue/Deranor/Deranor1Mod.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Deranor1Mod, 13191 )
     call SetSoundChannel( gg_snd_Deranor1Mod, 0 )
-    call SetSoundVolume( gg_snd_Deranor1Mod, -1 )
+    call SetSoundVolume( gg_snd_Deranor1Mod, 127 )
     call SetSoundPitch( gg_snd_Deranor1Mod, 1.0 )
-    set gg_snd_Deranor2Mod = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Deranor2Mod, 3059 )
+    set gg_snd_Deranor2 = CreateSound( "Sound/Dialogue/Deranor/Deranor2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Deranor2, 12800 )
+    call SetSoundChannel( gg_snd_Deranor2, 0 )
+    call SetSoundVolume( gg_snd_Deranor2, 127 )
+    call SetSoundPitch( gg_snd_Deranor2, 1.0 )
+    set gg_snd_Deranor2Mod = CreateSound( "Sound/Dialogue/Deranor/Deranor2Mod.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Deranor2Mod, 12904 )
     call SetSoundChannel( gg_snd_Deranor2Mod, 0 )
-    call SetSoundVolume( gg_snd_Deranor2Mod, -1 )
+    call SetSoundVolume( gg_snd_Deranor2Mod, 127 )
     call SetSoundPitch( gg_snd_Deranor2Mod, 1.0 )
     set gg_snd_DispelMagicTarget = CreateSound( "Abilities\\Spells\\Human\\DispelMagic\\DispelMagicTarget.wav", false, true, true, 10, 10, "SpellsEAX" )
     call SetSoundDuration( gg_snd_DispelMagicTarget, 1950 )
@@ -4027,921 +4150,771 @@ function InitSounds takes nothing returns nothing
     call SetSoundDistanceCutoff( gg_snd_DispelMagicTarget, 3000.0 )
     call SetSoundConeAngles( gg_snd_DispelMagicTarget, 0.0, 0.0, 127 )
     call SetSoundConeOrientation( gg_snd_DispelMagicTarget, 0.0, 0.0, 0.0 )
-    set gg_snd_DragonSlayer1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayer1, 1950 )
+    set gg_snd_DragonSlayer1 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayer1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayer1, 1175 )
     call SetSoundChannel( gg_snd_DragonSlayer1, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayer1, -1 )
+    call SetSoundVolume( gg_snd_DragonSlayer1, 127 )
     call SetSoundPitch( gg_snd_DragonSlayer1, 1.0 )
-    set gg_snd_DragonSlayer10 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayer10, 1950 )
-    call SetSoundChannel( gg_snd_DragonSlayer10, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayer10, 127 )
-    call SetSoundPitch( gg_snd_DragonSlayer10, 1.0 )
-    set gg_snd_DragonSlayer11 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayer11, 1950 )
-    call SetSoundChannel( gg_snd_DragonSlayer11, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayer11, 127 )
-    call SetSoundPitch( gg_snd_DragonSlayer11, 1.0 )
-    set gg_snd_DragonSlayer12 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayer12, 1950 )
-    call SetSoundChannel( gg_snd_DragonSlayer12, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayer12, 127 )
-    call SetSoundPitch( gg_snd_DragonSlayer12, 1.0 )
-    set gg_snd_DragonSlayer13 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayer13, 1950 )
-    call SetSoundChannel( gg_snd_DragonSlayer13, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayer13, 127 )
-    call SetSoundPitch( gg_snd_DragonSlayer13, 1.0 )
-    set gg_snd_DragonSlayer14 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayer14, 1950 )
-    call SetSoundChannel( gg_snd_DragonSlayer14, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayer14, 127 )
-    call SetSoundPitch( gg_snd_DragonSlayer14, 1.0 )
-    set gg_snd_DragonSlayer15 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayer15, 1950 )
-    call SetSoundChannel( gg_snd_DragonSlayer15, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayer15, 127 )
-    call SetSoundPitch( gg_snd_DragonSlayer15, 1.0 )
-    set gg_snd_DragonSlayer16 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayer16, 1950 )
-    call SetSoundChannel( gg_snd_DragonSlayer16, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayer16, 127 )
-    call SetSoundPitch( gg_snd_DragonSlayer16, 1.0 )
-    set gg_snd_DragonSlayer17 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayer17, 1950 )
-    call SetSoundChannel( gg_snd_DragonSlayer17, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayer17, 127 )
-    call SetSoundPitch( gg_snd_DragonSlayer17, 1.0 )
-    set gg_snd_DragonSlayer18 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayer18, 1950 )
-    call SetSoundChannel( gg_snd_DragonSlayer18, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayer18, 127 )
-    call SetSoundPitch( gg_snd_DragonSlayer18, 1.0 )
-    set gg_snd_DragonSlayer19 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayer19, 1950 )
-    call SetSoundChannel( gg_snd_DragonSlayer19, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayer19, 127 )
-    call SetSoundPitch( gg_snd_DragonSlayer19, 1.0 )
-    set gg_snd_DragonSlayer2 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayer2, 1950 )
+    set gg_snd_DragonSlayer2 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayer2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayer2, 4911 )
     call SetSoundChannel( gg_snd_DragonSlayer2, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayer2, -1 )
+    call SetSoundVolume( gg_snd_DragonSlayer2, 127 )
     call SetSoundPitch( gg_snd_DragonSlayer2, 1.0 )
-    set gg_snd_DragonSlayer20 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayer20, 1950 )
-    call SetSoundChannel( gg_snd_DragonSlayer20, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayer20, 127 )
-    call SetSoundPitch( gg_snd_DragonSlayer20, 1.0 )
-    set gg_snd_DragonSlayer21 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayer21, 1950 )
-    call SetSoundChannel( gg_snd_DragonSlayer21, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayer21, 127 )
-    call SetSoundPitch( gg_snd_DragonSlayer21, 1.0 )
-    set gg_snd_DragonSlayer22 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayer22, 1950 )
-    call SetSoundChannel( gg_snd_DragonSlayer22, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayer22, 127 )
-    call SetSoundPitch( gg_snd_DragonSlayer22, 1.0 )
-    set gg_snd_DragonSlayer23 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayer23, 1950 )
-    call SetSoundChannel( gg_snd_DragonSlayer23, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayer23, 127 )
-    call SetSoundPitch( gg_snd_DragonSlayer23, 1.0 )
-    set gg_snd_DragonSlayer24 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayer24, 1950 )
-    call SetSoundChannel( gg_snd_DragonSlayer24, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayer24, 127 )
-    call SetSoundPitch( gg_snd_DragonSlayer24, 1.0 )
-    set gg_snd_DragonSlayer25 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayer25, 1950 )
-    call SetSoundChannel( gg_snd_DragonSlayer25, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayer25, 127 )
-    call SetSoundPitch( gg_snd_DragonSlayer25, 1.0 )
-    set gg_snd_DragonSlayer26 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayer26, 1950 )
-    call SetSoundChannel( gg_snd_DragonSlayer26, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayer26, 127 )
-    call SetSoundPitch( gg_snd_DragonSlayer26, 1.0 )
-    set gg_snd_DragonSlayer27 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayer27, 1950 )
-    call SetSoundChannel( gg_snd_DragonSlayer27, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayer27, 127 )
-    call SetSoundPitch( gg_snd_DragonSlayer27, 1.0 )
-    set gg_snd_DragonSlayer28 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayer28, 1950 )
-    call SetSoundChannel( gg_snd_DragonSlayer28, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayer28, 127 )
-    call SetSoundPitch( gg_snd_DragonSlayer28, 1.0 )
-    set gg_snd_DragonSlayer29 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayer29, 1950 )
-    call SetSoundChannel( gg_snd_DragonSlayer29, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayer29, 127 )
-    call SetSoundPitch( gg_snd_DragonSlayer29, 1.0 )
-    set gg_snd_DragonSlayer3 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayer3, 1950 )
+    set gg_snd_DragonSlayer3 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayer3.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayer3, 940 )
     call SetSoundChannel( gg_snd_DragonSlayer3, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayer3, -1 )
+    call SetSoundVolume( gg_snd_DragonSlayer3, 127 )
     call SetSoundPitch( gg_snd_DragonSlayer3, 1.0 )
-    set gg_snd_DragonSlayer30 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayer30, 1950 )
-    call SetSoundChannel( gg_snd_DragonSlayer30, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayer30, 127 )
-    call SetSoundPitch( gg_snd_DragonSlayer30, 1.0 )
-    set gg_snd_DragonSlayer31 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayer31, 1950 )
-    call SetSoundChannel( gg_snd_DragonSlayer31, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayer31, 127 )
-    call SetSoundPitch( gg_snd_DragonSlayer31, 1.0 )
-    set gg_snd_DragonSlayer32 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayer32, 1950 )
-    call SetSoundChannel( gg_snd_DragonSlayer32, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayer32, 127 )
-    call SetSoundPitch( gg_snd_DragonSlayer32, 1.0 )
-    set gg_snd_DragonSlayer33 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayer33, 1950 )
-    call SetSoundChannel( gg_snd_DragonSlayer33, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayer33, 127 )
-    call SetSoundPitch( gg_snd_DragonSlayer33, 1.0 )
-    set gg_snd_DragonSlayer34 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayer34, 1950 )
-    call SetSoundChannel( gg_snd_DragonSlayer34, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayer34, 127 )
-    call SetSoundPitch( gg_snd_DragonSlayer34, 1.0 )
-    set gg_snd_DragonSlayer35 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayer35, 1950 )
-    call SetSoundChannel( gg_snd_DragonSlayer35, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayer35, 127 )
-    call SetSoundPitch( gg_snd_DragonSlayer35, 1.0 )
-    set gg_snd_DragonSlayer36 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayer36, 1950 )
-    call SetSoundChannel( gg_snd_DragonSlayer36, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayer36, 127 )
-    call SetSoundPitch( gg_snd_DragonSlayer36, 1.0 )
-    set gg_snd_DragonSlayer37 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayer37, 1950 )
-    call SetSoundChannel( gg_snd_DragonSlayer37, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayer37, 127 )
-    call SetSoundPitch( gg_snd_DragonSlayer37, 1.0 )
-    set gg_snd_DragonSlayer38 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayer38, 1950 )
-    call SetSoundChannel( gg_snd_DragonSlayer38, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayer38, 127 )
-    call SetSoundPitch( gg_snd_DragonSlayer38, 1.0 )
-    set gg_snd_DragonSlayer39 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayer39, 1950 )
-    call SetSoundChannel( gg_snd_DragonSlayer39, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayer39, 127 )
-    call SetSoundPitch( gg_snd_DragonSlayer39, 1.0 )
-    set gg_snd_DragonSlayer4 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayer4, 1950 )
+    set gg_snd_DragonSlayer4 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayer4.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayer4, 18390 )
     call SetSoundChannel( gg_snd_DragonSlayer4, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayer4, -1 )
+    call SetSoundVolume( gg_snd_DragonSlayer4, 127 )
     call SetSoundPitch( gg_snd_DragonSlayer4, 1.0 )
-    set gg_snd_DragonSlayer40 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayer40, 1950 )
-    call SetSoundChannel( gg_snd_DragonSlayer40, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayer40, 127 )
-    call SetSoundPitch( gg_snd_DragonSlayer40, 1.0 )
-    set gg_snd_DragonSlayer41 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayer41, 1950 )
-    call SetSoundChannel( gg_snd_DragonSlayer41, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayer41, 127 )
-    call SetSoundPitch( gg_snd_DragonSlayer41, 1.0 )
-    set gg_snd_DragonSlayer42 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayer42, 1950 )
-    call SetSoundChannel( gg_snd_DragonSlayer42, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayer42, 127 )
-    call SetSoundPitch( gg_snd_DragonSlayer42, 1.0 )
-    set gg_snd_DragonSlayer43 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayer43, 1950 )
-    call SetSoundChannel( gg_snd_DragonSlayer43, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayer43, 127 )
-    call SetSoundPitch( gg_snd_DragonSlayer43, 1.0 )
-    set gg_snd_DragonSlayer44 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayer44, 1950 )
-    call SetSoundChannel( gg_snd_DragonSlayer44, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayer44, 127 )
-    call SetSoundPitch( gg_snd_DragonSlayer44, 1.0 )
-    set gg_snd_DragonSlayer45 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayer45, 1950 )
-    call SetSoundChannel( gg_snd_DragonSlayer45, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayer45, 127 )
-    call SetSoundPitch( gg_snd_DragonSlayer45, 1.0 )
-    set gg_snd_DragonSlayer46 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayer46, 1950 )
-    call SetSoundChannel( gg_snd_DragonSlayer46, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayer46, 127 )
-    call SetSoundPitch( gg_snd_DragonSlayer46, 1.0 )
-    set gg_snd_DragonSlayer47 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayer47, 1950 )
-    call SetSoundChannel( gg_snd_DragonSlayer47, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayer47, 127 )
-    call SetSoundPitch( gg_snd_DragonSlayer47, 1.0 )
-    set gg_snd_DragonSlayer48 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayer48, 1950 )
-    call SetSoundChannel( gg_snd_DragonSlayer48, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayer48, 127 )
-    call SetSoundPitch( gg_snd_DragonSlayer48, 1.0 )
-    set gg_snd_DragonSlayer49 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayer49, 1950 )
-    call SetSoundChannel( gg_snd_DragonSlayer49, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayer49, 127 )
-    call SetSoundPitch( gg_snd_DragonSlayer49, 1.0 )
-    set gg_snd_DragonSlayer5 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayer5, 1950 )
+    set gg_snd_DragonSlayer5 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayer5.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayer5, 11807 )
     call SetSoundChannel( gg_snd_DragonSlayer5, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayer5, -1 )
+    call SetSoundVolume( gg_snd_DragonSlayer5, 127 )
     call SetSoundPitch( gg_snd_DragonSlayer5, 1.0 )
-    set gg_snd_DragonSlayer50 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayer50, 1950 )
-    call SetSoundChannel( gg_snd_DragonSlayer50, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayer50, 127 )
-    call SetSoundPitch( gg_snd_DragonSlayer50, 1.0 )
-    set gg_snd_DragonSlayer51 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayer51, 1950 )
-    call SetSoundChannel( gg_snd_DragonSlayer51, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayer51, 127 )
-    call SetSoundPitch( gg_snd_DragonSlayer51, 1.0 )
-    set gg_snd_DragonSlayer52 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayer52, 1950 )
-    call SetSoundChannel( gg_snd_DragonSlayer52, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayer52, 127 )
-    call SetSoundPitch( gg_snd_DragonSlayer52, 1.0 )
-    set gg_snd_DragonSlayer53 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayer53, 1950 )
-    call SetSoundChannel( gg_snd_DragonSlayer53, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayer53, 127 )
-    call SetSoundPitch( gg_snd_DragonSlayer53, 1.0 )
-    set gg_snd_DragonSlayer6 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayer6, 1950 )
+    set gg_snd_DragonSlayer6 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayer6.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayer6, 8933 )
     call SetSoundChannel( gg_snd_DragonSlayer6, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayer6, -1 )
+    call SetSoundVolume( gg_snd_DragonSlayer6, 127 )
     call SetSoundPitch( gg_snd_DragonSlayer6, 1.0 )
-    set gg_snd_DragonSlayer7 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayer7, 1950 )
+    set gg_snd_DragonSlayer7 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayer7.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayer7, 16666 )
     call SetSoundChannel( gg_snd_DragonSlayer7, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayer7, -1 )
+    call SetSoundVolume( gg_snd_DragonSlayer7, 127 )
     call SetSoundPitch( gg_snd_DragonSlayer7, 1.0 )
-    set gg_snd_DragonSlayer8 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayer8, 1950 )
+    set gg_snd_DragonSlayer8 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayer8.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayer8, 5146 )
     call SetSoundChannel( gg_snd_DragonSlayer8, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayer8, -1 )
+    call SetSoundVolume( gg_snd_DragonSlayer8, 127 )
     call SetSoundPitch( gg_snd_DragonSlayer8, 1.0 )
-    set gg_snd_DragonSlayer9 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayer9, 1950 )
-    call SetSoundChannel( gg_snd_DragonSlayer9, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayer9, 127 )
-    call SetSoundPitch( gg_snd_DragonSlayer9, 1.0 )
-    set gg_snd_DragonSlayerBloodthirstiness1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayerBloodthirstiness1, 1950 )
+    set gg_snd_DragonSlayerBloodthirstiness1 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayerBloodthirstiness1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayerBloodthirstiness1, 18024 )
     call SetSoundChannel( gg_snd_DragonSlayerBloodthirstiness1, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayerBloodthirstiness1, -1 )
+    call SetSoundVolume( gg_snd_DragonSlayerBloodthirstiness1, 127 )
     call SetSoundPitch( gg_snd_DragonSlayerBloodthirstiness1, 1.0 )
-    set gg_snd_DragonSlayerBloodthirstiness2 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayerBloodthirstiness2, 1950 )
+    set gg_snd_DragonSlayerBloodthirstiness2 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayerBloodthirstiness2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayerBloodthirstiness2, 17031 )
     call SetSoundChannel( gg_snd_DragonSlayerBloodthirstiness2, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayerBloodthirstiness2, -1 )
+    call SetSoundVolume( gg_snd_DragonSlayerBloodthirstiness2, 127 )
     call SetSoundPitch( gg_snd_DragonSlayerBloodthirstiness2, 1.0 )
-    set gg_snd_DragonSlayerBloodthirstiness3 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayerBloodthirstiness3, 1950 )
+    set gg_snd_DragonSlayerBloodthirstiness3 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayerBloodthirstiness3.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayerBloodthirstiness3, 11441 )
     call SetSoundChannel( gg_snd_DragonSlayerBloodthirstiness3, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayerBloodthirstiness3, -1 )
+    call SetSoundVolume( gg_snd_DragonSlayerBloodthirstiness3, 127 )
     call SetSoundPitch( gg_snd_DragonSlayerBloodthirstiness3, 1.0 )
-    set gg_snd_DragonSlayerBloodthirstiness4 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayerBloodthirstiness4, 1950 )
+    set gg_snd_DragonSlayerBloodthirstiness4 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayerBloodthirstiness4.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayerBloodthirstiness4, 15020 )
     call SetSoundChannel( gg_snd_DragonSlayerBloodthirstiness4, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayerBloodthirstiness4, -1 )
+    call SetSoundVolume( gg_snd_DragonSlayerBloodthirstiness4, 127 )
     call SetSoundPitch( gg_snd_DragonSlayerBloodthirstiness4, 1.0 )
-    set gg_snd_DragonSlayerBloodthirstiness5 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayerBloodthirstiness5, 1950 )
+    set gg_snd_DragonSlayerBloodthirstiness5 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayerBloodthirstiness5.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayerBloodthirstiness5, 7288 )
     call SetSoundChannel( gg_snd_DragonSlayerBloodthirstiness5, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayerBloodthirstiness5, -1 )
+    call SetSoundVolume( gg_snd_DragonSlayerBloodthirstiness5, 127 )
     call SetSoundPitch( gg_snd_DragonSlayerBloodthirstiness5, 1.0 )
-    set gg_snd_DragonSlayerBloodthirstiness6 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayerBloodthirstiness6, 1950 )
+    set gg_snd_DragonSlayerBloodthirstiness6 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayerBloodthirstiness6.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayerBloodthirstiness6, 11572 )
     call SetSoundChannel( gg_snd_DragonSlayerBloodthirstiness6, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayerBloodthirstiness6, -1 )
+    call SetSoundVolume( gg_snd_DragonSlayerBloodthirstiness6, 127 )
     call SetSoundPitch( gg_snd_DragonSlayerBloodthirstiness6, 1.0 )
-    set gg_snd_DragonSlayerBloodthirstiness7 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayerBloodthirstiness7, 1950 )
+    set gg_snd_DragonSlayerBloodthirstiness7 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayerBloodthirstiness7.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayerBloodthirstiness7, 16013 )
     call SetSoundChannel( gg_snd_DragonSlayerBloodthirstiness7, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayerBloodthirstiness7, -1 )
+    call SetSoundVolume( gg_snd_DragonSlayerBloodthirstiness7, 127 )
     call SetSoundPitch( gg_snd_DragonSlayerBloodthirstiness7, 1.0 )
-    set gg_snd_DragonSlayerBloodthirstiness8 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayerBloodthirstiness8, 1950 )
+    set gg_snd_DragonSlayerBloodthirstiness8 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayerBloodthirstiness8.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayerBloodthirstiness8, 11441 )
     call SetSoundChannel( gg_snd_DragonSlayerBloodthirstiness8, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayerBloodthirstiness8, -1 )
+    call SetSoundVolume( gg_snd_DragonSlayerBloodthirstiness8, 127 )
     call SetSoundPitch( gg_snd_DragonSlayerBloodthirstiness8, 1.0 )
-    set gg_snd_DragonSlayerBloodthirstiness9 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayerBloodthirstiness9, 1950 )
+    set gg_snd_DragonSlayerBloodthirstiness9 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayerBloodthirstiness9.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayerBloodthirstiness9, 15516 )
     call SetSoundChannel( gg_snd_DragonSlayerBloodthirstiness9, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayerBloodthirstiness9, -1 )
+    call SetSoundVolume( gg_snd_DragonSlayerBloodthirstiness9, 127 )
     call SetSoundPitch( gg_snd_DragonSlayerBloodthirstiness9, 1.0 )
-    set gg_snd_DragonSlayerDeathVault1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayerDeathVault1, 1950 )
+    set gg_snd_DragonSlayerDeathVault1 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayerDeathVault1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayerDeathVault1, 11258 )
     call SetSoundChannel( gg_snd_DragonSlayerDeathVault1, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayerDeathVault1, -1 )
+    call SetSoundVolume( gg_snd_DragonSlayerDeathVault1, 127 )
     call SetSoundPitch( gg_snd_DragonSlayerDeathVault1, 1.0 )
-    set gg_snd_DragonSlayerDeathVault2 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayerDeathVault2, 1950 )
+    set gg_snd_DragonSlayerDeathVault2 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayerDeathVault2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayerDeathVault2, 9404 )
     call SetSoundChannel( gg_snd_DragonSlayerDeathVault2, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayerDeathVault2, -1 )
+    call SetSoundVolume( gg_snd_DragonSlayerDeathVault2, 127 )
     call SetSoundPitch( gg_snd_DragonSlayerDeathVault2, 1.0 )
-    set gg_snd_DragonSlayerDeranor1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayerDeranor1, 1950 )
+    set gg_snd_DragonSlayerDeranor1 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayerDeranor1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayerDeranor1, 11598 )
     call SetSoundChannel( gg_snd_DragonSlayerDeranor1, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayerDeranor1, -1 )
+    call SetSoundVolume( gg_snd_DragonSlayerDeranor1, 127 )
     call SetSoundPitch( gg_snd_DragonSlayerDeranor1, 1.0 )
-    set gg_snd_DragonSlayerDeranor2 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayerDeranor2, 1950 )
+    set gg_snd_DragonSlayerDeranor2 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayerDeranor2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayerDeranor2, 18285 )
     call SetSoundChannel( gg_snd_DragonSlayerDeranor2, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayerDeranor2, -1 )
+    call SetSoundVolume( gg_snd_DragonSlayerDeranor2, 127 )
     call SetSoundPitch( gg_snd_DragonSlayerDeranor2, 1.0 )
-    set gg_snd_DragonSlayerDeranor3 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayerDeranor3, 1950 )
+    set gg_snd_DragonSlayerDeranor3 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayerDeranor3.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayerDeranor3, 10788 )
     call SetSoundChannel( gg_snd_DragonSlayerDeranor3, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayerDeranor3, -1 )
+    call SetSoundVolume( gg_snd_DragonSlayerDeranor3, 127 )
     call SetSoundPitch( gg_snd_DragonSlayerDeranor3, 1.0 )
-    set gg_snd_DragonSlayerDeranorsDeath1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayerDeranorsDeath1, 1950 )
+    set gg_snd_DragonSlayerDeranorsDeath1 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayerDeranorsDeath1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayerDeranorsDeath1, 7079 )
     call SetSoundChannel( gg_snd_DragonSlayerDeranorsDeath1, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayerDeranorsDeath1, -1 )
+    call SetSoundVolume( gg_snd_DragonSlayerDeranorsDeath1, 127 )
     call SetSoundPitch( gg_snd_DragonSlayerDeranorsDeath1, 1.0 )
-    set gg_snd_DragonSlayerDeranorsDeath2 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayerDeranorsDeath2, 1950 )
+    set gg_snd_DragonSlayerDeranorsDeath2 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayerDeranorsDeath2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayerDeranorsDeath2, 18520 )
     call SetSoundChannel( gg_snd_DragonSlayerDeranorsDeath2, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayerDeranorsDeath2, -1 )
+    call SetSoundVolume( gg_snd_DragonSlayerDeranorsDeath2, 127 )
     call SetSoundPitch( gg_snd_DragonSlayerDeranorsDeath2, 1.0 )
-    set gg_snd_DragonSlayerDeranorsDeath3 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayerDeranorsDeath3, 1950 )
+    set gg_snd_DragonSlayerDeranorsDeath3 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayerDeranorsDeath3.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayerDeranorsDeath3, 10448 )
     call SetSoundChannel( gg_snd_DragonSlayerDeranorsDeath3, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayerDeranorsDeath3, -1 )
+    call SetSoundVolume( gg_snd_DragonSlayerDeranorsDeath3, 127 )
     call SetSoundPitch( gg_snd_DragonSlayerDeranorsDeath3, 1.0 )
-    set gg_snd_DragonSlayerDeranorsDeath4 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayerDeranorsDeath4, 1950 )
+    set gg_snd_DragonSlayerDeranorsDeath4 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayerDeranorsDeath4.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayerDeranorsDeath4, 6373 )
     call SetSoundChannel( gg_snd_DragonSlayerDeranorsDeath4, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayerDeranorsDeath4, -1 )
+    call SetSoundVolume( gg_snd_DragonSlayerDeranorsDeath4, 127 )
     call SetSoundPitch( gg_snd_DragonSlayerDeranorsDeath4, 1.0 )
-    set gg_snd_DragonSlayerDeranorsDeath5 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayerDeranorsDeath5, 1950 )
+    set gg_snd_DragonSlayerDeranorsDeath5 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayerDeranorsDeath5.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayerDeranorsDeath5, 13714 )
     call SetSoundChannel( gg_snd_DragonSlayerDeranorsDeath5, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayerDeranorsDeath5, -1 )
+    call SetSoundVolume( gg_snd_DragonSlayerDeranorsDeath5, 127 )
     call SetSoundPitch( gg_snd_DragonSlayerDeranorsDeath5, 1.0 )
-    set gg_snd_DragonSlayerFarm1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayerFarm1, 1950 )
+    set gg_snd_DragonSlayerFarm1 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayerFarm1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayerFarm1, 4205 )
     call SetSoundChannel( gg_snd_DragonSlayerFarm1, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayerFarm1, -1 )
+    call SetSoundVolume( gg_snd_DragonSlayerFarm1, 127 )
     call SetSoundPitch( gg_snd_DragonSlayerFarm1, 1.0 )
-    set gg_snd_DragonSlayerFarm2 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayerFarm2, 1950 )
+    set gg_snd_DragonSlayerFarm2 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayerFarm2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayerFarm2, 3578 )
     call SetSoundChannel( gg_snd_DragonSlayerFarm2, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayerFarm2, -1 )
+    call SetSoundVolume( gg_snd_DragonSlayerFarm2, 127 )
     call SetSoundPitch( gg_snd_DragonSlayerFarm2, 1.0 )
-    set gg_snd_DragonSlayerFarm3 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayerFarm3, 1950 )
+    set gg_snd_DragonSlayerFarm3 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayerFarm3.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayerFarm3, 6582 )
     call SetSoundChannel( gg_snd_DragonSlayerFarm3, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayerFarm3, -1 )
+    call SetSoundVolume( gg_snd_DragonSlayerFarm3, 127 )
     call SetSoundPitch( gg_snd_DragonSlayerFarm3, 1.0 )
-    set gg_snd_DragonSlayerFarm4 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayerFarm4, 1950 )
+    set gg_snd_DragonSlayerFarm4 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayerFarm4.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayerFarm4, 5799 )
     call SetSoundChannel( gg_snd_DragonSlayerFarm4, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayerFarm4, -1 )
+    call SetSoundVolume( gg_snd_DragonSlayerFarm4, 127 )
     call SetSoundPitch( gg_snd_DragonSlayerFarm4, 1.0 )
-    set gg_snd_DragonSlayerHolzbruck1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayerHolzbruck1, 1950 )
+    set gg_snd_DragonSlayerHolzbruck1 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayerHolzbruck1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayerHolzbruck1, 12042 )
     call SetSoundChannel( gg_snd_DragonSlayerHolzbruck1, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayerHolzbruck1, -1 )
+    call SetSoundVolume( gg_snd_DragonSlayerHolzbruck1, 127 )
     call SetSoundPitch( gg_snd_DragonSlayerHolzbruck1, 1.0 )
-    set gg_snd_DragonSlayerPrepareForTheDefense1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayerPrepareForTheDefense1, 1950 )
+    set gg_snd_DragonSlayerPrepareForTheDefense1 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayerPrepareForTheDefense1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayerPrepareForTheDefense1, 14733 )
     call SetSoundChannel( gg_snd_DragonSlayerPrepareForTheDefense1, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayerPrepareForTheDefense1, -1 )
+    call SetSoundVolume( gg_snd_DragonSlayerPrepareForTheDefense1, 127 )
     call SetSoundPitch( gg_snd_DragonSlayerPrepareForTheDefense1, 1.0 )
-    set gg_snd_DragonSlayerPrepareForTheDefense2 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayerPrepareForTheDefense2, 1950 )
+    set gg_snd_DragonSlayerPrepareForTheDefense2 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayerPrepareForTheDefense2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayerPrepareForTheDefense2, 14080 )
     call SetSoundChannel( gg_snd_DragonSlayerPrepareForTheDefense2, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayerPrepareForTheDefense2, -1 )
+    call SetSoundVolume( gg_snd_DragonSlayerPrepareForTheDefense2, 127 )
     call SetSoundPitch( gg_snd_DragonSlayerPrepareForTheDefense2, 1.0 )
-    set gg_snd_DragonSlayerPrepareForTheDefense3 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayerPrepareForTheDefense3, 1950 )
+    set gg_snd_DragonSlayerPrepareForTheDefense3 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayerPrepareForTheDefense3.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayerPrepareForTheDefense3, 5590 )
     call SetSoundChannel( gg_snd_DragonSlayerPrepareForTheDefense3, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayerPrepareForTheDefense3, -1 )
+    call SetSoundVolume( gg_snd_DragonSlayerPrepareForTheDefense3, 127 )
     call SetSoundPitch( gg_snd_DragonSlayerPrepareForTheDefense3, 1.0 )
-    set gg_snd_DragonSlayerRecruitTheHighElf1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayerRecruitTheHighElf1, 1950 )
+    set gg_snd_DragonSlayerRecruitTheHighElf1 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayerRecruitTheHighElf1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayerRecruitTheHighElf1, 8855 )
     call SetSoundChannel( gg_snd_DragonSlayerRecruitTheHighElf1, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayerRecruitTheHighElf1, -1 )
+    call SetSoundVolume( gg_snd_DragonSlayerRecruitTheHighElf1, 127 )
     call SetSoundPitch( gg_snd_DragonSlayerRecruitTheHighElf1, 1.0 )
-    set gg_snd_DragonSlayerRecruitTheHighElf10 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayerRecruitTheHighElf10, 1950 )
+    set gg_snd_DragonSlayerRecruitTheHighElf10 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayerRecruitTheHighElf10.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayerRecruitTheHighElf10, 3239 )
     call SetSoundChannel( gg_snd_DragonSlayerRecruitTheHighElf10, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayerRecruitTheHighElf10, -1 )
+    call SetSoundVolume( gg_snd_DragonSlayerRecruitTheHighElf10, 127 )
     call SetSoundPitch( gg_snd_DragonSlayerRecruitTheHighElf10, 1.0 )
-    set gg_snd_DragonSlayerRecruitTheHighElf11 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayerRecruitTheHighElf11, 1950 )
+    set gg_snd_DragonSlayerRecruitTheHighElf11 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayerRecruitTheHighElf11.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayerRecruitTheHighElf11, 12251 )
     call SetSoundChannel( gg_snd_DragonSlayerRecruitTheHighElf11, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayerRecruitTheHighElf11, -1 )
+    call SetSoundVolume( gg_snd_DragonSlayerRecruitTheHighElf11, 127 )
     call SetSoundPitch( gg_snd_DragonSlayerRecruitTheHighElf11, 1.0 )
-    set gg_snd_DragonSlayerRecruitTheHighElf2 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayerRecruitTheHighElf2, 1950 )
+    set gg_snd_DragonSlayerRecruitTheHighElf2 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayerRecruitTheHighElf2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayerRecruitTheHighElf2, 9639 )
     call SetSoundChannel( gg_snd_DragonSlayerRecruitTheHighElf2, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayerRecruitTheHighElf2, -1 )
+    call SetSoundVolume( gg_snd_DragonSlayerRecruitTheHighElf2, 127 )
     call SetSoundPitch( gg_snd_DragonSlayerRecruitTheHighElf2, 1.0 )
-    set gg_snd_DragonSlayerRecruitTheHighElf3 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayerRecruitTheHighElf3, 1950 )
+    set gg_snd_DragonSlayerRecruitTheHighElf3 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayerRecruitTheHighElf3.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayerRecruitTheHighElf3, 7497 )
     call SetSoundChannel( gg_snd_DragonSlayerRecruitTheHighElf3, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayerRecruitTheHighElf3, -1 )
+    call SetSoundVolume( gg_snd_DragonSlayerRecruitTheHighElf3, 127 )
     call SetSoundPitch( gg_snd_DragonSlayerRecruitTheHighElf3, 1.0 )
-    set gg_snd_DragonSlayerRecruitTheHighElf4 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayerRecruitTheHighElf4, 1950 )
+    set gg_snd_DragonSlayerRecruitTheHighElf4 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayerRecruitTheHighElf4.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayerRecruitTheHighElf4, 9743 )
     call SetSoundChannel( gg_snd_DragonSlayerRecruitTheHighElf4, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayerRecruitTheHighElf4, -1 )
+    call SetSoundVolume( gg_snd_DragonSlayerRecruitTheHighElf4, 127 )
     call SetSoundPitch( gg_snd_DragonSlayerRecruitTheHighElf4, 1.0 )
-    set gg_snd_DragonSlayerRecruitTheHighElf5 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayerRecruitTheHighElf5, 1950 )
+    set gg_snd_DragonSlayerRecruitTheHighElf5 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayerRecruitTheHighElf5.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayerRecruitTheHighElf5, 11415 )
     call SetSoundChannel( gg_snd_DragonSlayerRecruitTheHighElf5, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayerRecruitTheHighElf5, -1 )
+    call SetSoundVolume( gg_snd_DragonSlayerRecruitTheHighElf5, 127 )
     call SetSoundPitch( gg_snd_DragonSlayerRecruitTheHighElf5, 1.0 )
-    set gg_snd_DragonSlayerRecruitTheHighElf6 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayerRecruitTheHighElf6, 1950 )
+    set gg_snd_DragonSlayerRecruitTheHighElf6 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayerRecruitTheHighElf6.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayerRecruitTheHighElf6, 10109 )
     call SetSoundChannel( gg_snd_DragonSlayerRecruitTheHighElf6, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayerRecruitTheHighElf6, -1 )
+    call SetSoundVolume( gg_snd_DragonSlayerRecruitTheHighElf6, 127 )
     call SetSoundPitch( gg_snd_DragonSlayerRecruitTheHighElf6, 1.0 )
-    set gg_snd_DragonSlayerRecruitTheHighElf7 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayerRecruitTheHighElf7, 1950 )
+    set gg_snd_DragonSlayerRecruitTheHighElf7 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayerRecruitTheHighElf7.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayerRecruitTheHighElf7, 11075 )
     call SetSoundChannel( gg_snd_DragonSlayerRecruitTheHighElf7, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayerRecruitTheHighElf7, -1 )
+    call SetSoundVolume( gg_snd_DragonSlayerRecruitTheHighElf7, 127 )
     call SetSoundPitch( gg_snd_DragonSlayerRecruitTheHighElf7, 1.0 )
-    set gg_snd_DragonSlayerRecruitTheHighElf8 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayerRecruitTheHighElf8, 1950 )
+    set gg_snd_DragonSlayerRecruitTheHighElf8 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayerRecruitTheHighElf8.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayerRecruitTheHighElf8, 10945 )
     call SetSoundChannel( gg_snd_DragonSlayerRecruitTheHighElf8, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayerRecruitTheHighElf8, -1 )
+    call SetSoundVolume( gg_snd_DragonSlayerRecruitTheHighElf8, 127 )
     call SetSoundPitch( gg_snd_DragonSlayerRecruitTheHighElf8, 1.0 )
-    set gg_snd_DragonSlayerRecruitTheHighElf9 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayerRecruitTheHighElf9, 1950 )
+    set gg_snd_DragonSlayerRecruitTheHighElf9 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayerRecruitTheHighElf9.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayerRecruitTheHighElf9, 10971 )
     call SetSoundChannel( gg_snd_DragonSlayerRecruitTheHighElf9, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayerRecruitTheHighElf9, -1 )
+    call SetSoundVolume( gg_snd_DragonSlayerRecruitTheHighElf9, 127 )
     call SetSoundPitch( gg_snd_DragonSlayerRecruitTheHighElf9, 1.0 )
-    set gg_snd_DragonSlayerSlaughter1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayerSlaughter1, 1950 )
+    set gg_snd_DragonSlayerSlaughter1 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayerSlaughter1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayerSlaughter1, 9613 )
     call SetSoundChannel( gg_snd_DragonSlayerSlaughter1, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayerSlaughter1, -1 )
+    call SetSoundVolume( gg_snd_DragonSlayerSlaughter1, 127 )
     call SetSoundPitch( gg_snd_DragonSlayerSlaughter1, 1.0 )
-    set gg_snd_DragonSlayerSlaughter2 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayerSlaughter2, 1950 )
+    set gg_snd_DragonSlayerSlaughter2 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayerSlaughter2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayerSlaughter2, 6844 )
     call SetSoundChannel( gg_snd_DragonSlayerSlaughter2, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayerSlaughter2, -1 )
+    call SetSoundVolume( gg_snd_DragonSlayerSlaughter2, 127 )
     call SetSoundPitch( gg_snd_DragonSlayerSlaughter2, 1.0 )
-    set gg_snd_DragonSlayerSlaughter3 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayerSlaughter3, 1950 )
+    set gg_snd_DragonSlayerSlaughter3 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayerSlaughter3.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayerSlaughter3, 5799 )
     call SetSoundChannel( gg_snd_DragonSlayerSlaughter3, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayerSlaughter3, -1 )
+    call SetSoundVolume( gg_snd_DragonSlayerSlaughter3, 127 )
     call SetSoundPitch( gg_snd_DragonSlayerSlaughter3, 1.0 )
-    set gg_snd_DragonSlayerSlaughter4 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayerSlaughter4, 1950 )
+    set gg_snd_DragonSlayerSlaughter4 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayerSlaughter4.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayerSlaughter4, 4806 )
     call SetSoundChannel( gg_snd_DragonSlayerSlaughter4, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayerSlaughter4, -1 )
+    call SetSoundVolume( gg_snd_DragonSlayerSlaughter4, 127 )
     call SetSoundPitch( gg_snd_DragonSlayerSlaughter4, 1.0 )
-    set gg_snd_DragonSlayerSlaughter5 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayerSlaughter5, 1950 )
+    set gg_snd_DragonSlayerSlaughter5 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayerSlaughter5.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayerSlaughter5, 8672 )
     call SetSoundChannel( gg_snd_DragonSlayerSlaughter5, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayerSlaughter5, -1 )
+    call SetSoundVolume( gg_snd_DragonSlayerSlaughter5, 127 )
     call SetSoundPitch( gg_snd_DragonSlayerSlaughter5, 1.0 )
-    set gg_snd_DragonSlayerSlaughter6 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayerSlaughter6, 1950 )
+    set gg_snd_DragonSlayerSlaughter6 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayerSlaughter6.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayerSlaughter6, 4048 )
     call SetSoundChannel( gg_snd_DragonSlayerSlaughter6, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayerSlaughter6, -1 )
+    call SetSoundVolume( gg_snd_DragonSlayerSlaughter6, 127 )
     call SetSoundPitch( gg_snd_DragonSlayerSlaughter6, 1.0 )
-    set gg_snd_DragonSlayerSlaughter7 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayerSlaughter7, 1950 )
+    set gg_snd_DragonSlayerSlaughter7 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayerSlaughter7.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayerSlaughter7, 5485 )
     call SetSoundChannel( gg_snd_DragonSlayerSlaughter7, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayerSlaughter7, -1 )
+    call SetSoundVolume( gg_snd_DragonSlayerSlaughter7, 127 )
     call SetSoundPitch( gg_snd_DragonSlayerSlaughter7, 1.0 )
-    set gg_snd_DragonSlayerTalk1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayerTalk1, 1950 )
-    call SetSoundChannel( gg_snd_DragonSlayerTalk1, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayerTalk1, 127 )
-    call SetSoundPitch( gg_snd_DragonSlayerTalk1, 1.0 )
-    set gg_snd_DragonSlayerTalk2 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayerTalk2, 1950 )
-    call SetSoundChannel( gg_snd_DragonSlayerTalk2, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayerTalk2, 127 )
-    call SetSoundPitch( gg_snd_DragonSlayerTalk2, 1.0 )
-    set gg_snd_DragonSlayerTalk3 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayerTalk3, 1950 )
-    call SetSoundChannel( gg_snd_DragonSlayerTalk3, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayerTalk3, 127 )
-    call SetSoundPitch( gg_snd_DragonSlayerTalk3, 1.0 )
-    set gg_snd_DragonSlayerTalk4 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayerTalk4, 1950 )
-    call SetSoundChannel( gg_snd_DragonSlayerTalk4, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayerTalk4, 127 )
-    call SetSoundPitch( gg_snd_DragonSlayerTalk4, 1.0 )
-    set gg_snd_DragonSlayerVictory1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayerVictory1, 1950 )
+    set gg_snd_DragonSlayerVictory1 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayerVictory1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayerVictory1, 5616 )
     call SetSoundChannel( gg_snd_DragonSlayerVictory1, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayerVictory1, -1 )
+    call SetSoundVolume( gg_snd_DragonSlayerVictory1, 127 )
     call SetSoundPitch( gg_snd_DragonSlayerVictory1, 1.0 )
-    set gg_snd_DragonSlayerVictory2 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayerVictory2, 1950 )
+    set gg_snd_DragonSlayerVictory2 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayerVictory2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayerVictory2, 4362 )
     call SetSoundChannel( gg_snd_DragonSlayerVictory2, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayerVictory2, -1 )
+    call SetSoundVolume( gg_snd_DragonSlayerVictory2, 127 )
     call SetSoundPitch( gg_snd_DragonSlayerVictory2, 1.0 )
-    set gg_snd_DragonSlayerVictory3 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_DragonSlayerVictory3, 1950 )
+    set gg_snd_DragonSlayerVictory3 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayerVictory3.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayerVictory3, 1880 )
     call SetSoundChannel( gg_snd_DragonSlayerVictory3, 0 )
-    call SetSoundVolume( gg_snd_DragonSlayerVictory3, -1 )
+    call SetSoundVolume( gg_snd_DragonSlayerVictory3, 127 )
     call SetSoundPitch( gg_snd_DragonSlayerVictory3, 1.0 )
-    set gg_snd_Einar_1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Einar_1, 1950 )
+    set gg_snd_DragonSlayerWhat1 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayerWhat1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayerWhat1, 966 )
+    call SetSoundChannel( gg_snd_DragonSlayerWhat1, 0 )
+    call SetSoundVolume( gg_snd_DragonSlayerWhat1, 127 )
+    call SetSoundPitch( gg_snd_DragonSlayerWhat1, 1.0 )
+    set gg_snd_DragonSlayerWhat2 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayerWhat2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayerWhat2, 1880 )
+    call SetSoundChannel( gg_snd_DragonSlayerWhat2, 0 )
+    call SetSoundVolume( gg_snd_DragonSlayerWhat2, 127 )
+    call SetSoundPitch( gg_snd_DragonSlayerWhat2, 1.0 )
+    set gg_snd_DragonSlayerWhat3 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayerWhat3.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayerWhat3, 1697 )
+    call SetSoundChannel( gg_snd_DragonSlayerWhat3, 0 )
+    call SetSoundVolume( gg_snd_DragonSlayerWhat3, 127 )
+    call SetSoundPitch( gg_snd_DragonSlayerWhat3, 1.0 )
+    set gg_snd_DragonSlayerYes1 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayerYes1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayerYes1, 2324 )
+    call SetSoundChannel( gg_snd_DragonSlayerYes1, 0 )
+    call SetSoundVolume( gg_snd_DragonSlayerYes1, 127 )
+    call SetSoundPitch( gg_snd_DragonSlayerYes1, 1.0 )
+    set gg_snd_DragonSlayerYes2 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayerYes2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayerYes2, 1280 )
+    call SetSoundChannel( gg_snd_DragonSlayerYes2, 0 )
+    call SetSoundVolume( gg_snd_DragonSlayerYes2, 127 )
+    call SetSoundPitch( gg_snd_DragonSlayerYes2, 1.0 )
+    set gg_snd_DragonSlayerYes3 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayerYes3.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayerYes3, 940 )
+    call SetSoundChannel( gg_snd_DragonSlayerYes3, 0 )
+    call SetSoundVolume( gg_snd_DragonSlayerYes3, 127 )
+    call SetSoundPitch( gg_snd_DragonSlayerYes3, 1.0 )
+    set gg_snd_DragonSlayerYesAttack1 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayerYesAttack1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayerYesAttack1, 1619 )
+    call SetSoundChannel( gg_snd_DragonSlayerYesAttack1, 0 )
+    call SetSoundVolume( gg_snd_DragonSlayerYesAttack1, 127 )
+    call SetSoundPitch( gg_snd_DragonSlayerYesAttack1, 1.0 )
+    set gg_snd_DragonSlayerYesAttack2 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayerYesAttack2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayerYesAttack2, 2115 )
+    call SetSoundChannel( gg_snd_DragonSlayerYesAttack2, 0 )
+    call SetSoundVolume( gg_snd_DragonSlayerYesAttack2, 127 )
+    call SetSoundPitch( gg_snd_DragonSlayerYesAttack2, 1.0 )
+    set gg_snd_DragonSlayerYesAttack3 = CreateSound( "Sound/Dialogue/DragonSlayer/DragonSlayerYesAttack3.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_DragonSlayerYesAttack3, 3604 )
+    call SetSoundChannel( gg_snd_DragonSlayerYesAttack3, 0 )
+    call SetSoundVolume( gg_snd_DragonSlayerYesAttack3, 127 )
+    call SetSoundPitch( gg_snd_DragonSlayerYesAttack3, 1.0 )
+    set gg_snd_Einar_1 = CreateSound( "Sound/Dialogue/Einar/Einar_1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Einar_1, 6840 )
     call SetSoundChannel( gg_snd_Einar_1, 0 )
-    call SetSoundVolume( gg_snd_Einar_1, -1 )
+    call SetSoundVolume( gg_snd_Einar_1, 127 )
     call SetSoundPitch( gg_snd_Einar_1, 1.0 )
-    set gg_snd_Einar_10 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Einar_10, 1950 )
+    set gg_snd_Einar_10 = CreateSound( "Sound/Dialogue/Einar/Einar_10.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Einar_10, 14064 )
     call SetSoundChannel( gg_snd_Einar_10, 0 )
-    call SetSoundVolume( gg_snd_Einar_10, -1 )
+    call SetSoundVolume( gg_snd_Einar_10, 127 )
     call SetSoundPitch( gg_snd_Einar_10, 1.0 )
-    set gg_snd_Einar_11 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Einar_11, 1950 )
+    set gg_snd_Einar_11 = CreateSound( "Sound/Dialogue/Einar/Einar_11.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Einar_11, 7968 )
     call SetSoundChannel( gg_snd_Einar_11, 0 )
-    call SetSoundVolume( gg_snd_Einar_11, -1 )
+    call SetSoundVolume( gg_snd_Einar_11, 127 )
     call SetSoundPitch( gg_snd_Einar_11, 1.0 )
-    set gg_snd_Einar_12 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Einar_12, 1950 )
+    set gg_snd_Einar_12 = CreateSound( "Sound/Dialogue/Einar/Einar_12.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Einar_12, 10344 )
     call SetSoundChannel( gg_snd_Einar_12, 0 )
-    call SetSoundVolume( gg_snd_Einar_12, -1 )
+    call SetSoundVolume( gg_snd_Einar_12, 127 )
     call SetSoundPitch( gg_snd_Einar_12, 1.0 )
-    set gg_snd_Einar_13 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Einar_13, 1950 )
+    set gg_snd_Einar_13 = CreateSound( "Sound/Dialogue/Einar/Einar_13.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Einar_13, 6168 )
     call SetSoundChannel( gg_snd_Einar_13, 0 )
-    call SetSoundVolume( gg_snd_Einar_13, -1 )
+    call SetSoundVolume( gg_snd_Einar_13, 127 )
     call SetSoundPitch( gg_snd_Einar_13, 1.0 )
-    set gg_snd_Einar_14 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Einar_14, 1950 )
+    set gg_snd_Einar_14 = CreateSound( "Sound/Dialogue/Einar/Einar_14.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Einar_14, 4176 )
     call SetSoundChannel( gg_snd_Einar_14, 0 )
-    call SetSoundVolume( gg_snd_Einar_14, -1 )
+    call SetSoundVolume( gg_snd_Einar_14, 127 )
     call SetSoundPitch( gg_snd_Einar_14, 1.0 )
-    set gg_snd_Einar_15 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Einar_15, 1950 )
+    set gg_snd_Einar_15 = CreateSound( "Sound/Dialogue/Einar/Einar_15.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Einar_15, 7608 )
     call SetSoundChannel( gg_snd_Einar_15, 0 )
-    call SetSoundVolume( gg_snd_Einar_15, -1 )
+    call SetSoundVolume( gg_snd_Einar_15, 127 )
     call SetSoundPitch( gg_snd_Einar_15, 1.0 )
-    set gg_snd_Einar_16 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Einar_16, 1950 )
+    set gg_snd_Einar_16 = CreateSound( "Sound/Dialogue/Einar/Einar_16.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Einar_16, 7008 )
     call SetSoundChannel( gg_snd_Einar_16, 0 )
-    call SetSoundVolume( gg_snd_Einar_16, -1 )
+    call SetSoundVolume( gg_snd_Einar_16, 127 )
     call SetSoundPitch( gg_snd_Einar_16, 1.0 )
-    set gg_snd_Einar_17 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Einar_17, 1950 )
+    set gg_snd_Einar_17 = CreateSound( "Sound/Dialogue/Einar/Einar_17.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Einar_17, 5448 )
     call SetSoundChannel( gg_snd_Einar_17, 0 )
-    call SetSoundVolume( gg_snd_Einar_17, -1 )
+    call SetSoundVolume( gg_snd_Einar_17, 127 )
     call SetSoundPitch( gg_snd_Einar_17, 1.0 )
-    set gg_snd_Einar_18 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Einar_18, 1950 )
+    set gg_snd_Einar_18 = CreateSound( "Sound/Dialogue/Einar/Einar_18.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Einar_18, 4800 )
     call SetSoundChannel( gg_snd_Einar_18, 0 )
-    call SetSoundVolume( gg_snd_Einar_18, -1 )
+    call SetSoundVolume( gg_snd_Einar_18, 127 )
     call SetSoundPitch( gg_snd_Einar_18, 1.0 )
-    set gg_snd_Einar_19 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Einar_19, 1950 )
+    set gg_snd_Einar_19 = CreateSound( "Sound/Dialogue/Einar/Einar_19.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Einar_19, 8808 )
     call SetSoundChannel( gg_snd_Einar_19, 0 )
-    call SetSoundVolume( gg_snd_Einar_19, -1 )
+    call SetSoundVolume( gg_snd_Einar_19, 127 )
     call SetSoundPitch( gg_snd_Einar_19, 1.0 )
-    set gg_snd_Einar_2 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Einar_2, 1950 )
+    set gg_snd_Einar_2 = CreateSound( "Sound/Dialogue/Einar/Einar_2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Einar_2, 5520 )
     call SetSoundChannel( gg_snd_Einar_2, 0 )
-    call SetSoundVolume( gg_snd_Einar_2, -1 )
+    call SetSoundVolume( gg_snd_Einar_2, 127 )
     call SetSoundPitch( gg_snd_Einar_2, 1.0 )
-    set gg_snd_Einar_20 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Einar_20, 1950 )
+    set gg_snd_Einar_20 = CreateSound( "Sound/Dialogue/Einar/Einar_20.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Einar_20, 7560 )
     call SetSoundChannel( gg_snd_Einar_20, 0 )
-    call SetSoundVolume( gg_snd_Einar_20, -1 )
+    call SetSoundVolume( gg_snd_Einar_20, 127 )
     call SetSoundPitch( gg_snd_Einar_20, 1.0 )
-    set gg_snd_Einar_21 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Einar_21, 1950 )
+    set gg_snd_Einar_21 = CreateSound( "Sound/Dialogue/Einar/Einar_21.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Einar_21, 9336 )
     call SetSoundChannel( gg_snd_Einar_21, 0 )
-    call SetSoundVolume( gg_snd_Einar_21, -1 )
+    call SetSoundVolume( gg_snd_Einar_21, 127 )
     call SetSoundPitch( gg_snd_Einar_21, 1.0 )
-    set gg_snd_Einar_22 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Einar_22, 1950 )
+    set gg_snd_Einar_22 = CreateSound( "Sound/Dialogue/Einar/Einar_22.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Einar_22, 8832 )
     call SetSoundChannel( gg_snd_Einar_22, 0 )
-    call SetSoundVolume( gg_snd_Einar_22, -1 )
+    call SetSoundVolume( gg_snd_Einar_22, 127 )
     call SetSoundPitch( gg_snd_Einar_22, 1.0 )
-    set gg_snd_Einar_23 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Einar_23, 1950 )
+    set gg_snd_Einar_23 = CreateSound( "Sound/Dialogue/Einar/Einar_23.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Einar_23, 4776 )
     call SetSoundChannel( gg_snd_Einar_23, 0 )
-    call SetSoundVolume( gg_snd_Einar_23, -1 )
+    call SetSoundVolume( gg_snd_Einar_23, 127 )
     call SetSoundPitch( gg_snd_Einar_23, 1.0 )
-    set gg_snd_Einar_24_1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Einar_24_1, 1950 )
+    set gg_snd_Einar_24_1 = CreateSound( "Sound/Dialogue/Einar/Einar_24_1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Einar_24_1, 7248 )
     call SetSoundChannel( gg_snd_Einar_24_1, 0 )
-    call SetSoundVolume( gg_snd_Einar_24_1, -1 )
+    call SetSoundVolume( gg_snd_Einar_24_1, 127 )
     call SetSoundPitch( gg_snd_Einar_24_1, 1.0 )
-    set gg_snd_Einar_24_2 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Einar_24_2, 1950 )
+    set gg_snd_Einar_24_2 = CreateSound( "Sound/Dialogue/Einar/Einar_24_2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Einar_24_2, 7392 )
     call SetSoundChannel( gg_snd_Einar_24_2, 0 )
-    call SetSoundVolume( gg_snd_Einar_24_2, -1 )
+    call SetSoundVolume( gg_snd_Einar_24_2, 127 )
     call SetSoundPitch( gg_snd_Einar_24_2, 1.0 )
-    set gg_snd_Einar_25 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Einar_25, 1950 )
+    set gg_snd_Einar_25 = CreateSound( "Sound/Dialogue/Einar/Einar_25.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Einar_25, 2112 )
     call SetSoundChannel( gg_snd_Einar_25, 0 )
-    call SetSoundVolume( gg_snd_Einar_25, -1 )
+    call SetSoundVolume( gg_snd_Einar_25, 127 )
     call SetSoundPitch( gg_snd_Einar_25, 1.0 )
-    set gg_snd_Einar_26 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Einar_26, 1950 )
+    set gg_snd_Einar_26 = CreateSound( "Sound/Dialogue/Einar/Einar_26.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Einar_26, 1128 )
     call SetSoundChannel( gg_snd_Einar_26, 0 )
-    call SetSoundVolume( gg_snd_Einar_26, -1 )
+    call SetSoundVolume( gg_snd_Einar_26, 127 )
     call SetSoundPitch( gg_snd_Einar_26, 1.0 )
-    set gg_snd_Einar_27 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Einar_27, 1950 )
+    set gg_snd_Einar_27 = CreateSound( "Sound/Dialogue/Einar/Einar_27.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Einar_27, 3624 )
     call SetSoundChannel( gg_snd_Einar_27, 0 )
-    call SetSoundVolume( gg_snd_Einar_27, -1 )
+    call SetSoundVolume( gg_snd_Einar_27, 127 )
     call SetSoundPitch( gg_snd_Einar_27, 1.0 )
-    set gg_snd_Einar_28 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Einar_28, 1950 )
+    set gg_snd_Einar_28 = CreateSound( "Sound/Dialogue/Einar/Einar_28.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Einar_28, 1896 )
     call SetSoundChannel( gg_snd_Einar_28, 0 )
-    call SetSoundVolume( gg_snd_Einar_28, -1 )
+    call SetSoundVolume( gg_snd_Einar_28, 127 )
     call SetSoundPitch( gg_snd_Einar_28, 1.0 )
-    set gg_snd_Einar_3 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Einar_3, 1950 )
+    set gg_snd_Einar_3 = CreateSound( "Sound/Dialogue/Einar/Einar_3.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Einar_3, 13944 )
     call SetSoundChannel( gg_snd_Einar_3, 0 )
-    call SetSoundVolume( gg_snd_Einar_3, -1 )
+    call SetSoundVolume( gg_snd_Einar_3, 127 )
     call SetSoundPitch( gg_snd_Einar_3, 1.0 )
-    set gg_snd_Einar_4 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Einar_4, 1950 )
+    set gg_snd_Einar_4 = CreateSound( "Sound/Dialogue/Einar/Einar_4.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Einar_4, 15000 )
     call SetSoundChannel( gg_snd_Einar_4, 0 )
-    call SetSoundVolume( gg_snd_Einar_4, -1 )
+    call SetSoundVolume( gg_snd_Einar_4, 127 )
     call SetSoundPitch( gg_snd_Einar_4, 1.0 )
-    set gg_snd_Einar_5 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Einar_5, 1950 )
+    set gg_snd_Einar_5 = CreateSound( "Sound/Dialogue/Einar/Einar_5.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Einar_5, 7176 )
     call SetSoundChannel( gg_snd_Einar_5, 0 )
-    call SetSoundVolume( gg_snd_Einar_5, -1 )
+    call SetSoundVolume( gg_snd_Einar_5, 127 )
     call SetSoundPitch( gg_snd_Einar_5, 1.0 )
-    set gg_snd_Einar_6 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Einar_6, 1950 )
+    set gg_snd_Einar_6 = CreateSound( "Sound/Dialogue/Einar/Einar_6.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Einar_6, 14928 )
     call SetSoundChannel( gg_snd_Einar_6, 0 )
-    call SetSoundVolume( gg_snd_Einar_6, -1 )
+    call SetSoundVolume( gg_snd_Einar_6, 127 )
     call SetSoundPitch( gg_snd_Einar_6, 1.0 )
-    set gg_snd_Einar_6_2 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Einar_6_2, 1950 )
+    set gg_snd_Einar_6_2 = CreateSound( "Sound/Dialogue/Einar/Einar_6_2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Einar_6_2, 14928 )
     call SetSoundChannel( gg_snd_Einar_6_2, 0 )
-    call SetSoundVolume( gg_snd_Einar_6_2, -1 )
+    call SetSoundVolume( gg_snd_Einar_6_2, 127 )
     call SetSoundPitch( gg_snd_Einar_6_2, 1.0 )
-    set gg_snd_Einar_7 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Einar_7, 1950 )
+    set gg_snd_Einar_7 = CreateSound( "Sound/Dialogue/Einar/Einar_7.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Einar_7, 4632 )
     call SetSoundChannel( gg_snd_Einar_7, 0 )
-    call SetSoundVolume( gg_snd_Einar_7, -1 )
+    call SetSoundVolume( gg_snd_Einar_7, 127 )
     call SetSoundPitch( gg_snd_Einar_7, 1.0 )
-    set gg_snd_Einar_7_2 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Einar_7_2, 1950 )
+    set gg_snd_Einar_7_2 = CreateSound( "Sound/Dialogue/Einar/Einar_7_2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Einar_7_2, 4224 )
     call SetSoundChannel( gg_snd_Einar_7_2, 0 )
-    call SetSoundVolume( gg_snd_Einar_7_2, -1 )
+    call SetSoundVolume( gg_snd_Einar_7_2, 127 )
     call SetSoundPitch( gg_snd_Einar_7_2, 1.0 )
-    set gg_snd_Einar_8 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Einar_8, 1950 )
+    set gg_snd_Einar_8 = CreateSound( "Sound/Dialogue/Einar/Einar_8.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Einar_8, 13296 )
     call SetSoundChannel( gg_snd_Einar_8, 0 )
-    call SetSoundVolume( gg_snd_Einar_8, -1 )
+    call SetSoundVolume( gg_snd_Einar_8, 127 )
     call SetSoundPitch( gg_snd_Einar_8, 1.0 )
-    set gg_snd_Einar_8_2 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Einar_8_2, 1950 )
+    set gg_snd_Einar_8_2 = CreateSound( "Sound/Dialogue/Einar/Einar_8_2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Einar_8_2, 13008 )
     call SetSoundChannel( gg_snd_Einar_8_2, 0 )
-    call SetSoundVolume( gg_snd_Einar_8_2, -1 )
+    call SetSoundVolume( gg_snd_Einar_8_2, 127 )
     call SetSoundPitch( gg_snd_Einar_8_2, 1.0 )
-    set gg_snd_Einar_9 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Einar_9, 1950 )
+    set gg_snd_Einar_9 = CreateSound( "Sound/Dialogue/Einar/Einar_9.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Einar_9, 7416 )
     call SetSoundChannel( gg_snd_Einar_9, 0 )
-    call SetSoundVolume( gg_snd_Einar_9, -1 )
+    call SetSoundVolume( gg_snd_Einar_9, 127 )
     call SetSoundPitch( gg_snd_Einar_9, 1.0 )
-    set gg_snd_ErzaehlerDieBurg1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_ErzaehlerDieBurg1, 1950 )
+    set gg_snd_ErzaehlerDieBurg1 = CreateSound( "Sound/Dialogue/Erzaehler/ErzaehlerDieBurg1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_ErzaehlerDieBurg1, 19565 )
     call SetSoundChannel( gg_snd_ErzaehlerDieBurg1, 0 )
     call SetSoundVolume( gg_snd_ErzaehlerDieBurg1, 127 )
     call SetSoundPitch( gg_snd_ErzaehlerDieBurg1, 1.0 )
-    set gg_snd_ErzaehlerDieBurg2 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_ErzaehlerDieBurg2, 1950 )
+    set gg_snd_ErzaehlerDieBurg2 = CreateSound( "Sound/Dialogue/Erzaehler/ErzaehlerDieBurg2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_ErzaehlerDieBurg2, 11650 )
     call SetSoundChannel( gg_snd_ErzaehlerDieBurg2, 0 )
     call SetSoundVolume( gg_snd_ErzaehlerDieBurg2, 127 )
     call SetSoundPitch( gg_snd_ErzaehlerDieBurg2, 1.0 )
-    set gg_snd_ErzaehlerDieBurg3 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_ErzaehlerDieBurg3, 1950 )
+    set gg_snd_ErzaehlerDieBurg3 = CreateSound( "Sound/Dialogue/Erzaehler/ErzaehlerDieBurg3.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_ErzaehlerDieBurg3, 6295 )
     call SetSoundChannel( gg_snd_ErzaehlerDieBurg3, 0 )
     call SetSoundVolume( gg_snd_ErzaehlerDieBurg3, 127 )
     call SetSoundPitch( gg_snd_ErzaehlerDieBurg3, 1.0 )
-    set gg_snd_ErzaehlerFlussaufwaerts1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_ErzaehlerFlussaufwaerts1, 1950 )
+    set gg_snd_ErzaehlerFlussaufwaerts1 = CreateSound( "Sound/Dialogue/Erzaehler/ErzaehlerFlussaufwaerts1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_ErzaehlerFlussaufwaerts1, 11049 )
     call SetSoundChannel( gg_snd_ErzaehlerFlussaufwaerts1, 0 )
     call SetSoundVolume( gg_snd_ErzaehlerFlussaufwaerts1, 127 )
     call SetSoundPitch( gg_snd_ErzaehlerFlussaufwaerts1, 1.0 )
-    set gg_snd_ErzaehlerIntro1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_ErzaehlerIntro1, 1950 )
+    set gg_snd_ErzaehlerIntro1 = CreateSound( "Sound/Dialogue/Erzaehler/ErzaehlerIntro1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_ErzaehlerIntro1, 15725 )
     call SetSoundChannel( gg_snd_ErzaehlerIntro1, 0 )
     call SetSoundVolume( gg_snd_ErzaehlerIntro1, 127 )
     call SetSoundPitch( gg_snd_ErzaehlerIntro1, 1.0 )
-    set gg_snd_ErzaehlerIntro2 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_ErzaehlerIntro2, 1950 )
+    set gg_snd_ErzaehlerIntro2 = CreateSound( "Sound/Dialogue/Erzaehler/ErzaehlerIntro2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_ErzaehlerIntro2, 13662 )
     call SetSoundChannel( gg_snd_ErzaehlerIntro2, 0 )
     call SetSoundVolume( gg_snd_ErzaehlerIntro2, 127 )
     call SetSoundPitch( gg_snd_ErzaehlerIntro2, 1.0 )
-    set gg_snd_ErzaehlerIntro3 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_ErzaehlerIntro3, 1950 )
+    set gg_snd_ErzaehlerIntro3 = CreateSound( "Sound/Dialogue/Erzaehler/ErzaehlerIntro3.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_ErzaehlerIntro3, 7131 )
     call SetSoundChannel( gg_snd_ErzaehlerIntro3, 0 )
     call SetSoundVolume( gg_snd_ErzaehlerIntro3, 127 )
     call SetSoundPitch( gg_snd_ErzaehlerIntro3, 1.0 )
-    set gg_snd_ErzaehlerIntro4 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_ErzaehlerIntro4, 1950 )
+    set gg_snd_ErzaehlerIntro4 = CreateSound( "Sound/Dialogue/Erzaehler/ErzaehlerIntro4.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_ErzaehlerIntro4, 5433 )
     call SetSoundChannel( gg_snd_ErzaehlerIntro4, 0 )
     call SetSoundVolume( gg_snd_ErzaehlerIntro4, 127 )
     call SetSoundPitch( gg_snd_ErzaehlerIntro4, 1.0 )
-    set gg_snd_ErzaehlerIntro5 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_ErzaehlerIntro5, 1950 )
+    set gg_snd_ErzaehlerIntro5 = CreateSound( "Sound/Dialogue/Erzaehler/ErzaehlerIntro5.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_ErzaehlerIntro5, 4205 )
     call SetSoundChannel( gg_snd_ErzaehlerIntro5, 0 )
     call SetSoundVolume( gg_snd_ErzaehlerIntro5, 127 )
     call SetSoundPitch( gg_snd_ErzaehlerIntro5, 1.0 )
-    set gg_snd_ErzaehlerIntro6 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_ErzaehlerIntro6, 1950 )
+    set gg_snd_ErzaehlerIntro6 = CreateSound( "Sound/Dialogue/Erzaehler/ErzaehlerIntro6.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_ErzaehlerIntro6, 12512 )
     call SetSoundChannel( gg_snd_ErzaehlerIntro6, 0 )
     call SetSoundVolume( gg_snd_ErzaehlerIntro6, 127 )
     call SetSoundPitch( gg_snd_ErzaehlerIntro6, 1.0 )
-    set gg_snd_ErzaehlerSieg1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_ErzaehlerSieg1, 1950 )
+    set gg_snd_ErzaehlerSieg1 = CreateSound( "Sound/Dialogue/Erzaehler/ErzaehlerSieg1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_ErzaehlerSieg1, 11911 )
     call SetSoundChannel( gg_snd_ErzaehlerSieg1, 0 )
     call SetSoundVolume( gg_snd_ErzaehlerSieg1, 127 )
     call SetSoundPitch( gg_snd_ErzaehlerSieg1, 1.0 )
-    set gg_snd_ErzaehlerSieg2 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_ErzaehlerSieg2, 1950 )
+    set gg_snd_ErzaehlerSieg2 = CreateSound( "Sound/Dialogue/Erzaehler/ErzaehlerSieg2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_ErzaehlerSieg2, 11781 )
     call SetSoundChannel( gg_snd_ErzaehlerSieg2, 0 )
     call SetSoundVolume( gg_snd_ErzaehlerSieg2, 127 )
     call SetSoundPitch( gg_snd_ErzaehlerSieg2, 1.0 )
-    set gg_snd_Farmer1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Farmer1, 1950 )
+    set gg_snd_Farmer1 = CreateSound( "Sound/Dialogue/Farmer/Farmer1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Farmer1, 1697 )
     call SetSoundChannel( gg_snd_Farmer1, 0 )
-    call SetSoundVolume( gg_snd_Farmer1, -1 )
+    call SetSoundVolume( gg_snd_Farmer1, 127 )
     call SetSoundPitch( gg_snd_Farmer1, 1.0 )
-    set gg_snd_Ferdinand1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ferdinand1, 1950 )
+    set gg_snd_Ferdinand1 = CreateSound( "Sound/Dialogue/Ferdinand/Ferdinand1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ferdinand1, 6817 )
     call SetSoundChannel( gg_snd_Ferdinand1, 0 )
-    call SetSoundVolume( gg_snd_Ferdinand1, -1 )
+    call SetSoundVolume( gg_snd_Ferdinand1, 127 )
     call SetSoundPitch( gg_snd_Ferdinand1, 1.0 )
-    set gg_snd_Ferdinand10 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ferdinand10, 1950 )
+    set gg_snd_Ferdinand10 = CreateSound( "Sound/Dialogue/Ferdinand/Ferdinand10.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ferdinand10, 6582 )
     call SetSoundChannel( gg_snd_Ferdinand10, 0 )
-    call SetSoundVolume( gg_snd_Ferdinand10, -1 )
+    call SetSoundVolume( gg_snd_Ferdinand10, 127 )
     call SetSoundPitch( gg_snd_Ferdinand10, 1.0 )
-    set gg_snd_Ferdinand11 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ferdinand11, 1950 )
+    set gg_snd_Ferdinand11 = CreateSound( "Sound/Dialogue/Ferdinand/Ferdinand11.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ferdinand11, 9351 )
     call SetSoundChannel( gg_snd_Ferdinand11, 0 )
-    call SetSoundVolume( gg_snd_Ferdinand11, -1 )
+    call SetSoundVolume( gg_snd_Ferdinand11, 127 )
     call SetSoundPitch( gg_snd_Ferdinand11, 1.0 )
-    set gg_snd_Ferdinand12 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ferdinand12, 1950 )
+    set gg_snd_Ferdinand12 = CreateSound( "Sound/Dialogue/Ferdinand/Ferdinand12.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ferdinand12, 9665 )
     call SetSoundChannel( gg_snd_Ferdinand12, 0 )
-    call SetSoundVolume( gg_snd_Ferdinand12, -1 )
+    call SetSoundVolume( gg_snd_Ferdinand12, 127 )
     call SetSoundPitch( gg_snd_Ferdinand12, 1.0 )
-    set gg_snd_Ferdinand13 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ferdinand13, 1950 )
+    set gg_snd_Ferdinand13 = CreateSound( "Sound/Dialogue/Ferdinand/Ferdinand13.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ferdinand13, 6452 )
     call SetSoundChannel( gg_snd_Ferdinand13, 0 )
-    call SetSoundVolume( gg_snd_Ferdinand13, -1 )
+    call SetSoundVolume( gg_snd_Ferdinand13, 127 )
     call SetSoundPitch( gg_snd_Ferdinand13, 1.0 )
-    set gg_snd_Ferdinand14 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ferdinand14, 1950 )
+    set gg_snd_Ferdinand14 = CreateSound( "Sound/Dialogue/Ferdinand/Ferdinand14.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ferdinand14, 9508 )
     call SetSoundChannel( gg_snd_Ferdinand14, 0 )
-    call SetSoundVolume( gg_snd_Ferdinand14, -1 )
+    call SetSoundVolume( gg_snd_Ferdinand14, 127 )
     call SetSoundPitch( gg_snd_Ferdinand14, 1.0 )
-    set gg_snd_Ferdinand15 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ferdinand15, 1950 )
+    set gg_snd_Ferdinand15 = CreateSound( "Sound/Dialogue/Ferdinand/Ferdinand15.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ferdinand15, 8620 )
     call SetSoundChannel( gg_snd_Ferdinand15, 0 )
-    call SetSoundVolume( gg_snd_Ferdinand15, -1 )
+    call SetSoundVolume( gg_snd_Ferdinand15, 127 )
     call SetSoundPitch( gg_snd_Ferdinand15, 1.0 )
-    set gg_snd_Ferdinand16 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ferdinand16, 1950 )
+    set gg_snd_Ferdinand16 = CreateSound( "Sound/Dialogue/Ferdinand/Ferdinand16.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ferdinand16, 4284 )
     call SetSoundChannel( gg_snd_Ferdinand16, 0 )
-    call SetSoundVolume( gg_snd_Ferdinand16, -1 )
+    call SetSoundVolume( gg_snd_Ferdinand16, 127 )
     call SetSoundPitch( gg_snd_Ferdinand16, 1.0 )
-    set gg_snd_Ferdinand17 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ferdinand17, 1950 )
+    set gg_snd_Ferdinand17 = CreateSound( "Sound/Dialogue/Ferdinand/Ferdinand17.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ferdinand17, 6504 )
     call SetSoundChannel( gg_snd_Ferdinand17, 0 )
-    call SetSoundVolume( gg_snd_Ferdinand17, -1 )
+    call SetSoundVolume( gg_snd_Ferdinand17, 127 )
     call SetSoundPitch( gg_snd_Ferdinand17, 1.0 )
-    set gg_snd_Ferdinand18 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ferdinand18, 1950 )
+    set gg_snd_Ferdinand18 = CreateSound( "Sound/Dialogue/Ferdinand/Ferdinand18.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ferdinand18, 2821 )
     call SetSoundChannel( gg_snd_Ferdinand18, 0 )
-    call SetSoundVolume( gg_snd_Ferdinand18, -1 )
+    call SetSoundVolume( gg_snd_Ferdinand18, 127 )
     call SetSoundPitch( gg_snd_Ferdinand18, 1.0 )
-    set gg_snd_Ferdinand2 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ferdinand2, 1950 )
+    set gg_snd_Ferdinand2 = CreateSound( "Sound/Dialogue/Ferdinand/Ferdinand2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ferdinand2, 12747 )
     call SetSoundChannel( gg_snd_Ferdinand2, 0 )
-    call SetSoundVolume( gg_snd_Ferdinand2, -1 )
+    call SetSoundVolume( gg_snd_Ferdinand2, 127 )
     call SetSoundPitch( gg_snd_Ferdinand2, 1.0 )
-    set gg_snd_Ferdinand3 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ferdinand3, 1950 )
+    set gg_snd_Ferdinand3 = CreateSound( "Sound/Dialogue/Ferdinand/Ferdinand3.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ferdinand3, 11389 )
     call SetSoundChannel( gg_snd_Ferdinand3, 0 )
-    call SetSoundVolume( gg_snd_Ferdinand3, -1 )
+    call SetSoundVolume( gg_snd_Ferdinand3, 127 )
     call SetSoundPitch( gg_snd_Ferdinand3, 1.0 )
-    set gg_snd_Ferdinand4 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ferdinand4, 1950 )
+    set gg_snd_Ferdinand4 = CreateSound( "Sound/Dialogue/Ferdinand/Ferdinand4.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ferdinand4, 10657 )
     call SetSoundChannel( gg_snd_Ferdinand4, 0 )
-    call SetSoundVolume( gg_snd_Ferdinand4, -1 )
+    call SetSoundVolume( gg_snd_Ferdinand4, 127 )
     call SetSoundPitch( gg_snd_Ferdinand4, 1.0 )
-    set gg_snd_Ferdinand5 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ferdinand5, 1950 )
+    set gg_snd_Ferdinand5 = CreateSound( "Sound/Dialogue/Ferdinand/Ferdinand5.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ferdinand5, 15333 )
     call SetSoundChannel( gg_snd_Ferdinand5, 0 )
-    call SetSoundVolume( gg_snd_Ferdinand5, -1 )
+    call SetSoundVolume( gg_snd_Ferdinand5, 127 )
     call SetSoundPitch( gg_snd_Ferdinand5, 1.0 )
-    set gg_snd_Ferdinand6 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ferdinand6, 1950 )
+    set gg_snd_Ferdinand6 = CreateSound( "Sound/Dialogue/Ferdinand/Ferdinand6.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ferdinand6, 6086 )
     call SetSoundChannel( gg_snd_Ferdinand6, 0 )
-    call SetSoundVolume( gg_snd_Ferdinand6, -1 )
+    call SetSoundVolume( gg_snd_Ferdinand6, 127 )
     call SetSoundPitch( gg_snd_Ferdinand6, 1.0 )
-    set gg_snd_Ferdinand7 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ferdinand7, 1950 )
+    set gg_snd_Ferdinand7 = CreateSound( "Sound/Dialogue/Ferdinand/Ferdinand7.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ferdinand7, 7758 )
     call SetSoundChannel( gg_snd_Ferdinand7, 0 )
-    call SetSoundVolume( gg_snd_Ferdinand7, -1 )
+    call SetSoundVolume( gg_snd_Ferdinand7, 127 )
     call SetSoundPitch( gg_snd_Ferdinand7, 1.0 )
-    set gg_snd_Ferdinand8 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ferdinand8, 1950 )
+    set gg_snd_Ferdinand8 = CreateSound( "Sound/Dialogue/Ferdinand/Ferdinand8.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ferdinand8, 10762 )
     call SetSoundChannel( gg_snd_Ferdinand8, 0 )
-    call SetSoundVolume( gg_snd_Ferdinand8, -1 )
+    call SetSoundVolume( gg_snd_Ferdinand8, 127 )
     call SetSoundPitch( gg_snd_Ferdinand8, 1.0 )
-    set gg_snd_Ferdinand9 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ferdinand9, 1950 )
+    set gg_snd_Ferdinand9 = CreateSound( "Sound/Dialogue/Ferdinand/Ferdinand9.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ferdinand9, 4414 )
     call SetSoundChannel( gg_snd_Ferdinand9, 0 )
-    call SetSoundVolume( gg_snd_Ferdinand9, -1 )
+    call SetSoundVolume( gg_snd_Ferdinand9, 127 )
     call SetSoundPitch( gg_snd_Ferdinand9, 1.0 )
-    set gg_snd_Fulco1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Fulco1, 1950 )
+    set gg_snd_Fulco1 = CreateSound( "Sound/Dialogue/Fulco/Fulco1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Fulco1, 6138 )
     call SetSoundChannel( gg_snd_Fulco1, 0 )
-    call SetSoundVolume( gg_snd_Fulco1, -1 )
+    call SetSoundVolume( gg_snd_Fulco1, 127 )
     call SetSoundPitch( gg_snd_Fulco1, 1.0 )
-    set gg_snd_Fulco2 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Fulco2, 1950 )
+    set gg_snd_Fulco2 = CreateSound( "Sound/Dialogue/Fulco/Fulco2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Fulco2, 6138 )
     call SetSoundChannel( gg_snd_Fulco2, 0 )
-    call SetSoundVolume( gg_snd_Fulco2, -1 )
+    call SetSoundVolume( gg_snd_Fulco2, 127 )
     call SetSoundPitch( gg_snd_Fulco2, 1.0 )
-    set gg_snd_Fulco3 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Fulco3, 1950 )
+    set gg_snd_Fulco3 = CreateSound( "Sound/Dialogue/Fulco/Fulco3.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Fulco3, 7888 )
     call SetSoundChannel( gg_snd_Fulco3, 0 )
-    call SetSoundVolume( gg_snd_Fulco3, -1 )
+    call SetSoundVolume( gg_snd_Fulco3, 127 )
     call SetSoundPitch( gg_snd_Fulco3, 1.0 )
-    set gg_snd_Fulco4 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Fulco4, 1950 )
+    set gg_snd_Fulco4 = CreateSound( "Sound/Dialogue/Fulco/Fulco4.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Fulco4, 4780 )
     call SetSoundChannel( gg_snd_Fulco4, 0 )
-    call SetSoundVolume( gg_snd_Fulco4, -1 )
+    call SetSoundVolume( gg_snd_Fulco4, 127 )
     call SetSoundPitch( gg_snd_Fulco4, 1.0 )
-    set gg_snd_Fulco5 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Fulco5, 1950 )
+    set gg_snd_Fulco5 = CreateSound( "Sound/Dialogue/Fulco/Fulco5.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Fulco5, 4153 )
     call SetSoundChannel( gg_snd_Fulco5, 0 )
-    call SetSoundVolume( gg_snd_Fulco5, -1 )
+    call SetSoundVolume( gg_snd_Fulco5, 127 )
     call SetSoundPitch( gg_snd_Fulco5, 1.0 )
-    set gg_snd_Fulco6 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Fulco6, 1950 )
+    set gg_snd_Fulco6 = CreateSound( "Sound/Dialogue/Fulco/Fulco6.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Fulco6, 6400 )
     call SetSoundChannel( gg_snd_Fulco6, 0 )
-    call SetSoundVolume( gg_snd_Fulco6, -1 )
+    call SetSoundVolume( gg_snd_Fulco6, 127 )
     call SetSoundPitch( gg_snd_Fulco6, 1.0 )
-    set gg_snd_Fulco7 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Fulco7, 1950 )
+    set gg_snd_Fulco7 = CreateSound( "Sound/Dialogue/Fulco/Fulco7.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Fulco7, 12277 )
     call SetSoundChannel( gg_snd_Fulco7, 0 )
-    call SetSoundVolume( gg_snd_Fulco7, -1 )
+    call SetSoundVolume( gg_snd_Fulco7, 127 )
     call SetSoundPitch( gg_snd_Fulco7, 1.0 )
-    set gg_snd_Fulco8 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Fulco8, 1950 )
+    set gg_snd_Fulco8 = CreateSound( "Sound/Dialogue/Fulco/Fulco8.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Fulco8, 2324 )
     call SetSoundChannel( gg_snd_Fulco8, 0 )
-    call SetSoundVolume( gg_snd_Fulco8, -1 )
+    call SetSoundVolume( gg_snd_Fulco8, 127 )
     call SetSoundPitch( gg_snd_Fulco8, 1.0 )
-    set gg_snd_Fulco9 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Fulco9, 1950 )
+    set gg_snd_Fulco9 = CreateSound( "Sound/Dialogue/Fulco/Fulco9.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Fulco9, 1593 )
     call SetSoundChannel( gg_snd_Fulco9, 0 )
-    call SetSoundVolume( gg_snd_Fulco9, -1 )
+    call SetSoundVolume( gg_snd_Fulco9, 127 )
     call SetSoundPitch( gg_snd_Fulco9, 1.0 )
-    set gg_snd_FulcoAmbient1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_FulcoAmbient1, 1950 )
+    set gg_snd_FulcoAmbient1 = CreateSound( "Sound/Dialogue/Fulco/FulcoAmbient1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_FulcoAmbient1, 1906 )
     call SetSoundChannel( gg_snd_FulcoAmbient1, 0 )
-    call SetSoundVolume( gg_snd_FulcoAmbient1, -1 )
+    call SetSoundVolume( gg_snd_FulcoAmbient1, 127 )
     call SetSoundPitch( gg_snd_FulcoAmbient1, 1.0 )
-    set gg_snd_FulcoAmbient2 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_FulcoAmbient2, 1950 )
+    set gg_snd_FulcoAmbient2 = CreateSound( "Sound/Dialogue/Fulco/FulcoAmbient2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_FulcoAmbient2, 1750 )
     call SetSoundChannel( gg_snd_FulcoAmbient2, 0 )
-    call SetSoundVolume( gg_snd_FulcoAmbient2, -1 )
+    call SetSoundVolume( gg_snd_FulcoAmbient2, 127 )
     call SetSoundPitch( gg_snd_FulcoAmbient2, 1.0 )
-    set gg_snd_FulcoAmbient3 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_FulcoAmbient3, 1950 )
+    set gg_snd_FulcoAmbient3 = CreateSound( "Sound/Dialogue/Fulco/FulcoAmbient3.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_FulcoAmbient3, 2429 )
     call SetSoundChannel( gg_snd_FulcoAmbient3, 0 )
-    call SetSoundVolume( gg_snd_FulcoAmbient3, -1 )
+    call SetSoundVolume( gg_snd_FulcoAmbient3, 127 )
     call SetSoundPitch( gg_snd_FulcoAmbient3, 1.0 )
-    set gg_snd_FulcoAmbient4 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_FulcoAmbient4, 1950 )
+    set gg_snd_FulcoAmbient4 = CreateSound( "Sound/Dialogue/Fulco/FulcoAmbient4.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_FulcoAmbient4, 2586 )
     call SetSoundChannel( gg_snd_FulcoAmbient4, 0 )
-    call SetSoundVolume( gg_snd_FulcoAmbient4, -1 )
+    call SetSoundVolume( gg_snd_FulcoAmbient4, 127 )
     call SetSoundPitch( gg_snd_FulcoAmbient4, 1.0 )
-    set gg_snd_Giant1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Giant1, 1950 )
+    set gg_snd_Giant1 = CreateSound( "Sound/Dialogue/Giant/Giant1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Giant1, 8724 )
     call SetSoundChannel( gg_snd_Giant1, 0 )
-    call SetSoundVolume( gg_snd_Giant1, -1 )
+    call SetSoundVolume( gg_snd_Giant1, 127 )
     call SetSoundPitch( gg_snd_Giant1, 1.0 )
-    set gg_snd_Giant2 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Giant2, 1950 )
+    set gg_snd_Giant2 = CreateSound( "Sound/Dialogue/Giant/Giant2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Giant2, 3134 )
     call SetSoundChannel( gg_snd_Giant2, 0 )
-    call SetSoundVolume( gg_snd_Giant2, -1 )
+    call SetSoundVolume( gg_snd_Giant2, 127 )
     call SetSoundPitch( gg_snd_Giant2, 1.0 )
+    set gg_snd_Gotlinde1 = CreateSound( "Sound/Dialogue/Gotlinde/Gotlinde1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Gotlinde1, 2429 )
+    call SetSoundChannel( gg_snd_Gotlinde1, 0 )
+    call SetSoundVolume( gg_snd_Gotlinde1, 127 )
+    call SetSoundPitch( gg_snd_Gotlinde1, 1.0 )
+    set gg_snd_Gotlinde10 = CreateSound( "Sound/Dialogue/Gotlinde/Gotlinde10.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Gotlinde10, 4075 )
+    call SetSoundChannel( gg_snd_Gotlinde10, 0 )
+    call SetSoundVolume( gg_snd_Gotlinde10, 127 )
+    call SetSoundPitch( gg_snd_Gotlinde10, 1.0 )
+    set gg_snd_Gotlinde2 = CreateSound( "Sound/Dialogue/Gotlinde/Gotlinde2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Gotlinde2, 10031 )
+    call SetSoundChannel( gg_snd_Gotlinde2, 0 )
+    call SetSoundVolume( gg_snd_Gotlinde2, 127 )
+    call SetSoundPitch( gg_snd_Gotlinde2, 1.0 )
+    set gg_snd_Gotlinde3 = CreateSound( "Sound/Dialogue/Gotlinde/Gotlinde3.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Gotlinde3, 444 )
+    call SetSoundChannel( gg_snd_Gotlinde3, 0 )
+    call SetSoundVolume( gg_snd_Gotlinde3, 127 )
+    call SetSoundPitch( gg_snd_Gotlinde3, 1.0 )
+    set gg_snd_Gotlinde4 = CreateSound( "Sound/Dialogue/Gotlinde/Gotlinde4.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Gotlinde4, 2455 )
+    call SetSoundChannel( gg_snd_Gotlinde4, 0 )
+    call SetSoundVolume( gg_snd_Gotlinde4, 127 )
+    call SetSoundPitch( gg_snd_Gotlinde4, 1.0 )
+    set gg_snd_Gotlinde5 = CreateSound( "Sound/Dialogue/Gotlinde/Gotlinde5.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Gotlinde5, 2977 )
+    call SetSoundChannel( gg_snd_Gotlinde5, 0 )
+    call SetSoundVolume( gg_snd_Gotlinde5, 127 )
+    call SetSoundPitch( gg_snd_Gotlinde5, 1.0 )
+    set gg_snd_Gotlinde6 = CreateSound( "Sound/Dialogue/Gotlinde/Gotlinde6.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Gotlinde6, 2351 )
+    call SetSoundChannel( gg_snd_Gotlinde6, 0 )
+    call SetSoundVolume( gg_snd_Gotlinde6, 127 )
+    call SetSoundPitch( gg_snd_Gotlinde6, 1.0 )
+    set gg_snd_Gotlinde7 = CreateSound( "Sound/Dialogue/Gotlinde/Gotlinde7.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Gotlinde7, 2429 )
+    call SetSoundChannel( gg_snd_Gotlinde7, 0 )
+    call SetSoundVolume( gg_snd_Gotlinde7, 127 )
+    call SetSoundPitch( gg_snd_Gotlinde7, 1.0 )
+    set gg_snd_Gotlinde8 = CreateSound( "Sound/Dialogue/Gotlinde/Gotlinde8.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Gotlinde8, 6739 )
+    call SetSoundChannel( gg_snd_Gotlinde8, 0 )
+    call SetSoundVolume( gg_snd_Gotlinde8, 127 )
+    call SetSoundPitch( gg_snd_Gotlinde8, 1.0 )
+    set gg_snd_Gotlinde9 = CreateSound( "Sound/Dialogue/Gotlinde/Gotlinde9.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Gotlinde9, 5851 )
+    call SetSoundChannel( gg_snd_Gotlinde9, 0 )
+    call SetSoundVolume( gg_snd_Gotlinde9, 127 )
+    call SetSoundPitch( gg_snd_Gotlinde9, 1.0 )
     set gg_snd_GrizzlyBearReady1 = CreateSound( "Units\\Creeps\\GrizzlyBear\\GrizzlyBearReady1.wav", false, true, true, 10, 10, "HeroAcksEAX" )
     call SetSoundDuration( gg_snd_GrizzlyBearReady1, 1985 )
     call SetSoundChannel( gg_snd_GrizzlyBearReady1, 0 )
@@ -4956,501 +4929,490 @@ function InitSounds takes nothing returns nothing
     call SetSoundChannel( gg_snd_GruntWhat3, 0 )
     call SetSoundVolume( gg_snd_GruntWhat3, -1 )
     call SetSoundPitch( gg_snd_GruntWhat3, 1.0 )
-    set gg_snd_Guntrich1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Guntrich1, 640 )
+    set gg_snd_Guntrich1 = CreateSound( "Sound/Dialogue/Guntrich/Guntrich1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Guntrich1, 2742 )
     call SetSoundChannel( gg_snd_Guntrich1, 0 )
-    call SetSoundVolume( gg_snd_Guntrich1, -1 )
+    call SetSoundVolume( gg_snd_Guntrich1, 127 )
     call SetSoundPitch( gg_snd_Guntrich1, 1.0 )
-    set gg_snd_Guntrich10 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Guntrich10, 640 )
+    set gg_snd_Guntrich10 = CreateSound( "Sound/Dialogue/Guntrich/Guntrich10.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Guntrich10, 6870 )
     call SetSoundChannel( gg_snd_Guntrich10, 0 )
-    call SetSoundVolume( gg_snd_Guntrich10, -1 )
+    call SetSoundVolume( gg_snd_Guntrich10, 127 )
     call SetSoundPitch( gg_snd_Guntrich10, 1.0 )
-    set gg_snd_Guntrich11 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Guntrich11, 640 )
+    set gg_snd_Guntrich11 = CreateSound( "Sound/Dialogue/Guntrich/Guntrich11.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Guntrich11, 3552 )
     call SetSoundChannel( gg_snd_Guntrich11, 0 )
-    call SetSoundVolume( gg_snd_Guntrich11, -1 )
+    call SetSoundVolume( gg_snd_Guntrich11, 127 )
     call SetSoundPitch( gg_snd_Guntrich11, 1.0 )
-    set gg_snd_Guntrich12 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Guntrich12, 640 )
+    set gg_snd_Guntrich12 = CreateSound( "Sound/Dialogue/Guntrich/Guntrich12.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Guntrich12, 7915 )
     call SetSoundChannel( gg_snd_Guntrich12, 0 )
-    call SetSoundVolume( gg_snd_Guntrich12, -1 )
+    call SetSoundVolume( gg_snd_Guntrich12, 127 )
     call SetSoundPitch( gg_snd_Guntrich12, 1.0 )
-    set gg_snd_Guntrich13 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Guntrich13, 640 )
+    set gg_snd_Guntrich13 = CreateSound( "Sound/Dialogue/Guntrich/Guntrich13.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Guntrich13, 8176 )
     call SetSoundChannel( gg_snd_Guntrich13, 0 )
-    call SetSoundVolume( gg_snd_Guntrich13, -1 )
+    call SetSoundVolume( gg_snd_Guntrich13, 127 )
     call SetSoundPitch( gg_snd_Guntrich13, 1.0 )
-    set gg_snd_Guntrich14 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Guntrich14, 640 )
+    set gg_snd_Guntrich14 = CreateSound( "Sound/Dialogue/Guntrich/Guntrich14.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Guntrich14, 12512 )
     call SetSoundChannel( gg_snd_Guntrich14, 0 )
-    call SetSoundVolume( gg_snd_Guntrich14, -1 )
+    call SetSoundVolume( gg_snd_Guntrich14, 127 )
     call SetSoundPitch( gg_snd_Guntrich14, 1.0 )
-    set gg_snd_Guntrich2 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Guntrich2, 640 )
+    set gg_snd_Guntrich2 = CreateSound( "Sound/Dialogue/Guntrich/Guntrich2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Guntrich2, 6269 )
     call SetSoundChannel( gg_snd_Guntrich2, 0 )
-    call SetSoundVolume( gg_snd_Guntrich2, -1 )
+    call SetSoundVolume( gg_snd_Guntrich2, 127 )
     call SetSoundPitch( gg_snd_Guntrich2, 1.0 )
-    set gg_snd_Guntrich3 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Guntrich3, 640 )
+    set gg_snd_Guntrich3 = CreateSound( "Sound/Dialogue/Guntrich/Guntrich3.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Guntrich3, 7575 )
     call SetSoundChannel( gg_snd_Guntrich3, 0 )
-    call SetSoundVolume( gg_snd_Guntrich3, -1 )
+    call SetSoundVolume( gg_snd_Guntrich3, 127 )
     call SetSoundPitch( gg_snd_Guntrich3, 1.0 )
-    set gg_snd_Guntrich4 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Guntrich4, 640 )
+    set gg_snd_Guntrich4 = CreateSound( "Sound/Dialogue/Guntrich/Guntrich4.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Guntrich4, 7053 )
     call SetSoundChannel( gg_snd_Guntrich4, 0 )
-    call SetSoundVolume( gg_snd_Guntrich4, -1 )
+    call SetSoundVolume( gg_snd_Guntrich4, 127 )
     call SetSoundPitch( gg_snd_Guntrich4, 1.0 )
-    set gg_snd_Guntrich5 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Guntrich5, 640 )
+    set gg_snd_Guntrich5 = CreateSound( "Sound/Dialogue/Guntrich/Guntrich5.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Guntrich5, 8124 )
     call SetSoundChannel( gg_snd_Guntrich5, 0 )
-    call SetSoundVolume( gg_snd_Guntrich5, -1 )
+    call SetSoundVolume( gg_snd_Guntrich5, 127 )
     call SetSoundPitch( gg_snd_Guntrich5, 1.0 )
-    set gg_snd_Guntrich6 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Guntrich6, 640 )
+    set gg_snd_Guntrich6 = CreateSound( "Sound/Dialogue/Guntrich/Guntrich6.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Guntrich6, 2821 )
     call SetSoundChannel( gg_snd_Guntrich6, 0 )
-    call SetSoundVolume( gg_snd_Guntrich6, -1 )
+    call SetSoundVolume( gg_snd_Guntrich6, 127 )
     call SetSoundPitch( gg_snd_Guntrich6, 1.0 )
-    set gg_snd_Guntrich7 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Guntrich7, 640 )
+    set gg_snd_Guntrich7 = CreateSound( "Sound/Dialogue/Guntrich/Guntrich7.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Guntrich7, 7915 )
     call SetSoundChannel( gg_snd_Guntrich7, 0 )
-    call SetSoundVolume( gg_snd_Guntrich7, -1 )
+    call SetSoundVolume( gg_snd_Guntrich7, 127 )
     call SetSoundPitch( gg_snd_Guntrich7, 1.0 )
-    set gg_snd_Guntrich8 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Guntrich8, 640 )
+    set gg_snd_Guntrich8 = CreateSound( "Sound/Dialogue/Guntrich/Guntrich8.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Guntrich8, 4911 )
     call SetSoundChannel( gg_snd_Guntrich8, 0 )
-    call SetSoundVolume( gg_snd_Guntrich8, -1 )
+    call SetSoundVolume( gg_snd_Guntrich8, 127 )
     call SetSoundPitch( gg_snd_Guntrich8, 1.0 )
-    set gg_snd_Guntrich9 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Guntrich9, 640 )
+    set gg_snd_Guntrich9 = CreateSound( "Sound/Dialogue/Guntrich/Guntrich9.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Guntrich9, 11128 )
     call SetSoundChannel( gg_snd_Guntrich9, 0 )
-    call SetSoundVolume( gg_snd_Guntrich9, -1 )
+    call SetSoundVolume( gg_snd_Guntrich9, 127 )
     call SetSoundPitch( gg_snd_Guntrich9, 1.0 )
-    set gg_snd_Haid1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Haid1, 640 )
+    set gg_snd_Haid1 = CreateSound( "Sound/Dialogue/Haid/Haid1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Haid1, 5407 )
     call SetSoundChannel( gg_snd_Haid1, 0 )
-    call SetSoundVolume( gg_snd_Haid1, -1 )
+    call SetSoundVolume( gg_snd_Haid1, 127 )
     call SetSoundPitch( gg_snd_Haid1, 1.0 )
-    set gg_snd_Haid10 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Haid10, 640 )
+    set gg_snd_Haid10 = CreateSound( "Sound/Dialogue/Haid/Haid10.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Haid10, 12016 )
     call SetSoundChannel( gg_snd_Haid10, 0 )
-    call SetSoundVolume( gg_snd_Haid10, -1 )
+    call SetSoundVolume( gg_snd_Haid10, 127 )
     call SetSoundPitch( gg_snd_Haid10, 1.0 )
-    set gg_snd_Haid11 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Haid11, 640 )
+    set gg_snd_Haid11 = CreateSound( "Sound/Dialogue/Haid/Haid11.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Haid11, 9325 )
     call SetSoundChannel( gg_snd_Haid11, 0 )
-    call SetSoundVolume( gg_snd_Haid11, -1 )
+    call SetSoundVolume( gg_snd_Haid11, 127 )
     call SetSoundPitch( gg_snd_Haid11, 1.0 )
-    set gg_snd_Haid12 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Haid12, 640 )
+    set gg_snd_Haid12 = CreateSound( "Sound/Dialogue/Haid/Haid12.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Haid12, 7601 )
     call SetSoundChannel( gg_snd_Haid12, 0 )
-    call SetSoundVolume( gg_snd_Haid12, -1 )
+    call SetSoundVolume( gg_snd_Haid12, 127 )
     call SetSoundPitch( gg_snd_Haid12, 1.0 )
-    set gg_snd_Haid13 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Haid13, 640 )
+    set gg_snd_Haid13 = CreateSound( "Sound/Dialogue/Haid/Haid13.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Haid13, 6478 )
     call SetSoundChannel( gg_snd_Haid13, 0 )
-    call SetSoundVolume( gg_snd_Haid13, -1 )
+    call SetSoundVolume( gg_snd_Haid13, 127 )
     call SetSoundPitch( gg_snd_Haid13, 1.0 )
-    set gg_snd_Haid14 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Haid14, 640 )
+    set gg_snd_Haid14 = CreateSound( "Sound/Dialogue/Haid/Haid14.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Haid14, 5642 )
     call SetSoundChannel( gg_snd_Haid14, 0 )
-    call SetSoundVolume( gg_snd_Haid14, -1 )
+    call SetSoundVolume( gg_snd_Haid14, 127 )
     call SetSoundPitch( gg_snd_Haid14, 1.0 )
-    set gg_snd_Haid15 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Haid15, 640 )
+    set gg_snd_Haid15 = CreateSound( "Sound/Dialogue/Haid/Haid15.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Haid15, 3526 )
     call SetSoundChannel( gg_snd_Haid15, 0 )
-    call SetSoundVolume( gg_snd_Haid15, -1 )
+    call SetSoundVolume( gg_snd_Haid15, 127 )
     call SetSoundPitch( gg_snd_Haid15, 1.0 )
-    set gg_snd_Haid16 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Haid16, 640 )
+    set gg_snd_Haid16 = CreateSound( "Sound/Dialogue/Haid/Haid16.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Haid16, 6635 )
     call SetSoundChannel( gg_snd_Haid16, 0 )
-    call SetSoundVolume( gg_snd_Haid16, -1 )
+    call SetSoundVolume( gg_snd_Haid16, 127 )
     call SetSoundPitch( gg_snd_Haid16, 1.0 )
-    set gg_snd_Haid17 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Haid17, 640 )
+    set gg_snd_Haid17 = CreateSound( "Sound/Dialogue/Haid/Haid17.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Haid17, 2089 )
     call SetSoundChannel( gg_snd_Haid17, 0 )
-    call SetSoundVolume( gg_snd_Haid17, -1 )
+    call SetSoundVolume( gg_snd_Haid17, 127 )
     call SetSoundPitch( gg_snd_Haid17, 1.0 )
-    set gg_snd_Haid18 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Haid18, 640 )
+    set gg_snd_Haid18 = CreateSound( "Sound/Dialogue/Haid/Haid18.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Haid18, 5120 )
     call SetSoundChannel( gg_snd_Haid18, 0 )
-    call SetSoundVolume( gg_snd_Haid18, -1 )
+    call SetSoundVolume( gg_snd_Haid18, 127 )
     call SetSoundPitch( gg_snd_Haid18, 1.0 )
-    set gg_snd_Haid19 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Haid19, 640 )
+    set gg_snd_Haid19 = CreateSound( "Sound/Dialogue/Haid/Haid19.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Haid19, 3082 )
     call SetSoundChannel( gg_snd_Haid19, 0 )
-    call SetSoundVolume( gg_snd_Haid19, -1 )
+    call SetSoundVolume( gg_snd_Haid19, 127 )
     call SetSoundPitch( gg_snd_Haid19, 1.0 )
-    set gg_snd_Haid2 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Haid2, 640 )
+    set gg_snd_Haid1old = CreateSound( "Sound/Dialogue/Haid/Haid1old.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Haid1old, 5537 )
+    call SetSoundChannel( gg_snd_Haid1old, 0 )
+    call SetSoundVolume( gg_snd_Haid1old, 127 )
+    call SetSoundPitch( gg_snd_Haid1old, 1.0 )
+    set gg_snd_Haid2 = CreateSound( "Sound/Dialogue/Haid/Haid2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Haid2, 6504 )
     call SetSoundChannel( gg_snd_Haid2, 0 )
-    call SetSoundVolume( gg_snd_Haid2, -1 )
+    call SetSoundVolume( gg_snd_Haid2, 127 )
     call SetSoundPitch( gg_snd_Haid2, 1.0 )
-    set gg_snd_Haid20 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Haid20, 640 )
+    set gg_snd_Haid20 = CreateSound( "Sound/Dialogue/Haid/Haid20.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Haid20, 2560 )
     call SetSoundChannel( gg_snd_Haid20, 0 )
-    call SetSoundVolume( gg_snd_Haid20, -1 )
+    call SetSoundVolume( gg_snd_Haid20, 127 )
     call SetSoundPitch( gg_snd_Haid20, 1.0 )
-    set gg_snd_Haid21 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Haid21, 640 )
+    set gg_snd_Haid21 = CreateSound( "Sound/Dialogue/Haid/Haid21.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Haid21, 5851 )
     call SetSoundChannel( gg_snd_Haid21, 0 )
-    call SetSoundVolume( gg_snd_Haid21, -1 )
+    call SetSoundVolume( gg_snd_Haid21, 127 )
     call SetSoundPitch( gg_snd_Haid21, 1.0 )
-    set gg_snd_Haid3 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Haid3, 640 )
+    set gg_snd_Haid3 = CreateSound( "Sound/Dialogue/Haid/Haid3.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Haid3, 3840 )
     call SetSoundChannel( gg_snd_Haid3, 0 )
-    call SetSoundVolume( gg_snd_Haid3, -1 )
+    call SetSoundVolume( gg_snd_Haid3, 127 )
     call SetSoundPitch( gg_snd_Haid3, 1.0 )
-    set gg_snd_Haid4 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Haid4, 640 )
+    set gg_snd_Haid4 = CreateSound( "Sound/Dialogue/Haid/Haid4.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Haid4, 10187 )
     call SetSoundChannel( gg_snd_Haid4, 0 )
-    call SetSoundVolume( gg_snd_Haid4, -1 )
+    call SetSoundVolume( gg_snd_Haid4, 127 )
     call SetSoundPitch( gg_snd_Haid4, 1.0 )
-    set gg_snd_Haid5 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Haid5, 640 )
+    set gg_snd_Haid5 = CreateSound( "Sound/Dialogue/Haid/Haid5.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Haid5, 7235 )
     call SetSoundChannel( gg_snd_Haid5, 0 )
-    call SetSoundVolume( gg_snd_Haid5, -1 )
+    call SetSoundVolume( gg_snd_Haid5, 127 )
     call SetSoundPitch( gg_snd_Haid5, 1.0 )
-    set gg_snd_Haid6 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Haid6, 640 )
+    set gg_snd_Haid6 = CreateSound( "Sound/Dialogue/Haid/Haid6.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Haid6, 9586 )
     call SetSoundChannel( gg_snd_Haid6, 0 )
-    call SetSoundVolume( gg_snd_Haid6, -1 )
+    call SetSoundVolume( gg_snd_Haid6, 127 )
     call SetSoundPitch( gg_snd_Haid6, 1.0 )
-    set gg_snd_Haid7 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Haid7, 640 )
+    set gg_snd_Haid7 = CreateSound( "Sound/Dialogue/Haid/Haid7.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Haid7, 9952 )
     call SetSoundChannel( gg_snd_Haid7, 0 )
-    call SetSoundVolume( gg_snd_Haid7, -1 )
+    call SetSoundVolume( gg_snd_Haid7, 127 )
     call SetSoundPitch( gg_snd_Haid7, 1.0 )
-    set gg_snd_Haid8 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Haid8, 640 )
+    set gg_snd_Haid8 = CreateSound( "Sound/Dialogue/Haid/Haid8.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Haid8, 6635 )
     call SetSoundChannel( gg_snd_Haid8, 0 )
-    call SetSoundVolume( gg_snd_Haid8, -1 )
+    call SetSoundVolume( gg_snd_Haid8, 127 )
     call SetSoundPitch( gg_snd_Haid8, 1.0 )
-    set gg_snd_Haid9 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Haid9, 640 )
+    set gg_snd_Haid9 = CreateSound( "Sound/Dialogue/Haid/Haid9.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Haid9, 9534 )
     call SetSoundChannel( gg_snd_Haid9, 0 )
-    call SetSoundVolume( gg_snd_Haid9, -1 )
+    call SetSoundVolume( gg_snd_Haid9, 127 )
     call SetSoundPitch( gg_snd_Haid9, 1.0 )
-    set gg_snd_Haldar1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Haldar1, 640 )
+    set gg_snd_Haldar1 = CreateSound( "Sound/Dialogue/Haldar/Haldar1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Haldar1, 3866 )
     call SetSoundChannel( gg_snd_Haldar1, 0 )
-    call SetSoundVolume( gg_snd_Haldar1, -1 )
+    call SetSoundVolume( gg_snd_Haldar1, 127 )
     call SetSoundPitch( gg_snd_Haldar1, 1.0 )
-    set gg_snd_Haldar10 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Haldar10, 640 )
+    set gg_snd_Haldar10 = CreateSound( "Sound/Dialogue/Haldar/Haldar10.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Haldar10, 9691 )
     call SetSoundChannel( gg_snd_Haldar10, 0 )
-    call SetSoundVolume( gg_snd_Haldar10, -1 )
+    call SetSoundVolume( gg_snd_Haldar10, 127 )
     call SetSoundPitch( gg_snd_Haldar10, 1.0 )
-    set gg_snd_Haldar11 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Haldar11, 640 )
+    set gg_snd_Haldar11 = CreateSound( "Sound/Dialogue/Haldar/Haldar11.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Haldar11, 15986 )
     call SetSoundChannel( gg_snd_Haldar11, 0 )
-    call SetSoundVolume( gg_snd_Haldar11, -1 )
+    call SetSoundVolume( gg_snd_Haldar11, 127 )
     call SetSoundPitch( gg_snd_Haldar11, 1.0 )
-    set gg_snd_Haldar12 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Haldar12, 640 )
+    set gg_snd_Haldar12 = CreateSound( "Sound/Dialogue/Haldar/Haldar12.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Haldar12, 20323 )
     call SetSoundChannel( gg_snd_Haldar12, 0 )
-    call SetSoundVolume( gg_snd_Haldar12, -1 )
+    call SetSoundVolume( gg_snd_Haldar12, 127 )
     call SetSoundPitch( gg_snd_Haldar12, 1.0 )
-    set gg_snd_Haldar13 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Haldar13, 640 )
+    set gg_snd_Haldar13 = CreateSound( "Sound/Dialogue/Haldar/Haldar13.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Haldar13, 13479 )
     call SetSoundChannel( gg_snd_Haldar13, 0 )
-    call SetSoundVolume( gg_snd_Haldar13, -1 )
+    call SetSoundVolume( gg_snd_Haldar13, 127 )
     call SetSoundPitch( gg_snd_Haldar13, 1.0 )
-    set gg_snd_Haldar14 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Haldar14, 640 )
+    set gg_snd_Haldar14 = CreateSound( "Sound/Dialogue/Haldar/Haldar14.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Haldar14, 7235 )
     call SetSoundChannel( gg_snd_Haldar14, 0 )
-    call SetSoundVolume( gg_snd_Haldar14, -1 )
+    call SetSoundVolume( gg_snd_Haldar14, 127 )
     call SetSoundPitch( gg_snd_Haldar14, 1.0 )
-    set gg_snd_Haldar15 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Haldar15, 640 )
+    set gg_snd_Haldar15 = CreateSound( "Sound/Dialogue/Haldar/Haldar15.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Haldar15, 13662 )
     call SetSoundChannel( gg_snd_Haldar15, 0 )
-    call SetSoundVolume( gg_snd_Haldar15, -1 )
+    call SetSoundVolume( gg_snd_Haldar15, 127 )
     call SetSoundPitch( gg_snd_Haldar15, 1.0 )
-    set gg_snd_Haldar16 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Haldar16, 640 )
+    set gg_snd_Haldar16 = CreateSound( "Sound/Dialogue/Haldar/Haldar16.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Haldar16, 10997 )
     call SetSoundChannel( gg_snd_Haldar16, 0 )
-    call SetSoundVolume( gg_snd_Haldar16, -1 )
+    call SetSoundVolume( gg_snd_Haldar16, 127 )
     call SetSoundPitch( gg_snd_Haldar16, 1.0 )
-    set gg_snd_Haldar17 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Haldar17, 640 )
+    set gg_snd_Haldar17 = CreateSound( "Sound/Dialogue/Haldar/Haldar17.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Haldar17, 6504 )
     call SetSoundChannel( gg_snd_Haldar17, 0 )
-    call SetSoundVolume( gg_snd_Haldar17, -1 )
+    call SetSoundVolume( gg_snd_Haldar17, 127 )
     call SetSoundPitch( gg_snd_Haldar17, 1.0 )
-    set gg_snd_Haldar18 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Haldar18, 640 )
+    set gg_snd_Haldar18 = CreateSound( "Sound/Dialogue/Haldar/Haldar18.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Haldar18, 5172 )
     call SetSoundChannel( gg_snd_Haldar18, 0 )
-    call SetSoundVolume( gg_snd_Haldar18, -1 )
+    call SetSoundVolume( gg_snd_Haldar18, 127 )
     call SetSoundPitch( gg_snd_Haldar18, 1.0 )
-    set gg_snd_Haldar19 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Haldar19, 640 )
+    set gg_snd_Haldar19 = CreateSound( "Sound/Dialogue/Haldar/Haldar19.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Haldar19, 9848 )
     call SetSoundChannel( gg_snd_Haldar19, 0 )
-    call SetSoundVolume( gg_snd_Haldar19, -1 )
+    call SetSoundVolume( gg_snd_Haldar19, 127 )
     call SetSoundPitch( gg_snd_Haldar19, 1.0 )
-    set gg_snd_Haldar2 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Haldar2, 640 )
+    set gg_snd_Haldar2 = CreateSound( "Sound/Dialogue/Haldar/Haldar2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Haldar2, 2899 )
     call SetSoundChannel( gg_snd_Haldar2, 0 )
-    call SetSoundVolume( gg_snd_Haldar2, -1 )
+    call SetSoundVolume( gg_snd_Haldar2, 127 )
     call SetSoundPitch( gg_snd_Haldar2, 1.0 )
-    set gg_snd_Haldar20 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Haldar20, 640 )
+    set gg_snd_Haldar20 = CreateSound( "Sound/Dialogue/Haldar/Haldar20.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Haldar20, 6582 )
     call SetSoundChannel( gg_snd_Haldar20, 0 )
-    call SetSoundVolume( gg_snd_Haldar20, -1 )
+    call SetSoundVolume( gg_snd_Haldar20, 127 )
     call SetSoundPitch( gg_snd_Haldar20, 1.0 )
-    set gg_snd_Haldar21 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Haldar21, 640 )
+    set gg_snd_Haldar21 = CreateSound( "Sound/Dialogue/Haldar/Haldar21.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Haldar21, 6086 )
     call SetSoundChannel( gg_snd_Haldar21, 0 )
-    call SetSoundVolume( gg_snd_Haldar21, -1 )
+    call SetSoundVolume( gg_snd_Haldar21, 127 )
     call SetSoundPitch( gg_snd_Haldar21, 1.0 )
-    set gg_snd_Haldar22 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Haldar22, 640 )
+    set gg_snd_Haldar22 = CreateSound( "Sound/Dialogue/Haldar/Haldar22.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Haldar22, 9404 )
     call SetSoundChannel( gg_snd_Haldar22, 0 )
-    call SetSoundVolume( gg_snd_Haldar22, -1 )
+    call SetSoundVolume( gg_snd_Haldar22, 127 )
     call SetSoundPitch( gg_snd_Haldar22, 1.0 )
-    set gg_snd_Haldar23 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Haldar23, 640 )
+    set gg_snd_Haldar23 = CreateSound( "Sound/Dialogue/Haldar/Haldar23.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Haldar23, 18102 )
     call SetSoundChannel( gg_snd_Haldar23, 0 )
-    call SetSoundVolume( gg_snd_Haldar23, -1 )
+    call SetSoundVolume( gg_snd_Haldar23, 127 )
     call SetSoundPitch( gg_snd_Haldar23, 1.0 )
-    set gg_snd_Haldar24 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Haldar24, 640 )
+    set gg_snd_Haldar24 = CreateSound( "Sound/Dialogue/Haldar/Haldar24.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Haldar24, 2795 )
     call SetSoundChannel( gg_snd_Haldar24, 0 )
-    call SetSoundVolume( gg_snd_Haldar24, -1 )
+    call SetSoundVolume( gg_snd_Haldar24, 127 )
     call SetSoundPitch( gg_snd_Haldar24, 1.0 )
-    set gg_snd_Haldar25 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Haldar25, 640 )
+    set gg_snd_Haldar25 = CreateSound( "Sound/Dialogue/Haldar/Haldar25.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Haldar25, 4963 )
     call SetSoundChannel( gg_snd_Haldar25, 0 )
-    call SetSoundVolume( gg_snd_Haldar25, -1 )
+    call SetSoundVolume( gg_snd_Haldar25, 127 )
     call SetSoundPitch( gg_snd_Haldar25, 1.0 )
-    set gg_snd_Haldar26 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Haldar26, 640 )
+    set gg_snd_Haldar26 = CreateSound( "Sound/Dialogue/Haldar/Haldar26.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Haldar26, 10840 )
     call SetSoundChannel( gg_snd_Haldar26, 0 )
-    call SetSoundVolume( gg_snd_Haldar26, -1 )
+    call SetSoundVolume( gg_snd_Haldar26, 127 )
     call SetSoundPitch( gg_snd_Haldar26, 1.0 )
-    set gg_snd_Haldar27 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Haldar27, 640 )
+    set gg_snd_Haldar27 = CreateSound( "Sound/Dialogue/Haldar/Haldar27.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Haldar27, 7209 )
     call SetSoundChannel( gg_snd_Haldar27, 0 )
-    call SetSoundVolume( gg_snd_Haldar27, -1 )
+    call SetSoundVolume( gg_snd_Haldar27, 127 )
     call SetSoundPitch( gg_snd_Haldar27, 1.0 )
-    set gg_snd_Haldar28 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Haldar28, 640 )
+    set gg_snd_Haldar28 = CreateSound( "Sound/Dialogue/Haldar/Haldar28.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Haldar28, 1828 )
     call SetSoundChannel( gg_snd_Haldar28, 0 )
-    call SetSoundVolume( gg_snd_Haldar28, -1 )
+    call SetSoundVolume( gg_snd_Haldar28, 127 )
     call SetSoundPitch( gg_snd_Haldar28, 1.0 )
-    set gg_snd_Haldar29 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Haldar29, 640 )
+    set gg_snd_Haldar29 = CreateSound( "Sound/Dialogue/Haldar/Haldar29.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Haldar29, 7993 )
     call SetSoundChannel( gg_snd_Haldar29, 0 )
-    call SetSoundVolume( gg_snd_Haldar29, -1 )
+    call SetSoundVolume( gg_snd_Haldar29, 127 )
     call SetSoundPitch( gg_snd_Haldar29, 1.0 )
-    set gg_snd_Haldar3 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Haldar3, 640 )
+    set gg_snd_Haldar3 = CreateSound( "Sound/Dialogue/Haldar/Haldar3.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Haldar3, 4780 )
     call SetSoundChannel( gg_snd_Haldar3, 0 )
-    call SetSoundVolume( gg_snd_Haldar3, -1 )
+    call SetSoundVolume( gg_snd_Haldar3, 127 )
     call SetSoundPitch( gg_snd_Haldar3, 1.0 )
-    set gg_snd_Haldar30 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Haldar30, 640 )
+    set gg_snd_Haldar30 = CreateSound( "Sound/Dialogue/Haldar/Haldar30.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Haldar30, 8385 )
     call SetSoundChannel( gg_snd_Haldar30, 0 )
-    call SetSoundVolume( gg_snd_Haldar30, -1 )
+    call SetSoundVolume( gg_snd_Haldar30, 127 )
     call SetSoundPitch( gg_snd_Haldar30, 1.0 )
-    set gg_snd_Haldar31 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Haldar31, 640 )
+    set gg_snd_Haldar31 = CreateSound( "Sound/Dialogue/Haldar/Haldar31.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Haldar31, 10866 )
     call SetSoundChannel( gg_snd_Haldar31, 0 )
-    call SetSoundVolume( gg_snd_Haldar31, -1 )
+    call SetSoundVolume( gg_snd_Haldar31, 127 )
     call SetSoundPitch( gg_snd_Haldar31, 1.0 )
-    set gg_snd_Haldar4 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Haldar4, 640 )
+    set gg_snd_Haldar4 = CreateSound( "Sound/Dialogue/Haldar/Haldar4.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Haldar4, 2481 )
     call SetSoundChannel( gg_snd_Haldar4, 0 )
-    call SetSoundVolume( gg_snd_Haldar4, -1 )
+    call SetSoundVolume( gg_snd_Haldar4, 127 )
     call SetSoundPitch( gg_snd_Haldar4, 1.0 )
-    set gg_snd_Haldar5 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Haldar5, 640 )
+    set gg_snd_Haldar5 = CreateSound( "Sound/Dialogue/Haldar/Haldar5.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Haldar5, 8933 )
     call SetSoundChannel( gg_snd_Haldar5, 0 )
-    call SetSoundVolume( gg_snd_Haldar5, -1 )
+    call SetSoundVolume( gg_snd_Haldar5, 127 )
     call SetSoundPitch( gg_snd_Haldar5, 1.0 )
-    set gg_snd_Haldar6 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Haldar6, 640 )
+    set gg_snd_Haldar6 = CreateSound( "Sound/Dialogue/Haldar/Haldar6.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Haldar6, 8045 )
     call SetSoundChannel( gg_snd_Haldar6, 0 )
-    call SetSoundVolume( gg_snd_Haldar6, -1 )
+    call SetSoundVolume( gg_snd_Haldar6, 127 )
     call SetSoundPitch( gg_snd_Haldar6, 1.0 )
-    set gg_snd_Haldar7 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Haldar7, 640 )
+    set gg_snd_Haldar7 = CreateSound( "Sound/Dialogue/Haldar/Haldar7.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Haldar7, 6635 )
     call SetSoundChannel( gg_snd_Haldar7, 0 )
-    call SetSoundVolume( gg_snd_Haldar7, -1 )
+    call SetSoundVolume( gg_snd_Haldar7, 127 )
     call SetSoundPitch( gg_snd_Haldar7, 1.0 )
-    set gg_snd_Haldar8 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Haldar8, 640 )
+    set gg_snd_Haldar8 = CreateSound( "Sound/Dialogue/Haldar/Haldar8.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Haldar8, 6530 )
     call SetSoundChannel( gg_snd_Haldar8, 0 )
-    call SetSoundVolume( gg_snd_Haldar8, -1 )
+    call SetSoundVolume( gg_snd_Haldar8, 127 )
     call SetSoundPitch( gg_snd_Haldar8, 1.0 )
-    set gg_snd_Haldar9 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Haldar9, 640 )
+    set gg_snd_Haldar9 = CreateSound( "Sound/Dialogue/Haldar/Haldar9.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Haldar9, 5564 )
     call SetSoundChannel( gg_snd_Haldar9, 0 )
-    call SetSoundVolume( gg_snd_Haldar9, -1 )
+    call SetSoundVolume( gg_snd_Haldar9, 127 )
     call SetSoundPitch( gg_snd_Haldar9, 1.0 )
-    set gg_snd_Heimrich1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Heimrich1, 640 )
+    set gg_snd_Heimrich1 = CreateSound( "Sound/Dialogue/Heimrich/Heimrich1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Heimrich1, 10370 )
     call SetSoundChannel( gg_snd_Heimrich1, 0 )
-    call SetSoundVolume( gg_snd_Heimrich1, -1 )
+    call SetSoundVolume( gg_snd_Heimrich1, 127 )
     call SetSoundPitch( gg_snd_Heimrich1, 1.0 )
-    set gg_snd_Heimrich10 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Heimrich10, 640 )
+    set gg_snd_Heimrich10 = CreateSound( "Sound/Dialogue/Heimrich/Heimrich10.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Heimrich10, 6713 )
     call SetSoundChannel( gg_snd_Heimrich10, 0 )
-    call SetSoundVolume( gg_snd_Heimrich10, -1 )
+    call SetSoundVolume( gg_snd_Heimrich10, 127 )
     call SetSoundPitch( gg_snd_Heimrich10, 1.0 )
-    set gg_snd_Heimrich11 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Heimrich11, 640 )
+    set gg_snd_Heimrich11 = CreateSound( "Sound/Dialogue/Heimrich/Heimrich11.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Heimrich11, 9377 )
     call SetSoundChannel( gg_snd_Heimrich11, 0 )
-    call SetSoundVolume( gg_snd_Heimrich11, -1 )
+    call SetSoundVolume( gg_snd_Heimrich11, 127 )
     call SetSoundPitch( gg_snd_Heimrich11, 1.0 )
-    set gg_snd_Heimrich12 = CreateSound( "---Invalid Sound Filepath---", false, true, true, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Heimrich12, 640 )
+    set gg_snd_Heimrich12 = CreateSound( "Sound/Dialogue/Heimrich/Heimrich12.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Heimrich12, 2246 )
     call SetSoundChannel( gg_snd_Heimrich12, 0 )
-    call SetSoundVolume( gg_snd_Heimrich12, -1 )
+    call SetSoundVolume( gg_snd_Heimrich12, 127 )
     call SetSoundPitch( gg_snd_Heimrich12, 1.0 )
-    call SetSoundDistances( gg_snd_Heimrich12, 0.0, 10000.0 )
-    call SetSoundDistanceCutoff( gg_snd_Heimrich12, 1000.0 )
-    call SetSoundConeAngles( gg_snd_Heimrich12, 0.0, 0.0, 127 )
-    call SetSoundConeOrientation( gg_snd_Heimrich12, 0.0, 0.0, 0.0 )
-    set gg_snd_Heimrich13 = CreateSound( "---Invalid Sound Filepath---", false, true, true, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Heimrich13, 640 )
+    set gg_snd_Heimrich13 = CreateSound( "Sound/Dialogue/Heimrich/Heimrich13.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Heimrich13, 2925 )
     call SetSoundChannel( gg_snd_Heimrich13, 0 )
-    call SetSoundVolume( gg_snd_Heimrich13, -1 )
+    call SetSoundVolume( gg_snd_Heimrich13, 127 )
     call SetSoundPitch( gg_snd_Heimrich13, 1.0 )
-    call SetSoundDistances( gg_snd_Heimrich13, 0.0, 10000.0 )
-    call SetSoundDistanceCutoff( gg_snd_Heimrich13, 1000.0 )
-    call SetSoundConeAngles( gg_snd_Heimrich13, 0.0, 0.0, 127 )
-    call SetSoundConeOrientation( gg_snd_Heimrich13, 0.0, 0.0, 0.0 )
-    set gg_snd_Heimrich14 = CreateSound( "---Invalid Sound Filepath---", false, true, true, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Heimrich14, 640 )
+    set gg_snd_Heimrich14 = CreateSound( "Sound/Dialogue/Heimrich/Heimrich14.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Heimrich14, 2324 )
     call SetSoundChannel( gg_snd_Heimrich14, 0 )
-    call SetSoundVolume( gg_snd_Heimrich14, -1 )
+    call SetSoundVolume( gg_snd_Heimrich14, 127 )
     call SetSoundPitch( gg_snd_Heimrich14, 1.0 )
-    call SetSoundDistances( gg_snd_Heimrich14, 0.0, 10000.0 )
-    call SetSoundDistanceCutoff( gg_snd_Heimrich14, 1000.0 )
-    call SetSoundConeAngles( gg_snd_Heimrich14, 0.0, 0.0, 127 )
-    call SetSoundConeOrientation( gg_snd_Heimrich14, 0.0, 0.0, 0.0 )
-    set gg_snd_Heimrich15 = CreateSound( "---Invalid Sound Filepath---", false, true, true, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Heimrich15, 640 )
+    set gg_snd_Heimrich15 = CreateSound( "Sound/Dialogue/Heimrich/Heimrich15.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Heimrich15, 3474 )
     call SetSoundChannel( gg_snd_Heimrich15, 0 )
-    call SetSoundVolume( gg_snd_Heimrich15, -1 )
+    call SetSoundVolume( gg_snd_Heimrich15, 127 )
     call SetSoundPitch( gg_snd_Heimrich15, 1.0 )
-    call SetSoundDistances( gg_snd_Heimrich15, 0.0, 10000.0 )
-    call SetSoundDistanceCutoff( gg_snd_Heimrich15, 1000.0 )
-    call SetSoundConeAngles( gg_snd_Heimrich15, 0.0, 0.0, 127 )
-    call SetSoundConeOrientation( gg_snd_Heimrich15, 0.0, 0.0, 0.0 )
-    set gg_snd_Heimrich16 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Heimrich16, 640 )
+    set gg_snd_Heimrich16 = CreateSound( "Sound/Dialogue/Heimrich/Heimrich16.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Heimrich16, 8907 )
     call SetSoundChannel( gg_snd_Heimrich16, 0 )
-    call SetSoundVolume( gg_snd_Heimrich16, -1 )
+    call SetSoundVolume( gg_snd_Heimrich16, 127 )
     call SetSoundPitch( gg_snd_Heimrich16, 1.0 )
-    set gg_snd_Heimrich17 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Heimrich17, 640 )
+    set gg_snd_Heimrich17 = CreateSound( "Sound/Dialogue/Heimrich/Heimrich17.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Heimrich17, 14994 )
     call SetSoundChannel( gg_snd_Heimrich17, 0 )
-    call SetSoundVolume( gg_snd_Heimrich17, -1 )
+    call SetSoundVolume( gg_snd_Heimrich17, 127 )
     call SetSoundPitch( gg_snd_Heimrich17, 1.0 )
-    set gg_snd_Heimrich18 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Heimrich18, 640 )
+    set gg_snd_Heimrich18 = CreateSound( "Sound/Dialogue/Heimrich/Heimrich18.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Heimrich18, 9090 )
     call SetSoundChannel( gg_snd_Heimrich18, 0 )
-    call SetSoundVolume( gg_snd_Heimrich18, -1 )
+    call SetSoundVolume( gg_snd_Heimrich18, 127 )
     call SetSoundPitch( gg_snd_Heimrich18, 1.0 )
-    set gg_snd_Heimrich19 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Heimrich19, 640 )
+    set gg_snd_Heimrich19 = CreateSound( "Sound/Dialogue/Heimrich/Heimrich19.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Heimrich19, 15986 )
     call SetSoundChannel( gg_snd_Heimrich19, 0 )
-    call SetSoundVolume( gg_snd_Heimrich19, -1 )
+    call SetSoundVolume( gg_snd_Heimrich19, 127 )
     call SetSoundPitch( gg_snd_Heimrich19, 1.0 )
-    set gg_snd_Heimrich2 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Heimrich2, 640 )
+    set gg_snd_Heimrich2 = CreateSound( "Sound/Dialogue/Heimrich/Heimrich2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Heimrich2, 11781 )
     call SetSoundChannel( gg_snd_Heimrich2, 0 )
-    call SetSoundVolume( gg_snd_Heimrich2, -1 )
+    call SetSoundVolume( gg_snd_Heimrich2, 127 )
     call SetSoundPitch( gg_snd_Heimrich2, 1.0 )
-    set gg_snd_Heimrich20 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Heimrich20, 640 )
+    set gg_snd_Heimrich20 = CreateSound( "Sound/Dialogue/Heimrich/Heimrich20.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Heimrich20, 5799 )
     call SetSoundChannel( gg_snd_Heimrich20, 0 )
-    call SetSoundVolume( gg_snd_Heimrich20, -1 )
+    call SetSoundVolume( gg_snd_Heimrich20, 127 )
     call SetSoundPitch( gg_snd_Heimrich20, 1.0 )
-    set gg_snd_Heimrich21 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Heimrich21, 640 )
+    set gg_snd_Heimrich21 = CreateSound( "Sound/Dialogue/Heimrich/Heimrich21.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Heimrich21, 10109 )
     call SetSoundChannel( gg_snd_Heimrich21, 0 )
-    call SetSoundVolume( gg_snd_Heimrich21, -1 )
+    call SetSoundVolume( gg_snd_Heimrich21, 127 )
     call SetSoundPitch( gg_snd_Heimrich21, 1.0 )
-    set gg_snd_Heimrich22 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Heimrich22, 640 )
+    set gg_snd_Heimrich22 = CreateSound( "Sound/Dialogue/Heimrich/Heimrich22.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Heimrich22, 7026 )
     call SetSoundChannel( gg_snd_Heimrich22, 0 )
-    call SetSoundVolume( gg_snd_Heimrich22, -1 )
+    call SetSoundVolume( gg_snd_Heimrich22, 127 )
     call SetSoundPitch( gg_snd_Heimrich22, 1.0 )
-    set gg_snd_Heimrich23 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Heimrich23, 640 )
+    set gg_snd_Heimrich23 = CreateSound( "Sound/Dialogue/Heimrich/Heimrich23.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Heimrich23, 3944 )
     call SetSoundChannel( gg_snd_Heimrich23, 0 )
-    call SetSoundVolume( gg_snd_Heimrich23, -1 )
+    call SetSoundVolume( gg_snd_Heimrich23, 127 )
     call SetSoundPitch( gg_snd_Heimrich23, 1.0 )
-    set gg_snd_Heimrich24 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Heimrich24, 640 )
+    set gg_snd_Heimrich24 = CreateSound( "Sound/Dialogue/Heimrich/Heimrich24.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Heimrich24, 15046 )
     call SetSoundChannel( gg_snd_Heimrich24, 0 )
-    call SetSoundVolume( gg_snd_Heimrich24, -1 )
+    call SetSoundVolume( gg_snd_Heimrich24, 127 )
     call SetSoundPitch( gg_snd_Heimrich24, 1.0 )
-    set gg_snd_Heimrich25 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Heimrich25, 640 )
+    set gg_snd_Heimrich25 = CreateSound( "Sound/Dialogue/Heimrich/Heimrich25.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Heimrich25, 11572 )
     call SetSoundChannel( gg_snd_Heimrich25, 0 )
-    call SetSoundVolume( gg_snd_Heimrich25, -1 )
+    call SetSoundVolume( gg_snd_Heimrich25, 127 )
     call SetSoundPitch( gg_snd_Heimrich25, 1.0 )
-    set gg_snd_Heimrich26 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Heimrich26, 640 )
+    set gg_snd_Heimrich26 = CreateSound( "Sound/Dialogue/Heimrich/Heimrich26.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Heimrich26, 4806 )
     call SetSoundChannel( gg_snd_Heimrich26, 0 )
-    call SetSoundVolume( gg_snd_Heimrich26, -1 )
+    call SetSoundVolume( gg_snd_Heimrich26, 127 )
     call SetSoundPitch( gg_snd_Heimrich26, 1.0 )
-    set gg_snd_Heimrich27 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Heimrich27, 640 )
+    set gg_snd_Heimrich27 = CreateSound( "Sound/Dialogue/Heimrich/Heimrich27.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Heimrich27, 8960 )
     call SetSoundChannel( gg_snd_Heimrich27, 0 )
-    call SetSoundVolume( gg_snd_Heimrich27, -1 )
+    call SetSoundVolume( gg_snd_Heimrich27, 127 )
     call SetSoundPitch( gg_snd_Heimrich27, 1.0 )
-    set gg_snd_Heimrich28 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Heimrich28, 640 )
+    set gg_snd_Heimrich28 = CreateSound( "Sound/Dialogue/Heimrich/Heimrich28.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Heimrich28, 22543 )
     call SetSoundChannel( gg_snd_Heimrich28, 0 )
-    call SetSoundVolume( gg_snd_Heimrich28, -1 )
+    call SetSoundVolume( gg_snd_Heimrich28, 127 )
     call SetSoundPitch( gg_snd_Heimrich28, 1.0 )
-    set gg_snd_Heimrich29 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Heimrich29, 640 )
+    set gg_snd_Heimrich29 = CreateSound( "Sound/Dialogue/Heimrich/Heimrich29.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Heimrich29, 10135 )
     call SetSoundChannel( gg_snd_Heimrich29, 0 )
-    call SetSoundVolume( gg_snd_Heimrich29, -1 )
+    call SetSoundVolume( gg_snd_Heimrich29, 127 )
     call SetSoundPitch( gg_snd_Heimrich29, 1.0 )
-    set gg_snd_Heimrich3 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Heimrich3, 640 )
+    set gg_snd_Heimrich3 = CreateSound( "Sound/Dialogue/Heimrich/Heimrich3.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Heimrich3, 9534 )
     call SetSoundChannel( gg_snd_Heimrich3, 0 )
-    call SetSoundVolume( gg_snd_Heimrich3, -1 )
+    call SetSoundVolume( gg_snd_Heimrich3, 127 )
     call SetSoundPitch( gg_snd_Heimrich3, 1.0 )
-    set gg_snd_Heimrich30 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Heimrich30, 640 )
+    set gg_snd_Heimrich30 = CreateSound( "Sound/Dialogue/Heimrich/Heimrich30.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Heimrich30, 18573 )
     call SetSoundChannel( gg_snd_Heimrich30, 0 )
-    call SetSoundVolume( gg_snd_Heimrich30, -1 )
+    call SetSoundVolume( gg_snd_Heimrich30, 127 )
     call SetSoundPitch( gg_snd_Heimrich30, 1.0 )
-    set gg_snd_Heimrich4 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Heimrich4, 640 )
+    set gg_snd_Heimrich4 = CreateSound( "Sound/Dialogue/Heimrich/Heimrich4.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Heimrich4, 11023 )
     call SetSoundChannel( gg_snd_Heimrich4, 0 )
-    call SetSoundVolume( gg_snd_Heimrich4, -1 )
+    call SetSoundVolume( gg_snd_Heimrich4, 127 )
     call SetSoundPitch( gg_snd_Heimrich4, 1.0 )
-    set gg_snd_Heimrich5 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Heimrich5, 640 )
+    set gg_snd_Heimrich5 = CreateSound( "Sound/Dialogue/Heimrich/Heimrich5.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Heimrich5, 10945 )
     call SetSoundChannel( gg_snd_Heimrich5, 0 )
-    call SetSoundVolume( gg_snd_Heimrich5, -1 )
+    call SetSoundVolume( gg_snd_Heimrich5, 127 )
     call SetSoundPitch( gg_snd_Heimrich5, 1.0 )
-    set gg_snd_Heimrich6 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Heimrich6, 640 )
+    set gg_snd_Heimrich6 = CreateSound( "Sound/Dialogue/Heimrich/Heimrich6.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Heimrich6, 12042 )
     call SetSoundChannel( gg_snd_Heimrich6, 0 )
-    call SetSoundVolume( gg_snd_Heimrich6, -1 )
+    call SetSoundVolume( gg_snd_Heimrich6, 127 )
     call SetSoundPitch( gg_snd_Heimrich6, 1.0 )
-    set gg_snd_Heimrich7 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Heimrich7, 640 )
+    set gg_snd_Heimrich7 = CreateSound( "Sound/Dialogue/Heimrich/Heimrich7.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Heimrich7, 7784 )
     call SetSoundChannel( gg_snd_Heimrich7, 0 )
-    call SetSoundVolume( gg_snd_Heimrich7, -1 )
+    call SetSoundVolume( gg_snd_Heimrich7, 127 )
     call SetSoundPitch( gg_snd_Heimrich7, 1.0 )
-    set gg_snd_Heimrich8 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Heimrich8, 640 )
+    set gg_snd_Heimrich8 = CreateSound( "Sound/Dialogue/Heimrich/Heimrich8.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Heimrich8, 10057 )
     call SetSoundChannel( gg_snd_Heimrich8, 0 )
-    call SetSoundVolume( gg_snd_Heimrich8, -1 )
+    call SetSoundVolume( gg_snd_Heimrich8, 127 )
     call SetSoundPitch( gg_snd_Heimrich8, 1.0 )
-    set gg_snd_Heimrich9 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Heimrich9, 640 )
+    set gg_snd_Heimrich9 = CreateSound( "Sound/Dialogue/Heimrich/Heimrich9.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Heimrich9, 7993 )
     call SetSoundChannel( gg_snd_Heimrich9, 0 )
-    call SetSoundVolume( gg_snd_Heimrich9, -1 )
+    call SetSoundVolume( gg_snd_Heimrich9, 127 )
     call SetSoundPitch( gg_snd_Heimrich9, 1.0 )
     set gg_snd_HowlOfTerror = CreateSound( "Abilities\\Spells\\Other\\HowlOfTerror\\HowlOfTerror.wav", false, false, true, 10, 10, "DefaultEAXON" )
     call SetSoundDuration( gg_snd_HowlOfTerror, 3064 )
@@ -5466,1795 +5428,1925 @@ function InitSounds takes nothing returns nothing
     call SetSoundDistanceCutoff( gg_snd_InvisibilityTarget, 3000.0 )
     call SetSoundConeAngles( gg_snd_InvisibilityTarget, 0.0, 0.0, 127 )
     call SetSoundConeOrientation( gg_snd_InvisibilityTarget, 0.0, 0.0, 0.0 )
-    set gg_snd_Irmina1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Irmina1, 2043 )
+    set gg_snd_Irmina1 = CreateSound( "Sound/Dialogue/Irmina/Irmina1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Irmina1, 3213 )
     call SetSoundChannel( gg_snd_Irmina1, 0 )
     call SetSoundVolume( gg_snd_Irmina1, 127 )
     call SetSoundPitch( gg_snd_Irmina1, 1.0 )
-    set gg_snd_Irmina10 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Irmina10, 2043 )
+    set gg_snd_Irmina10 = CreateSound( "Sound/Dialogue/Irmina/Irmina10.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Irmina10, 6321 )
     call SetSoundChannel( gg_snd_Irmina10, 0 )
     call SetSoundVolume( gg_snd_Irmina10, 127 )
     call SetSoundPitch( gg_snd_Irmina10, 1.0 )
-    set gg_snd_Irmina11 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Irmina11, 2043 )
+    set gg_snd_Irmina11 = CreateSound( "Sound/Dialogue/Irmina/Irmina11.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Irmina11, 9691 )
     call SetSoundChannel( gg_snd_Irmina11, 0 )
     call SetSoundVolume( gg_snd_Irmina11, 127 )
     call SetSoundPitch( gg_snd_Irmina11, 1.0 )
-    set gg_snd_Irmina12 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Irmina12, 2043 )
+    set gg_snd_Irmina12 = CreateSound( "Sound/Dialogue/Irmina/Irmina12.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Irmina12, 11702 )
     call SetSoundChannel( gg_snd_Irmina12, 0 )
     call SetSoundVolume( gg_snd_Irmina12, 127 )
     call SetSoundPitch( gg_snd_Irmina12, 1.0 )
-    set gg_snd_Irmina13 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Irmina13, 2043 )
+    set gg_snd_Irmina13 = CreateSound( "Sound/Dialogue/Irmina/Irmina13.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Irmina13, 4937 )
     call SetSoundChannel( gg_snd_Irmina13, 0 )
     call SetSoundVolume( gg_snd_Irmina13, 127 )
     call SetSoundPitch( gg_snd_Irmina13, 1.0 )
-    set gg_snd_Irmina14 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Irmina14, 2043 )
+    set gg_snd_Irmina14 = CreateSound( "Sound/Dialogue/Irmina/Irmina14.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Irmina14, 11624 )
     call SetSoundChannel( gg_snd_Irmina14, 0 )
     call SetSoundVolume( gg_snd_Irmina14, 127 )
     call SetSoundPitch( gg_snd_Irmina14, 1.0 )
-    set gg_snd_Irmina15 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Irmina15, 2043 )
+    set gg_snd_Irmina15 = CreateSound( "Sound/Dialogue/Irmina/Irmina15.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Irmina15, 10004 )
     call SetSoundChannel( gg_snd_Irmina15, 0 )
     call SetSoundVolume( gg_snd_Irmina15, 127 )
     call SetSoundPitch( gg_snd_Irmina15, 1.0 )
-    set gg_snd_Irmina16 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Irmina16, 2043 )
+    set gg_snd_Irmina16 = CreateSound( "Sound/Dialogue/Irmina/Irmina16.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Irmina16, 13766 )
     call SetSoundChannel( gg_snd_Irmina16, 0 )
     call SetSoundVolume( gg_snd_Irmina16, 127 )
     call SetSoundPitch( gg_snd_Irmina16, 1.0 )
-    set gg_snd_Irmina17 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Irmina17, 2043 )
+    set gg_snd_Irmina17 = CreateSound( "Sound/Dialogue/Irmina/Irmina17.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Irmina17, 11467 )
     call SetSoundChannel( gg_snd_Irmina17, 0 )
     call SetSoundVolume( gg_snd_Irmina17, 127 )
     call SetSoundPitch( gg_snd_Irmina17, 1.0 )
-    set gg_snd_Irmina18 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Irmina18, 2043 )
+    set gg_snd_Irmina18 = CreateSound( "Sound/Dialogue/Irmina/Irmina18.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Irmina18, 10814 )
     call SetSoundChannel( gg_snd_Irmina18, 0 )
     call SetSoundVolume( gg_snd_Irmina18, 127 )
     call SetSoundPitch( gg_snd_Irmina18, 1.0 )
-    set gg_snd_Irmina19 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Irmina19, 2043 )
+    set gg_snd_Irmina19 = CreateSound( "Sound/Dialogue/Irmina/Irmina19.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Irmina19, 2533 )
     call SetSoundChannel( gg_snd_Irmina19, 0 )
     call SetSoundVolume( gg_snd_Irmina19, 127 )
     call SetSoundPitch( gg_snd_Irmina19, 1.0 )
-    set gg_snd_Irmina2 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Irmina2, 2043 )
+    set gg_snd_Irmina2 = CreateSound( "Sound/Dialogue/Irmina/Irmina2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Irmina2, 9221 )
     call SetSoundChannel( gg_snd_Irmina2, 0 )
     call SetSoundVolume( gg_snd_Irmina2, 127 )
     call SetSoundPitch( gg_snd_Irmina2, 1.0 )
-    set gg_snd_Irmina20 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Irmina20, 2043 )
+    set gg_snd_Irmina20 = CreateSound( "Sound/Dialogue/Irmina/Irmina20.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Irmina20, 3395 )
     call SetSoundChannel( gg_snd_Irmina20, 0 )
     call SetSoundVolume( gg_snd_Irmina20, 127 )
     call SetSoundPitch( gg_snd_Irmina20, 1.0 )
-    set gg_snd_Irmina21 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Irmina21, 2043 )
+    set gg_snd_Irmina21 = CreateSound( "Sound/Dialogue/Irmina/Irmina21.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Irmina21, 5067 )
     call SetSoundChannel( gg_snd_Irmina21, 0 )
     call SetSoundVolume( gg_snd_Irmina21, 127 )
     call SetSoundPitch( gg_snd_Irmina21, 1.0 )
-    set gg_snd_Irmina22 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Irmina22, 2043 )
+    set gg_snd_Irmina22 = CreateSound( "Sound/Dialogue/Irmina/Irmina22.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Irmina22, 2742 )
     call SetSoundChannel( gg_snd_Irmina22, 0 )
     call SetSoundVolume( gg_snd_Irmina22, 127 )
     call SetSoundPitch( gg_snd_Irmina22, 1.0 )
-    set gg_snd_Irmina23 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Irmina23, 2043 )
+    set gg_snd_Irmina23 = CreateSound( "Sound/Dialogue/Irmina/Irmina23.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Irmina23, 4075 )
     call SetSoundChannel( gg_snd_Irmina23, 0 )
     call SetSoundVolume( gg_snd_Irmina23, 127 )
     call SetSoundPitch( gg_snd_Irmina23, 1.0 )
-    set gg_snd_Irmina24 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Irmina24, 2043 )
+    set gg_snd_Irmina24 = CreateSound( "Sound/Dialogue/Irmina/Irmina24.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Irmina24, 5720 )
     call SetSoundChannel( gg_snd_Irmina24, 0 )
     call SetSoundVolume( gg_snd_Irmina24, 127 )
     call SetSoundPitch( gg_snd_Irmina24, 1.0 )
-    set gg_snd_Irmina25 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Irmina25, 2043 )
+    set gg_snd_Irmina25 = CreateSound( "Sound/Dialogue/Irmina/Irmina25.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Irmina25, 10240 )
     call SetSoundChannel( gg_snd_Irmina25, 0 )
     call SetSoundVolume( gg_snd_Irmina25, 127 )
     call SetSoundPitch( gg_snd_Irmina25, 1.0 )
-    set gg_snd_Irmina26 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Irmina26, 2043 )
+    set gg_snd_Irmina26 = CreateSound( "Sound/Dialogue/Irmina/Irmina26.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Irmina26, 9534 )
     call SetSoundChannel( gg_snd_Irmina26, 0 )
     call SetSoundVolume( gg_snd_Irmina26, 127 )
     call SetSoundPitch( gg_snd_Irmina26, 1.0 )
-    set gg_snd_Irmina27 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Irmina27, 2043 )
+    set gg_snd_Irmina27 = CreateSound( "Sound/Dialogue/Irmina/Irmina27.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Irmina27, 4075 )
     call SetSoundChannel( gg_snd_Irmina27, 0 )
     call SetSoundVolume( gg_snd_Irmina27, 127 )
     call SetSoundPitch( gg_snd_Irmina27, 1.0 )
-    set gg_snd_Irmina28 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Irmina28, 2043 )
+    set gg_snd_Irmina28 = CreateSound( "Sound/Dialogue/Irmina/Irmina28.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Irmina28, 2351 )
     call SetSoundChannel( gg_snd_Irmina28, 0 )
     call SetSoundVolume( gg_snd_Irmina28, 127 )
     call SetSoundPitch( gg_snd_Irmina28, 1.0 )
-    set gg_snd_Irmina29 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Irmina29, 2043 )
+    set gg_snd_Irmina29 = CreateSound( "Sound/Dialogue/Irmina/Irmina29.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Irmina29, 2168 )
     call SetSoundChannel( gg_snd_Irmina29, 0 )
     call SetSoundVolume( gg_snd_Irmina29, 127 )
     call SetSoundPitch( gg_snd_Irmina29, 1.0 )
-    set gg_snd_Irmina3 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Irmina3, 2043 )
+    set gg_snd_Irmina3 = CreateSound( "Sound/Dialogue/Irmina/Irmina3.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Irmina3, 1436 )
     call SetSoundChannel( gg_snd_Irmina3, 0 )
     call SetSoundVolume( gg_snd_Irmina3, 127 )
     call SetSoundPitch( gg_snd_Irmina3, 1.0 )
-    set gg_snd_Irmina30 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Irmina30, 2043 )
+    set gg_snd_Irmina30 = CreateSound( "Sound/Dialogue/Irmina/Irmina30.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Irmina30, 1724 )
     call SetSoundChannel( gg_snd_Irmina30, 0 )
     call SetSoundVolume( gg_snd_Irmina30, 127 )
     call SetSoundPitch( gg_snd_Irmina30, 1.0 )
-    set gg_snd_Irmina31 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Irmina31, 2043 )
+    set gg_snd_Irmina31 = CreateSound( "Sound/Dialogue/Irmina/Irmina31.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Irmina31, 4623 )
     call SetSoundChannel( gg_snd_Irmina31, 0 )
     call SetSoundVolume( gg_snd_Irmina31, 127 )
     call SetSoundPitch( gg_snd_Irmina31, 1.0 )
-    set gg_snd_Irmina32 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Irmina32, 2043 )
+    set gg_snd_Irmina32 = CreateSound( "Sound/Dialogue/Irmina/Irmina32.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Irmina32, 3683 )
     call SetSoundChannel( gg_snd_Irmina32, 0 )
     call SetSoundVolume( gg_snd_Irmina32, 127 )
     call SetSoundPitch( gg_snd_Irmina32, 1.0 )
-    set gg_snd_Irmina33 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Irmina33, 2043 )
+    set gg_snd_Irmina33 = CreateSound( "Sound/Dialogue/Irmina/Irmina33.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Irmina33, 2533 )
     call SetSoundChannel( gg_snd_Irmina33, 0 )
     call SetSoundVolume( gg_snd_Irmina33, 127 )
     call SetSoundPitch( gg_snd_Irmina33, 1.0 )
-    set gg_snd_Irmina34 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Irmina34, 2043 )
+    set gg_snd_Irmina34 = CreateSound( "Sound/Dialogue/Irmina/Irmina34.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Irmina34, 2533 )
     call SetSoundChannel( gg_snd_Irmina34, 0 )
     call SetSoundVolume( gg_snd_Irmina34, 127 )
     call SetSoundPitch( gg_snd_Irmina34, 1.0 )
-    set gg_snd_Irmina4 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Irmina4, 2043 )
+    set gg_snd_Irmina4 = CreateSound( "Sound/Dialogue/Irmina/Irmina4.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Irmina4, 12434 )
     call SetSoundChannel( gg_snd_Irmina4, 0 )
     call SetSoundVolume( gg_snd_Irmina4, 127 )
     call SetSoundPitch( gg_snd_Irmina4, 1.0 )
-    set gg_snd_Irmina5 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Irmina5, 2043 )
+    set gg_snd_Irmina5 = CreateSound( "Sound/Dialogue/Irmina/Irmina5.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Irmina5, 8124 )
     call SetSoundChannel( gg_snd_Irmina5, 0 )
     call SetSoundVolume( gg_snd_Irmina5, 127 )
     call SetSoundPitch( gg_snd_Irmina5, 1.0 )
-    set gg_snd_Irmina6 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Irmina6, 2043 )
+    set gg_snd_Irmina6 = CreateSound( "Sound/Dialogue/Irmina/Irmina6.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Irmina6, 10135 )
     call SetSoundChannel( gg_snd_Irmina6, 0 )
     call SetSoundVolume( gg_snd_Irmina6, 127 )
     call SetSoundPitch( gg_snd_Irmina6, 1.0 )
-    set gg_snd_Irmina7 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Irmina7, 2043 )
+    set gg_snd_Irmina7 = CreateSound( "Sound/Dialogue/Irmina/Irmina7.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Irmina7, 11546 )
     call SetSoundChannel( gg_snd_Irmina7, 0 )
     call SetSoundVolume( gg_snd_Irmina7, 127 )
     call SetSoundPitch( gg_snd_Irmina7, 1.0 )
-    set gg_snd_Irmina8 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Irmina8, 2043 )
+    set gg_snd_Irmina8 = CreateSound( "Sound/Dialogue/Irmina/Irmina8.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Irmina8, 3448 )
     call SetSoundChannel( gg_snd_Irmina8, 0 )
     call SetSoundVolume( gg_snd_Irmina8, 127 )
     call SetSoundPitch( gg_snd_Irmina8, 1.0 )
-    set gg_snd_Irmina9 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Irmina9, 2043 )
+    set gg_snd_Irmina9 = CreateSound( "Sound/Dialogue/Irmina/Irmina9.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Irmina9, 4440 )
     call SetSoundChannel( gg_snd_Irmina9, 0 )
     call SetSoundVolume( gg_snd_Irmina9, 127 )
     call SetSoundPitch( gg_snd_Irmina9, 1.0 )
-    set gg_snd_Kuno1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Kuno1, 2043 )
+    set gg_snd_Kuno1 = CreateSound( "Sound/Dialogue/Kuno/Kuno1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Kuno1, 2142 )
     call SetSoundChannel( gg_snd_Kuno1, 0 )
     call SetSoundVolume( gg_snd_Kuno1, 127 )
     call SetSoundPitch( gg_snd_Kuno1, 1.0 )
-    set gg_snd_Kuno10 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Kuno10, 2043 )
+    set gg_snd_Kuno10 = CreateSound( "Sound/Dialogue/Kuno/Kuno10.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Kuno10, 2272 )
     call SetSoundChannel( gg_snd_Kuno10, 0 )
     call SetSoundVolume( gg_snd_Kuno10, 127 )
     call SetSoundPitch( gg_snd_Kuno10, 1.0 )
-    set gg_snd_Kuno11 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Kuno11, 2043 )
+    set gg_snd_Kuno11 = CreateSound( "Sound/Dialogue/Kuno/Kuno11.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Kuno11, 3892 )
     call SetSoundChannel( gg_snd_Kuno11, 0 )
     call SetSoundVolume( gg_snd_Kuno11, 127 )
     call SetSoundPitch( gg_snd_Kuno11, 1.0 )
-    set gg_snd_Kuno12 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Kuno12, 2043 )
+    set gg_snd_Kuno12 = CreateSound( "Sound/Dialogue/Kuno/Kuno12.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Kuno12, 3918 )
     call SetSoundChannel( gg_snd_Kuno12, 0 )
     call SetSoundVolume( gg_snd_Kuno12, 127 )
     call SetSoundPitch( gg_snd_Kuno12, 1.0 )
-    set gg_snd_Kuno13 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Kuno13, 2043 )
+    set gg_snd_Kuno13 = CreateSound( "Sound/Dialogue/Kuno/Kuno13.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Kuno13, 1541 )
     call SetSoundChannel( gg_snd_Kuno13, 0 )
     call SetSoundVolume( gg_snd_Kuno13, 127 )
     call SetSoundPitch( gg_snd_Kuno13, 1.0 )
-    set gg_snd_Kuno14 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Kuno14, 2043 )
+    set gg_snd_Kuno14 = CreateSound( "Sound/Dialogue/Kuno/Kuno14.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Kuno14, 7915 )
     call SetSoundChannel( gg_snd_Kuno14, 0 )
     call SetSoundVolume( gg_snd_Kuno14, 127 )
     call SetSoundPitch( gg_snd_Kuno14, 1.0 )
-    set gg_snd_Kuno15 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Kuno15, 2043 )
+    set gg_snd_Kuno15 = CreateSound( "Sound/Dialogue/Kuno/Kuno15.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Kuno15, 4362 )
     call SetSoundChannel( gg_snd_Kuno15, 0 )
     call SetSoundVolume( gg_snd_Kuno15, 127 )
     call SetSoundPitch( gg_snd_Kuno15, 1.0 )
-    set gg_snd_Kuno16 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Kuno16, 2043 )
+    set gg_snd_Kuno16 = CreateSound( "Sound/Dialogue/Kuno/Kuno16.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Kuno16, 6347 )
     call SetSoundChannel( gg_snd_Kuno16, 0 )
     call SetSoundVolume( gg_snd_Kuno16, 127 )
     call SetSoundPitch( gg_snd_Kuno16, 1.0 )
-    set gg_snd_Kuno17 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Kuno17, 2043 )
+    set gg_snd_Kuno17 = CreateSound( "Sound/Dialogue/Kuno/Kuno17.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Kuno17, 3787 )
     call SetSoundChannel( gg_snd_Kuno17, 0 )
     call SetSoundVolume( gg_snd_Kuno17, 127 )
     call SetSoundPitch( gg_snd_Kuno17, 1.0 )
-    set gg_snd_Kuno18 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Kuno18, 2043 )
+    set gg_snd_Kuno18 = CreateSound( "Sound/Dialogue/Kuno/Kuno18.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Kuno18, 4545 )
     call SetSoundChannel( gg_snd_Kuno18, 0 )
     call SetSoundVolume( gg_snd_Kuno18, 127 )
     call SetSoundPitch( gg_snd_Kuno18, 1.0 )
-    set gg_snd_Kuno19 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Kuno19, 2043 )
+    set gg_snd_Kuno19 = CreateSound( "Sound/Dialogue/Kuno/Kuno19.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Kuno19, 11467 )
     call SetSoundChannel( gg_snd_Kuno19, 0 )
     call SetSoundVolume( gg_snd_Kuno19, 127 )
     call SetSoundPitch( gg_snd_Kuno19, 1.0 )
-    set gg_snd_Kuno2 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Kuno2, 2043 )
+    set gg_snd_Kuno2 = CreateSound( "Sound/Dialogue/Kuno/Kuno2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Kuno2, 2272 )
     call SetSoundChannel( gg_snd_Kuno2, 0 )
     call SetSoundVolume( gg_snd_Kuno2, 127 )
     call SetSoundPitch( gg_snd_Kuno2, 1.0 )
-    set gg_snd_Kuno20 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Kuno20, 2043 )
+    set gg_snd_Kuno20 = CreateSound( "Sound/Dialogue/Kuno/Kuno20.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Kuno20, 2716 )
     call SetSoundChannel( gg_snd_Kuno20, 0 )
     call SetSoundVolume( gg_snd_Kuno20, 127 )
     call SetSoundPitch( gg_snd_Kuno20, 1.0 )
-    set gg_snd_Kuno21 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Kuno21, 2043 )
+    set gg_snd_Kuno21 = CreateSound( "Sound/Dialogue/Kuno/Kuno21.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Kuno21, 7340 )
     call SetSoundChannel( gg_snd_Kuno21, 0 )
     call SetSoundVolume( gg_snd_Kuno21, 127 )
     call SetSoundPitch( gg_snd_Kuno21, 1.0 )
-    set gg_snd_Kuno22 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Kuno22, 2043 )
+    set gg_snd_Kuno22 = CreateSound( "Sound/Dialogue/Kuno/Kuno22.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Kuno22, 8463 )
     call SetSoundChannel( gg_snd_Kuno22, 0 )
     call SetSoundVolume( gg_snd_Kuno22, 127 )
     call SetSoundPitch( gg_snd_Kuno22, 1.0 )
-    set gg_snd_Kuno23 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Kuno23, 2043 )
+    set gg_snd_Kuno23 = CreateSound( "Sound/Dialogue/Kuno/Kuno23.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Kuno23, 5276 )
     call SetSoundChannel( gg_snd_Kuno23, 0 )
     call SetSoundVolume( gg_snd_Kuno23, 127 )
     call SetSoundPitch( gg_snd_Kuno23, 1.0 )
-    set gg_snd_Kuno24 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Kuno24, 2043 )
+    set gg_snd_Kuno24 = CreateSound( "Sound/Dialogue/Kuno/Kuno24.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Kuno24, 2063 )
     call SetSoundChannel( gg_snd_Kuno24, 0 )
     call SetSoundVolume( gg_snd_Kuno24, 127 )
     call SetSoundPitch( gg_snd_Kuno24, 1.0 )
-    set gg_snd_Kuno25 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Kuno25, 2043 )
+    set gg_snd_Kuno25 = CreateSound( "Sound/Dialogue/Kuno/Kuno25.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Kuno25, 6661 )
     call SetSoundChannel( gg_snd_Kuno25, 0 )
     call SetSoundVolume( gg_snd_Kuno25, 127 )
     call SetSoundPitch( gg_snd_Kuno25, 1.0 )
-    set gg_snd_Kuno26 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Kuno26, 2043 )
+    set gg_snd_Kuno26 = CreateSound( "Sound/Dialogue/Kuno/Kuno26.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Kuno26, 2795 )
     call SetSoundChannel( gg_snd_Kuno26, 0 )
     call SetSoundVolume( gg_snd_Kuno26, 127 )
     call SetSoundPitch( gg_snd_Kuno26, 1.0 )
-    set gg_snd_Kuno27 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Kuno27, 2043 )
+    set gg_snd_Kuno27 = CreateSound( "Sound/Dialogue/Kuno/Kuno27.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Kuno27, 8150 )
     call SetSoundChannel( gg_snd_Kuno27, 0 )
     call SetSoundVolume( gg_snd_Kuno27, 127 )
     call SetSoundPitch( gg_snd_Kuno27, 1.0 )
-    set gg_snd_Kuno28 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Kuno28, 2043 )
+    set gg_snd_Kuno28 = CreateSound( "Sound/Dialogue/Kuno/Kuno28.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Kuno28, 9508 )
     call SetSoundChannel( gg_snd_Kuno28, 0 )
     call SetSoundVolume( gg_snd_Kuno28, 127 )
     call SetSoundPitch( gg_snd_Kuno28, 1.0 )
-    set gg_snd_Kuno29 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Kuno29, 2043 )
+    set gg_snd_Kuno29 = CreateSound( "Sound/Dialogue/Kuno/Kuno29.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Kuno29, 2768 )
     call SetSoundChannel( gg_snd_Kuno29, 0 )
     call SetSoundVolume( gg_snd_Kuno29, 127 )
     call SetSoundPitch( gg_snd_Kuno29, 1.0 )
-    set gg_snd_Kuno3 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Kuno3, 2043 )
+    set gg_snd_Kuno3 = CreateSound( "Sound/Dialogue/Kuno/Kuno3.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Kuno3, 9404 )
     call SetSoundChannel( gg_snd_Kuno3, 0 )
     call SetSoundVolume( gg_snd_Kuno3, 127 )
     call SetSoundPitch( gg_snd_Kuno3, 1.0 )
-    set gg_snd_Kuno30 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Kuno30, 2043 )
+    set gg_snd_Kuno30 = CreateSound( "Sound/Dialogue/Kuno/Kuno30.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Kuno30, 809 )
     call SetSoundChannel( gg_snd_Kuno30, 0 )
     call SetSoundVolume( gg_snd_Kuno30, 127 )
     call SetSoundPitch( gg_snd_Kuno30, 1.0 )
-    set gg_snd_Kuno31 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Kuno31, 2043 )
+    set gg_snd_Kuno31 = CreateSound( "Sound/Dialogue/Kuno/Kuno31.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Kuno31, 8228 )
     call SetSoundChannel( gg_snd_Kuno31, 0 )
     call SetSoundVolume( gg_snd_Kuno31, 127 )
     call SetSoundPitch( gg_snd_Kuno31, 1.0 )
-    set gg_snd_Kuno32 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Kuno32, 2043 )
+    set gg_snd_Kuno32 = CreateSound( "Sound/Dialogue/Kuno/Kuno32.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Kuno32, 9325 )
     call SetSoundChannel( gg_snd_Kuno32, 0 )
     call SetSoundVolume( gg_snd_Kuno32, 127 )
     call SetSoundPitch( gg_snd_Kuno32, 1.0 )
-    set gg_snd_Kuno33 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Kuno33, 2043 )
+    set gg_snd_Kuno33 = CreateSound( "Sound/Dialogue/Kuno/Kuno33.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Kuno33, 6739 )
     call SetSoundChannel( gg_snd_Kuno33, 0 )
     call SetSoundVolume( gg_snd_Kuno33, 127 )
     call SetSoundPitch( gg_snd_Kuno33, 1.0 )
-    set gg_snd_Kuno34 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Kuno34, 2043 )
+    set gg_snd_Kuno34 = CreateSound( "Sound/Dialogue/Kuno/Kuno34.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Kuno34, 3317 )
     call SetSoundChannel( gg_snd_Kuno34, 0 )
     call SetSoundVolume( gg_snd_Kuno34, 127 )
     call SetSoundPitch( gg_snd_Kuno34, 1.0 )
-    set gg_snd_Kuno35 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Kuno35, 2043 )
+    set gg_snd_Kuno35 = CreateSound( "Sound/Dialogue/Kuno/Kuno35.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Kuno35, 7941 )
     call SetSoundChannel( gg_snd_Kuno35, 0 )
     call SetSoundVolume( gg_snd_Kuno35, 127 )
     call SetSoundPitch( gg_snd_Kuno35, 1.0 )
-    set gg_snd_Kuno36 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Kuno36, 2043 )
+    set gg_snd_Kuno36 = CreateSound( "Sound/Dialogue/Kuno/Kuno36.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Kuno36, 8672 )
     call SetSoundChannel( gg_snd_Kuno36, 0 )
     call SetSoundVolume( gg_snd_Kuno36, 127 )
     call SetSoundPitch( gg_snd_Kuno36, 1.0 )
-    set gg_snd_Kuno37 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Kuno37, 2043 )
+    set gg_snd_Kuno37 = CreateSound( "Sound/Dialogue/Kuno/Kuno37.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Kuno37, 2115 )
     call SetSoundChannel( gg_snd_Kuno37, 0 )
     call SetSoundVolume( gg_snd_Kuno37, 127 )
     call SetSoundPitch( gg_snd_Kuno37, 1.0 )
-    set gg_snd_Kuno38 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Kuno38, 2043 )
+    set gg_snd_Kuno38 = CreateSound( "Sound/Dialogue/Kuno/Kuno38.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Kuno38, 6008 )
     call SetSoundChannel( gg_snd_Kuno38, 0 )
     call SetSoundVolume( gg_snd_Kuno38, 127 )
     call SetSoundPitch( gg_snd_Kuno38, 1.0 )
-    set gg_snd_Kuno39 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Kuno39, 2043 )
+    set gg_snd_Kuno39 = CreateSound( "Sound/Dialogue/Kuno/Kuno39.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Kuno39, 5198 )
     call SetSoundChannel( gg_snd_Kuno39, 0 )
     call SetSoundVolume( gg_snd_Kuno39, 127 )
     call SetSoundPitch( gg_snd_Kuno39, 1.0 )
-    set gg_snd_Kuno4 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Kuno4, 2043 )
+    set gg_snd_Kuno4 = CreateSound( "Sound/Dialogue/Kuno/Kuno4.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Kuno4, 8228 )
     call SetSoundChannel( gg_snd_Kuno4, 0 )
     call SetSoundVolume( gg_snd_Kuno4, 127 )
     call SetSoundPitch( gg_snd_Kuno4, 1.0 )
-    set gg_snd_Kuno5 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Kuno5, 2043 )
+    set gg_snd_Kuno5 = CreateSound( "Sound/Dialogue/Kuno/Kuno5.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Kuno5, 11075 )
     call SetSoundChannel( gg_snd_Kuno5, 0 )
     call SetSoundVolume( gg_snd_Kuno5, 127 )
     call SetSoundPitch( gg_snd_Kuno5, 1.0 )
-    set gg_snd_Kuno6 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Kuno6, 2043 )
+    set gg_snd_Kuno6 = CreateSound( "Sound/Dialogue/Kuno/Kuno6.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Kuno6, 4388 )
     call SetSoundChannel( gg_snd_Kuno6, 0 )
     call SetSoundVolume( gg_snd_Kuno6, 127 )
     call SetSoundPitch( gg_snd_Kuno6, 1.0 )
-    set gg_snd_Kuno7 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Kuno7, 2043 )
+    set gg_snd_Kuno7 = CreateSound( "Sound/Dialogue/Kuno/Kuno7.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Kuno7, 10631 )
     call SetSoundChannel( gg_snd_Kuno7, 0 )
     call SetSoundVolume( gg_snd_Kuno7, 127 )
     call SetSoundPitch( gg_snd_Kuno7, 1.0 )
-    set gg_snd_Kuno8 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Kuno8, 2043 )
+    set gg_snd_Kuno8 = CreateSound( "Sound/Dialogue/Kuno/Kuno8.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Kuno8, 7653 )
     call SetSoundChannel( gg_snd_Kuno8, 0 )
     call SetSoundVolume( gg_snd_Kuno8, 127 )
     call SetSoundPitch( gg_snd_Kuno8, 1.0 )
-    set gg_snd_Kuno9 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Kuno9, 2043 )
+    set gg_snd_Kuno9 = CreateSound( "Sound/Dialogue/Kuno/Kuno9.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Kuno9, 1306 )
     call SetSoundChannel( gg_snd_Kuno9, 0 )
     call SetSoundVolume( gg_snd_Kuno9, 127 )
     call SetSoundPitch( gg_snd_Kuno9, 1.0 )
-    set gg_snd_Lothar1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Lothar1, 2043 )
+    set gg_snd_Lothar1 = CreateSound( "Sound/Dialogue/Lothar/Lothar1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Lothar1, 14785 )
     call SetSoundChannel( gg_snd_Lothar1, 0 )
-    call SetSoundVolume( gg_snd_Lothar1, -1 )
+    call SetSoundVolume( gg_snd_Lothar1, 127 )
     call SetSoundPitch( gg_snd_Lothar1, 1.0 )
-    set gg_snd_Lothar10 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Lothar10, 2043 )
+    set gg_snd_Lothar10 = CreateSound( "Sound/Dialogue/Lothar/Lothar10.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Lothar10, 3186 )
     call SetSoundChannel( gg_snd_Lothar10, 0 )
-    call SetSoundVolume( gg_snd_Lothar10, -1 )
+    call SetSoundVolume( gg_snd_Lothar10, 127 )
     call SetSoundPitch( gg_snd_Lothar10, 1.0 )
-    set gg_snd_Lothar11 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Lothar11, 2043 )
+    set gg_snd_Lothar11 = CreateSound( "Sound/Dialogue/Lothar/Lothar11.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Lothar11, 13087 )
     call SetSoundChannel( gg_snd_Lothar11, 0 )
-    call SetSoundVolume( gg_snd_Lothar11, -1 )
+    call SetSoundVolume( gg_snd_Lothar11, 127 )
     call SetSoundPitch( gg_snd_Lothar11, 1.0 )
-    set gg_snd_Lothar12 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Lothar12, 2043 )
+    set gg_snd_Lothar12 = CreateSound( "Sound/Dialogue/Lothar/Lothar12.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Lothar12, 1515 )
     call SetSoundChannel( gg_snd_Lothar12, 0 )
-    call SetSoundVolume( gg_snd_Lothar12, -1 )
+    call SetSoundVolume( gg_snd_Lothar12, 127 )
     call SetSoundPitch( gg_snd_Lothar12, 1.0 )
-    set gg_snd_Lothar13 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Lothar13, 2043 )
+    set gg_snd_Lothar13 = CreateSound( "Sound/Dialogue/Lothar/Lothar13.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Lothar13, 3082 )
     call SetSoundChannel( gg_snd_Lothar13, 0 )
-    call SetSoundVolume( gg_snd_Lothar13, -1 )
+    call SetSoundVolume( gg_snd_Lothar13, 127 )
     call SetSoundPitch( gg_snd_Lothar13, 1.0 )
-    set gg_snd_Lothar14 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Lothar14, 2043 )
+    set gg_snd_Lothar14 = CreateSound( "Sound/Dialogue/Lothar/Lothar14.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Lothar14, 5564 )
     call SetSoundChannel( gg_snd_Lothar14, 0 )
-    call SetSoundVolume( gg_snd_Lothar14, -1 )
+    call SetSoundVolume( gg_snd_Lothar14, 127 )
     call SetSoundPitch( gg_snd_Lothar14, 1.0 )
-    set gg_snd_Lothar15 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Lothar15, 2043 )
+    set gg_snd_Lothar15 = CreateSound( "Sound/Dialogue/Lothar/Lothar15.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Lothar15, 6608 )
     call SetSoundChannel( gg_snd_Lothar15, 0 )
-    call SetSoundVolume( gg_snd_Lothar15, -1 )
+    call SetSoundVolume( gg_snd_Lothar15, 127 )
     call SetSoundPitch( gg_snd_Lothar15, 1.0 )
-    set gg_snd_Lothar16 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Lothar16, 2043 )
+    set gg_snd_Lothar16 = CreateSound( "Sound/Dialogue/Lothar/Lothar16.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Lothar16, 2089 )
     call SetSoundChannel( gg_snd_Lothar16, 0 )
-    call SetSoundVolume( gg_snd_Lothar16, -1 )
+    call SetSoundVolume( gg_snd_Lothar16, 127 )
     call SetSoundPitch( gg_snd_Lothar16, 1.0 )
-    set gg_snd_Lothar17 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Lothar17, 2043 )
+    set gg_snd_Lothar17 = CreateSound( "Sound/Dialogue/Lothar/Lothar17.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Lothar17, 9508 )
     call SetSoundChannel( gg_snd_Lothar17, 0 )
-    call SetSoundVolume( gg_snd_Lothar17, -1 )
+    call SetSoundVolume( gg_snd_Lothar17, 127 )
     call SetSoundPitch( gg_snd_Lothar17, 1.0 )
-    set gg_snd_Lothar18 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Lothar18, 2043 )
+    set gg_snd_Lothar18 = CreateSound( "Sound/Dialogue/Lothar/Lothar18.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Lothar18, 1149 )
     call SetSoundChannel( gg_snd_Lothar18, 0 )
-    call SetSoundVolume( gg_snd_Lothar18, -1 )
+    call SetSoundVolume( gg_snd_Lothar18, 127 )
     call SetSoundPitch( gg_snd_Lothar18, 1.0 )
-    set gg_snd_Lothar19 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Lothar19, 2043 )
+    set gg_snd_Lothar19 = CreateSound( "Sound/Dialogue/Lothar/Lothar19.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Lothar19, 6373 )
     call SetSoundChannel( gg_snd_Lothar19, 0 )
-    call SetSoundVolume( gg_snd_Lothar19, -1 )
+    call SetSoundVolume( gg_snd_Lothar19, 127 )
     call SetSoundPitch( gg_snd_Lothar19, 1.0 )
-    set gg_snd_Lothar2 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Lothar2, 2043 )
+    set gg_snd_Lothar2 = CreateSound( "Sound/Dialogue/Lothar/Lothar2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Lothar2, 9952 )
     call SetSoundChannel( gg_snd_Lothar2, 0 )
-    call SetSoundVolume( gg_snd_Lothar2, -1 )
+    call SetSoundVolume( gg_snd_Lothar2, 127 )
     call SetSoundPitch( gg_snd_Lothar2, 1.0 )
-    set gg_snd_Lothar20 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Lothar20, 2043 )
+    set gg_snd_Lothar20 = CreateSound( "Sound/Dialogue/Lothar/Lothar20.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Lothar20, 1697 )
     call SetSoundChannel( gg_snd_Lothar20, 0 )
-    call SetSoundVolume( gg_snd_Lothar20, -1 )
+    call SetSoundVolume( gg_snd_Lothar20, 127 )
     call SetSoundPitch( gg_snd_Lothar20, 1.0 )
-    set gg_snd_Lothar21 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Lothar21, 2043 )
+    set gg_snd_Lothar21 = CreateSound( "Sound/Dialogue/Lothar/Lothar21.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Lothar21, 7183 )
     call SetSoundChannel( gg_snd_Lothar21, 0 )
-    call SetSoundVolume( gg_snd_Lothar21, -1 )
+    call SetSoundVolume( gg_snd_Lothar21, 127 )
     call SetSoundPitch( gg_snd_Lothar21, 1.0 )
-    set gg_snd_Lothar22 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Lothar22, 2043 )
+    set gg_snd_Lothar22 = CreateSound( "Sound/Dialogue/Lothar/Lothar22.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Lothar22, 3944 )
     call SetSoundChannel( gg_snd_Lothar22, 0 )
-    call SetSoundVolume( gg_snd_Lothar22, -1 )
+    call SetSoundVolume( gg_snd_Lothar22, 127 )
     call SetSoundPitch( gg_snd_Lothar22, 1.0 )
-    set gg_snd_Lothar23 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Lothar23, 2043 )
+    set gg_snd_Lothar23 = CreateSound( "Sound/Dialogue/Lothar/Lothar23.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Lothar23, 3186 )
     call SetSoundChannel( gg_snd_Lothar23, 0 )
-    call SetSoundVolume( gg_snd_Lothar23, -1 )
+    call SetSoundVolume( gg_snd_Lothar23, 127 )
     call SetSoundPitch( gg_snd_Lothar23, 1.0 )
-    set gg_snd_Lothar24 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Lothar24, 2043 )
+    set gg_snd_Lothar24 = CreateSound( "Sound/Dialogue/Lothar/Lothar24.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Lothar24, 5198 )
     call SetSoundChannel( gg_snd_Lothar24, 0 )
-    call SetSoundVolume( gg_snd_Lothar24, -1 )
+    call SetSoundVolume( gg_snd_Lothar24, 127 )
     call SetSoundPitch( gg_snd_Lothar24, 1.0 )
-    set gg_snd_Lothar25 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Lothar25, 2043 )
+    set gg_snd_Lothar25 = CreateSound( "Sound/Dialogue/Lothar/Lothar25.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Lothar25, 10396 )
     call SetSoundChannel( gg_snd_Lothar25, 0 )
-    call SetSoundVolume( gg_snd_Lothar25, -1 )
+    call SetSoundVolume( gg_snd_Lothar25, 127 )
     call SetSoundPitch( gg_snd_Lothar25, 1.0 )
-    set gg_snd_Lothar26 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Lothar26, 2043 )
+    set gg_snd_Lothar26 = CreateSound( "Sound/Dialogue/Lothar/Lothar26.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Lothar26, 3526 )
     call SetSoundChannel( gg_snd_Lothar26, 0 )
-    call SetSoundVolume( gg_snd_Lothar26, -1 )
+    call SetSoundVolume( gg_snd_Lothar26, 127 )
     call SetSoundPitch( gg_snd_Lothar26, 1.0 )
-    set gg_snd_Lothar27 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Lothar27, 2043 )
+    set gg_snd_Lothar27 = CreateSound( "Sound/Dialogue/Lothar/Lothar27.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Lothar27, 1802 )
     call SetSoundChannel( gg_snd_Lothar27, 0 )
-    call SetSoundVolume( gg_snd_Lothar27, -1 )
+    call SetSoundVolume( gg_snd_Lothar27, 127 )
     call SetSoundPitch( gg_snd_Lothar27, 1.0 )
-    set gg_snd_Lothar28 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Lothar28, 2043 )
+    set gg_snd_Lothar28 = CreateSound( "Sound/Dialogue/Lothar/Lothar28.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Lothar28, 3239 )
     call SetSoundChannel( gg_snd_Lothar28, 0 )
-    call SetSoundVolume( gg_snd_Lothar28, -1 )
+    call SetSoundVolume( gg_snd_Lothar28, 127 )
     call SetSoundPitch( gg_snd_Lothar28, 1.0 )
-    set gg_snd_Lothar29 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Lothar29, 2043 )
+    set gg_snd_Lothar29 = CreateSound( "Sound/Dialogue/Lothar/Lothar29.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Lothar29, 5328 )
     call SetSoundChannel( gg_snd_Lothar29, 0 )
-    call SetSoundVolume( gg_snd_Lothar29, -1 )
+    call SetSoundVolume( gg_snd_Lothar29, 127 )
     call SetSoundPitch( gg_snd_Lothar29, 1.0 )
-    set gg_snd_Lothar3 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Lothar3, 2043 )
+    set gg_snd_Lothar3 = CreateSound( "Sound/Dialogue/Lothar/Lothar3.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Lothar3, 9743 )
     call SetSoundChannel( gg_snd_Lothar3, 0 )
-    call SetSoundVolume( gg_snd_Lothar3, -1 )
+    call SetSoundVolume( gg_snd_Lothar3, 127 )
     call SetSoundPitch( gg_snd_Lothar3, 1.0 )
-    set gg_snd_Lothar30 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Lothar30, 2043 )
+    set gg_snd_Lothar30 = CreateSound( "Sound/Dialogue/Lothar/Lothar30.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Lothar30, 9377 )
     call SetSoundChannel( gg_snd_Lothar30, 0 )
-    call SetSoundVolume( gg_snd_Lothar30, -1 )
+    call SetSoundVolume( gg_snd_Lothar30, 127 )
     call SetSoundPitch( gg_snd_Lothar30, 1.0 )
-    set gg_snd_Lothar31 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Lothar31, 2043 )
+    set gg_snd_Lothar31 = CreateSound( "Sound/Dialogue/Lothar/Lothar31.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Lothar31, 3108 )
     call SetSoundChannel( gg_snd_Lothar31, 0 )
-    call SetSoundVolume( gg_snd_Lothar31, -1 )
+    call SetSoundVolume( gg_snd_Lothar31, 127 )
     call SetSoundPitch( gg_snd_Lothar31, 1.0 )
-    set gg_snd_Lothar32 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Lothar32, 2043 )
+    set gg_snd_Lothar32 = CreateSound( "Sound/Dialogue/Lothar/Lothar32.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Lothar32, 1332 )
     call SetSoundChannel( gg_snd_Lothar32, 0 )
-    call SetSoundVolume( gg_snd_Lothar32, -1 )
+    call SetSoundVolume( gg_snd_Lothar32, 127 )
     call SetSoundPitch( gg_snd_Lothar32, 1.0 )
-    set gg_snd_Lothar33 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Lothar33, 2043 )
+    set gg_snd_Lothar33 = CreateSound( "Sound/Dialogue/Lothar/Lothar33.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Lothar33, 11049 )
     call SetSoundChannel( gg_snd_Lothar33, 0 )
-    call SetSoundVolume( gg_snd_Lothar33, -1 )
+    call SetSoundVolume( gg_snd_Lothar33, 127 )
     call SetSoundPitch( gg_snd_Lothar33, 1.0 )
-    set gg_snd_Lothar34 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Lothar34, 2043 )
+    set gg_snd_Lothar34 = CreateSound( "Sound/Dialogue/Lothar/Lothar34.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Lothar34, 7105 )
     call SetSoundChannel( gg_snd_Lothar34, 0 )
-    call SetSoundVolume( gg_snd_Lothar34, -1 )
+    call SetSoundVolume( gg_snd_Lothar34, 127 )
     call SetSoundPitch( gg_snd_Lothar34, 1.0 )
-    set gg_snd_Lothar35 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Lothar35, 2043 )
+    set gg_snd_Lothar35 = CreateSound( "Sound/Dialogue/Lothar/Lothar35.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Lothar35, 2821 )
     call SetSoundChannel( gg_snd_Lothar35, 0 )
-    call SetSoundVolume( gg_snd_Lothar35, -1 )
+    call SetSoundVolume( gg_snd_Lothar35, 127 )
     call SetSoundPitch( gg_snd_Lothar35, 1.0 )
-    set gg_snd_Lothar36 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Lothar36, 2043 )
+    set gg_snd_Lothar36 = CreateSound( "Sound/Dialogue/Lothar/Lothar36.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Lothar36, 1645 )
     call SetSoundChannel( gg_snd_Lothar36, 0 )
-    call SetSoundVolume( gg_snd_Lothar36, -1 )
+    call SetSoundVolume( gg_snd_Lothar36, 127 )
     call SetSoundPitch( gg_snd_Lothar36, 1.0 )
-    set gg_snd_Lothar37 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Lothar37, 2043 )
+    set gg_snd_Lothar37 = CreateSound( "Sound/Dialogue/Lothar/Lothar37.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Lothar37, 5955 )
     call SetSoundChannel( gg_snd_Lothar37, 0 )
-    call SetSoundVolume( gg_snd_Lothar37, -1 )
+    call SetSoundVolume( gg_snd_Lothar37, 127 )
     call SetSoundPitch( gg_snd_Lothar37, 1.0 )
-    set gg_snd_Lothar38 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Lothar38, 2043 )
+    set gg_snd_Lothar38 = CreateSound( "Sound/Dialogue/Lothar/Lothar38.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Lothar38, 3004 )
     call SetSoundChannel( gg_snd_Lothar38, 0 )
-    call SetSoundVolume( gg_snd_Lothar38, -1 )
+    call SetSoundVolume( gg_snd_Lothar38, 127 )
     call SetSoundPitch( gg_snd_Lothar38, 1.0 )
-    set gg_snd_Lothar39 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Lothar39, 2043 )
+    set gg_snd_Lothar39 = CreateSound( "Sound/Dialogue/Lothar/Lothar39.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Lothar39, 12120 )
     call SetSoundChannel( gg_snd_Lothar39, 0 )
-    call SetSoundVolume( gg_snd_Lothar39, -1 )
+    call SetSoundVolume( gg_snd_Lothar39, 127 )
     call SetSoundPitch( gg_snd_Lothar39, 1.0 )
-    set gg_snd_Lothar4 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Lothar4, 2043 )
+    set gg_snd_Lothar4 = CreateSound( "Sound/Dialogue/Lothar/Lothar4.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Lothar4, 9195 )
     call SetSoundChannel( gg_snd_Lothar4, 0 )
-    call SetSoundVolume( gg_snd_Lothar4, -1 )
+    call SetSoundVolume( gg_snd_Lothar4, 127 )
     call SetSoundPitch( gg_snd_Lothar4, 1.0 )
-    set gg_snd_Lothar40 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Lothar40, 2043 )
+    set gg_snd_Lothar40 = CreateSound( "Sound/Dialogue/Lothar/Lothar40.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Lothar40, 10318 )
     call SetSoundChannel( gg_snd_Lothar40, 0 )
-    call SetSoundVolume( gg_snd_Lothar40, -1 )
+    call SetSoundVolume( gg_snd_Lothar40, 127 )
     call SetSoundPitch( gg_snd_Lothar40, 1.0 )
-    set gg_snd_Lothar41 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Lothar41, 2043 )
+    set gg_snd_Lothar41 = CreateSound( "Sound/Dialogue/Lothar/Lothar41.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Lothar41, 14994 )
     call SetSoundChannel( gg_snd_Lothar41, 0 )
-    call SetSoundVolume( gg_snd_Lothar41, -1 )
+    call SetSoundVolume( gg_snd_Lothar41, 127 )
     call SetSoundPitch( gg_snd_Lothar41, 1.0 )
-    set gg_snd_Lothar42 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Lothar42, 2043 )
+    set gg_snd_Lothar42 = CreateSound( "Sound/Dialogue/Lothar/Lothar42.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Lothar42, 1541 )
     call SetSoundChannel( gg_snd_Lothar42, 0 )
-    call SetSoundVolume( gg_snd_Lothar42, -1 )
+    call SetSoundVolume( gg_snd_Lothar42, 127 )
     call SetSoundPitch( gg_snd_Lothar42, 1.0 )
-    set gg_snd_Lothar43 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Lothar43, 2043 )
+    set gg_snd_Lothar43 = CreateSound( "Sound/Dialogue/Lothar/Lothar43.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Lothar43, 8489 )
     call SetSoundChannel( gg_snd_Lothar43, 0 )
-    call SetSoundVolume( gg_snd_Lothar43, -1 )
+    call SetSoundVolume( gg_snd_Lothar43, 127 )
     call SetSoundPitch( gg_snd_Lothar43, 1.0 )
-    set gg_snd_Lothar44 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Lothar44, 2043 )
+    set gg_snd_Lothar44 = CreateSound( "Sound/Dialogue/Lothar/Lothar44.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Lothar44, 9299 )
     call SetSoundChannel( gg_snd_Lothar44, 0 )
-    call SetSoundVolume( gg_snd_Lothar44, -1 )
+    call SetSoundVolume( gg_snd_Lothar44, 127 )
     call SetSoundPitch( gg_snd_Lothar44, 1.0 )
-    set gg_snd_Lothar45 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Lothar45, 2043 )
+    set gg_snd_Lothar45 = CreateSound( "Sound/Dialogue/Lothar/Lothar45.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Lothar45, 12120 )
     call SetSoundChannel( gg_snd_Lothar45, 0 )
-    call SetSoundVolume( gg_snd_Lothar45, -1 )
+    call SetSoundVolume( gg_snd_Lothar45, 127 )
     call SetSoundPitch( gg_snd_Lothar45, 1.0 )
-    set gg_snd_Lothar46 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Lothar46, 2043 )
+    set gg_snd_Lothar46 = CreateSound( "Sound/Dialogue/Lothar/Lothar46.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Lothar46, 5694 )
     call SetSoundChannel( gg_snd_Lothar46, 0 )
-    call SetSoundVolume( gg_snd_Lothar46, -1 )
+    call SetSoundVolume( gg_snd_Lothar46, 127 )
     call SetSoundPitch( gg_snd_Lothar46, 1.0 )
-    set gg_snd_Lothar47 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Lothar47, 2043 )
+    set gg_snd_Lothar47 = CreateSound( "Sound/Dialogue/Lothar/Lothar47.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Lothar47, 10814 )
     call SetSoundChannel( gg_snd_Lothar47, 0 )
-    call SetSoundVolume( gg_snd_Lothar47, -1 )
+    call SetSoundVolume( gg_snd_Lothar47, 127 )
     call SetSoundPitch( gg_snd_Lothar47, 1.0 )
-    set gg_snd_Lothar48 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Lothar48, 2043 )
+    set gg_snd_Lothar48 = CreateSound( "Sound/Dialogue/Lothar/Lothar48.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Lothar48, 2037 )
     call SetSoundChannel( gg_snd_Lothar48, 0 )
-    call SetSoundVolume( gg_snd_Lothar48, -1 )
+    call SetSoundVolume( gg_snd_Lothar48, 127 )
     call SetSoundPitch( gg_snd_Lothar48, 1.0 )
-    set gg_snd_Lothar49 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Lothar49, 2043 )
+    set gg_snd_Lothar49 = CreateSound( "Sound/Dialogue/Lothar/Lothar49.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Lothar49, 3317 )
     call SetSoundChannel( gg_snd_Lothar49, 0 )
-    call SetSoundVolume( gg_snd_Lothar49, -1 )
+    call SetSoundVolume( gg_snd_Lothar49, 127 )
     call SetSoundPitch( gg_snd_Lothar49, 1.0 )
-    set gg_snd_Lothar5 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Lothar5, 2043 )
+    set gg_snd_Lothar5 = CreateSound( "Sound/Dialogue/Lothar/Lothar5.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Lothar5, 5851 )
     call SetSoundChannel( gg_snd_Lothar5, 0 )
-    call SetSoundVolume( gg_snd_Lothar5, -1 )
+    call SetSoundVolume( gg_snd_Lothar5, 127 )
     call SetSoundPitch( gg_snd_Lothar5, 1.0 )
-    set gg_snd_Lothar50 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Lothar50, 2043 )
+    set gg_snd_Lothar50 = CreateSound( "Sound/Dialogue/Lothar/Lothar50.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Lothar50, 5302 )
     call SetSoundChannel( gg_snd_Lothar50, 0 )
-    call SetSoundVolume( gg_snd_Lothar50, -1 )
+    call SetSoundVolume( gg_snd_Lothar50, 127 )
     call SetSoundPitch( gg_snd_Lothar50, 1.0 )
-    set gg_snd_Lothar51 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Lothar51, 2043 )
+    set gg_snd_Lothar51 = CreateSound( "Sound/Dialogue/Lothar/Lothar51.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Lothar51, 4911 )
     call SetSoundChannel( gg_snd_Lothar51, 0 )
-    call SetSoundVolume( gg_snd_Lothar51, -1 )
+    call SetSoundVolume( gg_snd_Lothar51, 127 )
     call SetSoundPitch( gg_snd_Lothar51, 1.0 )
-    set gg_snd_Lothar52 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Lothar52, 2043 )
+    set gg_snd_Lothar52 = CreateSound( "Sound/Dialogue/Lothar/Lothar52.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Lothar52, 7262 )
     call SetSoundChannel( gg_snd_Lothar52, 0 )
-    call SetSoundVolume( gg_snd_Lothar52, -1 )
+    call SetSoundVolume( gg_snd_Lothar52, 127 )
     call SetSoundPitch( gg_snd_Lothar52, 1.0 )
-    set gg_snd_Lothar53 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Lothar53, 2043 )
+    set gg_snd_Lothar53 = CreateSound( "Sound/Dialogue/Lothar/Lothar53.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Lothar53, 11520 )
     call SetSoundChannel( gg_snd_Lothar53, 0 )
-    call SetSoundVolume( gg_snd_Lothar53, -1 )
+    call SetSoundVolume( gg_snd_Lothar53, 127 )
     call SetSoundPitch( gg_snd_Lothar53, 1.0 )
-    set gg_snd_Lothar54 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Lothar54, 2043 )
+    set gg_snd_Lothar54 = CreateSound( "Sound/Dialogue/Lothar/Lothar54.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Lothar54, 6034 )
     call SetSoundChannel( gg_snd_Lothar54, 0 )
-    call SetSoundVolume( gg_snd_Lothar54, -1 )
+    call SetSoundVolume( gg_snd_Lothar54, 127 )
     call SetSoundPitch( gg_snd_Lothar54, 1.0 )
-    set gg_snd_Lothar55 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Lothar55, 2043 )
+    set gg_snd_Lothar55 = CreateSound( "Sound/Dialogue/Lothar/Lothar55.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Lothar55, 3239 )
     call SetSoundChannel( gg_snd_Lothar55, 0 )
-    call SetSoundVolume( gg_snd_Lothar55, -1 )
+    call SetSoundVolume( gg_snd_Lothar55, 127 )
     call SetSoundPitch( gg_snd_Lothar55, 1.0 )
-    set gg_snd_Lothar56 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Lothar56, 2043 )
+    set gg_snd_Lothar56 = CreateSound( "Sound/Dialogue/Lothar/Lothar56.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Lothar56, 2612 )
     call SetSoundChannel( gg_snd_Lothar56, 0 )
-    call SetSoundVolume( gg_snd_Lothar56, -1 )
+    call SetSoundVolume( gg_snd_Lothar56, 127 )
     call SetSoundPitch( gg_snd_Lothar56, 1.0 )
-    set gg_snd_Lothar57 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Lothar57, 2043 )
+    set gg_snd_Lothar57 = CreateSound( "Sound/Dialogue/Lothar/Lothar57.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Lothar57, 5799 )
     call SetSoundChannel( gg_snd_Lothar57, 0 )
-    call SetSoundVolume( gg_snd_Lothar57, -1 )
+    call SetSoundVolume( gg_snd_Lothar57, 127 )
     call SetSoundPitch( gg_snd_Lothar57, 1.0 )
-    set gg_snd_Lothar58 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Lothar58, 2043 )
+    set gg_snd_Lothar58 = CreateSound( "Sound/Dialogue/Lothar/Lothar58.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Lothar58, 4571 )
     call SetSoundChannel( gg_snd_Lothar58, 0 )
-    call SetSoundVolume( gg_snd_Lothar58, -1 )
+    call SetSoundVolume( gg_snd_Lothar58, 127 )
     call SetSoundPitch( gg_snd_Lothar58, 1.0 )
-    set gg_snd_Lothar59 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Lothar59, 2043 )
+    set gg_snd_Lothar59 = CreateSound( "Sound/Dialogue/Lothar/Lothar59.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Lothar59, 4649 )
     call SetSoundChannel( gg_snd_Lothar59, 0 )
-    call SetSoundVolume( gg_snd_Lothar59, -1 )
+    call SetSoundVolume( gg_snd_Lothar59, 127 )
     call SetSoundPitch( gg_snd_Lothar59, 1.0 )
-    set gg_snd_Lothar6 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Lothar6, 2043 )
+    set gg_snd_Lothar6 = CreateSound( "Sound/Dialogue/Lothar/Lothar6.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Lothar6, 8097 )
     call SetSoundChannel( gg_snd_Lothar6, 0 )
-    call SetSoundVolume( gg_snd_Lothar6, -1 )
+    call SetSoundVolume( gg_snd_Lothar6, 127 )
     call SetSoundPitch( gg_snd_Lothar6, 1.0 )
-    set gg_snd_Lothar7 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Lothar7, 2043 )
+    set gg_snd_Lothar7 = CreateSound( "Sound/Dialogue/Lothar/Lothar7.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Lothar7, 6452 )
     call SetSoundChannel( gg_snd_Lothar7, 0 )
-    call SetSoundVolume( gg_snd_Lothar7, -1 )
+    call SetSoundVolume( gg_snd_Lothar7, 127 )
     call SetSoundPitch( gg_snd_Lothar7, 1.0 )
-    set gg_snd_Lothar8 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Lothar8, 2043 )
+    set gg_snd_Lothar8 = CreateSound( "Sound/Dialogue/Lothar/Lothar8.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Lothar8, 11702 )
     call SetSoundChannel( gg_snd_Lothar8, 0 )
-    call SetSoundVolume( gg_snd_Lothar8, -1 )
+    call SetSoundVolume( gg_snd_Lothar8, 127 )
     call SetSoundPitch( gg_snd_Lothar8, 1.0 )
-    set gg_snd_Lothar9 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Lothar9, 2043 )
+    set gg_snd_Lothar9 = CreateSound( "Sound/Dialogue/Lothar/Lothar9.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Lothar9, 10344 )
     call SetSoundChannel( gg_snd_Lothar9, 0 )
-    call SetSoundVolume( gg_snd_Lothar9, -1 )
+    call SetSoundVolume( gg_snd_Lothar9, 127 )
     call SetSoundPitch( gg_snd_Lothar9, 1.0 )
-    set gg_snd_Manfred1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Manfred1, 2043 )
+    set gg_snd_Manfred1 = CreateSound( "Sound/Dialogue/Manfred/Manfred1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Manfred1, 2403 )
     call SetSoundChannel( gg_snd_Manfred1, 0 )
-    call SetSoundVolume( gg_snd_Manfred1, -1 )
+    call SetSoundVolume( gg_snd_Manfred1, 127 )
     call SetSoundPitch( gg_snd_Manfred1, 1.0 )
-    set gg_snd_Manfred10 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Manfred10, 2043 )
+    set gg_snd_Manfred10 = CreateSound( "Sound/Dialogue/Manfred/Manfred10.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Manfred10, 12773 )
     call SetSoundChannel( gg_snd_Manfred10, 0 )
-    call SetSoundVolume( gg_snd_Manfred10, -1 )
+    call SetSoundVolume( gg_snd_Manfred10, 127 )
     call SetSoundPitch( gg_snd_Manfred10, 1.0 )
-    set gg_snd_Manfred101 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Manfred101, 2043 )
+    set gg_snd_Manfred101 = CreateSound( "Sound/Dialogue/Manfred/Manfred1.wav", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Manfred101, 2192 )
     call SetSoundChannel( gg_snd_Manfred101, 0 )
-    call SetSoundVolume( gg_snd_Manfred101, -1 )
+    call SetSoundVolume( gg_snd_Manfred101, 127 )
     call SetSoundPitch( gg_snd_Manfred101, 1.0 )
-    set gg_snd_Manfred11 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Manfred11, 2043 )
+    set gg_snd_Manfred11 = CreateSound( "Sound/Dialogue/Manfred/Manfred11.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Manfred11, 13975 )
     call SetSoundChannel( gg_snd_Manfred11, 0 )
-    call SetSoundVolume( gg_snd_Manfred11, -1 )
+    call SetSoundVolume( gg_snd_Manfred11, 127 )
     call SetSoundPitch( gg_snd_Manfred11, 1.0 )
-    set gg_snd_Manfred12 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Manfred12, 2043 )
+    set gg_snd_Manfred12 = CreateSound( "Sound/Dialogue/Manfred/Manfred12.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Manfred12, 10422 )
     call SetSoundChannel( gg_snd_Manfred12, 0 )
-    call SetSoundVolume( gg_snd_Manfred12, -1 )
+    call SetSoundVolume( gg_snd_Manfred12, 127 )
     call SetSoundPitch( gg_snd_Manfred12, 1.0 )
-    set gg_snd_Manfred13 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Manfred13, 2043 )
+    set gg_snd_Manfred13 = CreateSound( "Sound/Dialogue/Manfred/Manfred13.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Manfred13, 11493 )
     call SetSoundChannel( gg_snd_Manfred13, 0 )
-    call SetSoundVolume( gg_snd_Manfred13, -1 )
+    call SetSoundVolume( gg_snd_Manfred13, 127 )
     call SetSoundPitch( gg_snd_Manfred13, 1.0 )
-    set gg_snd_Manfred14 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Manfred14, 2043 )
+    set gg_snd_Manfred14 = CreateSound( "Sound/Dialogue/Manfred/Manfred14.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Manfred14, 8306 )
     call SetSoundChannel( gg_snd_Manfred14, 0 )
-    call SetSoundVolume( gg_snd_Manfred14, -1 )
+    call SetSoundVolume( gg_snd_Manfred14, 127 )
     call SetSoundPitch( gg_snd_Manfred14, 1.0 )
-    set gg_snd_Manfred15 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Manfred15, 2043 )
+    set gg_snd_Manfred15 = CreateSound( "Sound/Dialogue/Manfred/Manfred15.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Manfred15, 2272 )
     call SetSoundChannel( gg_snd_Manfred15, 0 )
-    call SetSoundVolume( gg_snd_Manfred15, -1 )
+    call SetSoundVolume( gg_snd_Manfred15, 127 )
     call SetSoundPitch( gg_snd_Manfred15, 1.0 )
-    set gg_snd_Manfred16 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Manfred16, 2043 )
+    set gg_snd_Manfred16 = CreateSound( "Sound/Dialogue/Manfred/Manfred16.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Manfred16, 15673 )
     call SetSoundChannel( gg_snd_Manfred16, 0 )
-    call SetSoundVolume( gg_snd_Manfred16, -1 )
+    call SetSoundVolume( gg_snd_Manfred16, 127 )
     call SetSoundPitch( gg_snd_Manfred16, 1.0 )
-    set gg_snd_Manfred17 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Manfred17, 2043 )
+    set gg_snd_Manfred17 = CreateSound( "Sound/Dialogue/Manfred/Manfred17.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Manfred17, 5198 )
     call SetSoundChannel( gg_snd_Manfred17, 0 )
-    call SetSoundVolume( gg_snd_Manfred17, -1 )
+    call SetSoundVolume( gg_snd_Manfred17, 127 )
     call SetSoundPitch( gg_snd_Manfred17, 1.0 )
-    set gg_snd_Manfred18 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Manfred18, 2043 )
+    set gg_snd_Manfred18 = CreateSound( "Sound/Dialogue/Manfred/Manfred18.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Manfred18, 12382 )
     call SetSoundChannel( gg_snd_Manfred18, 0 )
-    call SetSoundVolume( gg_snd_Manfred18, -1 )
+    call SetSoundVolume( gg_snd_Manfred18, 127 )
     call SetSoundPitch( gg_snd_Manfred18, 1.0 )
-    set gg_snd_Manfred19 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Manfred19, 2043 )
+    set gg_snd_Manfred19 = CreateSound( "Sound/Dialogue/Manfred/Manfred19.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Manfred19, 5381 )
     call SetSoundChannel( gg_snd_Manfred19, 0 )
-    call SetSoundVolume( gg_snd_Manfred19, -1 )
+    call SetSoundVolume( gg_snd_Manfred19, 127 )
     call SetSoundPitch( gg_snd_Manfred19, 1.0 )
-    set gg_snd_Manfred2 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Manfred2, 2043 )
+    set gg_snd_Manfred2 = CreateSound( "Sound/Dialogue/Manfred/Manfred2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Manfred2, 8829 )
     call SetSoundChannel( gg_snd_Manfred2, 0 )
-    call SetSoundVolume( gg_snd_Manfred2, -1 )
+    call SetSoundVolume( gg_snd_Manfred2, 127 )
     call SetSoundPitch( gg_snd_Manfred2, 1.0 )
-    set gg_snd_Manfred20 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Manfred20, 2043 )
+    set gg_snd_Manfred20 = CreateSound( "Sound/Dialogue/Manfred/Manfred20.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Manfred20, 11415 )
     call SetSoundChannel( gg_snd_Manfred20, 0 )
-    call SetSoundVolume( gg_snd_Manfred20, -1 )
+    call SetSoundVolume( gg_snd_Manfred20, 127 )
     call SetSoundPitch( gg_snd_Manfred20, 1.0 )
-    set gg_snd_Manfred201 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Manfred201, 2043 )
+    set gg_snd_Manfred201 = CreateSound( "Sound/Dialogue/Manfred/Manfred2.wav", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Manfred201, 1958 )
     call SetSoundChannel( gg_snd_Manfred201, 0 )
-    call SetSoundVolume( gg_snd_Manfred201, -1 )
+    call SetSoundVolume( gg_snd_Manfred201, 127 )
     call SetSoundPitch( gg_snd_Manfred201, 1.0 )
-    set gg_snd_Manfred21 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Manfred21, 2043 )
+    set gg_snd_Manfred21 = CreateSound( "Sound/Dialogue/Manfred/Manfred21.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Manfred21, 8019 )
     call SetSoundChannel( gg_snd_Manfred21, 0 )
-    call SetSoundVolume( gg_snd_Manfred21, -1 )
+    call SetSoundVolume( gg_snd_Manfred21, 127 )
     call SetSoundPitch( gg_snd_Manfred21, 1.0 )
-    set gg_snd_Manfred22 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Manfred22, 2043 )
+    set gg_snd_Manfred22 = CreateSound( "Sound/Dialogue/Manfred/Manfred22.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Manfred22, 809 )
     call SetSoundChannel( gg_snd_Manfred22, 0 )
-    call SetSoundVolume( gg_snd_Manfred22, -1 )
+    call SetSoundVolume( gg_snd_Manfred22, 127 )
     call SetSoundPitch( gg_snd_Manfred22, 1.0 )
-    set gg_snd_Manfred23 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Manfred23, 2043 )
+    set gg_snd_Manfred23 = CreateSound( "Sound/Dialogue/Manfred/Manfred23.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Manfred23, 7758 )
     call SetSoundChannel( gg_snd_Manfred23, 0 )
-    call SetSoundVolume( gg_snd_Manfred23, -1 )
+    call SetSoundVolume( gg_snd_Manfred23, 127 )
     call SetSoundPitch( gg_snd_Manfred23, 1.0 )
-    set gg_snd_Manfred24 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Manfred24, 2043 )
+    set gg_snd_Manfred24 = CreateSound( "Sound/Dialogue/Manfred/Manfred24.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Manfred24, 2690 )
     call SetSoundChannel( gg_snd_Manfred24, 0 )
-    call SetSoundVolume( gg_snd_Manfred24, -1 )
+    call SetSoundVolume( gg_snd_Manfred24, 127 )
     call SetSoundPitch( gg_snd_Manfred24, 1.0 )
-    set gg_snd_Manfred25 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Manfred25, 2043 )
+    set gg_snd_Manfred25 = CreateSound( "Sound/Dialogue/Manfred/Manfred25.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Manfred25, 5120 )
     call SetSoundChannel( gg_snd_Manfred25, 0 )
-    call SetSoundVolume( gg_snd_Manfred25, -1 )
+    call SetSoundVolume( gg_snd_Manfred25, 127 )
     call SetSoundPitch( gg_snd_Manfred25, 1.0 )
-    set gg_snd_Manfred26 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Manfred26, 2043 )
+    set gg_snd_Manfred26 = CreateSound( "Sound/Dialogue/Manfred/Manfred26.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Manfred26, 7993 )
     call SetSoundChannel( gg_snd_Manfred26, 0 )
-    call SetSoundVolume( gg_snd_Manfred26, -1 )
+    call SetSoundVolume( gg_snd_Manfred26, 127 )
     call SetSoundPitch( gg_snd_Manfred26, 1.0 )
-    set gg_snd_Manfred27 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Manfred27, 2043 )
+    set gg_snd_Manfred27 = CreateSound( "Sound/Dialogue/Manfred/Manfred27.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Manfred27, 11624 )
     call SetSoundChannel( gg_snd_Manfred27, 0 )
-    call SetSoundVolume( gg_snd_Manfred27, -1 )
+    call SetSoundVolume( gg_snd_Manfred27, 127 )
     call SetSoundPitch( gg_snd_Manfred27, 1.0 )
-    set gg_snd_Manfred28 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Manfred28, 2043 )
+    set gg_snd_Manfred28 = CreateSound( "Sound/Dialogue/Manfred/Manfred28.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Manfred28, 7288 )
     call SetSoundChannel( gg_snd_Manfred28, 0 )
-    call SetSoundVolume( gg_snd_Manfred28, -1 )
+    call SetSoundVolume( gg_snd_Manfred28, 127 )
     call SetSoundPitch( gg_snd_Manfred28, 1.0 )
-    set gg_snd_Manfred29 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Manfred29, 2043 )
+    set gg_snd_Manfred29 = CreateSound( "Sound/Dialogue/Manfred/Manfred29.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Manfred29, 3840 )
     call SetSoundChannel( gg_snd_Manfred29, 0 )
-    call SetSoundVolume( gg_snd_Manfred29, -1 )
+    call SetSoundVolume( gg_snd_Manfred29, 127 )
     call SetSoundPitch( gg_snd_Manfred29, 1.0 )
-    set gg_snd_Manfred3 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Manfred3, 2043 )
+    set gg_snd_Manfred3 = CreateSound( "Sound/Dialogue/Manfred/Manfred3.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Manfred3, 7523 )
     call SetSoundChannel( gg_snd_Manfred3, 0 )
-    call SetSoundVolume( gg_snd_Manfred3, -1 )
+    call SetSoundVolume( gg_snd_Manfred3, 127 )
     call SetSoundPitch( gg_snd_Manfred3, 1.0 )
-    set gg_snd_Manfred30 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Manfred30, 2043 )
+    set gg_snd_Manfred30 = CreateSound( "Sound/Dialogue/Manfred/Manfred30.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Manfred30, 8463 )
     call SetSoundChannel( gg_snd_Manfred30, 0 )
-    call SetSoundVolume( gg_snd_Manfred30, -1 )
+    call SetSoundVolume( gg_snd_Manfred30, 127 )
     call SetSoundPitch( gg_snd_Manfred30, 1.0 )
-    set gg_snd_Manfred301 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Manfred301, 2043 )
+    set gg_snd_Manfred301 = CreateSound( "Sound/Dialogue/Manfred/Manfred3.wav", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Manfred301, 2613 )
     call SetSoundChannel( gg_snd_Manfred301, 0 )
-    call SetSoundVolume( gg_snd_Manfred301, -1 )
+    call SetSoundVolume( gg_snd_Manfred301, 127 )
     call SetSoundPitch( gg_snd_Manfred301, 1.0 )
-    set gg_snd_Manfred31 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Manfred31, 2043 )
+    set gg_snd_Manfred31 = CreateSound( "Sound/Dialogue/Manfred/Manfred31.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Manfred31, 2324 )
     call SetSoundChannel( gg_snd_Manfred31, 0 )
-    call SetSoundVolume( gg_snd_Manfred31, -1 )
+    call SetSoundVolume( gg_snd_Manfred31, 127 )
     call SetSoundPitch( gg_snd_Manfred31, 1.0 )
-    set gg_snd_Manfred32 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Manfred32, 2043 )
+    set gg_snd_Manfred32 = CreateSound( "Sound/Dialogue/Manfred/Manfred32.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Manfred32, 9978 )
     call SetSoundChannel( gg_snd_Manfred32, 0 )
-    call SetSoundVolume( gg_snd_Manfred32, -1 )
+    call SetSoundVolume( gg_snd_Manfred32, 127 )
     call SetSoundPitch( gg_snd_Manfred32, 1.0 )
-    set gg_snd_Manfred33 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Manfred33, 2043 )
+    set gg_snd_Manfred33 = CreateSound( "Sound/Dialogue/Manfred/Manfred33.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Manfred33, 6608 )
     call SetSoundChannel( gg_snd_Manfred33, 0 )
-    call SetSoundVolume( gg_snd_Manfred33, -1 )
+    call SetSoundVolume( gg_snd_Manfred33, 127 )
     call SetSoundPitch( gg_snd_Manfred33, 1.0 )
-    set gg_snd_Manfred34 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Manfred34, 2043 )
+    set gg_snd_Manfred34 = CreateSound( "Sound/Dialogue/Manfred/Manfred34.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Manfred34, 3239 )
     call SetSoundChannel( gg_snd_Manfred34, 0 )
-    call SetSoundVolume( gg_snd_Manfred34, -1 )
+    call SetSoundVolume( gg_snd_Manfred34, 127 )
     call SetSoundPitch( gg_snd_Manfred34, 1.0 )
-    set gg_snd_Manfred35 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Manfred35, 2043 )
+    set gg_snd_Manfred35 = CreateSound( "Sound/Dialogue/Manfred/Manfred35.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Manfred35, 1488 )
     call SetSoundChannel( gg_snd_Manfred35, 0 )
-    call SetSoundVolume( gg_snd_Manfred35, -1 )
+    call SetSoundVolume( gg_snd_Manfred35, 127 )
     call SetSoundPitch( gg_snd_Manfred35, 1.0 )
-    set gg_snd_Manfred36 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Manfred36, 2043 )
+    set gg_snd_Manfred36 = CreateSound( "Sound/Dialogue/Manfred/Manfred36.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Manfred36, 10475 )
     call SetSoundChannel( gg_snd_Manfred36, 0 )
-    call SetSoundVolume( gg_snd_Manfred36, -1 )
+    call SetSoundVolume( gg_snd_Manfred36, 127 )
     call SetSoundPitch( gg_snd_Manfred36, 1.0 )
-    set gg_snd_Manfred37 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Manfred37, 2043 )
+    set gg_snd_Manfred37 = CreateSound( "Sound/Dialogue/Manfred/Manfred37.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Manfred37, 6138 )
     call SetSoundChannel( gg_snd_Manfred37, 0 )
-    call SetSoundVolume( gg_snd_Manfred37, -1 )
+    call SetSoundVolume( gg_snd_Manfred37, 127 )
     call SetSoundPitch( gg_snd_Manfred37, 1.0 )
-    set gg_snd_Manfred38 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Manfred38, 2043 )
+    set gg_snd_Manfred38 = CreateSound( "Sound/Dialogue/Manfred/Manfred38.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Manfred38, 18703 )
     call SetSoundChannel( gg_snd_Manfred38, 0 )
-    call SetSoundVolume( gg_snd_Manfred38, -1 )
+    call SetSoundVolume( gg_snd_Manfred38, 127 )
     call SetSoundPitch( gg_snd_Manfred38, 1.0 )
-    set gg_snd_Manfred39 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Manfred39, 2043 )
+    set gg_snd_Manfred39 = CreateSound( "Sound/Dialogue/Manfred/Manfred39.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Manfred39, 15386 )
     call SetSoundChannel( gg_snd_Manfred39, 0 )
-    call SetSoundVolume( gg_snd_Manfred39, -1 )
+    call SetSoundVolume( gg_snd_Manfred39, 127 )
     call SetSoundPitch( gg_snd_Manfred39, 1.0 )
-    set gg_snd_Manfred4 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Manfred4, 2043 )
+    set gg_snd_Manfred4 = CreateSound( "Sound/Dialogue/Manfred/Manfred4.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Manfred4, 5877 )
     call SetSoundChannel( gg_snd_Manfred4, 0 )
-    call SetSoundVolume( gg_snd_Manfred4, -1 )
+    call SetSoundVolume( gg_snd_Manfred4, 127 )
     call SetSoundPitch( gg_snd_Manfred4, 1.0 )
-    set gg_snd_Manfred5 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Manfred5, 2043 )
+    set gg_snd_Manfred5 = CreateSound( "Sound/Dialogue/Manfred/Manfred5.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Manfred5, 12826 )
     call SetSoundChannel( gg_snd_Manfred5, 0 )
-    call SetSoundVolume( gg_snd_Manfred5, -1 )
+    call SetSoundVolume( gg_snd_Manfred5, 127 )
     call SetSoundPitch( gg_snd_Manfred5, 1.0 )
-    set gg_snd_Manfred6 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Manfred6, 2043 )
+    set gg_snd_Manfred6 = CreateSound( "Sound/Dialogue/Manfred/Manfred6.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Manfred6, 5172 )
     call SetSoundChannel( gg_snd_Manfred6, 0 )
-    call SetSoundVolume( gg_snd_Manfred6, -1 )
+    call SetSoundVolume( gg_snd_Manfred6, 127 )
     call SetSoundPitch( gg_snd_Manfred6, 1.0 )
-    set gg_snd_Manfred7 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Manfred7, 2043 )
+    set gg_snd_Manfred7 = CreateSound( "Sound/Dialogue/Manfred/Manfred7.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Manfred7, 5720 )
     call SetSoundChannel( gg_snd_Manfred7, 0 )
-    call SetSoundVolume( gg_snd_Manfred7, -1 )
+    call SetSoundVolume( gg_snd_Manfred7, 127 )
     call SetSoundPitch( gg_snd_Manfred7, 1.0 )
-    set gg_snd_Manfred8 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Manfred8, 2043 )
+    set gg_snd_Manfred8 = CreateSound( "Sound/Dialogue/Manfred/Manfred8.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Manfred8, 9848 )
     call SetSoundChannel( gg_snd_Manfred8, 0 )
-    call SetSoundVolume( gg_snd_Manfred8, -1 )
+    call SetSoundVolume( gg_snd_Manfred8, 127 )
     call SetSoundPitch( gg_snd_Manfred8, 1.0 )
-    set gg_snd_Manfred9 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Manfred9, 2043 )
+    set gg_snd_Manfred9 = CreateSound( "Sound/Dialogue/Manfred/Manfred9.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Manfred9, 11885 )
     call SetSoundChannel( gg_snd_Manfred9, 0 )
-    call SetSoundVolume( gg_snd_Manfred9, -1 )
+    call SetSoundVolume( gg_snd_Manfred9, 127 )
     call SetSoundPitch( gg_snd_Manfred9, 1.0 )
-    set gg_snd_Markward1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Markward1, 2043 )
+    set gg_snd_Markward1 = CreateSound( "Sound/Dialogue/Markward/Markward1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Markward1, 10971 )
     call SetSoundChannel( gg_snd_Markward1, 0 )
-    call SetSoundVolume( gg_snd_Markward1, -1 )
+    call SetSoundVolume( gg_snd_Markward1, 127 )
     call SetSoundPitch( gg_snd_Markward1, 1.0 )
-    set gg_snd_Markward10 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Markward10, 2043 )
+    set gg_snd_Markward10 = CreateSound( "Sound/Dialogue/Markward/Markward10.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Markward10, 9848 )
     call SetSoundChannel( gg_snd_Markward10, 0 )
-    call SetSoundVolume( gg_snd_Markward10, -1 )
+    call SetSoundVolume( gg_snd_Markward10, 127 )
     call SetSoundPitch( gg_snd_Markward10, 1.0 )
-    set gg_snd_Markward11 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Markward11, 2043 )
+    set gg_snd_Markward11 = CreateSound( "Sound/Dialogue/Markward/Markward11.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Markward11, 13635 )
     call SetSoundChannel( gg_snd_Markward11, 0 )
-    call SetSoundVolume( gg_snd_Markward11, -1 )
+    call SetSoundVolume( gg_snd_Markward11, 127 )
     call SetSoundPitch( gg_snd_Markward11, 1.0 )
-    set gg_snd_Markward12 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Markward12, 2043 )
+    set gg_snd_Markward12 = CreateSound( "Sound/Dialogue/Markward/Markward12.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Markward12, 7549 )
     call SetSoundChannel( gg_snd_Markward12, 0 )
-    call SetSoundVolume( gg_snd_Markward12, -1 )
+    call SetSoundVolume( gg_snd_Markward12, 127 )
     call SetSoundPitch( gg_snd_Markward12, 1.0 )
-    set gg_snd_Markward13 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Markward13, 2043 )
+    set gg_snd_Markward13 = CreateSound( "Sound/Dialogue/Markward/Markward13.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Markward13, 5485 )
     call SetSoundChannel( gg_snd_Markward13, 0 )
-    call SetSoundVolume( gg_snd_Markward13, -1 )
+    call SetSoundVolume( gg_snd_Markward13, 127 )
     call SetSoundPitch( gg_snd_Markward13, 1.0 )
-    set gg_snd_Markward14 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Markward14, 2043 )
+    set gg_snd_Markward14 = CreateSound( "Sound/Dialogue/Markward/Markward14.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Markward14, 7079 )
     call SetSoundChannel( gg_snd_Markward14, 0 )
-    call SetSoundVolume( gg_snd_Markward14, -1 )
+    call SetSoundVolume( gg_snd_Markward14, 127 )
     call SetSoundPitch( gg_snd_Markward14, 1.0 )
-    set gg_snd_Markward15 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Markward15, 2043 )
+    set gg_snd_Markward15 = CreateSound( "Sound/Dialogue/Markward/Markward15.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Markward15, 6556 )
     call SetSoundChannel( gg_snd_Markward15, 0 )
-    call SetSoundVolume( gg_snd_Markward15, -1 )
+    call SetSoundVolume( gg_snd_Markward15, 127 )
     call SetSoundPitch( gg_snd_Markward15, 1.0 )
-    set gg_snd_Markward16 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Markward16, 2043 )
+    set gg_snd_Markward16 = CreateSound( "Sound/Dialogue/Markward/Markward16.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Markward16, 9012 )
     call SetSoundChannel( gg_snd_Markward16, 0 )
-    call SetSoundVolume( gg_snd_Markward16, -1 )
+    call SetSoundVolume( gg_snd_Markward16, 127 )
     call SetSoundPitch( gg_snd_Markward16, 1.0 )
-    set gg_snd_Markward17 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Markward17, 2043 )
+    set gg_snd_Markward17 = CreateSound( "Sound/Dialogue/Markward/Markward17.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Markward17, 8306 )
     call SetSoundChannel( gg_snd_Markward17, 0 )
-    call SetSoundVolume( gg_snd_Markward17, -1 )
+    call SetSoundVolume( gg_snd_Markward17, 127 )
     call SetSoundPitch( gg_snd_Markward17, 1.0 )
-    set gg_snd_Markward18 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Markward18, 2043 )
+    set gg_snd_Markward18 = CreateSound( "Sound/Dialogue/Markward/Markward18.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Markward18, 11128 )
     call SetSoundChannel( gg_snd_Markward18, 0 )
-    call SetSoundVolume( gg_snd_Markward18, -1 )
+    call SetSoundVolume( gg_snd_Markward18, 127 )
     call SetSoundPitch( gg_snd_Markward18, 1.0 )
-    set gg_snd_Markward19 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Markward19, 2043 )
+    set gg_snd_Markward19 = CreateSound( "Sound/Dialogue/Markward/Markward19.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Markward19, 4362 )
     call SetSoundChannel( gg_snd_Markward19, 0 )
-    call SetSoundVolume( gg_snd_Markward19, -1 )
+    call SetSoundVolume( gg_snd_Markward19, 127 )
     call SetSoundPitch( gg_snd_Markward19, 1.0 )
-    set gg_snd_Markward2 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Markward2, 2043 )
+    set gg_snd_Markward2 = CreateSound( "Sound/Dialogue/Markward/Markward2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Markward2, 6635 )
     call SetSoundChannel( gg_snd_Markward2, 0 )
-    call SetSoundVolume( gg_snd_Markward2, -1 )
+    call SetSoundVolume( gg_snd_Markward2, 127 )
     call SetSoundPitch( gg_snd_Markward2, 1.0 )
-    set gg_snd_Markward20 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Markward20, 2043 )
+    set gg_snd_Markward20 = CreateSound( "Sound/Dialogue/Markward/Markward20.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Markward20, 2324 )
     call SetSoundChannel( gg_snd_Markward20, 0 )
-    call SetSoundVolume( gg_snd_Markward20, -1 )
+    call SetSoundVolume( gg_snd_Markward20, 127 )
     call SetSoundPitch( gg_snd_Markward20, 1.0 )
-    set gg_snd_Markward21 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Markward21, 2043 )
+    set gg_snd_Markward21 = CreateSound( "Sound/Dialogue/Markward/Markward21.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Markward21, 6321 )
     call SetSoundChannel( gg_snd_Markward21, 0 )
-    call SetSoundVolume( gg_snd_Markward21, -1 )
+    call SetSoundVolume( gg_snd_Markward21, 127 )
     call SetSoundPitch( gg_snd_Markward21, 1.0 )
-    set gg_snd_Markward22 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Markward22, 2043 )
+    set gg_snd_Markward22 = CreateSound( "Sound/Dialogue/Markward/Markward22.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Markward22, 7392 )
     call SetSoundChannel( gg_snd_Markward22, 0 )
-    call SetSoundVolume( gg_snd_Markward22, -1 )
+    call SetSoundVolume( gg_snd_Markward22, 127 )
     call SetSoundPitch( gg_snd_Markward22, 1.0 )
-    set gg_snd_Markward23 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Markward23, 2043 )
+    set gg_snd_Markward23 = CreateSound( "Sound/Dialogue/Markward/Markward23.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Markward23, 5773 )
     call SetSoundChannel( gg_snd_Markward23, 0 )
-    call SetSoundVolume( gg_snd_Markward23, -1 )
+    call SetSoundVolume( gg_snd_Markward23, 127 )
     call SetSoundPitch( gg_snd_Markward23, 1.0 )
-    set gg_snd_Markward24 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Markward24, 2043 )
+    set gg_snd_Markward24 = CreateSound( "Sound/Dialogue/Markward/Markward24.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Markward24, 5198 )
     call SetSoundChannel( gg_snd_Markward24, 0 )
-    call SetSoundVolume( gg_snd_Markward24, -1 )
+    call SetSoundVolume( gg_snd_Markward24, 127 )
     call SetSoundPitch( gg_snd_Markward24, 1.0 )
-    set gg_snd_Markward25 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Markward25, 2043 )
+    set gg_snd_Markward25 = CreateSound( "Sound/Dialogue/Markward/Markward25.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Markward25, 3552 )
     call SetSoundChannel( gg_snd_Markward25, 0 )
-    call SetSoundVolume( gg_snd_Markward25, -1 )
+    call SetSoundVolume( gg_snd_Markward25, 127 )
     call SetSoundPitch( gg_snd_Markward25, 1.0 )
-    set gg_snd_Markward26 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Markward26, 2043 )
+    set gg_snd_Markward26 = CreateSound( "Sound/Dialogue/Markward/Markward26.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Markward26, 3265 )
     call SetSoundChannel( gg_snd_Markward26, 0 )
-    call SetSoundVolume( gg_snd_Markward26, -1 )
+    call SetSoundVolume( gg_snd_Markward26, 127 )
     call SetSoundPitch( gg_snd_Markward26, 1.0 )
-    set gg_snd_Markward27 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Markward27, 2043 )
+    set gg_snd_Markward27 = CreateSound( "Sound/Dialogue/Markward/Markward27.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Markward27, 1906 )
     call SetSoundChannel( gg_snd_Markward27, 0 )
-    call SetSoundVolume( gg_snd_Markward27, -1 )
+    call SetSoundVolume( gg_snd_Markward27, 127 )
     call SetSoundPitch( gg_snd_Markward27, 1.0 )
-    set gg_snd_Markward28 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Markward28, 2043 )
+    set gg_snd_Markward28 = CreateSound( "Sound/Dialogue/Markward/Markward28.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Markward28, 6661 )
     call SetSoundChannel( gg_snd_Markward28, 0 )
-    call SetSoundVolume( gg_snd_Markward28, -1 )
+    call SetSoundVolume( gg_snd_Markward28, 127 )
     call SetSoundPitch( gg_snd_Markward28, 1.0 )
-    set gg_snd_Markward29 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Markward29, 2043 )
+    set gg_snd_Markward29 = CreateSound( "Sound/Dialogue/Markward/Markward29.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Markward29, 9795 )
     call SetSoundChannel( gg_snd_Markward29, 0 )
-    call SetSoundVolume( gg_snd_Markward29, -1 )
+    call SetSoundVolume( gg_snd_Markward29, 127 )
     call SetSoundPitch( gg_snd_Markward29, 1.0 )
-    set gg_snd_Markward3 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Markward3, 2043 )
+    set gg_snd_Markward3 = CreateSound( "Sound/Dialogue/Markward/Markward3.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Markward3, 9613 )
     call SetSoundChannel( gg_snd_Markward3, 0 )
-    call SetSoundVolume( gg_snd_Markward3, -1 )
+    call SetSoundVolume( gg_snd_Markward3, 127 )
     call SetSoundPitch( gg_snd_Markward3, 1.0 )
-    set gg_snd_Markward30 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Markward30, 2043 )
+    set gg_snd_Markward30 = CreateSound( "Sound/Dialogue/Markward/Markward30.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Markward30, 12042 )
     call SetSoundChannel( gg_snd_Markward30, 0 )
-    call SetSoundVolume( gg_snd_Markward30, -1 )
+    call SetSoundVolume( gg_snd_Markward30, 127 )
     call SetSoundPitch( gg_snd_Markward30, 1.0 )
-    set gg_snd_Markward31 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Markward31, 2043 )
+    set gg_snd_Markward31 = CreateSound( "Sound/Dialogue/Markward/Markward31.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Markward31, 10161 )
     call SetSoundChannel( gg_snd_Markward31, 0 )
-    call SetSoundVolume( gg_snd_Markward31, -1 )
+    call SetSoundVolume( gg_snd_Markward31, 127 )
     call SetSoundPitch( gg_snd_Markward31, 1.0 )
-    set gg_snd_Markward32 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Markward32, 2043 )
+    set gg_snd_Markward32 = CreateSound( "Sound/Dialogue/Markward/Markward32.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Markward32, 14341 )
     call SetSoundChannel( gg_snd_Markward32, 0 )
-    call SetSoundVolume( gg_snd_Markward32, -1 )
+    call SetSoundVolume( gg_snd_Markward32, 127 )
     call SetSoundPitch( gg_snd_Markward32, 1.0 )
-    set gg_snd_Markward33 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Markward33, 2043 )
+    set gg_snd_Markward33 = CreateSound( "Sound/Dialogue/Markward/Markward33.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Markward33, 7235 )
     call SetSoundChannel( gg_snd_Markward33, 0 )
-    call SetSoundVolume( gg_snd_Markward33, -1 )
+    call SetSoundVolume( gg_snd_Markward33, 127 )
     call SetSoundPitch( gg_snd_Markward33, 1.0 )
-    set gg_snd_Markward34 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Markward34, 2043 )
+    set gg_snd_Markward34 = CreateSound( "Sound/Dialogue/Markward/Markward34.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Markward34, 15830 )
     call SetSoundChannel( gg_snd_Markward34, 0 )
-    call SetSoundVolume( gg_snd_Markward34, -1 )
+    call SetSoundVolume( gg_snd_Markward34, 127 )
     call SetSoundPitch( gg_snd_Markward34, 1.0 )
-    set gg_snd_Markward35 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Markward35, 2043 )
+    set gg_snd_Markward35 = CreateSound( "Sound/Dialogue/Markward/Markward35.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Markward35, 8306 )
     call SetSoundChannel( gg_snd_Markward35, 0 )
-    call SetSoundVolume( gg_snd_Markward35, -1 )
+    call SetSoundVolume( gg_snd_Markward35, 127 )
     call SetSoundPitch( gg_snd_Markward35, 1.0 )
-    set gg_snd_Markward36 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Markward36, 2043 )
+    set gg_snd_Markward36 = CreateSound( "Sound/Dialogue/Markward/Markward36.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Markward36, 7941 )
     call SetSoundChannel( gg_snd_Markward36, 0 )
-    call SetSoundVolume( gg_snd_Markward36, -1 )
+    call SetSoundVolume( gg_snd_Markward36, 127 )
     call SetSoundPitch( gg_snd_Markward36, 1.0 )
-    set gg_snd_Markward37 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Markward37, 2043 )
+    set gg_snd_Markward37 = CreateSound( "Sound/Dialogue/Markward/Markward37.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Markward37, 12643 )
     call SetSoundChannel( gg_snd_Markward37, 0 )
-    call SetSoundVolume( gg_snd_Markward37, -1 )
+    call SetSoundVolume( gg_snd_Markward37, 127 )
     call SetSoundPitch( gg_snd_Markward37, 1.0 )
-    set gg_snd_Markward38 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Markward38, 2043 )
+    set gg_snd_Markward38 = CreateSound( "Sound/Dialogue/Markward/Markward38.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Markward38, 7314 )
     call SetSoundChannel( gg_snd_Markward38, 0 )
-    call SetSoundVolume( gg_snd_Markward38, -1 )
+    call SetSoundVolume( gg_snd_Markward38, 127 )
     call SetSoundPitch( gg_snd_Markward38, 1.0 )
-    set gg_snd_Markward39 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Markward39, 2043 )
+    set gg_snd_Markward39 = CreateSound( "Sound/Dialogue/Markward/Markward39.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Markward39, 8803 )
     call SetSoundChannel( gg_snd_Markward39, 0 )
-    call SetSoundVolume( gg_snd_Markward39, -1 )
+    call SetSoundVolume( gg_snd_Markward39, 127 )
     call SetSoundPitch( gg_snd_Markward39, 1.0 )
-    set gg_snd_Markward4 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Markward4, 2043 )
+    set gg_snd_Markward4 = CreateSound( "Sound/Dialogue/Markward/Markward4.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Markward4, 444 )
     call SetSoundChannel( gg_snd_Markward4, 0 )
-    call SetSoundVolume( gg_snd_Markward4, -1 )
+    call SetSoundVolume( gg_snd_Markward4, 127 )
     call SetSoundPitch( gg_snd_Markward4, 1.0 )
-    set gg_snd_Markward40 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Markward40, 2043 )
+    set gg_snd_Markward40 = CreateSound( "Sound/Dialogue/Markward/Markward40.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Markward40, 5302 )
     call SetSoundChannel( gg_snd_Markward40, 0 )
-    call SetSoundVolume( gg_snd_Markward40, -1 )
+    call SetSoundVolume( gg_snd_Markward40, 127 )
     call SetSoundPitch( gg_snd_Markward40, 1.0 )
-    set gg_snd_Markward41 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Markward41, 2043 )
+    set gg_snd_Markward41 = CreateSound( "Sound/Dialogue/Markward/Markward41.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Markward41, 9351 )
     call SetSoundChannel( gg_snd_Markward41, 0 )
-    call SetSoundVolume( gg_snd_Markward41, -1 )
+    call SetSoundVolume( gg_snd_Markward41, 127 )
     call SetSoundPitch( gg_snd_Markward41, 1.0 )
-    set gg_snd_Markward42 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Markward42, 2043 )
+    set gg_snd_Markward42 = CreateSound( "Sound/Dialogue/Markward/Markward42.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Markward42, 11781 )
     call SetSoundChannel( gg_snd_Markward42, 0 )
-    call SetSoundVolume( gg_snd_Markward42, -1 )
+    call SetSoundVolume( gg_snd_Markward42, 127 )
     call SetSoundPitch( gg_snd_Markward42, 1.0 )
-    set gg_snd_Markward43 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Markward43, 2043 )
+    set gg_snd_Markward43 = CreateSound( "Sound/Dialogue/Markward/Markward43.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Markward43, 6164 )
     call SetSoundChannel( gg_snd_Markward43, 0 )
-    call SetSoundVolume( gg_snd_Markward43, -1 )
+    call SetSoundVolume( gg_snd_Markward43, 127 )
     call SetSoundPitch( gg_snd_Markward43, 1.0 )
-    set gg_snd_Markward44 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Markward44, 2043 )
+    set gg_snd_Markward44 = CreateSound( "Sound/Dialogue/Markward/Markward44.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Markward44, 9508 )
     call SetSoundChannel( gg_snd_Markward44, 0 )
-    call SetSoundVolume( gg_snd_Markward44, -1 )
+    call SetSoundVolume( gg_snd_Markward44, 127 )
     call SetSoundPitch( gg_snd_Markward44, 1.0 )
-    set gg_snd_Markward45 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Markward45, 2043 )
+    set gg_snd_Markward45 = CreateSound( "Sound/Dialogue/Markward/Markward45.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Markward45, 13270 )
     call SetSoundChannel( gg_snd_Markward45, 0 )
-    call SetSoundVolume( gg_snd_Markward45, -1 )
+    call SetSoundVolume( gg_snd_Markward45, 127 )
     call SetSoundPitch( gg_snd_Markward45, 1.0 )
-    set gg_snd_Markward46 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Markward46, 2043 )
+    set gg_snd_Markward46 = CreateSound( "Sound/Dialogue/Markward/Markward46.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Markward46, 12800 )
     call SetSoundChannel( gg_snd_Markward46, 0 )
-    call SetSoundVolume( gg_snd_Markward46, -1 )
+    call SetSoundVolume( gg_snd_Markward46, 127 )
     call SetSoundPitch( gg_snd_Markward46, 1.0 )
-    set gg_snd_Markward47 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Markward47, 2043 )
+    set gg_snd_Markward47 = CreateSound( "Sound/Dialogue/Markward/Markward47.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Markward47, 3683 )
     call SetSoundChannel( gg_snd_Markward47, 0 )
-    call SetSoundVolume( gg_snd_Markward47, -1 )
+    call SetSoundVolume( gg_snd_Markward47, 127 )
     call SetSoundPitch( gg_snd_Markward47, 1.0 )
-    set gg_snd_Markward48 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Markward48, 2043 )
+    set gg_snd_Markward48 = CreateSound( "Sound/Dialogue/Markward/Markward48.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Markward48, 16404 )
     call SetSoundChannel( gg_snd_Markward48, 0 )
-    call SetSoundVolume( gg_snd_Markward48, -1 )
+    call SetSoundVolume( gg_snd_Markward48, 127 )
     call SetSoundPitch( gg_snd_Markward48, 1.0 )
-    set gg_snd_Markward49 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Markward49, 2043 )
+    set gg_snd_Markward49 = CreateSound( "Sound/Dialogue/Markward/Markward49.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Markward49, 9221 )
     call SetSoundChannel( gg_snd_Markward49, 0 )
-    call SetSoundVolume( gg_snd_Markward49, -1 )
+    call SetSoundVolume( gg_snd_Markward49, 127 )
     call SetSoundPitch( gg_snd_Markward49, 1.0 )
-    set gg_snd_Markward5 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Markward5, 2043 )
+    set gg_snd_Markward5 = CreateSound( "Sound/Dialogue/Markward/Markward5.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Markward5, 4702 )
     call SetSoundChannel( gg_snd_Markward5, 0 )
-    call SetSoundVolume( gg_snd_Markward5, -1 )
+    call SetSoundVolume( gg_snd_Markward5, 127 )
     call SetSoundPitch( gg_snd_Markward5, 1.0 )
-    set gg_snd_Markward50 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Markward50, 2043 )
+    set gg_snd_Markward50 = CreateSound( "Sound/Dialogue/Markward/Markward50.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Markward50, 10422 )
     call SetSoundChannel( gg_snd_Markward50, 0 )
-    call SetSoundVolume( gg_snd_Markward50, -1 )
+    call SetSoundVolume( gg_snd_Markward50, 127 )
     call SetSoundPitch( gg_snd_Markward50, 1.0 )
-    set gg_snd_Markward6 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Markward6, 2043 )
+    set gg_snd_Markward6 = CreateSound( "Sound/Dialogue/Markward/Markward6.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Markward6, 10553 )
     call SetSoundChannel( gg_snd_Markward6, 0 )
-    call SetSoundVolume( gg_snd_Markward6, -1 )
+    call SetSoundVolume( gg_snd_Markward6, 127 )
     call SetSoundPitch( gg_snd_Markward6, 1.0 )
-    set gg_snd_Markward7 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Markward7, 2043 )
+    set gg_snd_Markward7 = CreateSound( "Sound/Dialogue/Markward/Markward7.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Markward7, 10997 )
     call SetSoundChannel( gg_snd_Markward7, 0 )
-    call SetSoundVolume( gg_snd_Markward7, -1 )
+    call SetSoundVolume( gg_snd_Markward7, 127 )
     call SetSoundPitch( gg_snd_Markward7, 1.0 )
-    set gg_snd_Markward8 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Markward8, 2043 )
+    set gg_snd_Markward8 = CreateSound( "Sound/Dialogue/Markward/Markward8.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Markward8, 16091 )
     call SetSoundChannel( gg_snd_Markward8, 0 )
-    call SetSoundVolume( gg_snd_Markward8, -1 )
+    call SetSoundVolume( gg_snd_Markward8, 127 )
     call SetSoundPitch( gg_snd_Markward8, 1.0 )
-    set gg_snd_Markward9 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Markward9, 2043 )
+    set gg_snd_Markward9 = CreateSound( "Sound/Dialogue/Markward/Markward9.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Markward9, 7523 )
     call SetSoundChannel( gg_snd_Markward9, 0 )
-    call SetSoundVolume( gg_snd_Markward9, -1 )
+    call SetSoundVolume( gg_snd_Markward9, 127 )
     call SetSoundPitch( gg_snd_Markward9, 1.0 )
-    set gg_snd_Mathilda1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda1, 2043 )
+    set gg_snd_Mathilda1 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda1, 4284 )
     call SetSoundChannel( gg_snd_Mathilda1, 0 )
-    call SetSoundVolume( gg_snd_Mathilda1, -1 )
+    call SetSoundVolume( gg_snd_Mathilda1, 127 )
     call SetSoundPitch( gg_snd_Mathilda1, 1.0 )
-    set gg_snd_Mathilda10 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda10, 2043 )
+    set gg_snd_Mathilda10 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda10.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda10, 3160 )
     call SetSoundChannel( gg_snd_Mathilda10, 0 )
-    call SetSoundVolume( gg_snd_Mathilda10, -1 )
+    call SetSoundVolume( gg_snd_Mathilda10, 127 )
     call SetSoundPitch( gg_snd_Mathilda10, 1.0 )
-    set gg_snd_Mathilda11 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda11, 2043 )
+    set gg_snd_Mathilda11 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda11.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda11, 5198 )
     call SetSoundChannel( gg_snd_Mathilda11, 0 )
-    call SetSoundVolume( gg_snd_Mathilda11, -1 )
+    call SetSoundVolume( gg_snd_Mathilda11, 127 )
     call SetSoundPitch( gg_snd_Mathilda11, 1.0 )
-    set gg_snd_Mathilda12 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda12, 2043 )
+    set gg_snd_Mathilda12 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda12.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda12, 5041 )
     call SetSoundChannel( gg_snd_Mathilda12, 0 )
-    call SetSoundVolume( gg_snd_Mathilda12, -1 )
+    call SetSoundVolume( gg_snd_Mathilda12, 127 )
     call SetSoundPitch( gg_snd_Mathilda12, 1.0 )
-    set gg_snd_Mathilda13 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda13, 2043 )
+    set gg_snd_Mathilda13 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda13.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda13, 7758 )
     call SetSoundChannel( gg_snd_Mathilda13, 0 )
-    call SetSoundVolume( gg_snd_Mathilda13, -1 )
+    call SetSoundVolume( gg_snd_Mathilda13, 127 )
     call SetSoundPitch( gg_snd_Mathilda13, 1.0 )
-    set gg_snd_Mathilda14 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda14, 2043 )
+    set gg_snd_Mathilda14 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda14.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda14, 4310 )
     call SetSoundChannel( gg_snd_Mathilda14, 0 )
-    call SetSoundVolume( gg_snd_Mathilda14, -1 )
+    call SetSoundVolume( gg_snd_Mathilda14, 127 )
     call SetSoundPitch( gg_snd_Mathilda14, 1.0 )
-    set gg_snd_Mathilda15 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda15, 2043 )
+    set gg_snd_Mathilda15 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda15.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda15, 4075 )
     call SetSoundChannel( gg_snd_Mathilda15, 0 )
-    call SetSoundVolume( gg_snd_Mathilda15, -1 )
+    call SetSoundVolume( gg_snd_Mathilda15, 127 )
     call SetSoundPitch( gg_snd_Mathilda15, 1.0 )
-    set gg_snd_Mathilda16 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda16, 2043 )
+    set gg_snd_Mathilda16 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda16.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda16, 6556 )
     call SetSoundChannel( gg_snd_Mathilda16, 0 )
-    call SetSoundVolume( gg_snd_Mathilda16, -1 )
+    call SetSoundVolume( gg_snd_Mathilda16, 127 )
     call SetSoundPitch( gg_snd_Mathilda16, 1.0 )
-    set gg_snd_Mathilda17 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda17, 2043 )
+    set gg_snd_Mathilda17 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda17.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda17, 3578 )
     call SetSoundChannel( gg_snd_Mathilda17, 0 )
-    call SetSoundVolume( gg_snd_Mathilda17, -1 )
+    call SetSoundVolume( gg_snd_Mathilda17, 127 )
     call SetSoundPitch( gg_snd_Mathilda17, 1.0 )
-    set gg_snd_Mathilda18 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda18, 2043 )
+    set gg_snd_Mathilda18 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda18.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda18, 3683 )
     call SetSoundChannel( gg_snd_Mathilda18, 0 )
-    call SetSoundVolume( gg_snd_Mathilda18, -1 )
+    call SetSoundVolume( gg_snd_Mathilda18, 127 )
     call SetSoundPitch( gg_snd_Mathilda18, 1.0 )
-    set gg_snd_Mathilda19 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda19, 2043 )
+    set gg_snd_Mathilda19 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda19.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda19, 3474 )
     call SetSoundChannel( gg_snd_Mathilda19, 0 )
-    call SetSoundVolume( gg_snd_Mathilda19, -1 )
+    call SetSoundVolume( gg_snd_Mathilda19, 127 )
     call SetSoundPitch( gg_snd_Mathilda19, 1.0 )
-    set gg_snd_Mathilda2 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda2, 2043 )
+    set gg_snd_Mathilda2 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda2, 3369 )
     call SetSoundChannel( gg_snd_Mathilda2, 0 )
-    call SetSoundVolume( gg_snd_Mathilda2, -1 )
+    call SetSoundVolume( gg_snd_Mathilda2, 127 )
     call SetSoundPitch( gg_snd_Mathilda2, 1.0 )
-    set gg_snd_Mathilda20 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda20, 2043 )
+    set gg_snd_Mathilda20 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda20.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda20, 4493 )
     call SetSoundChannel( gg_snd_Mathilda20, 0 )
-    call SetSoundVolume( gg_snd_Mathilda20, -1 )
+    call SetSoundVolume( gg_snd_Mathilda20, 127 )
     call SetSoundPitch( gg_snd_Mathilda20, 1.0 )
-    set gg_snd_Mathilda21 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda21, 2043 )
+    set gg_snd_Mathilda21 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda21.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda21, 4127 )
     call SetSoundChannel( gg_snd_Mathilda21, 0 )
-    call SetSoundVolume( gg_snd_Mathilda21, -1 )
+    call SetSoundVolume( gg_snd_Mathilda21, 127 )
     call SetSoundPitch( gg_snd_Mathilda21, 1.0 )
-    set gg_snd_Mathilda22 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda22, 2043 )
+    set gg_snd_Mathilda22 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda22.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda22, 1724 )
     call SetSoundChannel( gg_snd_Mathilda22, 0 )
-    call SetSoundVolume( gg_snd_Mathilda22, -1 )
+    call SetSoundVolume( gg_snd_Mathilda22, 127 )
     call SetSoundPitch( gg_snd_Mathilda22, 1.0 )
-    set gg_snd_Mathilda23 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda23, 2043 )
+    set gg_snd_Mathilda23 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda23.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda23, 11546 )
     call SetSoundChannel( gg_snd_Mathilda23, 0 )
-    call SetSoundVolume( gg_snd_Mathilda23, -1 )
+    call SetSoundVolume( gg_snd_Mathilda23, 127 )
     call SetSoundPitch( gg_snd_Mathilda23, 1.0 )
-    set gg_snd_Mathilda24 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda24, 2043 )
+    set gg_snd_Mathilda24 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda24.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda24, 9351 )
     call SetSoundChannel( gg_snd_Mathilda24, 0 )
-    call SetSoundVolume( gg_snd_Mathilda24, -1 )
+    call SetSoundVolume( gg_snd_Mathilda24, 127 )
     call SetSoundPitch( gg_snd_Mathilda24, 1.0 )
-    set gg_snd_Mathilda25 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda25, 2043 )
+    set gg_snd_Mathilda25 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda25.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda25, 6164 )
     call SetSoundChannel( gg_snd_Mathilda25, 0 )
-    call SetSoundVolume( gg_snd_Mathilda25, -1 )
+    call SetSoundVolume( gg_snd_Mathilda25, 127 )
     call SetSoundPitch( gg_snd_Mathilda25, 1.0 )
-    set gg_snd_Mathilda26 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda26, 2043 )
+    set gg_snd_Mathilda26 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda26.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda26, 9613 )
     call SetSoundChannel( gg_snd_Mathilda26, 0 )
-    call SetSoundVolume( gg_snd_Mathilda26, -1 )
+    call SetSoundVolume( gg_snd_Mathilda26, 127 )
     call SetSoundPitch( gg_snd_Mathilda26, 1.0 )
-    set gg_snd_Mathilda27 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda27, 2043 )
+    set gg_snd_Mathilda27 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda27.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda27, 3239 )
     call SetSoundChannel( gg_snd_Mathilda27, 0 )
-    call SetSoundVolume( gg_snd_Mathilda27, -1 )
+    call SetSoundVolume( gg_snd_Mathilda27, 127 )
     call SetSoundPitch( gg_snd_Mathilda27, 1.0 )
-    set gg_snd_Mathilda28 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda28, 2043 )
+    set gg_snd_Mathilda28 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda28.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda28, 7732 )
     call SetSoundChannel( gg_snd_Mathilda28, 0 )
-    call SetSoundVolume( gg_snd_Mathilda28, -1 )
+    call SetSoundVolume( gg_snd_Mathilda28, 127 )
     call SetSoundPitch( gg_snd_Mathilda28, 1.0 )
-    set gg_snd_Mathilda29 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda29, 2043 )
+    set gg_snd_Mathilda29 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda29.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda29, 7444 )
     call SetSoundChannel( gg_snd_Mathilda29, 0 )
-    call SetSoundVolume( gg_snd_Mathilda29, -1 )
+    call SetSoundVolume( gg_snd_Mathilda29, 127 )
     call SetSoundPitch( gg_snd_Mathilda29, 1.0 )
-    set gg_snd_Mathilda3 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda3, 2043 )
+    set gg_snd_Mathilda3 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda3.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda3, 2403 )
     call SetSoundChannel( gg_snd_Mathilda3, 0 )
-    call SetSoundVolume( gg_snd_Mathilda3, -1 )
+    call SetSoundVolume( gg_snd_Mathilda3, 127 )
     call SetSoundPitch( gg_snd_Mathilda3, 1.0 )
-    set gg_snd_Mathilda30 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda30, 2043 )
+    set gg_snd_Mathilda30 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda30.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda30, 8960 )
     call SetSoundChannel( gg_snd_Mathilda30, 0 )
-    call SetSoundVolume( gg_snd_Mathilda30, -1 )
+    call SetSoundVolume( gg_snd_Mathilda30, 127 )
     call SetSoundPitch( gg_snd_Mathilda30, 1.0 )
-    set gg_snd_Mathilda31 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda31, 2043 )
+    set gg_snd_Mathilda31 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda31.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda31, 9769 )
     call SetSoundChannel( gg_snd_Mathilda31, 0 )
-    call SetSoundVolume( gg_snd_Mathilda31, -1 )
+    call SetSoundVolume( gg_snd_Mathilda31, 127 )
     call SetSoundPitch( gg_snd_Mathilda31, 1.0 )
-    set gg_snd_Mathilda32 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda32, 2043 )
+    set gg_snd_Mathilda32 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda32.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda32, 2089 )
     call SetSoundChannel( gg_snd_Mathilda32, 0 )
-    call SetSoundVolume( gg_snd_Mathilda32, -1 )
+    call SetSoundVolume( gg_snd_Mathilda32, 127 )
     call SetSoundPitch( gg_snd_Mathilda32, 1.0 )
-    set gg_snd_Mathilda33 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda33, 2043 )
+    set gg_snd_Mathilda33 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda33.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda33, 11258 )
     call SetSoundChannel( gg_snd_Mathilda33, 0 )
-    call SetSoundVolume( gg_snd_Mathilda33, -1 )
+    call SetSoundVolume( gg_snd_Mathilda33, 127 )
     call SetSoundPitch( gg_snd_Mathilda33, 1.0 )
-    set gg_snd_Mathilda34 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda34, 2043 )
+    set gg_snd_Mathilda34 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda34.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda34, 14053 )
     call SetSoundChannel( gg_snd_Mathilda34, 0 )
-    call SetSoundVolume( gg_snd_Mathilda34, -1 )
+    call SetSoundVolume( gg_snd_Mathilda34, 127 )
     call SetSoundPitch( gg_snd_Mathilda34, 1.0 )
-    set gg_snd_Mathilda35 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda35, 2043 )
+    set gg_snd_Mathilda35 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda35.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda35, 5877 )
     call SetSoundChannel( gg_snd_Mathilda35, 0 )
-    call SetSoundVolume( gg_snd_Mathilda35, -1 )
+    call SetSoundVolume( gg_snd_Mathilda35, 127 )
     call SetSoundPitch( gg_snd_Mathilda35, 1.0 )
-    set gg_snd_Mathilda36 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda36, 2043 )
+    set gg_snd_Mathilda36 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda36.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda36, 5929 )
     call SetSoundChannel( gg_snd_Mathilda36, 0 )
-    call SetSoundVolume( gg_snd_Mathilda36, -1 )
+    call SetSoundVolume( gg_snd_Mathilda36, 127 )
     call SetSoundPitch( gg_snd_Mathilda36, 1.0 )
-    set gg_snd_Mathilda37 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda37, 2043 )
+    set gg_snd_Mathilda37 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda37.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda37, 12277 )
     call SetSoundChannel( gg_snd_Mathilda37, 0 )
-    call SetSoundVolume( gg_snd_Mathilda37, -1 )
+    call SetSoundVolume( gg_snd_Mathilda37, 127 )
     call SetSoundPitch( gg_snd_Mathilda37, 1.0 )
-    set gg_snd_Mathilda38 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda38, 2043 )
+    set gg_snd_Mathilda38 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda38.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda38, 25364 )
     call SetSoundChannel( gg_snd_Mathilda38, 0 )
-    call SetSoundVolume( gg_snd_Mathilda38, -1 )
+    call SetSoundVolume( gg_snd_Mathilda38, 127 )
     call SetSoundPitch( gg_snd_Mathilda38, 1.0 )
-    set gg_snd_Mathilda39 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda39, 2043 )
+    set gg_snd_Mathilda39 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda39.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda39, 14184 )
     call SetSoundChannel( gg_snd_Mathilda39, 0 )
-    call SetSoundVolume( gg_snd_Mathilda39, -1 )
+    call SetSoundVolume( gg_snd_Mathilda39, 127 )
     call SetSoundPitch( gg_snd_Mathilda39, 1.0 )
-    set gg_snd_Mathilda4 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda4, 2043 )
+    set gg_snd_Mathilda4 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda4.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda4, 4284 )
     call SetSoundChannel( gg_snd_Mathilda4, 0 )
-    call SetSoundVolume( gg_snd_Mathilda4, -1 )
+    call SetSoundVolume( gg_snd_Mathilda4, 127 )
     call SetSoundPitch( gg_snd_Mathilda4, 1.0 )
-    set gg_snd_Mathilda40 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda40, 2043 )
+    set gg_snd_Mathilda40 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda40.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda40, 12669 )
     call SetSoundChannel( gg_snd_Mathilda40, 0 )
-    call SetSoundVolume( gg_snd_Mathilda40, -1 )
+    call SetSoundVolume( gg_snd_Mathilda40, 127 )
     call SetSoundPitch( gg_snd_Mathilda40, 1.0 )
-    set gg_snd_Mathilda41 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda41, 2043 )
+    set gg_snd_Mathilda41 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda41.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda41, 11990 )
     call SetSoundChannel( gg_snd_Mathilda41, 0 )
-    call SetSoundVolume( gg_snd_Mathilda41, -1 )
+    call SetSoundVolume( gg_snd_Mathilda41, 127 )
     call SetSoundPitch( gg_snd_Mathilda41, 1.0 )
-    set gg_snd_Mathilda42 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda42, 2043 )
+    set gg_snd_Mathilda42 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda42.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda42, 5929 )
     call SetSoundChannel( gg_snd_Mathilda42, 0 )
-    call SetSoundVolume( gg_snd_Mathilda42, -1 )
+    call SetSoundVolume( gg_snd_Mathilda42, 127 )
     call SetSoundPitch( gg_snd_Mathilda42, 1.0 )
-    set gg_snd_Mathilda43 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda43, 2043 )
+    set gg_snd_Mathilda43 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda43.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda43, 2063 )
     call SetSoundChannel( gg_snd_Mathilda43, 0 )
-    call SetSoundVolume( gg_snd_Mathilda43, -1 )
+    call SetSoundVolume( gg_snd_Mathilda43, 127 )
     call SetSoundPitch( gg_snd_Mathilda43, 1.0 )
-    set gg_snd_Mathilda44 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda44, 2043 )
+    set gg_snd_Mathilda44 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda44.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda44, 4493 )
     call SetSoundChannel( gg_snd_Mathilda44, 0 )
-    call SetSoundVolume( gg_snd_Mathilda44, -1 )
+    call SetSoundVolume( gg_snd_Mathilda44, 127 )
     call SetSoundPitch( gg_snd_Mathilda44, 1.0 )
-    set gg_snd_Mathilda45 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda45, 2043 )
+    set gg_snd_Mathilda45 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda45.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda45, 3657 )
     call SetSoundChannel( gg_snd_Mathilda45, 0 )
-    call SetSoundVolume( gg_snd_Mathilda45, -1 )
+    call SetSoundVolume( gg_snd_Mathilda45, 127 )
     call SetSoundPitch( gg_snd_Mathilda45, 1.0 )
-    set gg_snd_Mathilda46 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda46, 2043 )
+    set gg_snd_Mathilda46 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda46.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda46, 50703 )
     call SetSoundChannel( gg_snd_Mathilda46, 0 )
-    call SetSoundVolume( gg_snd_Mathilda46, -1 )
+    call SetSoundVolume( gg_snd_Mathilda46, 127 )
     call SetSoundPitch( gg_snd_Mathilda46, 1.0 )
-    set gg_snd_Mathilda47 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda47, 2043 )
+    set gg_snd_Mathilda47 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda47.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda47, 40724 )
     call SetSoundChannel( gg_snd_Mathilda47, 0 )
-    call SetSoundVolume( gg_snd_Mathilda47, -1 )
+    call SetSoundVolume( gg_snd_Mathilda47, 127 )
     call SetSoundPitch( gg_snd_Mathilda47, 1.0 )
-    set gg_snd_Mathilda48 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda48, 2043 )
+    set gg_snd_Mathilda48 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda48.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda48, 107572 )
     call SetSoundChannel( gg_snd_Mathilda48, 0 )
-    call SetSoundVolume( gg_snd_Mathilda48, -1 )
+    call SetSoundVolume( gg_snd_Mathilda48, 127 )
     call SetSoundPitch( gg_snd_Mathilda48, 1.0 )
-    set gg_snd_Mathilda49 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda49, 2043 )
+    set gg_snd_Mathilda49 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda49.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda49, 3056 )
     call SetSoundChannel( gg_snd_Mathilda49, 0 )
-    call SetSoundVolume( gg_snd_Mathilda49, -1 )
+    call SetSoundVolume( gg_snd_Mathilda49, 127 )
     call SetSoundPitch( gg_snd_Mathilda49, 1.0 )
-    set gg_snd_Mathilda5 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda5, 2043 )
+    set gg_snd_Mathilda5 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda5.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda5, 17397 )
     call SetSoundChannel( gg_snd_Mathilda5, 0 )
-    call SetSoundVolume( gg_snd_Mathilda5, -1 )
+    call SetSoundVolume( gg_snd_Mathilda5, 127 )
     call SetSoundPitch( gg_snd_Mathilda5, 1.0 )
-    set gg_snd_Mathilda50 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda50, 2043 )
+    set gg_snd_Mathilda50 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda50.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda50, 4754 )
     call SetSoundChannel( gg_snd_Mathilda50, 0 )
-    call SetSoundVolume( gg_snd_Mathilda50, -1 )
+    call SetSoundVolume( gg_snd_Mathilda50, 127 )
     call SetSoundPitch( gg_snd_Mathilda50, 1.0 )
-    set gg_snd_Mathilda51 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda51, 2043 )
+    set gg_snd_Mathilda51 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda51.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda51, 4806 )
     call SetSoundChannel( gg_snd_Mathilda51, 0 )
-    call SetSoundVolume( gg_snd_Mathilda51, -1 )
+    call SetSoundVolume( gg_snd_Mathilda51, 127 )
     call SetSoundPitch( gg_snd_Mathilda51, 1.0 )
-    set gg_snd_Mathilda52 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda52, 2043 )
+    set gg_snd_Mathilda52 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda52.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda52, 4832 )
     call SetSoundChannel( gg_snd_Mathilda52, 0 )
-    call SetSoundVolume( gg_snd_Mathilda52, -1 )
+    call SetSoundVolume( gg_snd_Mathilda52, 127 )
     call SetSoundPitch( gg_snd_Mathilda52, 1.0 )
-    set gg_snd_Mathilda53 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda53, 2043 )
+    set gg_snd_Mathilda53 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda53.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda53, 3604 )
     call SetSoundChannel( gg_snd_Mathilda53, 0 )
-    call SetSoundVolume( gg_snd_Mathilda53, -1 )
+    call SetSoundVolume( gg_snd_Mathilda53, 127 )
     call SetSoundPitch( gg_snd_Mathilda53, 1.0 )
-    set gg_snd_Mathilda54 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda54, 2043 )
+    set gg_snd_Mathilda54 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda54.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda54, 9952 )
     call SetSoundChannel( gg_snd_Mathilda54, 0 )
-    call SetSoundVolume( gg_snd_Mathilda54, -1 )
+    call SetSoundVolume( gg_snd_Mathilda54, 127 )
     call SetSoundPitch( gg_snd_Mathilda54, 1.0 )
-    set gg_snd_Mathilda55 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda55, 2043 )
+    set gg_snd_Mathilda55 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda55.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda55, 6347 )
     call SetSoundChannel( gg_snd_Mathilda55, 0 )
-    call SetSoundVolume( gg_snd_Mathilda55, -1 )
+    call SetSoundVolume( gg_snd_Mathilda55, 127 )
     call SetSoundPitch( gg_snd_Mathilda55, 1.0 )
-    set gg_snd_Mathilda56 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda56, 2043 )
+    set gg_snd_Mathilda56 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda56.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda56, 6112 )
     call SetSoundChannel( gg_snd_Mathilda56, 0 )
-    call SetSoundVolume( gg_snd_Mathilda56, -1 )
+    call SetSoundVolume( gg_snd_Mathilda56, 127 )
     call SetSoundPitch( gg_snd_Mathilda56, 1.0 )
-    set gg_snd_Mathilda57 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda57, 2043 )
+    set gg_snd_Mathilda57 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda57.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda57, 10684 )
     call SetSoundChannel( gg_snd_Mathilda57, 0 )
-    call SetSoundVolume( gg_snd_Mathilda57, -1 )
+    call SetSoundVolume( gg_snd_Mathilda57, 127 )
     call SetSoundPitch( gg_snd_Mathilda57, 1.0 )
-    set gg_snd_Mathilda58 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda58, 2043 )
+    set gg_snd_Mathilda58 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda58.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda58, 4754 )
     call SetSoundChannel( gg_snd_Mathilda58, 0 )
-    call SetSoundVolume( gg_snd_Mathilda58, -1 )
+    call SetSoundVolume( gg_snd_Mathilda58, 127 )
     call SetSoundPitch( gg_snd_Mathilda58, 1.0 )
-    set gg_snd_Mathilda59 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda59, 2043 )
+    set gg_snd_Mathilda59 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda59.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda59, 11467 )
     call SetSoundChannel( gg_snd_Mathilda59, 0 )
-    call SetSoundVolume( gg_snd_Mathilda59, -1 )
+    call SetSoundVolume( gg_snd_Mathilda59, 127 )
     call SetSoundPitch( gg_snd_Mathilda59, 1.0 )
-    set gg_snd_Mathilda6 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda6, 2043 )
+    set gg_snd_Mathilda6 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda6.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda6, 7836 )
     call SetSoundChannel( gg_snd_Mathilda6, 0 )
-    call SetSoundVolume( gg_snd_Mathilda6, -1 )
+    call SetSoundVolume( gg_snd_Mathilda6, 127 )
     call SetSoundPitch( gg_snd_Mathilda6, 1.0 )
-    set gg_snd_Mathilda60 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda60, 2043 )
+    set gg_snd_Mathilda60 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda60.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda60, 4858 )
     call SetSoundChannel( gg_snd_Mathilda60, 0 )
-    call SetSoundVolume( gg_snd_Mathilda60, -1 )
+    call SetSoundVolume( gg_snd_Mathilda60, 127 )
     call SetSoundPitch( gg_snd_Mathilda60, 1.0 )
-    set gg_snd_Mathilda61 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda61, 2043 )
+    set gg_snd_Mathilda61 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda61.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda61, 12355 )
     call SetSoundChannel( gg_snd_Mathilda61, 0 )
-    call SetSoundVolume( gg_snd_Mathilda61, -1 )
+    call SetSoundVolume( gg_snd_Mathilda61, 127 )
     call SetSoundPitch( gg_snd_Mathilda61, 1.0 )
-    set gg_snd_Mathilda62 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda62, 2043 )
+    set gg_snd_Mathilda62 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda62.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda62, 4858 )
     call SetSoundChannel( gg_snd_Mathilda62, 0 )
-    call SetSoundVolume( gg_snd_Mathilda62, -1 )
+    call SetSoundVolume( gg_snd_Mathilda62, 127 )
     call SetSoundPitch( gg_snd_Mathilda62, 1.0 )
-    set gg_snd_Mathilda63 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda63, 2043 )
+    set gg_snd_Mathilda63 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda63.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda63, 6791 )
     call SetSoundChannel( gg_snd_Mathilda63, 0 )
-    call SetSoundVolume( gg_snd_Mathilda63, -1 )
+    call SetSoundVolume( gg_snd_Mathilda63, 127 )
     call SetSoundPitch( gg_snd_Mathilda63, 1.0 )
-    set gg_snd_Mathilda64 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda64, 2043 )
+    set gg_snd_Mathilda64 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda64.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda64, 7810 )
     call SetSoundChannel( gg_snd_Mathilda64, 0 )
-    call SetSoundVolume( gg_snd_Mathilda64, -1 )
+    call SetSoundVolume( gg_snd_Mathilda64, 127 )
     call SetSoundPitch( gg_snd_Mathilda64, 1.0 )
-    set gg_snd_Mathilda65 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda65, 2043 )
+    set gg_snd_Mathilda65 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda65.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda65, 2795 )
     call SetSoundChannel( gg_snd_Mathilda65, 0 )
-    call SetSoundVolume( gg_snd_Mathilda65, -1 )
+    call SetSoundVolume( gg_snd_Mathilda65, 127 )
     call SetSoundPitch( gg_snd_Mathilda65, 1.0 )
-    set gg_snd_Mathilda66 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda66, 2043 )
+    set gg_snd_Mathilda66 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda66.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda66, 3422 )
     call SetSoundChannel( gg_snd_Mathilda66, 0 )
-    call SetSoundVolume( gg_snd_Mathilda66, -1 )
+    call SetSoundVolume( gg_snd_Mathilda66, 127 )
     call SetSoundPitch( gg_snd_Mathilda66, 1.0 )
-    set gg_snd_Mathilda67 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda67, 2043 )
+    set gg_snd_Mathilda67 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda67.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda67, 4414 )
     call SetSoundChannel( gg_snd_Mathilda67, 0 )
-    call SetSoundVolume( gg_snd_Mathilda67, -1 )
+    call SetSoundVolume( gg_snd_Mathilda67, 127 )
     call SetSoundPitch( gg_snd_Mathilda67, 1.0 )
-    set gg_snd_Mathilda68 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda68, 2043 )
+    set gg_snd_Mathilda68 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda68.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda68, 3604 )
     call SetSoundChannel( gg_snd_Mathilda68, 0 )
-    call SetSoundVolume( gg_snd_Mathilda68, -1 )
+    call SetSoundVolume( gg_snd_Mathilda68, 127 )
     call SetSoundPitch( gg_snd_Mathilda68, 1.0 )
-    set gg_snd_Mathilda69 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda69, 2043 )
+    set gg_snd_Mathilda69 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda69.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda69, 3448 )
     call SetSoundChannel( gg_snd_Mathilda69, 0 )
-    call SetSoundVolume( gg_snd_Mathilda69, -1 )
+    call SetSoundVolume( gg_snd_Mathilda69, 127 )
     call SetSoundPitch( gg_snd_Mathilda69, 1.0 )
-    set gg_snd_Mathilda7 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda7, 2043 )
+    set gg_snd_Mathilda7 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda7.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda7, 10031 )
     call SetSoundChannel( gg_snd_Mathilda7, 0 )
-    call SetSoundVolume( gg_snd_Mathilda7, -1 )
+    call SetSoundVolume( gg_snd_Mathilda7, 127 )
     call SetSoundPitch( gg_snd_Mathilda7, 1.0 )
-    set gg_snd_Mathilda70 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda70, 2043 )
+    set gg_snd_Mathilda70 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda70.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda70, 6870 )
     call SetSoundChannel( gg_snd_Mathilda70, 0 )
-    call SetSoundVolume( gg_snd_Mathilda70, -1 )
+    call SetSoundVolume( gg_snd_Mathilda70, 127 )
     call SetSoundPitch( gg_snd_Mathilda70, 1.0 )
-    set gg_snd_Mathilda71 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda71, 2043 )
+    set gg_snd_Mathilda71 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda71.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda71, 3422 )
     call SetSoundChannel( gg_snd_Mathilda71, 0 )
-    call SetSoundVolume( gg_snd_Mathilda71, -1 )
+    call SetSoundVolume( gg_snd_Mathilda71, 127 )
     call SetSoundPitch( gg_snd_Mathilda71, 1.0 )
-    set gg_snd_Mathilda72 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda72, 2043 )
+    set gg_snd_Mathilda72 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda72.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda72, 2194 )
     call SetSoundChannel( gg_snd_Mathilda72, 0 )
-    call SetSoundVolume( gg_snd_Mathilda72, -1 )
+    call SetSoundVolume( gg_snd_Mathilda72, 127 )
     call SetSoundPitch( gg_snd_Mathilda72, 1.0 )
-    set gg_snd_Mathilda8 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda8, 2043 )
+    set gg_snd_Mathilda8 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda8.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda8, 9874 )
     call SetSoundChannel( gg_snd_Mathilda8, 0 )
-    call SetSoundVolume( gg_snd_Mathilda8, -1 )
+    call SetSoundVolume( gg_snd_Mathilda8, 127 )
     call SetSoundPitch( gg_snd_Mathilda8, 1.0 )
-    set gg_snd_Mathilda9 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mathilda9, 2043 )
+    set gg_snd_Mathilda9 = CreateSound( "Sound/Dialogue/Mathilda/Mathilda9.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mathilda9, 8333 )
     call SetSoundChannel( gg_snd_Mathilda9, 0 )
-    call SetSoundVolume( gg_snd_Mathilda9, -1 )
+    call SetSoundVolume( gg_snd_Mathilda9, 127 )
     call SetSoundPitch( gg_snd_Mathilda9, 1.0 )
-    set gg_snd_Meister1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Meister1, 2043 )
+    set gg_snd_MathildaAttack1 = CreateSound( "Sound/Dialogue/Mathilda/MathildaAttack1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_MathildaAttack1, 2977 )
+    call SetSoundChannel( gg_snd_MathildaAttack1, 0 )
+    call SetSoundVolume( gg_snd_MathildaAttack1, 127 )
+    call SetSoundPitch( gg_snd_MathildaAttack1, 1.0 )
+    set gg_snd_MathildaAttack2 = CreateSound( "Sound/Dialogue/Mathilda/MathildaAttack2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_MathildaAttack2, 3735 )
+    call SetSoundChannel( gg_snd_MathildaAttack2, 0 )
+    call SetSoundVolume( gg_snd_MathildaAttack2, 127 )
+    call SetSoundPitch( gg_snd_MathildaAttack2, 1.0 )
+    set gg_snd_MathildaAttack3 = CreateSound( "Sound/Dialogue/Mathilda/MathildaAttack3.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_MathildaAttack3, 3813 )
+    call SetSoundChannel( gg_snd_MathildaAttack3, 0 )
+    call SetSoundVolume( gg_snd_MathildaAttack3, 127 )
+    call SetSoundPitch( gg_snd_MathildaAttack3, 1.0 )
+    set gg_snd_MathildaRevival = CreateSound( "Sound/Dialogue/Mathilda/MathildaRevival.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_MathildaRevival, 3813 )
+    call SetSoundChannel( gg_snd_MathildaRevival, 0 )
+    call SetSoundVolume( gg_snd_MathildaRevival, 127 )
+    call SetSoundPitch( gg_snd_MathildaRevival, 1.0 )
+    set gg_snd_MathildaWhat1 = CreateSound( "Sound/Dialogue/Mathilda/MathildaWhat1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_MathildaWhat1, 2220 )
+    call SetSoundChannel( gg_snd_MathildaWhat1, 0 )
+    call SetSoundVolume( gg_snd_MathildaWhat1, 127 )
+    call SetSoundPitch( gg_snd_MathildaWhat1, 1.0 )
+    set gg_snd_MathildaWhat2 = CreateSound( "Sound/Dialogue/Mathilda/MathildaWhat2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_MathildaWhat2, 3422 )
+    call SetSoundChannel( gg_snd_MathildaWhat2, 0 )
+    call SetSoundVolume( gg_snd_MathildaWhat2, 127 )
+    call SetSoundPitch( gg_snd_MathildaWhat2, 1.0 )
+    set gg_snd_MathildaWhat3 = CreateSound( "Sound/Dialogue/Mathilda/MathildaWhat3.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_MathildaWhat3, 2612 )
+    call SetSoundChannel( gg_snd_MathildaWhat3, 0 )
+    call SetSoundVolume( gg_snd_MathildaWhat3, 127 )
+    call SetSoundPitch( gg_snd_MathildaWhat3, 1.0 )
+    set gg_snd_MathildaYes1 = CreateSound( "Sound/Dialogue/Mathilda/MathildaYes1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_MathildaYes1, 2560 )
+    call SetSoundChannel( gg_snd_MathildaYes1, 0 )
+    call SetSoundVolume( gg_snd_MathildaYes1, 127 )
+    call SetSoundPitch( gg_snd_MathildaYes1, 1.0 )
+    set gg_snd_MathildaYes2 = CreateSound( "Sound/Dialogue/Mathilda/MathildaYes2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_MathildaYes2, 2324 )
+    call SetSoundChannel( gg_snd_MathildaYes2, 0 )
+    call SetSoundVolume( gg_snd_MathildaYes2, 127 )
+    call SetSoundPitch( gg_snd_MathildaYes2, 1.0 )
+    set gg_snd_MathildaYes3 = CreateSound( "Sound/Dialogue/Mathilda/MathildaYes3.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_MathildaYes3, 2768 )
+    call SetSoundChannel( gg_snd_MathildaYes3, 0 )
+    call SetSoundVolume( gg_snd_MathildaYes3, 127 )
+    call SetSoundPitch( gg_snd_MathildaYes3, 1.0 )
+    set gg_snd_Meister1 = CreateSound( "Sound/Dialogue/SisgardsMaster/Meister1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Meister1, 9874 )
     call SetSoundChannel( gg_snd_Meister1, 0 )
-    call SetSoundVolume( gg_snd_Meister1, -1 )
+    call SetSoundVolume( gg_snd_Meister1, 127 )
     call SetSoundPitch( gg_snd_Meister1, 1.0 )
-    set gg_snd_Meister2 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Meister2, 2043 )
+    set gg_snd_Meister2 = CreateSound( "Sound/Dialogue/SisgardsMaster/Meister2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Meister2, 13061 )
     call SetSoundChannel( gg_snd_Meister2, 0 )
-    call SetSoundVolume( gg_snd_Meister2, -1 )
+    call SetSoundVolume( gg_snd_Meister2, 127 )
     call SetSoundPitch( gg_snd_Meister2, 1.0 )
-    set gg_snd_Meister3 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Meister3, 2043 )
+    set gg_snd_Meister3 = CreateSound( "Sound/Dialogue/SisgardsMaster/Meister3.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Meister3, 13035 )
     call SetSoundChannel( gg_snd_Meister3, 0 )
-    call SetSoundVolume( gg_snd_Meister3, -1 )
+    call SetSoundVolume( gg_snd_Meister3, 127 )
     call SetSoundPitch( gg_snd_Meister3, 1.0 )
-    set gg_snd_Meister4 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Meister4, 2043 )
+    set gg_snd_Meister4 = CreateSound( "Sound/Dialogue/SisgardsMaster/Meister4.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Meister4, 6373 )
     call SetSoundChannel( gg_snd_Meister4, 0 )
-    call SetSoundVolume( gg_snd_Meister4, -1 )
+    call SetSoundVolume( gg_snd_Meister4, 127 )
     call SetSoundPitch( gg_snd_Meister4, 1.0 )
-    set gg_snd_Meister5 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Meister5, 2043 )
+    set gg_snd_Meister5 = CreateSound( "Sound/Dialogue/SisgardsMaster/Meister5.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Meister5, 1697 )
     call SetSoundChannel( gg_snd_Meister5, 0 )
-    call SetSoundVolume( gg_snd_Meister5, -1 )
+    call SetSoundVolume( gg_snd_Meister5, 127 )
     call SetSoundPitch( gg_snd_Meister5, 1.0 )
-    set gg_snd_Mercenary1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Mercenary1, 2043 )
+    set gg_snd_Mercenary1 = CreateSound( "Sound/Dialogue/Mercenary/Mercenary1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mercenary1, 3056 )
     call SetSoundChannel( gg_snd_Mercenary1, 0 )
-    call SetSoundVolume( gg_snd_Mercenary1, -1 )
+    call SetSoundVolume( gg_snd_Mercenary1, 127 )
     call SetSoundPitch( gg_snd_Mercenary1, 1.0 )
+    set gg_snd_Mother01 = CreateSound( "Sound/Dialogue/Mother/Mother01.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mother01, 1306 )
+    call SetSoundChannel( gg_snd_Mother01, 0 )
+    call SetSoundVolume( gg_snd_Mother01, 127 )
+    call SetSoundPitch( gg_snd_Mother01, 1.0 )
+    set gg_snd_Mother02 = CreateSound( "Sound/Dialogue/Mother/Mother02.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mother02, 7993 )
+    call SetSoundChannel( gg_snd_Mother02, 0 )
+    call SetSoundVolume( gg_snd_Mother02, 127 )
+    call SetSoundPitch( gg_snd_Mother02, 1.0 )
+    set gg_snd_Mother03 = CreateSound( "Sound/Dialogue/Mother/Mother03.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mother03, 9534 )
+    call SetSoundChannel( gg_snd_Mother03, 0 )
+    call SetSoundVolume( gg_snd_Mother03, 127 )
+    call SetSoundPitch( gg_snd_Mother03, 1.0 )
+    set gg_snd_Mother04 = CreateSound( "Sound/Dialogue/Mother/Mother04.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mother04, 6870 )
+    call SetSoundChannel( gg_snd_Mother04, 0 )
+    call SetSoundVolume( gg_snd_Mother04, 127 )
+    call SetSoundPitch( gg_snd_Mother04, 1.0 )
+    set gg_snd_Mother05 = CreateSound( "Sound/Dialogue/Mother/Mother05.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mother05, 19722 )
+    call SetSoundChannel( gg_snd_Mother05, 0 )
+    call SetSoundVolume( gg_snd_Mother05, 127 )
+    call SetSoundPitch( gg_snd_Mother05, 1.0 )
+    set gg_snd_Mother06 = CreateSound( "Sound/Dialogue/Mother/Mother06.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mother06, 10135 )
+    call SetSoundChannel( gg_snd_Mother06, 0 )
+    call SetSoundVolume( gg_snd_Mother06, 127 )
+    call SetSoundPitch( gg_snd_Mother06, 1.0 )
+    set gg_snd_Mother07 = CreateSound( "Sound/Dialogue/Mother/Mother07.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mother07, 7497 )
+    call SetSoundChannel( gg_snd_Mother07, 0 )
+    call SetSoundVolume( gg_snd_Mother07, 127 )
+    call SetSoundPitch( gg_snd_Mother07, 1.0 )
+    set gg_snd_Mother08 = CreateSound( "Sound/Dialogue/Mother/Mother08.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mother08, 8672 )
+    call SetSoundChannel( gg_snd_Mother08, 0 )
+    call SetSoundVolume( gg_snd_Mother08, 127 )
+    call SetSoundPitch( gg_snd_Mother08, 1.0 )
+    set gg_snd_Mother09 = CreateSound( "Sound/Dialogue/Mother/Mother09.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mother09, 5616 )
+    call SetSoundChannel( gg_snd_Mother09, 0 )
+    call SetSoundVolume( gg_snd_Mother09, 127 )
+    call SetSoundPitch( gg_snd_Mother09, 1.0 )
+    set gg_snd_Mother10 = CreateSound( "Sound/Dialogue/Mother/Mother10.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mother10, 9168 )
+    call SetSoundChannel( gg_snd_Mother10, 0 )
+    call SetSoundVolume( gg_snd_Mother10, 127 )
+    call SetSoundPitch( gg_snd_Mother10, 1.0 )
+    set gg_snd_Mother11 = CreateSound( "Sound/Dialogue/Mother/Mother11.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mother11, 2586 )
+    call SetSoundChannel( gg_snd_Mother11, 0 )
+    call SetSoundVolume( gg_snd_Mother11, 127 )
+    call SetSoundPitch( gg_snd_Mother11, 1.0 )
+    set gg_snd_Mother12 = CreateSound( "Sound/Dialogue/Mother/Mother12.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mother12, 1619 )
+    call SetSoundChannel( gg_snd_Mother12, 0 )
+    call SetSoundVolume( gg_snd_Mother12, 127 )
+    call SetSoundPitch( gg_snd_Mother12, 1.0 )
+    set gg_snd_Mother13 = CreateSound( "Sound/Dialogue/Mother/Mother13.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mother13, 3369 )
+    call SetSoundChannel( gg_snd_Mother13, 0 )
+    call SetSoundVolume( gg_snd_Mother13, 127 )
+    call SetSoundPitch( gg_snd_Mother13, 1.0 )
+    set gg_snd_Mother14 = CreateSound( "Sound/Dialogue/Mother/Mother14.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mother14, 1488 )
+    call SetSoundChannel( gg_snd_Mother14, 0 )
+    call SetSoundVolume( gg_snd_Mother14, 127 )
+    call SetSoundPitch( gg_snd_Mother14, 1.0 )
+    set gg_snd_Mother15 = CreateSound( "Sound/Dialogue/Mother/Mother15.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mother15, 2115 )
+    call SetSoundChannel( gg_snd_Mother15, 0 )
+    call SetSoundVolume( gg_snd_Mother15, 127 )
+    call SetSoundPitch( gg_snd_Mother15, 1.0 )
+    set gg_snd_Mother16 = CreateSound( "Sound/Dialogue/Mother/Mother16.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Mother16, 3944 )
+    call SetSoundChannel( gg_snd_Mother16, 0 )
+    call SetSoundVolume( gg_snd_Mother16, 127 )
+    call SetSoundPitch( gg_snd_Mother16, 1.0 )
     set gg_snd_mshawm = CreateSound( "war3mapImported\\mshawm.mp3", false, false, false, 10, 10, "DefaultEAXON" )
     call SetSoundDuration( gg_snd_mshawm, 10814 )
     call SetSoundChannel( gg_snd_mshawm, 0 )
     call SetSoundVolume( gg_snd_mshawm, 127 )
     call SetSoundPitch( gg_snd_mshawm, 1.0 )
-    set gg_snd_OrcLeader1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_OrcLeader1, 10814 )
+    set gg_snd_OrcLeader1 = CreateSound( "Sound/Dialogue/OrcLeader/OrcLeader1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_OrcLeader1, 7026 )
     call SetSoundChannel( gg_snd_OrcLeader1, 0 )
-    call SetSoundVolume( gg_snd_OrcLeader1, -1 )
-    call SetSoundPitch( gg_snd_OrcLeader1, 0.8 )
-    set gg_snd_OrcLeader2 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_OrcLeader2, 10814 )
+    call SetSoundVolume( gg_snd_OrcLeader1, 127 )
+    call SetSoundPitch( gg_snd_OrcLeader1, 1.0 )
+    set gg_snd_OrcLeader2 = CreateSound( "Sound/Dialogue/OrcLeader/OrcLeader2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_OrcLeader2, 2481 )
     call SetSoundChannel( gg_snd_OrcLeader2, 0 )
-    call SetSoundVolume( gg_snd_OrcLeader2, -1 )
-    call SetSoundPitch( gg_snd_OrcLeader2, 0.8 )
-    set gg_snd_OrcLeader3 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_OrcLeader3, 10814 )
+    call SetSoundVolume( gg_snd_OrcLeader2, 127 )
+    call SetSoundPitch( gg_snd_OrcLeader2, 1.0 )
+    set gg_snd_OrcLeader3 = CreateSound( "Sound/Dialogue/OrcLeader/OrcLeader3.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_OrcLeader3, 1802 )
     call SetSoundChannel( gg_snd_OrcLeader3, 0 )
-    call SetSoundVolume( gg_snd_OrcLeader3, -1 )
-    call SetSoundPitch( gg_snd_OrcLeader3, 0.8 )
-    set gg_snd_OrcLeader4 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_OrcLeader4, 10814 )
+    call SetSoundVolume( gg_snd_OrcLeader3, 127 )
+    call SetSoundPitch( gg_snd_OrcLeader3, 1.0 )
+    set gg_snd_OrcLeader4 = CreateSound( "Sound/Dialogue/OrcLeader/OrcLeader4.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_OrcLeader4, 1828 )
     call SetSoundChannel( gg_snd_OrcLeader4, 0 )
-    call SetSoundVolume( gg_snd_OrcLeader4, -1 )
-    call SetSoundPitch( gg_snd_OrcLeader4, 0.8 )
-    set gg_snd_Osman1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Osman1, 10814 )
+    call SetSoundVolume( gg_snd_OrcLeader4, 127 )
+    call SetSoundPitch( gg_snd_OrcLeader4, 1.0 )
+    set gg_snd_Osman1 = CreateSound( "Sound/Dialogue/Osman/Osman1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Osman1, 5982 )
     call SetSoundChannel( gg_snd_Osman1, 0 )
-    call SetSoundVolume( gg_snd_Osman1, -1 )
+    call SetSoundVolume( gg_snd_Osman1, 127 )
     call SetSoundPitch( gg_snd_Osman1, 1.0 )
-    set gg_snd_Osman10 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Osman10, 10814 )
+    set gg_snd_Osman10 = CreateSound( "Sound/Dialogue/Osman/Osman10.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Osman10, 5381 )
     call SetSoundChannel( gg_snd_Osman10, 0 )
-    call SetSoundVolume( gg_snd_Osman10, -1 )
+    call SetSoundVolume( gg_snd_Osman10, 127 )
     call SetSoundPitch( gg_snd_Osman10, 1.0 )
-    set gg_snd_Osman11 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Osman11, 10814 )
+    set gg_snd_Osman11 = CreateSound( "Sound/Dialogue/Osman/Osman11.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Osman11, 1593 )
     call SetSoundChannel( gg_snd_Osman11, 0 )
-    call SetSoundVolume( gg_snd_Osman11, -1 )
+    call SetSoundVolume( gg_snd_Osman11, 127 )
     call SetSoundPitch( gg_snd_Osman11, 1.0 )
-    set gg_snd_Osman12 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Osman12, 10814 )
+    set gg_snd_Osman12 = CreateSound( "Sound/Dialogue/Osman/Osman12.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Osman12, 10736 )
     call SetSoundChannel( gg_snd_Osman12, 0 )
-    call SetSoundVolume( gg_snd_Osman12, -1 )
+    call SetSoundVolume( gg_snd_Osman12, 127 )
     call SetSoundPitch( gg_snd_Osman12, 1.0 )
-    set gg_snd_Osman13 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Osman13, 10814 )
+    set gg_snd_Osman13 = CreateSound( "Sound/Dialogue/Osman/Osman13.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Osman13, 10997 )
     call SetSoundChannel( gg_snd_Osman13, 0 )
-    call SetSoundVolume( gg_snd_Osman13, -1 )
+    call SetSoundVolume( gg_snd_Osman13, 127 )
     call SetSoundPitch( gg_snd_Osman13, 1.0 )
-    set gg_snd_Osman14 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Osman14, 10814 )
+    set gg_snd_Osman14 = CreateSound( "Sound/Dialogue/Osman/Osman14.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Osman14, 6896 )
     call SetSoundChannel( gg_snd_Osman14, 0 )
-    call SetSoundVolume( gg_snd_Osman14, -1 )
+    call SetSoundVolume( gg_snd_Osman14, 127 )
     call SetSoundPitch( gg_snd_Osman14, 1.0 )
-    set gg_snd_Osman15 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Osman15, 10814 )
+    set gg_snd_Osman15 = CreateSound( "Sound/Dialogue/Osman/Osman15.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Osman15, 9247 )
     call SetSoundChannel( gg_snd_Osman15, 0 )
-    call SetSoundVolume( gg_snd_Osman15, -1 )
+    call SetSoundVolume( gg_snd_Osman15, 127 )
     call SetSoundPitch( gg_snd_Osman15, 1.0 )
-    set gg_snd_Osman16 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Osman16, 10814 )
+    set gg_snd_Osman16 = CreateSound( "Sound/Dialogue/Osman/Osman16.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Osman16, 14942 )
     call SetSoundChannel( gg_snd_Osman16, 0 )
-    call SetSoundVolume( gg_snd_Osman16, -1 )
+    call SetSoundVolume( gg_snd_Osman16, 127 )
     call SetSoundPitch( gg_snd_Osman16, 1.0 )
-    set gg_snd_Osman17 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Osman17, 10814 )
+    set gg_snd_Osman17 = CreateSound( "Sound/Dialogue/Osman/Osman17.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Osman17, 10553 )
     call SetSoundChannel( gg_snd_Osman17, 0 )
-    call SetSoundVolume( gg_snd_Osman17, -1 )
+    call SetSoundVolume( gg_snd_Osman17, 127 )
     call SetSoundPitch( gg_snd_Osman17, 1.0 )
-    set gg_snd_Osman18 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Osman18, 10814 )
+    set gg_snd_Osman18 = CreateSound( "Sound/Dialogue/Osman/Osman18.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Osman18, 6687 )
     call SetSoundChannel( gg_snd_Osman18, 0 )
-    call SetSoundVolume( gg_snd_Osman18, -1 )
+    call SetSoundVolume( gg_snd_Osman18, 127 )
     call SetSoundPitch( gg_snd_Osman18, 1.0 )
-    set gg_snd_Osman19 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Osman19, 10814 )
+    set gg_snd_Osman19 = CreateSound( "Sound/Dialogue/Osman/Osman19.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Osman19, 12721 )
     call SetSoundChannel( gg_snd_Osman19, 0 )
-    call SetSoundVolume( gg_snd_Osman19, -1 )
+    call SetSoundVolume( gg_snd_Osman19, 127 )
     call SetSoundPitch( gg_snd_Osman19, 1.0 )
-    set gg_snd_Osman2 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Osman2, 10814 )
+    set gg_snd_Osman2 = CreateSound( "Sound/Dialogue/Osman/Osman2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Osman2, 1854 )
     call SetSoundChannel( gg_snd_Osman2, 0 )
-    call SetSoundVolume( gg_snd_Osman2, -1 )
+    call SetSoundVolume( gg_snd_Osman2, 127 )
     call SetSoundPitch( gg_snd_Osman2, 1.0 )
-    set gg_snd_Osman20 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Osman20, 10814 )
+    set gg_snd_Osman20 = CreateSound( "Sound/Dialogue/Osman/Osman20.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Osman20, 8463 )
     call SetSoundChannel( gg_snd_Osman20, 0 )
-    call SetSoundVolume( gg_snd_Osman20, -1 )
+    call SetSoundVolume( gg_snd_Osman20, 127 )
     call SetSoundPitch( gg_snd_Osman20, 1.0 )
-    set gg_snd_Osman21 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Osman21, 10814 )
+    set gg_snd_Osman21 = CreateSound( "Sound/Dialogue/Osman/Osman21.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Osman21, 4911 )
     call SetSoundChannel( gg_snd_Osman21, 0 )
-    call SetSoundVolume( gg_snd_Osman21, -1 )
+    call SetSoundVolume( gg_snd_Osman21, 127 )
     call SetSoundPitch( gg_snd_Osman21, 1.0 )
-    set gg_snd_Osman22 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Osman22, 10814 )
+    set gg_snd_Osman22 = CreateSound( "Sound/Dialogue/Osman/Osman22.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Osman22, 8646 )
     call SetSoundChannel( gg_snd_Osman22, 0 )
-    call SetSoundVolume( gg_snd_Osman22, -1 )
+    call SetSoundVolume( gg_snd_Osman22, 127 )
     call SetSoundPitch( gg_snd_Osman22, 1.0 )
-    set gg_snd_Osman23 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Osman23, 10814 )
+    set gg_snd_Osman23 = CreateSound( "Sound/Dialogue/Osman/Osman23.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Osman23, 6739 )
     call SetSoundChannel( gg_snd_Osman23, 0 )
-    call SetSoundVolume( gg_snd_Osman23, -1 )
+    call SetSoundVolume( gg_snd_Osman23, 127 )
     call SetSoundPitch( gg_snd_Osman23, 1.0 )
-    set gg_snd_Osman24 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Osman24, 10814 )
+    set gg_snd_Osman24 = CreateSound( "Sound/Dialogue/Osman/Osman24.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Osman24, 2377 )
     call SetSoundChannel( gg_snd_Osman24, 0 )
-    call SetSoundVolume( gg_snd_Osman24, -1 )
+    call SetSoundVolume( gg_snd_Osman24, 127 )
     call SetSoundPitch( gg_snd_Osman24, 1.0 )
-    set gg_snd_Osman25 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Osman25, 10814 )
+    set gg_snd_Osman25 = CreateSound( "Sound/Dialogue/Osman/Osman25.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Osman25, 8359 )
     call SetSoundChannel( gg_snd_Osman25, 0 )
-    call SetSoundVolume( gg_snd_Osman25, -1 )
+    call SetSoundVolume( gg_snd_Osman25, 127 )
     call SetSoundPitch( gg_snd_Osman25, 1.0 )
-    set gg_snd_Osman26 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Osman26, 10814 )
+    set gg_snd_Osman26 = CreateSound( "Sound/Dialogue/Osman/Osman26.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Osman26, 2037 )
     call SetSoundChannel( gg_snd_Osman26, 0 )
-    call SetSoundVolume( gg_snd_Osman26, -1 )
+    call SetSoundVolume( gg_snd_Osman26, 127 )
     call SetSoundPitch( gg_snd_Osman26, 1.0 )
-    set gg_snd_Osman27 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Osman27, 10814 )
+    set gg_snd_Osman27 = CreateSound( "Sound/Dialogue/Osman/Osman27.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Osman27, 7314 )
     call SetSoundChannel( gg_snd_Osman27, 0 )
-    call SetSoundVolume( gg_snd_Osman27, -1 )
+    call SetSoundVolume( gg_snd_Osman27, 127 )
     call SetSoundPitch( gg_snd_Osman27, 1.0 )
-    set gg_snd_Osman28 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Osman28, 10814 )
+    set gg_snd_Osman28 = CreateSound( "Sound/Dialogue/Osman/Osman28.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Osman28, 8489 )
     call SetSoundChannel( gg_snd_Osman28, 0 )
-    call SetSoundVolume( gg_snd_Osman28, -1 )
+    call SetSoundVolume( gg_snd_Osman28, 127 )
     call SetSoundPitch( gg_snd_Osman28, 1.0 )
-    set gg_snd_Osman29 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Osman29, 10814 )
+    set gg_snd_Osman29 = CreateSound( "Sound/Dialogue/Osman/Osman29.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Osman29, 6948 )
     call SetSoundChannel( gg_snd_Osman29, 0 )
-    call SetSoundVolume( gg_snd_Osman29, -1 )
+    call SetSoundVolume( gg_snd_Osman29, 127 )
     call SetSoundPitch( gg_snd_Osman29, 1.0 )
-    set gg_snd_Osman3 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Osman3, 10814 )
+    set gg_snd_Osman3 = CreateSound( "Sound/Dialogue/Osman/Osman3.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Osman3, 4911 )
     call SetSoundChannel( gg_snd_Osman3, 0 )
-    call SetSoundVolume( gg_snd_Osman3, -1 )
+    call SetSoundVolume( gg_snd_Osman3, 127 )
     call SetSoundPitch( gg_snd_Osman3, 1.0 )
-    set gg_snd_Osman30 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Osman30, 10814 )
+    set gg_snd_Osman30 = CreateSound( "Sound/Dialogue/Osman/Osman30.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Osman30, 10840 )
     call SetSoundChannel( gg_snd_Osman30, 0 )
-    call SetSoundVolume( gg_snd_Osman30, -1 )
+    call SetSoundVolume( gg_snd_Osman30, 127 )
     call SetSoundPitch( gg_snd_Osman30, 1.0 )
-    set gg_snd_Osman31 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Osman31, 10814 )
+    set gg_snd_Osman31 = CreateSound( "Sound/Dialogue/Osman/Osman31.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Osman31, 6635 )
     call SetSoundChannel( gg_snd_Osman31, 0 )
-    call SetSoundVolume( gg_snd_Osman31, -1 )
+    call SetSoundVolume( gg_snd_Osman31, 127 )
     call SetSoundPitch( gg_snd_Osman31, 1.0 )
-    set gg_snd_Osman32 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Osman32, 10814 )
+    set gg_snd_Osman32 = CreateSound( "Sound/Dialogue/Osman/Osman32.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Osman32, 6556 )
     call SetSoundChannel( gg_snd_Osman32, 0 )
-    call SetSoundVolume( gg_snd_Osman32, -1 )
+    call SetSoundVolume( gg_snd_Osman32, 127 )
     call SetSoundPitch( gg_snd_Osman32, 1.0 )
-    set gg_snd_Osman33 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Osman33, 10814 )
+    set gg_snd_Osman33 = CreateSound( "Sound/Dialogue/Osman/Osman33.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Osman33, 11389 )
     call SetSoundChannel( gg_snd_Osman33, 0 )
-    call SetSoundVolume( gg_snd_Osman33, -1 )
+    call SetSoundVolume( gg_snd_Osman33, 127 )
     call SetSoundPitch( gg_snd_Osman33, 1.0 )
-    set gg_snd_Osman34 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Osman34, 10814 )
+    set gg_snd_Osman34 = CreateSound( "Sound/Dialogue/Osman/Osman34.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Osman34, 12016 )
     call SetSoundChannel( gg_snd_Osman34, 0 )
-    call SetSoundVolume( gg_snd_Osman34, -1 )
+    call SetSoundVolume( gg_snd_Osman34, 127 )
     call SetSoundPitch( gg_snd_Osman34, 1.0 )
-    set gg_snd_Osman35 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Osman35, 10814 )
+    set gg_snd_Osman35 = CreateSound( "Sound/Dialogue/Osman/Osman35.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Osman35, 3056 )
     call SetSoundChannel( gg_snd_Osman35, 0 )
-    call SetSoundVolume( gg_snd_Osman35, -1 )
+    call SetSoundVolume( gg_snd_Osman35, 127 )
     call SetSoundPitch( gg_snd_Osman35, 1.0 )
-    set gg_snd_Osman36 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Osman36, 10814 )
+    set gg_snd_Osman36 = CreateSound( "Sound/Dialogue/Osman/Osman36.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Osman36, 10605 )
     call SetSoundChannel( gg_snd_Osman36, 0 )
-    call SetSoundVolume( gg_snd_Osman36, -1 )
+    call SetSoundVolume( gg_snd_Osman36, 127 )
     call SetSoundPitch( gg_snd_Osman36, 1.0 )
-    set gg_snd_Osman37 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Osman37, 10814 )
+    set gg_snd_Osman37 = CreateSound( "Sound/Dialogue/Osman/Osman37.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Osman37, 10135 )
     call SetSoundChannel( gg_snd_Osman37, 0 )
-    call SetSoundVolume( gg_snd_Osman37, -1 )
+    call SetSoundVolume( gg_snd_Osman37, 127 )
     call SetSoundPitch( gg_snd_Osman37, 1.0 )
-    set gg_snd_Osman38 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Osman38, 10814 )
+    set gg_snd_Osman38 = CreateSound( "Sound/Dialogue/Osman/Osman38.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Osman38, 5929 )
     call SetSoundChannel( gg_snd_Osman38, 0 )
-    call SetSoundVolume( gg_snd_Osman38, -1 )
+    call SetSoundVolume( gg_snd_Osman38, 127 )
     call SetSoundPitch( gg_snd_Osman38, 1.0 )
-    set gg_snd_Osman39 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Osman39, 10814 )
+    set gg_snd_Osman39 = CreateSound( "Sound/Dialogue/Osman/Osman39.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Osman39, 6269 )
     call SetSoundChannel( gg_snd_Osman39, 0 )
-    call SetSoundVolume( gg_snd_Osman39, -1 )
+    call SetSoundVolume( gg_snd_Osman39, 127 )
     call SetSoundPitch( gg_snd_Osman39, 1.0 )
-    set gg_snd_Osman4 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Osman4, 10814 )
+    set gg_snd_Osman4 = CreateSound( "Sound/Dialogue/Osman/Osman4.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Osman4, 1123 )
     call SetSoundChannel( gg_snd_Osman4, 0 )
-    call SetSoundVolume( gg_snd_Osman4, -1 )
+    call SetSoundVolume( gg_snd_Osman4, 127 )
     call SetSoundPitch( gg_snd_Osman4, 1.0 )
-    set gg_snd_Osman40 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Osman40, 10814 )
+    set gg_snd_Osman40 = CreateSound( "Sound/Dialogue/Osman/Osman40.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Osman40, 6713 )
     call SetSoundChannel( gg_snd_Osman40, 0 )
-    call SetSoundVolume( gg_snd_Osman40, -1 )
+    call SetSoundVolume( gg_snd_Osman40, 127 )
     call SetSoundPitch( gg_snd_Osman40, 1.0 )
-    set gg_snd_Osman41 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Osman41, 10814 )
+    set gg_snd_Osman41 = CreateSound( "Sound/Dialogue/Osman/Osman41.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Osman41, 10031 )
     call SetSoundChannel( gg_snd_Osman41, 0 )
-    call SetSoundVolume( gg_snd_Osman41, -1 )
+    call SetSoundVolume( gg_snd_Osman41, 127 )
     call SetSoundPitch( gg_snd_Osman41, 1.0 )
-    set gg_snd_Osman42 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Osman42, 10814 )
+    set gg_snd_Osman42 = CreateSound( "Sound/Dialogue/Osman/Osman42.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Osman42, 7131 )
     call SetSoundChannel( gg_snd_Osman42, 0 )
-    call SetSoundVolume( gg_snd_Osman42, -1 )
+    call SetSoundVolume( gg_snd_Osman42, 127 )
     call SetSoundPitch( gg_snd_Osman42, 1.0 )
-    set gg_snd_Osman43 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Osman43, 10814 )
+    set gg_snd_Osman43 = CreateSound( "Sound/Dialogue/Osman/Osman43.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Osman43, 4205 )
     call SetSoundChannel( gg_snd_Osman43, 0 )
-    call SetSoundVolume( gg_snd_Osman43, -1 )
+    call SetSoundVolume( gg_snd_Osman43, 127 )
     call SetSoundPitch( gg_snd_Osman43, 1.0 )
-    set gg_snd_Osman44 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Osman44, 10814 )
+    set gg_snd_Osman44 = CreateSound( "Sound/Dialogue/Osman/Osman44.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Osman44, 4754 )
     call SetSoundChannel( gg_snd_Osman44, 0 )
-    call SetSoundVolume( gg_snd_Osman44, -1 )
+    call SetSoundVolume( gg_snd_Osman44, 127 )
     call SetSoundPitch( gg_snd_Osman44, 1.0 )
-    set gg_snd_Osman45 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Osman45, 10814 )
+    set gg_snd_Osman45 = CreateSound( "Sound/Dialogue/Osman/Osman45.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Osman45, 1462 )
     call SetSoundChannel( gg_snd_Osman45, 0 )
-    call SetSoundVolume( gg_snd_Osman45, -1 )
+    call SetSoundVolume( gg_snd_Osman45, 127 )
     call SetSoundPitch( gg_snd_Osman45, 1.0 )
-    set gg_snd_Osman46 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Osman46, 10814 )
+    set gg_snd_Osman46 = CreateSound( "Sound/Dialogue/Osman/Osman46.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Osman46, 14785 )
     call SetSoundChannel( gg_snd_Osman46, 0 )
-    call SetSoundVolume( gg_snd_Osman46, -1 )
+    call SetSoundVolume( gg_snd_Osman46, 127 )
     call SetSoundPitch( gg_snd_Osman46, 1.0 )
-    set gg_snd_Osman47 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Osman47, 10814 )
+    set gg_snd_Osman47 = CreateSound( "Sound/Dialogue/Osman/Osman47.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Osman47, 6739 )
     call SetSoundChannel( gg_snd_Osman47, 0 )
-    call SetSoundVolume( gg_snd_Osman47, -1 )
+    call SetSoundVolume( gg_snd_Osman47, 127 )
     call SetSoundPitch( gg_snd_Osman47, 1.0 )
-    set gg_snd_Osman48 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Osman48, 10814 )
+    set gg_snd_Osman48 = CreateSound( "Sound/Dialogue/Osman/Osman48.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Osman48, 10788 )
     call SetSoundChannel( gg_snd_Osman48, 0 )
-    call SetSoundVolume( gg_snd_Osman48, -1 )
+    call SetSoundVolume( gg_snd_Osman48, 127 )
     call SetSoundPitch( gg_snd_Osman48, 1.0 )
-    set gg_snd_Osman49 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Osman49, 10814 )
+    set gg_snd_Osman49 = CreateSound( "Sound/Dialogue/Osman/Osman49.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Osman49, 2429 )
     call SetSoundChannel( gg_snd_Osman49, 0 )
-    call SetSoundVolume( gg_snd_Osman49, -1 )
+    call SetSoundVolume( gg_snd_Osman49, 127 )
     call SetSoundPitch( gg_snd_Osman49, 1.0 )
-    set gg_snd_Osman5 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Osman5, 10814 )
+    set gg_snd_Osman5 = CreateSound( "Sound/Dialogue/Osman/Osman5.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Osman5, 12120 )
     call SetSoundChannel( gg_snd_Osman5, 0 )
-    call SetSoundVolume( gg_snd_Osman5, -1 )
+    call SetSoundVolume( gg_snd_Osman5, 127 )
     call SetSoundPitch( gg_snd_Osman5, 1.0 )
-    set gg_snd_Osman50 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Osman50, 10814 )
+    set gg_snd_Osman50 = CreateSound( "Sound/Dialogue/Osman/Osman50.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Osman50, 6086 )
     call SetSoundChannel( gg_snd_Osman50, 0 )
-    call SetSoundVolume( gg_snd_Osman50, -1 )
+    call SetSoundVolume( gg_snd_Osman50, 127 )
     call SetSoundPitch( gg_snd_Osman50, 1.0 )
-    set gg_snd_Osman51 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Osman51, 10814 )
+    set gg_snd_Osman51 = CreateSound( "Sound/Dialogue/Osman/Osman51.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Osman51, 4728 )
     call SetSoundChannel( gg_snd_Osman51, 0 )
-    call SetSoundVolume( gg_snd_Osman51, -1 )
+    call SetSoundVolume( gg_snd_Osman51, 127 )
     call SetSoundPitch( gg_snd_Osman51, 1.0 )
-    set gg_snd_Osman6 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Osman6, 10814 )
+    set gg_snd_Osman6 = CreateSound( "Sound/Dialogue/Osman/Osman6.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Osman6, 5093 )
     call SetSoundChannel( gg_snd_Osman6, 0 )
-    call SetSoundVolume( gg_snd_Osman6, -1 )
+    call SetSoundVolume( gg_snd_Osman6, 127 )
     call SetSoundPitch( gg_snd_Osman6, 1.0 )
-    set gg_snd_Osman7 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Osman7, 10814 )
+    set gg_snd_Osman7 = CreateSound( "Sound/Dialogue/Osman/Osman7.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Osman7, 5877 )
     call SetSoundChannel( gg_snd_Osman7, 0 )
-    call SetSoundVolume( gg_snd_Osman7, -1 )
+    call SetSoundVolume( gg_snd_Osman7, 127 )
     call SetSoundPitch( gg_snd_Osman7, 1.0 )
-    set gg_snd_Osman8 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Osman8, 10814 )
+    set gg_snd_Osman8 = CreateSound( "Sound/Dialogue/Osman/Osman8.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Osman8, 4519 )
     call SetSoundChannel( gg_snd_Osman8, 0 )
-    call SetSoundVolume( gg_snd_Osman8, -1 )
+    call SetSoundVolume( gg_snd_Osman8, 127 )
     call SetSoundPitch( gg_snd_Osman8, 1.0 )
-    set gg_snd_Osman9 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Osman9, 10814 )
+    set gg_snd_Osman9 = CreateSound( "Sound/Dialogue/Osman/Osman9.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Osman9, 2429 )
     call SetSoundChannel( gg_snd_Osman9, 0 )
-    call SetSoundVolume( gg_snd_Osman9, -1 )
+    call SetSoundVolume( gg_snd_Osman9, 127 )
     call SetSoundPitch( gg_snd_Osman9, 1.0 )
     set gg_snd_PeasantWhat1 = CreateSound( "Units\\Human\\Peasant\\PeasantWhat1.wav", false, true, true, 10, 10, "DefaultEAXON" )
     call SetSoundDuration( gg_snd_PeasantWhat1, 1108 )
@@ -7306,1205 +7398,1375 @@ function InitSounds takes nothing returns nothing
     call SetSoundDistanceCutoff( gg_snd_PeonRepair1, 3000.0 )
     call SetSoundConeAngles( gg_snd_PeonRepair1, 0.0, 0.0, 127 )
     call SetSoundConeOrientation( gg_snd_PeonRepair1, 0.0, 0.0, 0.0 )
-    set gg_snd_Ricman1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ricman1, 83 )
+    set gg_snd_RalphCharacter1 = CreateSound( "Sound/Dialogue/Ralph/RalphCharacter1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_RalphCharacter1, 992 )
+    call SetSoundChannel( gg_snd_RalphCharacter1, 0 )
+    call SetSoundVolume( gg_snd_RalphCharacter1, 127 )
+    call SetSoundPitch( gg_snd_RalphCharacter1, 1.0 )
+    set gg_snd_RalphCharacter10 = CreateSound( "Sound/Dialogue/Ralph/RalphCharacter10.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_RalphCharacter10, 1384 )
+    call SetSoundChannel( gg_snd_RalphCharacter10, 0 )
+    call SetSoundVolume( gg_snd_RalphCharacter10, 127 )
+    call SetSoundPitch( gg_snd_RalphCharacter10, 1.0 )
+    set gg_snd_RalphCharacter11 = CreateSound( "Sound/Dialogue/Ralph/RalphCharacter11.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_RalphCharacter11, 2560 )
+    call SetSoundChannel( gg_snd_RalphCharacter11, 0 )
+    call SetSoundVolume( gg_snd_RalphCharacter11, 127 )
+    call SetSoundPitch( gg_snd_RalphCharacter11, 1.0 )
+    set gg_snd_RalphCharacter12 = CreateSound( "Sound/Dialogue/Ralph/RalphCharacter12.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_RalphCharacter12, 2168 )
+    call SetSoundChannel( gg_snd_RalphCharacter12, 0 )
+    call SetSoundVolume( gg_snd_RalphCharacter12, 127 )
+    call SetSoundPitch( gg_snd_RalphCharacter12, 1.0 )
+    set gg_snd_RalphCharacter13 = CreateSound( "Sound/Dialogue/Ralph/RalphCharacter13.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_RalphCharacter13, 496 )
+    call SetSoundChannel( gg_snd_RalphCharacter13, 0 )
+    call SetSoundVolume( gg_snd_RalphCharacter13, 127 )
+    call SetSoundPitch( gg_snd_RalphCharacter13, 1.0 )
+    set gg_snd_RalphCharacter14 = CreateSound( "Sound/Dialogue/Ralph/RalphCharacter14.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_RalphCharacter14, 653 )
+    call SetSoundChannel( gg_snd_RalphCharacter14, 0 )
+    call SetSoundVolume( gg_snd_RalphCharacter14, 127 )
+    call SetSoundPitch( gg_snd_RalphCharacter14, 1.0 )
+    set gg_snd_RalphCharacter2 = CreateSound( "Sound/Dialogue/Ralph/RalphCharacter2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_RalphCharacter2, 1854 )
+    call SetSoundChannel( gg_snd_RalphCharacter2, 0 )
+    call SetSoundVolume( gg_snd_RalphCharacter2, 127 )
+    call SetSoundPitch( gg_snd_RalphCharacter2, 1.0 )
+    set gg_snd_RalphCharacter3 = CreateSound( "Sound/Dialogue/Ralph/RalphCharacter3.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_RalphCharacter3, 1593 )
+    call SetSoundChannel( gg_snd_RalphCharacter3, 0 )
+    call SetSoundVolume( gg_snd_RalphCharacter3, 127 )
+    call SetSoundPitch( gg_snd_RalphCharacter3, 1.0 )
+    set gg_snd_RalphCharacter4 = CreateSound( "Sound/Dialogue/Ralph/RalphCharacter4.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_RalphCharacter4, 1201 )
+    call SetSoundChannel( gg_snd_RalphCharacter4, 0 )
+    call SetSoundVolume( gg_snd_RalphCharacter4, 127 )
+    call SetSoundPitch( gg_snd_RalphCharacter4, 1.0 )
+    set gg_snd_RalphCharacter5 = CreateSound( "Sound/Dialogue/Ralph/RalphCharacter5.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_RalphCharacter5, 1619 )
+    call SetSoundChannel( gg_snd_RalphCharacter5, 0 )
+    call SetSoundVolume( gg_snd_RalphCharacter5, 127 )
+    call SetSoundPitch( gg_snd_RalphCharacter5, 1.0 )
+    set gg_snd_RalphCharacter6 = CreateSound( "Sound/Dialogue/Ralph/RalphCharacter6.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_RalphCharacter6, 731 )
+    call SetSoundChannel( gg_snd_RalphCharacter6, 0 )
+    call SetSoundVolume( gg_snd_RalphCharacter6, 127 )
+    call SetSoundPitch( gg_snd_RalphCharacter6, 1.0 )
+    set gg_snd_RalphCharacter7 = CreateSound( "Sound/Dialogue/Ralph/RalphCharacter7.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_RalphCharacter7, 1253 )
+    call SetSoundChannel( gg_snd_RalphCharacter7, 0 )
+    call SetSoundVolume( gg_snd_RalphCharacter7, 127 )
+    call SetSoundPitch( gg_snd_RalphCharacter7, 1.0 )
+    set gg_snd_RalphCharacter8 = CreateSound( "Sound/Dialogue/Ralph/RalphCharacter8.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_RalphCharacter8, 2586 )
+    call SetSoundChannel( gg_snd_RalphCharacter8, 0 )
+    call SetSoundVolume( gg_snd_RalphCharacter8, 127 )
+    call SetSoundPitch( gg_snd_RalphCharacter8, 1.0 )
+    set gg_snd_RalphCharacter9 = CreateSound( "Sound/Dialogue/Ralph/RalphCharacter9.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_RalphCharacter9, 888 )
+    call SetSoundChannel( gg_snd_RalphCharacter9, 0 )
+    call SetSoundVolume( gg_snd_RalphCharacter9, 127 )
+    call SetSoundPitch( gg_snd_RalphCharacter9, 1.0 )
+    set gg_snd_Ricman1 = CreateSound( "Sound/Dialogue/Ricman/Ricman1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ricman1, 1541 )
     call SetSoundChannel( gg_snd_Ricman1, 0 )
     call SetSoundVolume( gg_snd_Ricman1, 127 )
     call SetSoundPitch( gg_snd_Ricman1, 1.0 )
-    set gg_snd_Ricman10 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ricman10, 83 )
+    set gg_snd_Ricman10 = CreateSound( "Sound/Dialogue/Ricman/Ricman10.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ricman10, 4362 )
     call SetSoundChannel( gg_snd_Ricman10, 0 )
     call SetSoundVolume( gg_snd_Ricman10, 127 )
     call SetSoundPitch( gg_snd_Ricman10, 1.0 )
-    set gg_snd_Ricman11 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ricman11, 83 )
+    set gg_snd_Ricman11 = CreateSound( "Sound/Dialogue/Ricman/Ricman11.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ricman11, 8280 )
     call SetSoundChannel( gg_snd_Ricman11, 0 )
     call SetSoundVolume( gg_snd_Ricman11, 127 )
     call SetSoundPitch( gg_snd_Ricman11, 1.0 )
-    set gg_snd_Ricman12 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ricman12, 83 )
+    set gg_snd_Ricman12 = CreateSound( "Sound/Dialogue/Ricman/Ricman12.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ricman12, 10004 )
     call SetSoundChannel( gg_snd_Ricman12, 0 )
     call SetSoundVolume( gg_snd_Ricman12, 127 )
     call SetSoundPitch( gg_snd_Ricman12, 1.0 )
-    set gg_snd_Ricman13 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ricman13, 83 )
+    set gg_snd_Ricman13 = CreateSound( "Sound/Dialogue/Ricman/Ricman13.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ricman13, 8698 )
     call SetSoundChannel( gg_snd_Ricman13, 0 )
     call SetSoundVolume( gg_snd_Ricman13, 127 )
     call SetSoundPitch( gg_snd_Ricman13, 1.0 )
-    set gg_snd_Ricman14 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ricman14, 83 )
+    set gg_snd_Ricman14 = CreateSound( "Sound/Dialogue/Ricman/Ricman14.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ricman14, 10422 )
     call SetSoundChannel( gg_snd_Ricman14, 0 )
     call SetSoundVolume( gg_snd_Ricman14, 127 )
     call SetSoundPitch( gg_snd_Ricman14, 1.0 )
-    set gg_snd_Ricman15 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ricman15, 83 )
+    set gg_snd_Ricman15 = CreateSound( "Sound/Dialogue/Ricman/Ricman15.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ricman15, 10866 )
     call SetSoundChannel( gg_snd_Ricman15, 0 )
     call SetSoundVolume( gg_snd_Ricman15, 127 )
     call SetSoundPitch( gg_snd_Ricman15, 1.0 )
-    set gg_snd_Ricman16 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ricman16, 83 )
+    set gg_snd_Ricman16 = CreateSound( "Sound/Dialogue/Ricman/Ricman16.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ricman16, 6608 )
     call SetSoundChannel( gg_snd_Ricman16, 0 )
     call SetSoundVolume( gg_snd_Ricman16, 127 )
     call SetSoundPitch( gg_snd_Ricman16, 1.0 )
-    set gg_snd_Ricman17 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ricman17, 83 )
+    set gg_snd_Ricman17 = CreateSound( "Sound/Dialogue/Ricman/Ricman17.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ricman17, 6635 )
     call SetSoundChannel( gg_snd_Ricman17, 0 )
     call SetSoundVolume( gg_snd_Ricman17, 127 )
     call SetSoundPitch( gg_snd_Ricman17, 1.0 )
-    set gg_snd_Ricman18 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ricman18, 83 )
+    set gg_snd_Ricman18 = CreateSound( "Sound/Dialogue/Ricman/Ricman18.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ricman18, 5537 )
     call SetSoundChannel( gg_snd_Ricman18, 0 )
     call SetSoundVolume( gg_snd_Ricman18, 127 )
     call SetSoundPitch( gg_snd_Ricman18, 1.0 )
-    set gg_snd_Ricman19 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ricman19, 83 )
+    set gg_snd_Ricman19 = CreateSound( "Sound/Dialogue/Ricman/Ricman19.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ricman19, 8933 )
     call SetSoundChannel( gg_snd_Ricman19, 0 )
     call SetSoundVolume( gg_snd_Ricman19, 127 )
     call SetSoundPitch( gg_snd_Ricman19, 1.0 )
-    set gg_snd_Ricman2 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ricman2, 83 )
+    set gg_snd_Ricman2 = CreateSound( "Sound/Dialogue/Ricman/Ricman2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ricman2, 5407 )
     call SetSoundChannel( gg_snd_Ricman2, 0 )
     call SetSoundVolume( gg_snd_Ricman2, 127 )
     call SetSoundPitch( gg_snd_Ricman2, 1.0 )
-    set gg_snd_Ricman20 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ricman20, 83 )
+    set gg_snd_Ricman20 = CreateSound( "Sound/Dialogue/Ricman/Ricman20.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ricman20, 11023 )
     call SetSoundChannel( gg_snd_Ricman20, 0 )
     call SetSoundVolume( gg_snd_Ricman20, 127 )
     call SetSoundPitch( gg_snd_Ricman20, 1.0 )
-    set gg_snd_Ricman21 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ricman21, 83 )
+    set gg_snd_Ricman21 = CreateSound( "Sound/Dialogue/Ricman/Ricman21.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ricman21, 3970 )
     call SetSoundChannel( gg_snd_Ricman21, 0 )
     call SetSoundVolume( gg_snd_Ricman21, 127 )
     call SetSoundPitch( gg_snd_Ricman21, 1.0 )
-    set gg_snd_Ricman22 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ricman22, 83 )
+    set gg_snd_Ricman22 = CreateSound( "Sound/Dialogue/Ricman/Ricman22.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ricman22, 3787 )
     call SetSoundChannel( gg_snd_Ricman22, 0 )
     call SetSoundVolume( gg_snd_Ricman22, 127 )
     call SetSoundPitch( gg_snd_Ricman22, 1.0 )
-    set gg_snd_Ricman23 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ricman23, 83 )
+    set gg_snd_Ricman23 = CreateSound( "Sound/Dialogue/Ricman/Ricman23.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ricman23, 10318 )
     call SetSoundChannel( gg_snd_Ricman23, 0 )
     call SetSoundVolume( gg_snd_Ricman23, 127 )
     call SetSoundPitch( gg_snd_Ricman23, 1.0 )
-    set gg_snd_Ricman24 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ricman24, 83 )
+    set gg_snd_Ricman24 = CreateSound( "Sound/Dialogue/Ricman/Ricman24.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ricman24, 1750 )
     call SetSoundChannel( gg_snd_Ricman24, 0 )
     call SetSoundVolume( gg_snd_Ricman24, 127 )
     call SetSoundPitch( gg_snd_Ricman24, 1.0 )
-    set gg_snd_Ricman25 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ricman25, 83 )
+    set gg_snd_Ricman25 = CreateSound( "Sound/Dialogue/Ricman/Ricman25.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ricman25, 5198 )
     call SetSoundChannel( gg_snd_Ricman25, 0 )
     call SetSoundVolume( gg_snd_Ricman25, 127 )
     call SetSoundPitch( gg_snd_Ricman25, 1.0 )
-    set gg_snd_Ricman26 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ricman26, 83 )
+    set gg_snd_Ricman26 = CreateSound( "Sound/Dialogue/Ricman/Ricman26.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ricman26, 9247 )
     call SetSoundChannel( gg_snd_Ricman26, 0 )
     call SetSoundVolume( gg_snd_Ricman26, 127 )
     call SetSoundPitch( gg_snd_Ricman26, 1.0 )
-    set gg_snd_Ricman27 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ricman27, 83 )
+    set gg_snd_Ricman27 = CreateSound( "Sound/Dialogue/Ricman/Ricman27.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ricman27, 9221 )
     call SetSoundChannel( gg_snd_Ricman27, 0 )
     call SetSoundVolume( gg_snd_Ricman27, 127 )
     call SetSoundPitch( gg_snd_Ricman27, 1.0 )
-    set gg_snd_Ricman28 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ricman28, 83 )
+    set gg_snd_Ricman28 = CreateSound( "Sound/Dialogue/Ricman/Ricman28.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ricman28, 9299 )
     call SetSoundChannel( gg_snd_Ricman28, 0 )
     call SetSoundVolume( gg_snd_Ricman28, 127 )
     call SetSoundPitch( gg_snd_Ricman28, 1.0 )
-    set gg_snd_Ricman29 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ricman29, 83 )
+    set gg_snd_Ricman29 = CreateSound( "Sound/Dialogue/Ricman/Ricman29.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ricman29, 12277 )
     call SetSoundChannel( gg_snd_Ricman29, 0 )
     call SetSoundVolume( gg_snd_Ricman29, 127 )
     call SetSoundPitch( gg_snd_Ricman29, 1.0 )
-    set gg_snd_Ricman3 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ricman3, 83 )
+    set gg_snd_Ricman3 = CreateSound( "Sound/Dialogue/Ricman/Ricman3.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ricman3, 1410 )
     call SetSoundChannel( gg_snd_Ricman3, 0 )
     call SetSoundVolume( gg_snd_Ricman3, 127 )
     call SetSoundPitch( gg_snd_Ricman3, 1.0 )
-    set gg_snd_Ricman30 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ricman30, 83 )
+    set gg_snd_Ricman30 = CreateSound( "Sound/Dialogue/Ricman/Ricman30.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ricman30, 8698 )
     call SetSoundChannel( gg_snd_Ricman30, 0 )
     call SetSoundVolume( gg_snd_Ricman30, 127 )
     call SetSoundPitch( gg_snd_Ricman30, 1.0 )
-    set gg_snd_Ricman31 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ricman31, 83 )
+    set gg_snd_Ricman31 = CreateSound( "Sound/Dialogue/Ricman/Ricman31.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ricman31, 9613 )
     call SetSoundChannel( gg_snd_Ricman31, 0 )
     call SetSoundVolume( gg_snd_Ricman31, 127 )
     call SetSoundPitch( gg_snd_Ricman31, 1.0 )
-    set gg_snd_Ricman32 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ricman32, 83 )
+    set gg_snd_Ricman32 = CreateSound( "Sound/Dialogue/Ricman/Ricman32.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ricman32, 3239 )
     call SetSoundChannel( gg_snd_Ricman32, 0 )
     call SetSoundVolume( gg_snd_Ricman32, 127 )
     call SetSoundPitch( gg_snd_Ricman32, 1.0 )
-    set gg_snd_Ricman33 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ricman33, 83 )
+    set gg_snd_Ricman33 = CreateSound( "Sound/Dialogue/Ricman/Ricman33.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ricman33, 8489 )
     call SetSoundChannel( gg_snd_Ricman33, 0 )
     call SetSoundVolume( gg_snd_Ricman33, 127 )
     call SetSoundPitch( gg_snd_Ricman33, 1.0 )
-    set gg_snd_Ricman34 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ricman34, 83 )
+    set gg_snd_Ricman34 = CreateSound( "Sound/Dialogue/Ricman/Ricman34.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ricman34, 4048 )
     call SetSoundChannel( gg_snd_Ricman34, 0 )
     call SetSoundVolume( gg_snd_Ricman34, 127 )
     call SetSoundPitch( gg_snd_Ricman34, 1.0 )
-    set gg_snd_Ricman35 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ricman35, 83 )
+    set gg_snd_Ricman35 = CreateSound( "Sound/Dialogue/Ricman/Ricman35.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ricman35, 5694 )
     call SetSoundChannel( gg_snd_Ricman35, 0 )
     call SetSoundVolume( gg_snd_Ricman35, 127 )
     call SetSoundPitch( gg_snd_Ricman35, 1.0 )
-    set gg_snd_Ricman36 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ricman36, 83 )
+    set gg_snd_Ricman36 = CreateSound( "Sound/Dialogue/Ricman/Ricman36.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ricman36, 10605 )
     call SetSoundChannel( gg_snd_Ricman36, 0 )
     call SetSoundVolume( gg_snd_Ricman36, 127 )
     call SetSoundPitch( gg_snd_Ricman36, 1.0 )
-    set gg_snd_Ricman37 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ricman37, 83 )
+    set gg_snd_Ricman37 = CreateSound( "Sound/Dialogue/Ricman/Ricman37.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ricman37, 63137 )
     call SetSoundChannel( gg_snd_Ricman37, 0 )
     call SetSoundVolume( gg_snd_Ricman37, 127 )
     call SetSoundPitch( gg_snd_Ricman37, 1.0 )
-    set gg_snd_Ricman38 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ricman38, 83 )
+    set gg_snd_Ricman38 = CreateSound( "Sound/Dialogue/Ricman/Ricman38.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ricman38, 8542 )
     call SetSoundChannel( gg_snd_Ricman38, 0 )
     call SetSoundVolume( gg_snd_Ricman38, 127 )
     call SetSoundPitch( gg_snd_Ricman38, 1.0 )
-    set gg_snd_Ricman39 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ricman39, 83 )
+    set gg_snd_Ricman39 = CreateSound( "Sound/Dialogue/Ricman/Ricman39.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ricman39, 3265 )
     call SetSoundChannel( gg_snd_Ricman39, 0 )
     call SetSoundVolume( gg_snd_Ricman39, 127 )
     call SetSoundPitch( gg_snd_Ricman39, 1.0 )
-    set gg_snd_Ricman4 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ricman4, 83 )
+    set gg_snd_Ricman4 = CreateSound( "Sound/Dialogue/Ricman/Ricman4.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ricman4, 1436 )
     call SetSoundChannel( gg_snd_Ricman4, 0 )
     call SetSoundVolume( gg_snd_Ricman4, 127 )
     call SetSoundPitch( gg_snd_Ricman4, 1.0 )
-    set gg_snd_Ricman40 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ricman40, 83 )
+    set gg_snd_Ricman40 = CreateSound( "Sound/Dialogue/Ricman/Ricman40.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ricman40, 4231 )
     call SetSoundChannel( gg_snd_Ricman40, 0 )
     call SetSoundVolume( gg_snd_Ricman40, 127 )
     call SetSoundPitch( gg_snd_Ricman40, 1.0 )
-    set gg_snd_Ricman41 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ricman41, 83 )
+    set gg_snd_Ricman41 = CreateSound( "Sound/Dialogue/Ricman/Ricman41.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ricman41, 3787 )
     call SetSoundChannel( gg_snd_Ricman41, 0 )
     call SetSoundVolume( gg_snd_Ricman41, 127 )
     call SetSoundPitch( gg_snd_Ricman41, 1.0 )
-    set gg_snd_Ricman42 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ricman42, 83 )
+    set gg_snd_Ricman42 = CreateSound( "Sound/Dialogue/Ricman/Ricman42.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ricman42, 1201 )
     call SetSoundChannel( gg_snd_Ricman42, 0 )
     call SetSoundVolume( gg_snd_Ricman42, 127 )
     call SetSoundPitch( gg_snd_Ricman42, 1.0 )
-    set gg_snd_Ricman43 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ricman43, 83 )
+    set gg_snd_Ricman43 = CreateSound( "Sound/Dialogue/Ricman/Ricman43.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ricman43, 8907 )
     call SetSoundChannel( gg_snd_Ricman43, 0 )
     call SetSoundVolume( gg_snd_Ricman43, 127 )
     call SetSoundPitch( gg_snd_Ricman43, 1.0 )
-    set gg_snd_Ricman44 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ricman44, 83 )
+    set gg_snd_Ricman44 = CreateSound( "Sound/Dialogue/Ricman/Ricman44.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ricman44, 4362 )
     call SetSoundChannel( gg_snd_Ricman44, 0 )
     call SetSoundVolume( gg_snd_Ricman44, 127 )
     call SetSoundPitch( gg_snd_Ricman44, 1.0 )
-    set gg_snd_Ricman45 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ricman45, 83 )
+    set gg_snd_Ricman45 = CreateSound( "Sound/Dialogue/Ricman/Ricman45.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ricman45, 862 )
     call SetSoundChannel( gg_snd_Ricman45, 0 )
     call SetSoundVolume( gg_snd_Ricman45, 127 )
     call SetSoundPitch( gg_snd_Ricman45, 1.0 )
-    set gg_snd_Ricman46 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ricman46, 83 )
+    set gg_snd_Ricman46 = CreateSound( "Sound/Dialogue/Ricman/Ricman46.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ricman46, 11415 )
     call SetSoundChannel( gg_snd_Ricman46, 0 )
     call SetSoundVolume( gg_snd_Ricman46, 127 )
     call SetSoundPitch( gg_snd_Ricman46, 1.0 )
-    set gg_snd_Ricman47 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ricman47, 83 )
+    set gg_snd_Ricman47 = CreateSound( "Sound/Dialogue/Ricman/Ricman47.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ricman47, 1201 )
     call SetSoundChannel( gg_snd_Ricman47, 0 )
     call SetSoundVolume( gg_snd_Ricman47, 127 )
     call SetSoundPitch( gg_snd_Ricman47, 1.0 )
-    set gg_snd_Ricman48 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ricman48, 83 )
+    set gg_snd_Ricman48 = CreateSound( "Sound/Dialogue/Ricman/Ricman48.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ricman48, 12904 )
     call SetSoundChannel( gg_snd_Ricman48, 0 )
     call SetSoundVolume( gg_snd_Ricman48, 127 )
     call SetSoundPitch( gg_snd_Ricman48, 1.0 )
-    set gg_snd_Ricman49 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ricman49, 83 )
+    set gg_snd_Ricman49 = CreateSound( "Sound/Dialogue/Ricman/Ricman49.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ricman49, 15777 )
     call SetSoundChannel( gg_snd_Ricman49, 0 )
     call SetSoundVolume( gg_snd_Ricman49, 127 )
     call SetSoundPitch( gg_snd_Ricman49, 1.0 )
-    set gg_snd_Ricman5 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ricman5, 83 )
+    set gg_snd_Ricman5 = CreateSound( "Sound/Dialogue/Ricman/Ricman5.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ricman5, 1358 )
     call SetSoundChannel( gg_snd_Ricman5, 0 )
     call SetSoundVolume( gg_snd_Ricman5, 127 )
     call SetSoundPitch( gg_snd_Ricman5, 1.0 )
-    set gg_snd_Ricman50 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ricman50, 83 )
+    set gg_snd_Ricman50 = CreateSound( "Sound/Dialogue/Ricman/Ricman50.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ricman50, 55875 )
     call SetSoundChannel( gg_snd_Ricman50, 0 )
     call SetSoundVolume( gg_snd_Ricman50, 127 )
     call SetSoundPitch( gg_snd_Ricman50, 1.0 )
-    set gg_snd_Ricman6 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ricman6, 83 )
+    set gg_snd_Ricman6 = CreateSound( "Sound/Dialogue/Ricman/Ricman6.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ricman6, 4623 )
     call SetSoundChannel( gg_snd_Ricman6, 0 )
     call SetSoundVolume( gg_snd_Ricman6, 127 )
     call SetSoundPitch( gg_snd_Ricman6, 1.0 )
-    set gg_snd_Ricman7 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ricman7, 83 )
+    set gg_snd_Ricman7 = CreateSound( "Sound/Dialogue/Ricman/Ricman7.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ricman7, 7209 )
     call SetSoundChannel( gg_snd_Ricman7, 0 )
     call SetSoundVolume( gg_snd_Ricman7, 127 )
     call SetSoundPitch( gg_snd_Ricman7, 1.0 )
-    set gg_snd_Ricman8 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ricman8, 83 )
+    set gg_snd_Ricman8 = CreateSound( "Sound/Dialogue/Ricman/Ricman8.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ricman8, 11075 )
     call SetSoundChannel( gg_snd_Ricman8, 0 )
     call SetSoundVolume( gg_snd_Ricman8, 127 )
     call SetSoundPitch( gg_snd_Ricman8, 1.0 )
-    set gg_snd_Ricman9 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ricman9, 83 )
+    set gg_snd_Ricman9 = CreateSound( "Sound/Dialogue/Ricman/Ricman9.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ricman9, 8960 )
     call SetSoundChannel( gg_snd_Ricman9, 0 )
     call SetSoundVolume( gg_snd_Ricman9, 127 )
     call SetSoundPitch( gg_snd_Ricman9, 1.0 )
-    set gg_snd_RicmanTheChiefRicman1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_RicmanTheChiefRicman1, 83 )
+    set gg_snd_RicmanTheChiefRicman1 = CreateSound( "Sound/Dialogue/Ricman/RicmanTheChiefRicman1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_RicmanTheChiefRicman1, 1750 )
     call SetSoundChannel( gg_snd_RicmanTheChiefRicman1, 0 )
     call SetSoundVolume( gg_snd_RicmanTheChiefRicman1, 127 )
     call SetSoundPitch( gg_snd_RicmanTheChiefRicman1, 1.0 )
-    set gg_snd_RicmanTheChiefRicman2 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_RicmanTheChiefRicman2, 83 )
+    set gg_snd_RicmanTheChiefRicman2 = CreateSound( "Sound/Dialogue/Ricman/RicmanTheChiefRicman2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_RicmanTheChiefRicman2, 6243 )
     call SetSoundChannel( gg_snd_RicmanTheChiefRicman2, 0 )
     call SetSoundVolume( gg_snd_RicmanTheChiefRicman2, 127 )
     call SetSoundPitch( gg_snd_RicmanTheChiefRicman2, 1.0 )
-    set gg_snd_RicmanTheDefenseOfTalrasRicman1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_RicmanTheDefenseOfTalrasRicman1, 83 )
+    set gg_snd_RicmanTheDefenseOfTalrasRicman1 = CreateSound( "Sound/Dialogue/Ricman/RicmanTheDefenseOfTalrasRicman1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_RicmanTheDefenseOfTalrasRicman1, 14080 )
     call SetSoundChannel( gg_snd_RicmanTheDefenseOfTalrasRicman1, 0 )
     call SetSoundVolume( gg_snd_RicmanTheDefenseOfTalrasRicman1, 127 )
     call SetSoundPitch( gg_snd_RicmanTheDefenseOfTalrasRicman1, 1.0 )
-    set gg_snd_RicmanTheDefenseOfTalrasRicman2 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_RicmanTheDefenseOfTalrasRicman2, 83 )
+    set gg_snd_RicmanTheDefenseOfTalrasRicman2 = CreateSound( "Sound/Dialogue/Ricman/RicmanTheDefenseOfTalrasRicman2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_RicmanTheDefenseOfTalrasRicman2, 14236 )
     call SetSoundChannel( gg_snd_RicmanTheDefenseOfTalrasRicman2, 0 )
     call SetSoundVolume( gg_snd_RicmanTheDefenseOfTalrasRicman2, 127 )
     call SetSoundPitch( gg_snd_RicmanTheDefenseOfTalrasRicman2, 1.0 )
-    set gg_snd_RicmanTheNorsemenRicman1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_RicmanTheNorsemenRicman1, 83 )
+    set gg_snd_RicmanTheNorsemenRicman1 = CreateSound( "Sound/Dialogue/Ricman/RicmanTheNorsemenRicman1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_RicmanTheNorsemenRicman1, 5328 )
     call SetSoundChannel( gg_snd_RicmanTheNorsemenRicman1, 0 )
     call SetSoundVolume( gg_snd_RicmanTheNorsemenRicman1, 127 )
     call SetSoundPitch( gg_snd_RicmanTheNorsemenRicman1, 1.0 )
-    set gg_snd_RicmanTheNorsemenRicman2 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_RicmanTheNorsemenRicman2, 83 )
+    set gg_snd_RicmanTheNorsemenRicman2 = CreateSound( "Sound/Dialogue/Ricman/RicmanTheNorsemenRicman2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_RicmanTheNorsemenRicman2, 5302 )
     call SetSoundChannel( gg_snd_RicmanTheNorsemenRicman2, 0 )
     call SetSoundVolume( gg_snd_RicmanTheNorsemenRicman2, 127 )
     call SetSoundPitch( gg_snd_RicmanTheNorsemenRicman2, 1.0 )
-    set gg_snd_RicmanTheNorsemenRicman3 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_RicmanTheNorsemenRicman3, 83 )
+    set gg_snd_RicmanTheNorsemenRicman3 = CreateSound( "Sound/Dialogue/Ricman/RicmanTheNorsemenRicman3.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_RicmanTheNorsemenRicman3, 2168 )
     call SetSoundChannel( gg_snd_RicmanTheNorsemenRicman3, 0 )
     call SetSoundVolume( gg_snd_RicmanTheNorsemenRicman3, 127 )
     call SetSoundPitch( gg_snd_RicmanTheNorsemenRicman3, 1.0 )
-    set gg_snd_RicmanTheNorsemenRicman4 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_RicmanTheNorsemenRicman4, 83 )
+    set gg_snd_RicmanTheNorsemenRicman4 = CreateSound( "Sound/Dialogue/Ricman/RicmanTheNorsemenRicman4.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_RicmanTheNorsemenRicman4, 14288 )
     call SetSoundChannel( gg_snd_RicmanTheNorsemenRicman4, 0 )
     call SetSoundVolume( gg_snd_RicmanTheNorsemenRicman4, 127 )
     call SetSoundPitch( gg_snd_RicmanTheNorsemenRicman4, 1.0 )
-    set gg_snd_RicmanTheNorsemenRicman5 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_RicmanTheNorsemenRicman5, 83 )
+    set gg_snd_RicmanTheNorsemenRicman5 = CreateSound( "Sound/Dialogue/Ricman/RicmanTheNorsemenRicman5.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_RicmanTheNorsemenRicman5, 14288 )
     call SetSoundChannel( gg_snd_RicmanTheNorsemenRicman5, 0 )
     call SetSoundVolume( gg_snd_RicmanTheNorsemenRicman5, 127 )
     call SetSoundPitch( gg_snd_RicmanTheNorsemenRicman5, 1.0 )
-    set gg_snd_RicmanVictoryRicman1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_RicmanVictoryRicman1, 83 )
+    set gg_snd_RicmanVictoryRicman1 = CreateSound( "Sound/Dialogue/Ricman/RicmanVictoryRicman1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_RicmanVictoryRicman1, 2977 )
     call SetSoundChannel( gg_snd_RicmanVictoryRicman1, 0 )
     call SetSoundVolume( gg_snd_RicmanVictoryRicman1, 127 )
     call SetSoundPitch( gg_snd_RicmanVictoryRicman1, 1.0 )
+    set gg_snd_RicmanWhat1 = CreateSound( "Sound/Dialogue/Ricman/RicmanWhat1.wav", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_RicmanWhat1, 1459 )
+    call SetSoundChannel( gg_snd_RicmanWhat1, 0 )
+    call SetSoundVolume( gg_snd_RicmanWhat1, 127 )
+    call SetSoundPitch( gg_snd_RicmanWhat1, 1.0 )
+    set gg_snd_RicmanWhat2 = CreateSound( "Sound/Dialogue/Ricman/RicmanWhat2.wav", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_RicmanWhat2, 2161 )
+    call SetSoundChannel( gg_snd_RicmanWhat2, 0 )
+    call SetSoundVolume( gg_snd_RicmanWhat2, 127 )
+    call SetSoundPitch( gg_snd_RicmanWhat2, 1.0 )
+    set gg_snd_RicmanWhat3 = CreateSound( "Sound/Dialogue/Ricman/RicmanWhat3.wav", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_RicmanWhat3, 2053 )
+    call SetSoundChannel( gg_snd_RicmanWhat3, 0 )
+    call SetSoundVolume( gg_snd_RicmanWhat3, 127 )
+    call SetSoundPitch( gg_snd_RicmanWhat3, 1.0 )
+    set gg_snd_RicmanYes1 = CreateSound( "Sound/Dialogue/Ricman/RicmanYes1.wav", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_RicmanYes1, 1580 )
+    call SetSoundChannel( gg_snd_RicmanYes1, 0 )
+    call SetSoundVolume( gg_snd_RicmanYes1, 127 )
+    call SetSoundPitch( gg_snd_RicmanYes1, 1.0 )
+    set gg_snd_RicmanYes2 = CreateSound( "Sound/Dialogue/Ricman/RicmanYes2.wav", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_RicmanYes2, 2040 )
+    call SetSoundChannel( gg_snd_RicmanYes2, 0 )
+    call SetSoundVolume( gg_snd_RicmanYes2, 127 )
+    call SetSoundPitch( gg_snd_RicmanYes2, 1.0 )
+    set gg_snd_RicmanYes3 = CreateSound( "Sound/Dialogue/Ricman/RicmanYes3.wav", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_RicmanYes3, 2134 )
+    call SetSoundChannel( gg_snd_RicmanYes3, 0 )
+    call SetSoundVolume( gg_snd_RicmanYes3, 127 )
+    call SetSoundPitch( gg_snd_RicmanYes3, 1.0 )
+    set gg_snd_RicmanYesAttack1 = CreateSound( "Sound/Dialogue/Ricman/RicmanYesAttack1.wav", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_RicmanYesAttack1, 3430 )
+    call SetSoundChannel( gg_snd_RicmanYesAttack1, 0 )
+    call SetSoundVolume( gg_snd_RicmanYesAttack1, 127 )
+    call SetSoundPitch( gg_snd_RicmanYesAttack1, 1.0 )
+    set gg_snd_RicmanYesAttack2 = CreateSound( "Sound/Dialogue/Ricman/RicmanYesAttack2.wav", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_RicmanYesAttack2, 1737 )
+    call SetSoundChannel( gg_snd_RicmanYesAttack2, 0 )
+    call SetSoundVolume( gg_snd_RicmanYesAttack2, 127 )
+    call SetSoundPitch( gg_snd_RicmanYesAttack2, 1.0 )
+    set gg_snd_RicmanYesAttack3 = CreateSound( "Sound/Dialogue/Ricman/RicmanYesAttack3.wav", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_RicmanYesAttack3, 1551 )
+    call SetSoundChannel( gg_snd_RicmanYesAttack3, 0 )
+    call SetSoundVolume( gg_snd_RicmanYesAttack3, 127 )
+    call SetSoundPitch( gg_snd_RicmanYesAttack3, 1.0 )
     set gg_snd_RollingThunder1 = CreateSound( "Sound\\Ambient\\DoodadEffects\\RollingThunder1.wav", false, false, false, 10, 10, "DefaultEAXON" )
     call SetSoundDuration( gg_snd_RollingThunder1, 3831 )
     call SetSoundChannel( gg_snd_RollingThunder1, 0 )
     call SetSoundVolume( gg_snd_RollingThunder1, -1 )
     call SetSoundPitch( gg_snd_RollingThunder1, 1.0 )
-    set gg_snd_Schafshirte_01 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Schafshirte_01, 3831 )
+    set gg_snd_Schafshirte_01 = CreateSound( "Sound/Dialogue/Schafshirte/Schafshirte_01.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Schafshirte_01, 6321 )
     call SetSoundChannel( gg_snd_Schafshirte_01, 0 )
     call SetSoundVolume( gg_snd_Schafshirte_01, 127 )
     call SetSoundPitch( gg_snd_Schafshirte_01, 1.0 )
-    set gg_snd_Schafshirte_02 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Schafshirte_02, 3831 )
+    set gg_snd_Schafshirte_02 = CreateSound( "Sound/Dialogue/Schafshirte/Schafshirte_02.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Schafshirte_02, 2403 )
     call SetSoundChannel( gg_snd_Schafshirte_02, 0 )
     call SetSoundVolume( gg_snd_Schafshirte_02, 127 )
     call SetSoundPitch( gg_snd_Schafshirte_02, 1.0 )
-    set gg_snd_Schafshirte_03 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Schafshirte_03, 3831 )
+    set gg_snd_Schafshirte_03 = CreateSound( "Sound/Dialogue/Schafshirte/Schafshirte_03.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Schafshirte_03, 6008 )
     call SetSoundChannel( gg_snd_Schafshirte_03, 0 )
     call SetSoundVolume( gg_snd_Schafshirte_03, 127 )
     call SetSoundPitch( gg_snd_Schafshirte_03, 1.0 )
-    set gg_snd_Schafshirte_04 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Schafshirte_04, 3831 )
+    set gg_snd_Schafshirte_04 = CreateSound( "Sound/Dialogue/Schafshirte/Schafshirte_04.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Schafshirte_04, 7601 )
     call SetSoundChannel( gg_snd_Schafshirte_04, 0 )
     call SetSoundVolume( gg_snd_Schafshirte_04, 127 )
     call SetSoundPitch( gg_snd_Schafshirte_04, 1.0 )
-    set gg_snd_Schafshirte_05 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Schafshirte_05, 3831 )
+    set gg_snd_Schafshirte_05 = CreateSound( "Sound/Dialogue/Schafshirte/Schafshirte_05.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Schafshirte_05, 9874 )
     call SetSoundChannel( gg_snd_Schafshirte_05, 0 )
     call SetSoundVolume( gg_snd_Schafshirte_05, 127 )
     call SetSoundPitch( gg_snd_Schafshirte_05, 1.0 )
-    set gg_snd_Schafshirte_06 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Schafshirte_06, 3831 )
+    set gg_snd_Schafshirte_06 = CreateSound( "Sound/Dialogue/Schafshirte/Schafshirte_06.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Schafshirte_06, 3735 )
     call SetSoundChannel( gg_snd_Schafshirte_06, 0 )
     call SetSoundVolume( gg_snd_Schafshirte_06, 127 )
     call SetSoundPitch( gg_snd_Schafshirte_06, 1.0 )
-    set gg_snd_Schafshirte_07 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Schafshirte_07, 3831 )
+    set gg_snd_Schafshirte_07 = CreateSound( "Sound/Dialogue/Schafshirte/Schafshirte_07.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Schafshirte_07, 3761 )
     call SetSoundChannel( gg_snd_Schafshirte_07, 0 )
     call SetSoundVolume( gg_snd_Schafshirte_07, 127 )
     call SetSoundPitch( gg_snd_Schafshirte_07, 1.0 )
-    set gg_snd_Schafshirte_08 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Schafshirte_08, 3831 )
+    set gg_snd_Schafshirte_08 = CreateSound( "Sound/Dialogue/Schafshirte/Schafshirte_08.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Schafshirte_08, 6164 )
     call SetSoundChannel( gg_snd_Schafshirte_08, 0 )
     call SetSoundVolume( gg_snd_Schafshirte_08, 127 )
     call SetSoundPitch( gg_snd_Schafshirte_08, 1.0 )
-    set gg_snd_Schafshirte_09 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Schafshirte_09, 3831 )
+    set gg_snd_Schafshirte_09 = CreateSound( "Sound/Dialogue/Schafshirte/Schafshirte_09.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Schafshirte_09, 2847 )
     call SetSoundChannel( gg_snd_Schafshirte_09, 0 )
     call SetSoundVolume( gg_snd_Schafshirte_09, 127 )
     call SetSoundPitch( gg_snd_Schafshirte_09, 1.0 )
-    set gg_snd_Schafshirte_10 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Schafshirte_10, 3831 )
+    set gg_snd_Schafshirte_10 = CreateSound( "Sound/Dialogue/Schafshirte/Schafshirte_10.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Schafshirte_10, 5198 )
     call SetSoundChannel( gg_snd_Schafshirte_10, 0 )
     call SetSoundVolume( gg_snd_Schafshirte_10, 127 )
     call SetSoundPitch( gg_snd_Schafshirte_10, 1.0 )
-    set gg_snd_Schafshirte_11 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Schafshirte_11, 3831 )
+    set gg_snd_Schafshirte_11 = CreateSound( "Sound/Dialogue/Schafshirte/Schafshirte_11.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Schafshirte_11, 7235 )
     call SetSoundChannel( gg_snd_Schafshirte_11, 0 )
     call SetSoundVolume( gg_snd_Schafshirte_11, 127 )
     call SetSoundPitch( gg_snd_Schafshirte_11, 1.0 )
-    set gg_snd_Schafshirte_12 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Schafshirte_12, 3831 )
+    set gg_snd_Schafshirte_12 = CreateSound( "Sound/Dialogue/Schafshirte/Schafshirte_12.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Schafshirte_12, 7392 )
     call SetSoundChannel( gg_snd_Schafshirte_12, 0 )
     call SetSoundVolume( gg_snd_Schafshirte_12, 127 )
     call SetSoundPitch( gg_snd_Schafshirte_12, 1.0 )
-    set gg_snd_Schafshirte_13 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Schafshirte_13, 3831 )
+    set gg_snd_Schafshirte_13 = CreateSound( "Sound/Dialogue/Schafshirte/Schafshirte_13.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Schafshirte_13, 3813 )
     call SetSoundChannel( gg_snd_Schafshirte_13, 0 )
     call SetSoundVolume( gg_snd_Schafshirte_13, 127 )
     call SetSoundPitch( gg_snd_Schafshirte_13, 1.0 )
-    set gg_snd_Schafshirte_14 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Schafshirte_14, 3831 )
+    set gg_snd_Schafshirte_14 = CreateSound( "Sound/Dialogue/Schafshirte/Schafshirte_14.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Schafshirte_14, 6269 )
     call SetSoundChannel( gg_snd_Schafshirte_14, 0 )
     call SetSoundVolume( gg_snd_Schafshirte_14, 127 )
     call SetSoundPitch( gg_snd_Schafshirte_14, 1.0 )
-    set gg_snd_Schafshirte_15 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Schafshirte_15, 3831 )
+    set gg_snd_Schafshirte_15 = CreateSound( "Sound/Dialogue/Schafshirte/Schafshirte_15.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Schafshirte_15, 1201 )
     call SetSoundChannel( gg_snd_Schafshirte_15, 0 )
     call SetSoundVolume( gg_snd_Schafshirte_15, 127 )
     call SetSoundPitch( gg_snd_Schafshirte_15, 1.0 )
-    set gg_snd_Schafshirte_16 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Schafshirte_16, 3831 )
+    set gg_snd_Schafshirte_16 = CreateSound( "Sound/Dialogue/Schafshirte/Schafshirte_16.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Schafshirte_16, 5485 )
     call SetSoundChannel( gg_snd_Schafshirte_16, 0 )
     call SetSoundVolume( gg_snd_Schafshirte_16, 127 )
     call SetSoundPitch( gg_snd_Schafshirte_16, 1.0 )
-    set gg_snd_Schafshirte_17 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Schafshirte_17, 3831 )
+    set gg_snd_Schafshirte_17 = CreateSound( "Sound/Dialogue/Schafshirte/Schafshirte_17.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Schafshirte_17, 2324 )
     call SetSoundChannel( gg_snd_Schafshirte_17, 0 )
     call SetSoundVolume( gg_snd_Schafshirte_17, 127 )
     call SetSoundPitch( gg_snd_Schafshirte_17, 1.0 )
-    set gg_snd_Schafshirte_18 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Schafshirte_18, 3831 )
+    set gg_snd_Schafshirte_18 = CreateSound( "Sound/Dialogue/Schafshirte/Schafshirte_18.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Schafshirte_18, 5328 )
     call SetSoundChannel( gg_snd_Schafshirte_18, 0 )
     call SetSoundVolume( gg_snd_Schafshirte_18, 127 )
     call SetSoundPitch( gg_snd_Schafshirte_18, 1.0 )
-    set gg_snd_Schafshirte_19 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Schafshirte_19, 3831 )
+    set gg_snd_Schafshirte_19 = CreateSound( "Sound/Dialogue/Schafshirte/Schafshirte_19.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Schafshirte_19, 6112 )
     call SetSoundChannel( gg_snd_Schafshirte_19, 0 )
     call SetSoundVolume( gg_snd_Schafshirte_19, 127 )
     call SetSoundPitch( gg_snd_Schafshirte_19, 1.0 )
-    set gg_snd_Schafshirte_20 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Schafshirte_20, 3831 )
+    set gg_snd_Schafshirte_20 = CreateSound( "Sound/Dialogue/Schafshirte/Schafshirte_20.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Schafshirte_20, 4911 )
     call SetSoundChannel( gg_snd_Schafshirte_20, 0 )
     call SetSoundVolume( gg_snd_Schafshirte_20, 127 )
     call SetSoundPitch( gg_snd_Schafshirte_20, 1.0 )
-    set gg_snd_Schafshirte_21 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Schafshirte_21, 3831 )
+    set gg_snd_Schafshirte_21 = CreateSound( "Sound/Dialogue/Schafshirte/Schafshirte_21.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Schafshirte_21, 4675 )
     call SetSoundChannel( gg_snd_Schafshirte_21, 0 )
     call SetSoundVolume( gg_snd_Schafshirte_21, 127 )
     call SetSoundPitch( gg_snd_Schafshirte_21, 1.0 )
-    set gg_snd_Schafshirte_22 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Schafshirte_22, 3831 )
+    set gg_snd_Schafshirte_22 = CreateSound( "Sound/Dialogue/Schafshirte/Schafshirte_22.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Schafshirte_22, 862 )
     call SetSoundChannel( gg_snd_Schafshirte_22, 0 )
     call SetSoundVolume( gg_snd_Schafshirte_22, 127 )
     call SetSoundPitch( gg_snd_Schafshirte_22, 1.0 )
-    set gg_snd_Schafshirte_23 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Schafshirte_23, 3831 )
+    set gg_snd_Schafshirte_23 = CreateSound( "Sound/Dialogue/Schafshirte/Schafshirte_23.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Schafshirte_23, 5929 )
     call SetSoundChannel( gg_snd_Schafshirte_23, 0 )
     call SetSoundVolume( gg_snd_Schafshirte_23, 127 )
     call SetSoundPitch( gg_snd_Schafshirte_23, 1.0 )
-    set gg_snd_Schafshirte_24 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Schafshirte_24, 3831 )
+    set gg_snd_Schafshirte_24 = CreateSound( "Sound/Dialogue/Schafshirte/Schafshirte_24.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Schafshirte_24, 5955 )
     call SetSoundChannel( gg_snd_Schafshirte_24, 0 )
     call SetSoundVolume( gg_snd_Schafshirte_24, 127 )
     call SetSoundPitch( gg_snd_Schafshirte_24, 1.0 )
-    set gg_snd_Schafshirte_25 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Schafshirte_25, 3831 )
+    set gg_snd_Schafshirte_25 = CreateSound( "Sound/Dialogue/Schafshirte/Schafshirte_25.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Schafshirte_25, 2925 )
     call SetSoundChannel( gg_snd_Schafshirte_25, 0 )
     call SetSoundVolume( gg_snd_Schafshirte_25, 127 )
     call SetSoundPitch( gg_snd_Schafshirte_25, 1.0 )
-    set gg_snd_Schafshirte_26 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Schafshirte_26, 3831 )
+    set gg_snd_Schafshirte_26 = CreateSound( "Sound/Dialogue/Schafshirte/Schafshirte_26.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Schafshirte_26, 7131 )
     call SetSoundChannel( gg_snd_Schafshirte_26, 0 )
     call SetSoundVolume( gg_snd_Schafshirte_26, 127 )
     call SetSoundPitch( gg_snd_Schafshirte_26, 1.0 )
-    set gg_snd_Schafshirte_27 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Schafshirte_27, 3831 )
+    set gg_snd_Schafshirte_27 = CreateSound( "Sound/Dialogue/Schafshirte/Schafshirte_27.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Schafshirte_27, 5511 )
     call SetSoundChannel( gg_snd_Schafshirte_27, 0 )
     call SetSoundVolume( gg_snd_Schafshirte_27, 127 )
     call SetSoundPitch( gg_snd_Schafshirte_27, 1.0 )
-    set gg_snd_Schafshirte_28 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Schafshirte_28, 3831 )
+    set gg_snd_Schafshirte_28 = CreateSound( "Sound/Dialogue/Schafshirte/Schafshirte_28.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Schafshirte_28, 4702 )
     call SetSoundChannel( gg_snd_Schafshirte_28, 0 )
     call SetSoundVolume( gg_snd_Schafshirte_28, 127 )
     call SetSoundPitch( gg_snd_Schafshirte_28, 1.0 )
-    set gg_snd_Schafshirte_29 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Schafshirte_29, 3831 )
+    set gg_snd_Schafshirte_29 = CreateSound( "Sound/Dialogue/Schafshirte/Schafshirte_29.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Schafshirte_29, 5590 )
     call SetSoundChannel( gg_snd_Schafshirte_29, 0 )
     call SetSoundVolume( gg_snd_Schafshirte_29, 127 )
     call SetSoundPitch( gg_snd_Schafshirte_29, 1.0 )
-    set gg_snd_Schafshirte_30 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Schafshirte_30, 3831 )
+    set gg_snd_Schafshirte_30 = CreateSound( "Sound/Dialogue/Schafshirte/Schafshirte_30.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Schafshirte_30, 3918 )
     call SetSoundChannel( gg_snd_Schafshirte_30, 0 )
     call SetSoundVolume( gg_snd_Schafshirte_30, 127 )
     call SetSoundPitch( gg_snd_Schafshirte_30, 1.0 )
-    set gg_snd_Schafshirte_31 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Schafshirte_31, 3831 )
+    set gg_snd_Schafshirte_31 = CreateSound( "Sound/Dialogue/Schafshirte/Schafshirte_31.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Schafshirte_31, 3944 )
     call SetSoundChannel( gg_snd_Schafshirte_31, 0 )
     call SetSoundVolume( gg_snd_Schafshirte_31, 127 )
     call SetSoundPitch( gg_snd_Schafshirte_31, 1.0 )
-    set gg_snd_Schafshirte_32 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Schafshirte_32, 3831 )
+    set gg_snd_Schafshirte_32 = CreateSound( "Sound/Dialogue/Schafshirte/Schafshirte_32.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Schafshirte_32, 4336 )
     call SetSoundChannel( gg_snd_Schafshirte_32, 0 )
     call SetSoundVolume( gg_snd_Schafshirte_32, 127 )
     call SetSoundPitch( gg_snd_Schafshirte_32, 1.0 )
-    set gg_snd_Sisgard1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard1, 3831 )
+    set gg_snd_Sisgard1 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard1, 4104 )
     call SetSoundChannel( gg_snd_Sisgard1, 0 )
-    call SetSoundVolume( gg_snd_Sisgard1, -1 )
+    call SetSoundVolume( gg_snd_Sisgard1, 127 )
     call SetSoundPitch( gg_snd_Sisgard1, 1.0 )
-    set gg_snd_Sisgard10 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard10, 3831 )
+    set gg_snd_Sisgard10 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard10.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard10, 16368 )
     call SetSoundChannel( gg_snd_Sisgard10, 0 )
-    call SetSoundVolume( gg_snd_Sisgard10, -1 )
+    call SetSoundVolume( gg_snd_Sisgard10, 127 )
     call SetSoundPitch( gg_snd_Sisgard10, 1.0 )
-    set gg_snd_Sisgard10_1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard10_1, 3831 )
+    set gg_snd_Sisgard10_1 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard10_1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard10_1, 12912 )
     call SetSoundChannel( gg_snd_Sisgard10_1, 0 )
-    call SetSoundVolume( gg_snd_Sisgard10_1, -1 )
+    call SetSoundVolume( gg_snd_Sisgard10_1, 127 )
     call SetSoundPitch( gg_snd_Sisgard10_1, 1.0 )
-    set gg_snd_Sisgard11 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard11, 3831 )
+    set gg_snd_Sisgard11 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard11.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard11, 7008 )
     call SetSoundChannel( gg_snd_Sisgard11, 0 )
-    call SetSoundVolume( gg_snd_Sisgard11, -1 )
+    call SetSoundVolume( gg_snd_Sisgard11, 127 )
     call SetSoundPitch( gg_snd_Sisgard11, 1.0 )
-    set gg_snd_Sisgard12 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard12, 3831 )
+    set gg_snd_Sisgard12 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard12.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard12, 14568 )
     call SetSoundChannel( gg_snd_Sisgard12, 0 )
-    call SetSoundVolume( gg_snd_Sisgard12, -1 )
+    call SetSoundVolume( gg_snd_Sisgard12, 127 )
     call SetSoundPitch( gg_snd_Sisgard12, 1.0 )
-    set gg_snd_Sisgard13 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard13, 3831 )
+    set gg_snd_Sisgard13 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard13.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard13, 11088 )
     call SetSoundChannel( gg_snd_Sisgard13, 0 )
-    call SetSoundVolume( gg_snd_Sisgard13, -1 )
+    call SetSoundVolume( gg_snd_Sisgard13, 127 )
     call SetSoundPitch( gg_snd_Sisgard13, 1.0 )
-    set gg_snd_Sisgard14 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard14, 3831 )
+    set gg_snd_Sisgard14 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard14.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard14, 9120 )
     call SetSoundChannel( gg_snd_Sisgard14, 0 )
-    call SetSoundVolume( gg_snd_Sisgard14, -1 )
+    call SetSoundVolume( gg_snd_Sisgard14, 127 )
     call SetSoundPitch( gg_snd_Sisgard14, 1.0 )
-    set gg_snd_Sisgard15 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard15, 3831 )
+    set gg_snd_Sisgard15 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard15.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard15, 6720 )
     call SetSoundChannel( gg_snd_Sisgard15, 0 )
-    call SetSoundVolume( gg_snd_Sisgard15, -1 )
+    call SetSoundVolume( gg_snd_Sisgard15, 127 )
     call SetSoundPitch( gg_snd_Sisgard15, 1.0 )
-    set gg_snd_Sisgard16 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard16, 3831 )
+    set gg_snd_Sisgard16 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard16.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard16, 3432 )
     call SetSoundChannel( gg_snd_Sisgard16, 0 )
-    call SetSoundVolume( gg_snd_Sisgard16, -1 )
+    call SetSoundVolume( gg_snd_Sisgard16, 127 )
     call SetSoundPitch( gg_snd_Sisgard16, 1.0 )
-    set gg_snd_Sisgard17 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard17, 3831 )
+    set gg_snd_Sisgard17 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard17.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard17, 3888 )
     call SetSoundChannel( gg_snd_Sisgard17, 0 )
-    call SetSoundVolume( gg_snd_Sisgard17, -1 )
+    call SetSoundVolume( gg_snd_Sisgard17, 127 )
     call SetSoundPitch( gg_snd_Sisgard17, 1.0 )
-    set gg_snd_Sisgard18 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard18, 3831 )
+    set gg_snd_Sisgard18 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard18.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard18, 6600 )
     call SetSoundChannel( gg_snd_Sisgard18, 0 )
-    call SetSoundVolume( gg_snd_Sisgard18, -1 )
+    call SetSoundVolume( gg_snd_Sisgard18, 127 )
     call SetSoundPitch( gg_snd_Sisgard18, 1.0 )
-    set gg_snd_Sisgard19 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard19, 3831 )
+    set gg_snd_Sisgard19 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard19.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard19, 8952 )
     call SetSoundChannel( gg_snd_Sisgard19, 0 )
-    call SetSoundVolume( gg_snd_Sisgard19, -1 )
+    call SetSoundVolume( gg_snd_Sisgard19, 127 )
     call SetSoundPitch( gg_snd_Sisgard19, 1.0 )
-    set gg_snd_Sisgard2 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard2, 3831 )
+    set gg_snd_Sisgard2 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard2, 5784 )
     call SetSoundChannel( gg_snd_Sisgard2, 0 )
-    call SetSoundVolume( gg_snd_Sisgard2, -1 )
+    call SetSoundVolume( gg_snd_Sisgard2, 127 )
     call SetSoundPitch( gg_snd_Sisgard2, 1.0 )
-    set gg_snd_Sisgard20 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard20, 3831 )
+    set gg_snd_Sisgard20 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard20.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard20, 7632 )
     call SetSoundChannel( gg_snd_Sisgard20, 0 )
-    call SetSoundVolume( gg_snd_Sisgard20, -1 )
+    call SetSoundVolume( gg_snd_Sisgard20, 127 )
     call SetSoundPitch( gg_snd_Sisgard20, 1.0 )
-    set gg_snd_Sisgard21 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard21, 3831 )
+    set gg_snd_Sisgard21 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard21.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard21, 2136 )
     call SetSoundChannel( gg_snd_Sisgard21, 0 )
-    call SetSoundVolume( gg_snd_Sisgard21, -1 )
+    call SetSoundVolume( gg_snd_Sisgard21, 127 )
     call SetSoundPitch( gg_snd_Sisgard21, 1.0 )
-    set gg_snd_Sisgard22 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard22, 3831 )
+    set gg_snd_Sisgard22 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard22.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard22, 17040 )
     call SetSoundChannel( gg_snd_Sisgard22, 0 )
-    call SetSoundVolume( gg_snd_Sisgard22, -1 )
+    call SetSoundVolume( gg_snd_Sisgard22, 127 )
     call SetSoundPitch( gg_snd_Sisgard22, 1.0 )
-    set gg_snd_Sisgard23 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard23, 3831 )
+    set gg_snd_Sisgard23 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard23.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard23, 17784 )
     call SetSoundChannel( gg_snd_Sisgard23, 0 )
-    call SetSoundVolume( gg_snd_Sisgard23, -1 )
+    call SetSoundVolume( gg_snd_Sisgard23, 127 )
     call SetSoundPitch( gg_snd_Sisgard23, 1.0 )
-    set gg_snd_Sisgard24 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard24, 3831 )
+    set gg_snd_Sisgard24 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard24.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard24, 2328 )
     call SetSoundChannel( gg_snd_Sisgard24, 0 )
-    call SetSoundVolume( gg_snd_Sisgard24, -1 )
+    call SetSoundVolume( gg_snd_Sisgard24, 127 )
     call SetSoundPitch( gg_snd_Sisgard24, 1.0 )
-    set gg_snd_Sisgard25 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard25, 3831 )
+    set gg_snd_Sisgard25 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard25.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard25, 3288 )
     call SetSoundChannel( gg_snd_Sisgard25, 0 )
-    call SetSoundVolume( gg_snd_Sisgard25, -1 )
+    call SetSoundVolume( gg_snd_Sisgard25, 127 )
     call SetSoundPitch( gg_snd_Sisgard25, 1.0 )
-    set gg_snd_Sisgard26 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard26, 3831 )
+    set gg_snd_Sisgard26 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard26.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard26, 9624 )
     call SetSoundChannel( gg_snd_Sisgard26, 0 )
-    call SetSoundVolume( gg_snd_Sisgard26, -1 )
+    call SetSoundVolume( gg_snd_Sisgard26, 127 )
     call SetSoundPitch( gg_snd_Sisgard26, 1.0 )
-    set gg_snd_Sisgard27 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard27, 3831 )
+    set gg_snd_Sisgard27 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard27.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard27, 5496 )
     call SetSoundChannel( gg_snd_Sisgard27, 0 )
-    call SetSoundVolume( gg_snd_Sisgard27, -1 )
+    call SetSoundVolume( gg_snd_Sisgard27, 127 )
     call SetSoundPitch( gg_snd_Sisgard27, 1.0 )
-    set gg_snd_Sisgard28 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard28, 3831 )
+    set gg_snd_Sisgard28 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard28.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard28, 3000 )
     call SetSoundChannel( gg_snd_Sisgard28, 0 )
-    call SetSoundVolume( gg_snd_Sisgard28, -1 )
+    call SetSoundVolume( gg_snd_Sisgard28, 127 )
     call SetSoundPitch( gg_snd_Sisgard28, 1.0 )
-    set gg_snd_Sisgard29 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard29, 3831 )
+    set gg_snd_Sisgard29 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard29.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard29, 6336 )
     call SetSoundChannel( gg_snd_Sisgard29, 0 )
-    call SetSoundVolume( gg_snd_Sisgard29, -1 )
+    call SetSoundVolume( gg_snd_Sisgard29, 127 )
     call SetSoundPitch( gg_snd_Sisgard29, 1.0 )
-    set gg_snd_Sisgard3 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard3, 3831 )
+    set gg_snd_Sisgard3 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard3.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard3, 3528 )
     call SetSoundChannel( gg_snd_Sisgard3, 0 )
-    call SetSoundVolume( gg_snd_Sisgard3, -1 )
+    call SetSoundVolume( gg_snd_Sisgard3, 127 )
     call SetSoundPitch( gg_snd_Sisgard3, 1.0 )
-    set gg_snd_Sisgard30 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard30, 3831 )
+    set gg_snd_Sisgard30 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard30.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard30, 2304 )
     call SetSoundChannel( gg_snd_Sisgard30, 0 )
-    call SetSoundVolume( gg_snd_Sisgard30, -1 )
+    call SetSoundVolume( gg_snd_Sisgard30, 127 )
     call SetSoundPitch( gg_snd_Sisgard30, 1.0 )
-    set gg_snd_Sisgard31 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard31, 3831 )
+    set gg_snd_Sisgard31 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard31.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard31, 9432 )
     call SetSoundChannel( gg_snd_Sisgard31, 0 )
-    call SetSoundVolume( gg_snd_Sisgard31, -1 )
+    call SetSoundVolume( gg_snd_Sisgard31, 127 )
     call SetSoundPitch( gg_snd_Sisgard31, 1.0 )
-    set gg_snd_Sisgard32 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard32, 3831 )
+    set gg_snd_Sisgard32 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard32.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard32, 14568 )
     call SetSoundChannel( gg_snd_Sisgard32, 0 )
-    call SetSoundVolume( gg_snd_Sisgard32, -1 )
+    call SetSoundVolume( gg_snd_Sisgard32, 127 )
     call SetSoundPitch( gg_snd_Sisgard32, 1.0 )
-    set gg_snd_Sisgard33 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard33, 3831 )
+    set gg_snd_Sisgard33 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard33.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard33, 12888 )
     call SetSoundChannel( gg_snd_Sisgard33, 0 )
-    call SetSoundVolume( gg_snd_Sisgard33, -1 )
+    call SetSoundVolume( gg_snd_Sisgard33, 127 )
     call SetSoundPitch( gg_snd_Sisgard33, 1.0 )
-    set gg_snd_Sisgard34 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard34, 3831 )
+    set gg_snd_Sisgard34 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard34.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard34, 3240 )
     call SetSoundChannel( gg_snd_Sisgard34, 0 )
-    call SetSoundVolume( gg_snd_Sisgard34, -1 )
+    call SetSoundVolume( gg_snd_Sisgard34, 127 )
     call SetSoundPitch( gg_snd_Sisgard34, 1.0 )
-    set gg_snd_Sisgard35 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard35, 3831 )
+    set gg_snd_Sisgard35 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard35.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard35, 10824 )
     call SetSoundChannel( gg_snd_Sisgard35, 0 )
-    call SetSoundVolume( gg_snd_Sisgard35, -1 )
+    call SetSoundVolume( gg_snd_Sisgard35, 127 )
     call SetSoundPitch( gg_snd_Sisgard35, 1.0 )
-    set gg_snd_Sisgard36 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard36, 3831 )
+    set gg_snd_Sisgard36 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard36.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard36, 10656 )
     call SetSoundChannel( gg_snd_Sisgard36, 0 )
-    call SetSoundVolume( gg_snd_Sisgard36, -1 )
+    call SetSoundVolume( gg_snd_Sisgard36, 127 )
     call SetSoundPitch( gg_snd_Sisgard36, 1.0 )
-    set gg_snd_Sisgard37 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard37, 3831 )
+    set gg_snd_Sisgard37 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard37.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard37, 6312 )
     call SetSoundChannel( gg_snd_Sisgard37, 0 )
-    call SetSoundVolume( gg_snd_Sisgard37, -1 )
+    call SetSoundVolume( gg_snd_Sisgard37, 127 )
     call SetSoundPitch( gg_snd_Sisgard37, 1.0 )
-    set gg_snd_Sisgard38 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard38, 3831 )
+    set gg_snd_Sisgard38 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard38.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard38, 2952 )
     call SetSoundChannel( gg_snd_Sisgard38, 0 )
-    call SetSoundVolume( gg_snd_Sisgard38, -1 )
+    call SetSoundVolume( gg_snd_Sisgard38, 127 )
     call SetSoundPitch( gg_snd_Sisgard38, 1.0 )
-    set gg_snd_Sisgard39 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard39, 3831 )
+    set gg_snd_Sisgard39 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard39.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard39, 3264 )
     call SetSoundChannel( gg_snd_Sisgard39, 0 )
-    call SetSoundVolume( gg_snd_Sisgard39, -1 )
+    call SetSoundVolume( gg_snd_Sisgard39, 127 )
     call SetSoundPitch( gg_snd_Sisgard39, 1.0 )
-    set gg_snd_Sisgard4 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard4, 3831 )
+    set gg_snd_Sisgard4 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard4.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard4, 8736 )
     call SetSoundChannel( gg_snd_Sisgard4, 0 )
-    call SetSoundVolume( gg_snd_Sisgard4, -1 )
+    call SetSoundVolume( gg_snd_Sisgard4, 127 )
     call SetSoundPitch( gg_snd_Sisgard4, 1.0 )
-    set gg_snd_Sisgard40 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard40, 3831 )
+    set gg_snd_Sisgard40 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard40.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard40, 11280 )
     call SetSoundChannel( gg_snd_Sisgard40, 0 )
-    call SetSoundVolume( gg_snd_Sisgard40, -1 )
+    call SetSoundVolume( gg_snd_Sisgard40, 127 )
     call SetSoundPitch( gg_snd_Sisgard40, 1.0 )
-    set gg_snd_Sisgard41 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard41, 3831 )
+    set gg_snd_Sisgard41 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard41.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard41, 6864 )
     call SetSoundChannel( gg_snd_Sisgard41, 0 )
-    call SetSoundVolume( gg_snd_Sisgard41, -1 )
+    call SetSoundVolume( gg_snd_Sisgard41, 127 )
     call SetSoundPitch( gg_snd_Sisgard41, 1.0 )
-    set gg_snd_Sisgard42 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard42, 3831 )
+    set gg_snd_Sisgard42 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard42.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard42, 12216 )
     call SetSoundChannel( gg_snd_Sisgard42, 0 )
-    call SetSoundVolume( gg_snd_Sisgard42, -1 )
+    call SetSoundVolume( gg_snd_Sisgard42, 127 )
     call SetSoundPitch( gg_snd_Sisgard42, 1.0 )
-    set gg_snd_Sisgard43 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard43, 3831 )
+    set gg_snd_Sisgard43 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard43.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard43, 7296 )
     call SetSoundChannel( gg_snd_Sisgard43, 0 )
-    call SetSoundVolume( gg_snd_Sisgard43, -1 )
+    call SetSoundVolume( gg_snd_Sisgard43, 127 )
     call SetSoundPitch( gg_snd_Sisgard43, 1.0 )
-    set gg_snd_Sisgard44 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard44, 3831 )
+    set gg_snd_Sisgard44 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard44.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard44, 2112 )
     call SetSoundChannel( gg_snd_Sisgard44, 0 )
-    call SetSoundVolume( gg_snd_Sisgard44, -1 )
+    call SetSoundVolume( gg_snd_Sisgard44, 127 )
     call SetSoundPitch( gg_snd_Sisgard44, 1.0 )
-    set gg_snd_Sisgard45 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard45, 3831 )
+    set gg_snd_Sisgard45 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard45.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard45, 7776 )
     call SetSoundChannel( gg_snd_Sisgard45, 0 )
-    call SetSoundVolume( gg_snd_Sisgard45, -1 )
+    call SetSoundVolume( gg_snd_Sisgard45, 127 )
     call SetSoundPitch( gg_snd_Sisgard45, 1.0 )
-    set gg_snd_Sisgard46 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard46, 3831 )
+    set gg_snd_Sisgard46 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard46.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard46, 18288 )
     call SetSoundChannel( gg_snd_Sisgard46, 0 )
-    call SetSoundVolume( gg_snd_Sisgard46, -1 )
+    call SetSoundVolume( gg_snd_Sisgard46, 127 )
     call SetSoundPitch( gg_snd_Sisgard46, 1.0 )
-    set gg_snd_Sisgard47 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard47, 3831 )
+    set gg_snd_Sisgard47 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard47.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard47, 13488 )
     call SetSoundChannel( gg_snd_Sisgard47, 0 )
-    call SetSoundVolume( gg_snd_Sisgard47, -1 )
+    call SetSoundVolume( gg_snd_Sisgard47, 127 )
     call SetSoundPitch( gg_snd_Sisgard47, 1.0 )
-    set gg_snd_Sisgard48 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard48, 3831 )
+    set gg_snd_Sisgard48 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard48.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard48, 13536 )
     call SetSoundChannel( gg_snd_Sisgard48, 0 )
-    call SetSoundVolume( gg_snd_Sisgard48, -1 )
+    call SetSoundVolume( gg_snd_Sisgard48, 127 )
     call SetSoundPitch( gg_snd_Sisgard48, 1.0 )
-    set gg_snd_Sisgard49 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard49, 3831 )
+    set gg_snd_Sisgard49 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard49.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard49, 11160 )
     call SetSoundChannel( gg_snd_Sisgard49, 0 )
-    call SetSoundVolume( gg_snd_Sisgard49, -1 )
+    call SetSoundVolume( gg_snd_Sisgard49, 127 )
     call SetSoundPitch( gg_snd_Sisgard49, 1.0 )
-    set gg_snd_Sisgard5 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard5, 3831 )
+    set gg_snd_Sisgard5 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard5.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard5, 8208 )
     call SetSoundChannel( gg_snd_Sisgard5, 0 )
-    call SetSoundVolume( gg_snd_Sisgard5, -1 )
+    call SetSoundVolume( gg_snd_Sisgard5, 127 )
     call SetSoundPitch( gg_snd_Sisgard5, 1.0 )
-    set gg_snd_Sisgard50 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard50, 3831 )
+    set gg_snd_Sisgard50 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard50.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard50, 9456 )
     call SetSoundChannel( gg_snd_Sisgard50, 0 )
-    call SetSoundVolume( gg_snd_Sisgard50, -1 )
+    call SetSoundVolume( gg_snd_Sisgard50, 127 )
     call SetSoundPitch( gg_snd_Sisgard50, 1.0 )
-    set gg_snd_Sisgard51 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard51, 3831 )
+    set gg_snd_Sisgard51 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard51.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard51, 7728 )
     call SetSoundChannel( gg_snd_Sisgard51, 0 )
-    call SetSoundVolume( gg_snd_Sisgard51, -1 )
+    call SetSoundVolume( gg_snd_Sisgard51, 127 )
     call SetSoundPitch( gg_snd_Sisgard51, 1.0 )
-    set gg_snd_Sisgard52 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard52, 3831 )
+    set gg_snd_Sisgard52 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard52.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard52, 6192 )
     call SetSoundChannel( gg_snd_Sisgard52, 0 )
-    call SetSoundVolume( gg_snd_Sisgard52, -1 )
+    call SetSoundVolume( gg_snd_Sisgard52, 127 )
     call SetSoundPitch( gg_snd_Sisgard52, 1.0 )
-    set gg_snd_Sisgard53 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard53, 3831 )
+    set gg_snd_Sisgard53 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard53.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard53, 12336 )
     call SetSoundChannel( gg_snd_Sisgard53, 0 )
-    call SetSoundVolume( gg_snd_Sisgard53, -1 )
+    call SetSoundVolume( gg_snd_Sisgard53, 127 )
     call SetSoundPitch( gg_snd_Sisgard53, 1.0 )
-    set gg_snd_Sisgard54 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard54, 3831 )
+    set gg_snd_Sisgard54 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard54.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard54, 4152 )
     call SetSoundChannel( gg_snd_Sisgard54, 0 )
-    call SetSoundVolume( gg_snd_Sisgard54, -1 )
+    call SetSoundVolume( gg_snd_Sisgard54, 127 )
     call SetSoundPitch( gg_snd_Sisgard54, 1.0 )
-    set gg_snd_Sisgard55 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard55, 3831 )
+    set gg_snd_Sisgard55 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard55.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard55, 5736 )
     call SetSoundChannel( gg_snd_Sisgard55, 0 )
-    call SetSoundVolume( gg_snd_Sisgard55, -1 )
+    call SetSoundVolume( gg_snd_Sisgard55, 127 )
     call SetSoundPitch( gg_snd_Sisgard55, 1.0 )
-    set gg_snd_Sisgard56 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard56, 3831 )
+    set gg_snd_Sisgard56 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard56.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard56, 8352 )
     call SetSoundChannel( gg_snd_Sisgard56, 0 )
-    call SetSoundVolume( gg_snd_Sisgard56, -1 )
+    call SetSoundVolume( gg_snd_Sisgard56, 127 )
     call SetSoundPitch( gg_snd_Sisgard56, 1.0 )
-    set gg_snd_Sisgard57 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard57, 3831 )
+    set gg_snd_Sisgard57 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard57.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard57, 4032 )
     call SetSoundChannel( gg_snd_Sisgard57, 0 )
-    call SetSoundVolume( gg_snd_Sisgard57, -1 )
+    call SetSoundVolume( gg_snd_Sisgard57, 127 )
     call SetSoundPitch( gg_snd_Sisgard57, 1.0 )
-    set gg_snd_Sisgard58 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard58, 3831 )
+    set gg_snd_Sisgard58 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard58.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard58, 6240 )
     call SetSoundChannel( gg_snd_Sisgard58, 0 )
-    call SetSoundVolume( gg_snd_Sisgard58, -1 )
+    call SetSoundVolume( gg_snd_Sisgard58, 127 )
     call SetSoundPitch( gg_snd_Sisgard58, 1.0 )
-    set gg_snd_Sisgard59 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard59, 3831 )
+    set gg_snd_Sisgard59 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard59.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard59, 2424 )
     call SetSoundChannel( gg_snd_Sisgard59, 0 )
-    call SetSoundVolume( gg_snd_Sisgard59, -1 )
+    call SetSoundVolume( gg_snd_Sisgard59, 127 )
     call SetSoundPitch( gg_snd_Sisgard59, 1.0 )
-    set gg_snd_Sisgard6 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard6, 3831 )
+    set gg_snd_Sisgard6 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard6.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard6, 8328 )
     call SetSoundChannel( gg_snd_Sisgard6, 0 )
-    call SetSoundVolume( gg_snd_Sisgard6, -1 )
+    call SetSoundVolume( gg_snd_Sisgard6, 127 )
     call SetSoundPitch( gg_snd_Sisgard6, 1.0 )
-    set gg_snd_Sisgard60 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard60, 3831 )
+    set gg_snd_Sisgard60 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard60.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard60, 1080 )
     call SetSoundChannel( gg_snd_Sisgard60, 0 )
-    call SetSoundVolume( gg_snd_Sisgard60, -1 )
+    call SetSoundVolume( gg_snd_Sisgard60, 127 )
     call SetSoundPitch( gg_snd_Sisgard60, 1.0 )
-    set gg_snd_Sisgard61 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard61, 3831 )
+    set gg_snd_Sisgard61 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard61.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard61, 6648 )
     call SetSoundChannel( gg_snd_Sisgard61, 0 )
-    call SetSoundVolume( gg_snd_Sisgard61, -1 )
+    call SetSoundVolume( gg_snd_Sisgard61, 127 )
     call SetSoundPitch( gg_snd_Sisgard61, 1.0 )
-    set gg_snd_Sisgard62 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard62, 3831 )
+    set gg_snd_Sisgard62 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard62.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard62, 5616 )
     call SetSoundChannel( gg_snd_Sisgard62, 0 )
-    call SetSoundVolume( gg_snd_Sisgard62, -1 )
+    call SetSoundVolume( gg_snd_Sisgard62, 127 )
     call SetSoundPitch( gg_snd_Sisgard62, 1.0 )
-    set gg_snd_Sisgard63 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard63, 3831 )
+    set gg_snd_Sisgard63 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard63.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard63, 7128 )
     call SetSoundChannel( gg_snd_Sisgard63, 0 )
-    call SetSoundVolume( gg_snd_Sisgard63, -1 )
+    call SetSoundVolume( gg_snd_Sisgard63, 127 )
     call SetSoundPitch( gg_snd_Sisgard63, 1.0 )
-    set gg_snd_Sisgard64 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard64, 3831 )
+    set gg_snd_Sisgard64 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard64.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard64, 3888 )
     call SetSoundChannel( gg_snd_Sisgard64, 0 )
-    call SetSoundVolume( gg_snd_Sisgard64, -1 )
+    call SetSoundVolume( gg_snd_Sisgard64, 127 )
     call SetSoundPitch( gg_snd_Sisgard64, 1.0 )
-    set gg_snd_Sisgard7 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard7, 3831 )
+    set gg_snd_Sisgard7 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard7.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard7, 3696 )
     call SetSoundChannel( gg_snd_Sisgard7, 0 )
-    call SetSoundVolume( gg_snd_Sisgard7, -1 )
+    call SetSoundVolume( gg_snd_Sisgard7, 127 )
     call SetSoundPitch( gg_snd_Sisgard7, 1.0 )
-    set gg_snd_Sisgard8 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard8, 3831 )
+    set gg_snd_Sisgard8 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard8.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard8, 9024 )
     call SetSoundChannel( gg_snd_Sisgard8, 0 )
-    call SetSoundVolume( gg_snd_Sisgard8, -1 )
+    call SetSoundVolume( gg_snd_Sisgard8, 127 )
     call SetSoundPitch( gg_snd_Sisgard8, 1.0 )
-    set gg_snd_Sisgard9 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Sisgard9, 3831 )
+    set gg_snd_Sisgard9 = CreateSound( "Sound/Dialogue/Sisgard/Sisgard9.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Sisgard9, 15360 )
     call SetSoundChannel( gg_snd_Sisgard9, 0 )
-    call SetSoundVolume( gg_snd_Sisgard9, -1 )
+    call SetSoundVolume( gg_snd_Sisgard9, 127 )
     call SetSoundPitch( gg_snd_Sisgard9, 1.0 )
-    set gg_snd_SisgardRevival = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_SisgardRevival, 3831 )
+    set gg_snd_SisgardPissed1 = CreateSound( "Sound/Dialogue/Sisgard/SisgardPissed1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_SisgardPissed1, 1152 )
+    call SetSoundChannel( gg_snd_SisgardPissed1, 0 )
+    call SetSoundVolume( gg_snd_SisgardPissed1, 127 )
+    call SetSoundPitch( gg_snd_SisgardPissed1, 1.0 )
+    set gg_snd_SisgardRevival = CreateSound( "Sound/Dialogue/Sisgard/SisgardRevival.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_SisgardRevival, 2064 )
     call SetSoundChannel( gg_snd_SisgardRevival, 0 )
-    call SetSoundVolume( gg_snd_SisgardRevival, -1 )
+    call SetSoundVolume( gg_snd_SisgardRevival, 127 )
     call SetSoundPitch( gg_snd_SisgardRevival, 1.0 )
-    set gg_snd_Tanka10 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tanka10, 3831 )
-    call SetSoundChannel( gg_snd_Tanka10, 0 )
-    call SetSoundVolume( gg_snd_Tanka10, 127 )
-    call SetSoundPitch( gg_snd_Tanka10, 1.0 )
+    set gg_snd_SisgardWarcry1 = CreateSound( "Sound/Dialogue/Sisgard/SisgardWarcry1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_SisgardWarcry1, 1800 )
+    call SetSoundChannel( gg_snd_SisgardWarcry1, 0 )
+    call SetSoundVolume( gg_snd_SisgardWarcry1, 127 )
+    call SetSoundPitch( gg_snd_SisgardWarcry1, 1.0 )
+    set gg_snd_SisgardWhat1 = CreateSound( "Sound/Dialogue/Sisgard/SisgardWhat1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_SisgardWhat1, 2352 )
+    call SetSoundChannel( gg_snd_SisgardWhat1, 0 )
+    call SetSoundVolume( gg_snd_SisgardWhat1, 127 )
+    call SetSoundPitch( gg_snd_SisgardWhat1, 1.0 )
+    set gg_snd_SisgardWhat2 = CreateSound( "Sound/Dialogue/Sisgard/SisgardWhat2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_SisgardWhat2, 2160 )
+    call SetSoundChannel( gg_snd_SisgardWhat2, 0 )
+    call SetSoundVolume( gg_snd_SisgardWhat2, 127 )
+    call SetSoundPitch( gg_snd_SisgardWhat2, 1.0 )
+    set gg_snd_SisgardWhat3 = CreateSound( "Sound/Dialogue/Sisgard/SisgardWhat3.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_SisgardWhat3, 2304 )
+    call SetSoundChannel( gg_snd_SisgardWhat3, 0 )
+    call SetSoundVolume( gg_snd_SisgardWhat3, 127 )
+    call SetSoundPitch( gg_snd_SisgardWhat3, 1.0 )
+    set gg_snd_SisgardYes1 = CreateSound( "Sound/Dialogue/Sisgard/SisgardYes1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_SisgardYes1, 2016 )
+    call SetSoundChannel( gg_snd_SisgardYes1, 0 )
+    call SetSoundVolume( gg_snd_SisgardYes1, 127 )
+    call SetSoundPitch( gg_snd_SisgardYes1, 1.0 )
+    set gg_snd_SisgardYes2 = CreateSound( "Sound/Dialogue/Sisgard/SisgardYes2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_SisgardYes2, 2064 )
+    call SetSoundChannel( gg_snd_SisgardYes2, 0 )
+    call SetSoundVolume( gg_snd_SisgardYes2, 127 )
+    call SetSoundPitch( gg_snd_SisgardYes2, 1.0 )
+    set gg_snd_SisgardYes3 = CreateSound( "Sound/Dialogue/Sisgard/SisgardYes3.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_SisgardYes3, 1416 )
+    call SetSoundChannel( gg_snd_SisgardYes3, 0 )
+    call SetSoundVolume( gg_snd_SisgardYes3, 127 )
+    call SetSoundPitch( gg_snd_SisgardYes3, 1.0 )
+    set gg_snd_SisgardYesAttack1 = CreateSound( "Sound/Dialogue/Sisgard/SisgardYesAttack1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_SisgardYesAttack1, 3048 )
+    call SetSoundChannel( gg_snd_SisgardYesAttack1, 0 )
+    call SetSoundVolume( gg_snd_SisgardYesAttack1, 127 )
+    call SetSoundPitch( gg_snd_SisgardYesAttack1, 1.0 )
+    set gg_snd_SisgardYesAttack2 = CreateSound( "Sound/Dialogue/Sisgard/SisgardYesAttack2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_SisgardYesAttack2, 2592 )
+    call SetSoundChannel( gg_snd_SisgardYesAttack2, 0 )
+    call SetSoundVolume( gg_snd_SisgardYesAttack2, 127 )
+    call SetSoundPitch( gg_snd_SisgardYesAttack2, 1.0 )
+    set gg_snd_SisgardYesAttack3 = CreateSound( "Sound/Dialogue/Sisgard/SisgardYesAttack3.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_SisgardYesAttack3, 2040 )
+    call SetSoundChannel( gg_snd_SisgardYesAttack3, 0 )
+    call SetSoundVolume( gg_snd_SisgardYesAttack3, 127 )
+    call SetSoundPitch( gg_snd_SisgardYesAttack3, 1.0 )
     set gg_snd_Tanka1 = CreateSound( "Sound/Dialogue/Tanka/Tanka1.mp3", false, false, false, 1, 1, "DefaultEAXON" )
     call SetSoundDuration( gg_snd_Tanka1, 12146 )
     call SetSoundChannel( gg_snd_Tanka1, 19 )
     call SetSoundVolume( gg_snd_Tanka1, 127 )
     call SetSoundPitch( gg_snd_Tanka1, 1.0 )
-    set gg_snd_Tanka11 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tanka11, 12146 )
+    set gg_snd_Tanka10 = CreateSound( "Sound/Dialogue/Tanka/Tanka10.mp3", false, false, false, 1, 1, "DoodadsEAX" )
+    call SetSoundDuration( gg_snd_Tanka10, 18102 )
+    call SetSoundChannel( gg_snd_Tanka10, 0 )
+    call SetSoundVolume( gg_snd_Tanka10, 127 )
+    call SetSoundPitch( gg_snd_Tanka10, 1.0 )
+    set gg_snd_Tanka11 = CreateSound( "Sound/Dialogue/Tanka/Tanka11.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tanka11, 10553 )
     call SetSoundChannel( gg_snd_Tanka11, 0 )
     call SetSoundVolume( gg_snd_Tanka11, 127 )
     call SetSoundPitch( gg_snd_Tanka11, 1.0 )
-    set gg_snd_Tanka12 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tanka12, 12146 )
+    set gg_snd_Tanka12 = CreateSound( "Sound/Dialogue/Tanka/Tanka12.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tanka12, 14889 )
     call SetSoundChannel( gg_snd_Tanka12, 0 )
     call SetSoundVolume( gg_snd_Tanka12, 127 )
     call SetSoundPitch( gg_snd_Tanka12, 1.0 )
-    set gg_snd_Tanka13 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tanka13, 12146 )
+    set gg_snd_Tanka13 = CreateSound( "Sound/Dialogue/Tanka/Tanka13.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tanka13, 9195 )
     call SetSoundChannel( gg_snd_Tanka13, 0 )
     call SetSoundVolume( gg_snd_Tanka13, 127 )
     call SetSoundPitch( gg_snd_Tanka13, 1.0 )
-    set gg_snd_Tanka14 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tanka14, 12146 )
+    set gg_snd_Tanka14 = CreateSound( "Sound/Dialogue/Tanka/Tanka14.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tanka14, 1488 )
     call SetSoundChannel( gg_snd_Tanka14, 0 )
     call SetSoundVolume( gg_snd_Tanka14, 127 )
     call SetSoundPitch( gg_snd_Tanka14, 1.0 )
-    set gg_snd_Tanka15 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tanka15, 12146 )
+    set gg_snd_Tanka15 = CreateSound( "Sound/Dialogue/Tanka/Tanka15.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tanka15, 7418 )
     call SetSoundChannel( gg_snd_Tanka15, 0 )
     call SetSoundVolume( gg_snd_Tanka15, 127 )
     call SetSoundPitch( gg_snd_Tanka15, 1.0 )
-    set gg_snd_Tanka16 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tanka16, 12146 )
+    set gg_snd_Tanka16 = CreateSound( "Sound/Dialogue/Tanka/Tanka16.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tanka16, 16378 )
     call SetSoundChannel( gg_snd_Tanka16, 0 )
     call SetSoundVolume( gg_snd_Tanka16, 127 )
     call SetSoundPitch( gg_snd_Tanka16, 1.0 )
-    set gg_snd_Tanka17 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tanka17, 12146 )
+    set gg_snd_Tanka17 = CreateSound( "Sound/Dialogue/Tanka/Tanka17.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tanka17, 1201 )
     call SetSoundChannel( gg_snd_Tanka17, 0 )
     call SetSoundVolume( gg_snd_Tanka17, 127 )
     call SetSoundPitch( gg_snd_Tanka17, 1.0 )
-    set gg_snd_Tanka18 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tanka18, 12146 )
+    set gg_snd_Tanka18 = CreateSound( "Sound/Dialogue/Tanka/Tanka18.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tanka18, 3134 )
     call SetSoundChannel( gg_snd_Tanka18, 0 )
     call SetSoundVolume( gg_snd_Tanka18, 127 )
     call SetSoundPitch( gg_snd_Tanka18, 1.0 )
-    set gg_snd_Tanka19 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tanka19, 12146 )
+    set gg_snd_Tanka19 = CreateSound( "Sound/Dialogue/Tanka/Tanka19.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tanka19, 5746 )
     call SetSoundChannel( gg_snd_Tanka19, 0 )
     call SetSoundVolume( gg_snd_Tanka19, 127 )
     call SetSoundPitch( gg_snd_Tanka19, 1.0 )
-    set gg_snd_Tanka2 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "HeroAcksEAX" )
-    call SetSoundDuration( gg_snd_Tanka2, 12146 )
+    set gg_snd_Tanka2 = CreateSound( "Sound/Dialogue/Tanka/Tanka2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tanka2, 11389 )
     call SetSoundChannel( gg_snd_Tanka2, 0 )
     call SetSoundVolume( gg_snd_Tanka2, 127 )
     call SetSoundPitch( gg_snd_Tanka2, 1.0 )
-    set gg_snd_Tanka21 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tanka21, 12146 )
+    set gg_snd_Tanka21 = CreateSound( "Sound/Dialogue/Tanka/Tanka21.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tanka21, 2507 )
     call SetSoundChannel( gg_snd_Tanka21, 0 )
     call SetSoundVolume( gg_snd_Tanka21, 127 )
     call SetSoundPitch( gg_snd_Tanka21, 1.0 )
-    set gg_snd_Tanka22 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tanka22, 12146 )
+    set gg_snd_Tanka22 = CreateSound( "Sound/Dialogue/Tanka/Tanka22.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tanka22, 3343 )
     call SetSoundChannel( gg_snd_Tanka22, 0 )
     call SetSoundVolume( gg_snd_Tanka22, 127 )
     call SetSoundPitch( gg_snd_Tanka22, 1.0 )
-    set gg_snd_Tanka23 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tanka23, 12146 )
+    set gg_snd_Tanka23 = CreateSound( "Sound/Dialogue/Tanka/Tanka23.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tanka23, 12773 )
     call SetSoundChannel( gg_snd_Tanka23, 0 )
     call SetSoundVolume( gg_snd_Tanka23, 127 )
     call SetSoundPitch( gg_snd_Tanka23, 1.0 )
-    set gg_snd_Tanka24 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tanka24, 12146 )
+    set gg_snd_Tanka24 = CreateSound( "Sound/Dialogue/Tanka/Tanka24.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tanka24, 14759 )
     call SetSoundChannel( gg_snd_Tanka24, 0 )
     call SetSoundVolume( gg_snd_Tanka24, 127 )
     call SetSoundPitch( gg_snd_Tanka24, 1.0 )
-    set gg_snd_Tanka25 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tanka25, 12146 )
+    set gg_snd_Tanka25 = CreateSound( "Sound/Dialogue/Tanka/Tanka25.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tanka25, 2142 )
     call SetSoundChannel( gg_snd_Tanka25, 0 )
     call SetSoundVolume( gg_snd_Tanka25, 127 )
     call SetSoundPitch( gg_snd_Tanka25, 1.0 )
-    set gg_snd_Tanka29 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tanka29, 12146 )
+    set gg_snd_Tanka29 = CreateSound( "Sound/Dialogue/Tanka/Tanka29.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tanka29, 1358 )
     call SetSoundChannel( gg_snd_Tanka29, 0 )
     call SetSoundVolume( gg_snd_Tanka29, 127 )
     call SetSoundPitch( gg_snd_Tanka29, 1.0 )
-    set gg_snd_Tanka3 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "HeroAcksEAX" )
-    call SetSoundDuration( gg_snd_Tanka3, 12146 )
+    set gg_snd_Tanka3 = CreateSound( "Sound/Dialogue/Tanka/Tanka3.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tanka3, 8829 )
     call SetSoundChannel( gg_snd_Tanka3, 0 )
     call SetSoundVolume( gg_snd_Tanka3, 127 )
     call SetSoundPitch( gg_snd_Tanka3, 1.0 )
-    set gg_snd_Tanka30 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tanka30, 12146 )
+    set gg_snd_Tanka30 = CreateSound( "Sound/Dialogue/Tanka/Tanka30.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tanka30, 4675 )
     call SetSoundChannel( gg_snd_Tanka30, 0 )
     call SetSoundVolume( gg_snd_Tanka30, 127 )
     call SetSoundPitch( gg_snd_Tanka30, 1.0 )
-    set gg_snd_Tanka31 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tanka31, 12146 )
+    set gg_snd_Tanka31 = CreateSound( "Sound/Dialogue/Tanka/Tanka31.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tanka31, 5668 )
     call SetSoundChannel( gg_snd_Tanka31, 0 )
     call SetSoundVolume( gg_snd_Tanka31, 127 )
     call SetSoundPitch( gg_snd_Tanka31, 1.0 )
-    set gg_snd_Tanka32 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tanka32, 12146 )
+    set gg_snd_Tanka32 = CreateSound( "Sound/Dialogue/Tanka/Tanka32.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tanka32, 9613 )
     call SetSoundChannel( gg_snd_Tanka32, 0 )
     call SetSoundVolume( gg_snd_Tanka32, 127 )
     call SetSoundPitch( gg_snd_Tanka32, 1.0 )
-    set gg_snd_Tanka33 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tanka33, 12146 )
+    set gg_snd_Tanka33 = CreateSound( "Sound/Dialogue/Tanka/Tanka33.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tanka33, 7627 )
     call SetSoundChannel( gg_snd_Tanka33, 0 )
     call SetSoundVolume( gg_snd_Tanka33, 127 )
     call SetSoundPitch( gg_snd_Tanka33, 1.0 )
-    set gg_snd_Tanka34 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tanka34, 12146 )
+    set gg_snd_Tanka34 = CreateSound( "Sound/Dialogue/Tanka/Tanka34.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tanka34, 4362 )
     call SetSoundChannel( gg_snd_Tanka34, 0 )
     call SetSoundVolume( gg_snd_Tanka34, 127 )
     call SetSoundPitch( gg_snd_Tanka34, 1.0 )
-    set gg_snd_Tanka35 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tanka35, 12146 )
+    set gg_snd_Tanka35 = CreateSound( "Sound/Dialogue/Tanka/Tanka35.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tanka35, 4702 )
     call SetSoundChannel( gg_snd_Tanka35, 0 )
     call SetSoundVolume( gg_snd_Tanka35, 127 )
     call SetSoundPitch( gg_snd_Tanka35, 1.0 )
-    set gg_snd_Tanka36 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tanka36, 12146 )
+    set gg_snd_Tanka36 = CreateSound( "Sound/Dialogue/Tanka/Tanka36.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tanka36, 3160 )
     call SetSoundChannel( gg_snd_Tanka36, 0 )
     call SetSoundVolume( gg_snd_Tanka36, 127 )
     call SetSoundPitch( gg_snd_Tanka36, 1.0 )
-    set gg_snd_Tanka37 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tanka37, 12146 )
+    set gg_snd_Tanka37 = CreateSound( "Sound/Dialogue/Tanka/Tanka37.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tanka37, 7523 )
     call SetSoundChannel( gg_snd_Tanka37, 0 )
     call SetSoundVolume( gg_snd_Tanka37, 127 )
     call SetSoundPitch( gg_snd_Tanka37, 1.0 )
-    set gg_snd_Tanka38 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tanka38, 12146 )
+    set gg_snd_Tanka38 = CreateSound( "Sound/Dialogue/Tanka/Tanka38.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tanka38, 7131 )
     call SetSoundChannel( gg_snd_Tanka38, 0 )
     call SetSoundVolume( gg_snd_Tanka38, 127 )
     call SetSoundPitch( gg_snd_Tanka38, 1.0 )
-    set gg_snd_Tanka39 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tanka39, 12146 )
+    set gg_snd_Tanka39 = CreateSound( "Sound/Dialogue/Tanka/Tanka39.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tanka39, 1541 )
     call SetSoundChannel( gg_snd_Tanka39, 0 )
     call SetSoundVolume( gg_snd_Tanka39, 127 )
     call SetSoundPitch( gg_snd_Tanka39, 1.0 )
-    set gg_snd_Tanka4 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "HeroAcksEAX" )
-    call SetSoundDuration( gg_snd_Tanka4, 12146 )
+    set gg_snd_Tanka4 = CreateSound( "Sound/Dialogue/Tanka/Tanka4.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tanka4, 16509 )
     call SetSoundChannel( gg_snd_Tanka4, 0 )
     call SetSoundVolume( gg_snd_Tanka4, 127 )
     call SetSoundPitch( gg_snd_Tanka4, 1.0 )
-    set gg_snd_Tanka40 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tanka40, 12146 )
+    set gg_snd_Tanka40 = CreateSound( "Sound/Dialogue/Tanka/Tanka40.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tanka40, 4310 )
     call SetSoundChannel( gg_snd_Tanka40, 0 )
     call SetSoundVolume( gg_snd_Tanka40, 127 )
     call SetSoundPitch( gg_snd_Tanka40, 1.0 )
-    set gg_snd_Tanka41 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tanka41, 12146 )
+    set gg_snd_Tanka41 = CreateSound( "Sound/Dialogue/Tanka/Tanka41.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tanka41, 6086 )
     call SetSoundChannel( gg_snd_Tanka41, 0 )
     call SetSoundVolume( gg_snd_Tanka41, 127 )
     call SetSoundPitch( gg_snd_Tanka41, 1.0 )
-    set gg_snd_Tanka42 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tanka42, 12146 )
+    set gg_snd_Tanka42 = CreateSound( "Sound/Dialogue/Tanka/Tanka42.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tanka42, 5041 )
     call SetSoundChannel( gg_snd_Tanka42, 0 )
     call SetSoundVolume( gg_snd_Tanka42, 127 )
     call SetSoundPitch( gg_snd_Tanka42, 1.0 )
-    set gg_snd_Tanka5 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "HeroAcksEAX" )
-    call SetSoundDuration( gg_snd_Tanka5, 12146 )
+    set gg_snd_Tanka5 = CreateSound( "Sound/Dialogue/Tanka/Tanka5.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tanka5, 7888 )
     call SetSoundChannel( gg_snd_Tanka5, 0 )
     call SetSoundVolume( gg_snd_Tanka5, 127 )
     call SetSoundPitch( gg_snd_Tanka5, 1.0 )
-    set gg_snd_Tanka6 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "HeroAcksEAX" )
-    call SetSoundDuration( gg_snd_Tanka6, 12146 )
+    set gg_snd_Tanka6 = CreateSound( "Sound/Dialogue/Tanka/Tanka6.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tanka6, 9926 )
     call SetSoundChannel( gg_snd_Tanka6, 0 )
     call SetSoundVolume( gg_snd_Tanka6, 127 )
     call SetSoundPitch( gg_snd_Tanka6, 1.0 )
-    set gg_snd_Tanka7 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "HeroAcksEAX" )
-    call SetSoundDuration( gg_snd_Tanka7, 12146 )
+    set gg_snd_Tanka7 = CreateSound( "Sound/Dialogue/Tanka/Tanka7.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tanka7, 7000 )
     call SetSoundChannel( gg_snd_Tanka7, 0 )
     call SetSoundVolume( gg_snd_Tanka7, 127 )
     call SetSoundPitch( gg_snd_Tanka7, 1.0 )
-    set gg_snd_Tanka8 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "HeroAcksEAX" )
-    call SetSoundDuration( gg_snd_Tanka8, 12146 )
+    set gg_snd_Tanka8 = CreateSound( "Sound/Dialogue/Tanka/Tanka8.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tanka8, 11755 )
     call SetSoundChannel( gg_snd_Tanka8, 0 )
     call SetSoundVolume( gg_snd_Tanka8, 127 )
     call SetSoundPitch( gg_snd_Tanka8, 1.0 )
-    set gg_snd_Tanka9 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tanka9, 12146 )
+    set gg_snd_Tanka9 = CreateSound( "Sound/Dialogue/Tanka/Tanka9.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tanka9, 14080 )
     call SetSoundChannel( gg_snd_Tanka9, 0 )
     call SetSoundVolume( gg_snd_Tanka9, 127 )
     call SetSoundPitch( gg_snd_Tanka9, 1.0 )
-    set gg_snd_Tellborn1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tellborn1, 12146 )
+    set gg_snd_Tellborn1 = CreateSound( "Sound/Dialogue/Tellborn/Tellborn1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tellborn1, 4257 )
     call SetSoundChannel( gg_snd_Tellborn1, 0 )
-    call SetSoundVolume( gg_snd_Tellborn1, -1 )
+    call SetSoundVolume( gg_snd_Tellborn1, 127 )
     call SetSoundPitch( gg_snd_Tellborn1, 1.0 )
-    set gg_snd_Tellborn10 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tellborn10, 12146 )
+    set gg_snd_Tellborn10 = CreateSound( "Sound/Dialogue/Tellborn/Tellborn10.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tellborn10, 2063 )
     call SetSoundChannel( gg_snd_Tellborn10, 0 )
-    call SetSoundVolume( gg_snd_Tellborn10, -1 )
+    call SetSoundVolume( gg_snd_Tellborn10, 127 )
     call SetSoundPitch( gg_snd_Tellborn10, 1.0 )
-    set gg_snd_Tellborn11 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tellborn11, 12146 )
+    set gg_snd_Tellborn11 = CreateSound( "Sound/Dialogue/Tellborn/Tellborn11.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tellborn11, 7523 )
     call SetSoundChannel( gg_snd_Tellborn11, 0 )
-    call SetSoundVolume( gg_snd_Tellborn11, -1 )
+    call SetSoundVolume( gg_snd_Tellborn11, 127 )
     call SetSoundPitch( gg_snd_Tellborn11, 1.0 )
-    set gg_snd_Tellborn12 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tellborn12, 12146 )
+    set gg_snd_Tellborn12 = CreateSound( "Sound/Dialogue/Tellborn/Tellborn12.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tellborn12, 8515 )
     call SetSoundChannel( gg_snd_Tellborn12, 0 )
-    call SetSoundVolume( gg_snd_Tellborn12, -1 )
+    call SetSoundVolume( gg_snd_Tellborn12, 127 )
     call SetSoundPitch( gg_snd_Tellborn12, 1.0 )
-    set gg_snd_Tellborn13 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tellborn13, 12146 )
+    set gg_snd_Tellborn13 = CreateSound( "Sound/Dialogue/Tellborn/Tellborn13.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tellborn13, 705 )
     call SetSoundChannel( gg_snd_Tellborn13, 0 )
-    call SetSoundVolume( gg_snd_Tellborn13, -1 )
+    call SetSoundVolume( gg_snd_Tellborn13, 127 )
     call SetSoundPitch( gg_snd_Tellborn13, 1.0 )
-    set gg_snd_Tellborn14 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tellborn14, 12146 )
+    set gg_snd_Tellborn14 = CreateSound( "Sound/Dialogue/Tellborn/Tellborn14.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tellborn14, 2089 )
     call SetSoundChannel( gg_snd_Tellborn14, 0 )
-    call SetSoundVolume( gg_snd_Tellborn14, -1 )
+    call SetSoundVolume( gg_snd_Tellborn14, 127 )
     call SetSoundPitch( gg_snd_Tellborn14, 1.0 )
-    set gg_snd_Tellborn15 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tellborn15, 12146 )
+    set gg_snd_Tellborn15 = CreateSound( "Sound/Dialogue/Tellborn/Tellborn15.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tellborn15, 10448 )
     call SetSoundChannel( gg_snd_Tellborn15, 0 )
-    call SetSoundVolume( gg_snd_Tellborn15, -1 )
+    call SetSoundVolume( gg_snd_Tellborn15, 127 )
     call SetSoundPitch( gg_snd_Tellborn15, 1.0 )
-    set gg_snd_Tellborn16 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tellborn16, 12146 )
+    set gg_snd_Tellborn16 = CreateSound( "Sound/Dialogue/Tellborn/Tellborn16.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tellborn16, 2638 )
     call SetSoundChannel( gg_snd_Tellborn16, 0 )
-    call SetSoundVolume( gg_snd_Tellborn16, -1 )
+    call SetSoundVolume( gg_snd_Tellborn16, 127 )
     call SetSoundPitch( gg_snd_Tellborn16, 1.0 )
-    set gg_snd_Tellborn17 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tellborn17, 12146 )
+    set gg_snd_Tellborn17 = CreateSound( "Sound/Dialogue/Tellborn/Tellborn17.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tellborn17, 3082 )
     call SetSoundChannel( gg_snd_Tellborn17, 0 )
-    call SetSoundVolume( gg_snd_Tellborn17, -1 )
+    call SetSoundVolume( gg_snd_Tellborn17, 127 )
     call SetSoundPitch( gg_snd_Tellborn17, 1.0 )
-    set gg_snd_Tellborn18 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tellborn18, 12146 )
+    set gg_snd_Tellborn18 = CreateSound( "Sound/Dialogue/Tellborn/Tellborn18.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tellborn18, 4545 )
     call SetSoundChannel( gg_snd_Tellborn18, 0 )
-    call SetSoundVolume( gg_snd_Tellborn18, -1 )
+    call SetSoundVolume( gg_snd_Tellborn18, 127 )
     call SetSoundPitch( gg_snd_Tellborn18, 1.0 )
-    set gg_snd_Tellborn19 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tellborn19, 12146 )
+    set gg_snd_Tellborn19 = CreateSound( "Sound/Dialogue/Tellborn/Tellborn19.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tellborn19, 4362 )
     call SetSoundChannel( gg_snd_Tellborn19, 0 )
-    call SetSoundVolume( gg_snd_Tellborn19, -1 )
+    call SetSoundVolume( gg_snd_Tellborn19, 127 )
     call SetSoundPitch( gg_snd_Tellborn19, 1.0 )
-    set gg_snd_Tellborn2 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tellborn2, 12146 )
+    set gg_snd_Tellborn2 = CreateSound( "Sound/Dialogue/Tellborn/Tellborn2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tellborn2, 6974 )
     call SetSoundChannel( gg_snd_Tellborn2, 0 )
-    call SetSoundVolume( gg_snd_Tellborn2, -1 )
+    call SetSoundVolume( gg_snd_Tellborn2, 127 )
     call SetSoundPitch( gg_snd_Tellborn2, 1.0 )
-    set gg_snd_Tellborn20 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tellborn20, 12146 )
+    set gg_snd_Tellborn20 = CreateSound( "Sound/Dialogue/Tellborn/Tellborn20.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tellborn20, 3813 )
     call SetSoundChannel( gg_snd_Tellborn20, 0 )
-    call SetSoundVolume( gg_snd_Tellborn20, -1 )
+    call SetSoundVolume( gg_snd_Tellborn20, 127 )
     call SetSoundPitch( gg_snd_Tellborn20, 1.0 )
-    set gg_snd_Tellborn21 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tellborn21, 12146 )
+    set gg_snd_Tellborn21 = CreateSound( "Sound/Dialogue/Tellborn/Tellborn21.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tellborn21, 1985 )
     call SetSoundChannel( gg_snd_Tellborn21, 0 )
-    call SetSoundVolume( gg_snd_Tellborn21, -1 )
+    call SetSoundVolume( gg_snd_Tellborn21, 127 )
     call SetSoundPitch( gg_snd_Tellborn21, 1.0 )
-    set gg_snd_Tellborn22 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tellborn22, 12146 )
+    set gg_snd_Tellborn22 = CreateSound( "Sound/Dialogue/Tellborn/Tellborn22.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tellborn22, 12460 )
     call SetSoundChannel( gg_snd_Tellborn22, 0 )
-    call SetSoundVolume( gg_snd_Tellborn22, -1 )
+    call SetSoundVolume( gg_snd_Tellborn22, 127 )
     call SetSoundPitch( gg_snd_Tellborn22, 1.0 )
-    set gg_snd_Tellborn23 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tellborn23, 12146 )
+    set gg_snd_Tellborn23 = CreateSound( "Sound/Dialogue/Tellborn/Tellborn23.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tellborn23, 4048 )
     call SetSoundChannel( gg_snd_Tellborn23, 0 )
-    call SetSoundVolume( gg_snd_Tellborn23, -1 )
+    call SetSoundVolume( gg_snd_Tellborn23, 127 )
     call SetSoundPitch( gg_snd_Tellborn23, 1.0 )
-    set gg_snd_Tellborn24 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tellborn24, 12146 )
+    set gg_snd_Tellborn24 = CreateSound( "Sound/Dialogue/Tellborn/Tellborn24.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tellborn24, 9404 )
     call SetSoundChannel( gg_snd_Tellborn24, 0 )
-    call SetSoundVolume( gg_snd_Tellborn24, -1 )
+    call SetSoundVolume( gg_snd_Tellborn24, 127 )
     call SetSoundPitch( gg_snd_Tellborn24, 1.0 )
-    set gg_snd_Tellborn25 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tellborn25, 12146 )
+    set gg_snd_Tellborn25 = CreateSound( "Sound/Dialogue/Tellborn/Tellborn25.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tellborn25, 4388 )
     call SetSoundChannel( gg_snd_Tellborn25, 0 )
-    call SetSoundVolume( gg_snd_Tellborn25, -1 )
+    call SetSoundVolume( gg_snd_Tellborn25, 127 )
     call SetSoundPitch( gg_snd_Tellborn25, 1.0 )
-    set gg_snd_Tellborn26 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tellborn26, 12146 )
+    set gg_snd_Tellborn26 = CreateSound( "Sound/Dialogue/Tellborn/Tellborn26.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tellborn26, 6870 )
     call SetSoundChannel( gg_snd_Tellborn26, 0 )
-    call SetSoundVolume( gg_snd_Tellborn26, -1 )
+    call SetSoundVolume( gg_snd_Tellborn26, 127 )
     call SetSoundPitch( gg_snd_Tellborn26, 1.0 )
-    set gg_snd_Tellborn27 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tellborn27, 12146 )
+    set gg_snd_Tellborn27 = CreateSound( "Sound/Dialogue/Tellborn/Tellborn27.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tellborn27, 2168 )
     call SetSoundChannel( gg_snd_Tellborn27, 0 )
-    call SetSoundVolume( gg_snd_Tellborn27, -1 )
+    call SetSoundVolume( gg_snd_Tellborn27, 127 )
     call SetSoundPitch( gg_snd_Tellborn27, 1.0 )
-    set gg_snd_Tellborn28 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tellborn28, 12146 )
+    set gg_snd_Tellborn28 = CreateSound( "Sound/Dialogue/Tellborn/Tellborn28.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tellborn28, 3474 )
     call SetSoundChannel( gg_snd_Tellborn28, 0 )
-    call SetSoundVolume( gg_snd_Tellborn28, -1 )
+    call SetSoundVolume( gg_snd_Tellborn28, 127 )
     call SetSoundPitch( gg_snd_Tellborn28, 1.0 )
-    set gg_snd_Tellborn29 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tellborn29, 12146 )
+    set gg_snd_Tellborn29 = CreateSound( "Sound/Dialogue/Tellborn/Tellborn29.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tellborn29, 2951 )
     call SetSoundChannel( gg_snd_Tellborn29, 0 )
-    call SetSoundVolume( gg_snd_Tellborn29, -1 )
+    call SetSoundVolume( gg_snd_Tellborn29, 127 )
     call SetSoundPitch( gg_snd_Tellborn29, 1.0 )
-    set gg_snd_Tellborn3 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tellborn3, 12146 )
+    set gg_snd_Tellborn3 = CreateSound( "Sound/Dialogue/Tellborn/Tellborn3.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tellborn3, 3840 )
     call SetSoundChannel( gg_snd_Tellborn3, 0 )
-    call SetSoundVolume( gg_snd_Tellborn3, -1 )
+    call SetSoundVolume( gg_snd_Tellborn3, 127 )
     call SetSoundPitch( gg_snd_Tellborn3, 1.0 )
-    set gg_snd_Tellborn30 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tellborn30, 12146 )
+    set gg_snd_Tellborn30 = CreateSound( "Sound/Dialogue/Tellborn/Tellborn30.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tellborn30, 1697 )
     call SetSoundChannel( gg_snd_Tellborn30, 0 )
-    call SetSoundVolume( gg_snd_Tellborn30, -1 )
+    call SetSoundVolume( gg_snd_Tellborn30, 127 )
     call SetSoundPitch( gg_snd_Tellborn30, 1.0 )
-    set gg_snd_Tellborn31 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tellborn31, 12146 )
+    set gg_snd_Tellborn31 = CreateSound( "Sound/Dialogue/Tellborn/Tellborn31.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tellborn31, 3474 )
     call SetSoundChannel( gg_snd_Tellborn31, 0 )
-    call SetSoundVolume( gg_snd_Tellborn31, -1 )
+    call SetSoundVolume( gg_snd_Tellborn31, 127 )
     call SetSoundPitch( gg_snd_Tellborn31, 1.0 )
-    set gg_snd_Tellborn32 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tellborn32, 12146 )
+    set gg_snd_Tellborn32 = CreateSound( "Sound/Dialogue/Tellborn/Tellborn32.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tellborn32, 7497 )
     call SetSoundChannel( gg_snd_Tellborn32, 0 )
-    call SetSoundVolume( gg_snd_Tellborn32, -1 )
+    call SetSoundVolume( gg_snd_Tellborn32, 127 )
     call SetSoundPitch( gg_snd_Tellborn32, 1.0 )
-    set gg_snd_Tellborn33 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tellborn33, 12146 )
+    set gg_snd_Tellborn33 = CreateSound( "Sound/Dialogue/Tellborn/Tellborn33.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tellborn33, 1593 )
     call SetSoundChannel( gg_snd_Tellborn33, 0 )
-    call SetSoundVolume( gg_snd_Tellborn33, -1 )
+    call SetSoundVolume( gg_snd_Tellborn33, 127 )
     call SetSoundPitch( gg_snd_Tellborn33, 1.0 )
-    set gg_snd_Tellborn34 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tellborn34, 12146 )
+    set gg_snd_Tellborn34 = CreateSound( "Sound/Dialogue/Tellborn/Tellborn34.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tellborn34, 1906 )
     call SetSoundChannel( gg_snd_Tellborn34, 0 )
-    call SetSoundVolume( gg_snd_Tellborn34, -1 )
+    call SetSoundVolume( gg_snd_Tellborn34, 127 )
     call SetSoundPitch( gg_snd_Tellborn34, 1.0 )
-    set gg_snd_Tellborn35 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tellborn35, 12146 )
+    set gg_snd_Tellborn35 = CreateSound( "Sound/Dialogue/Tellborn/Tellborn35.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tellborn35, 6295 )
     call SetSoundChannel( gg_snd_Tellborn35, 0 )
-    call SetSoundVolume( gg_snd_Tellborn35, -1 )
+    call SetSoundVolume( gg_snd_Tellborn35, 127 )
     call SetSoundPitch( gg_snd_Tellborn35, 1.0 )
-    set gg_snd_Tellborn36 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tellborn36, 12146 )
+    set gg_snd_Tellborn36 = CreateSound( "Sound/Dialogue/Tellborn/Tellborn36.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tellborn36, 3866 )
     call SetSoundChannel( gg_snd_Tellborn36, 0 )
-    call SetSoundVolume( gg_snd_Tellborn36, -1 )
+    call SetSoundVolume( gg_snd_Tellborn36, 127 )
     call SetSoundPitch( gg_snd_Tellborn36, 1.0 )
-    set gg_snd_Tellborn37 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tellborn37, 12146 )
+    set gg_snd_Tellborn37 = CreateSound( "Sound/Dialogue/Tellborn/Tellborn37.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tellborn37, 4937 )
     call SetSoundChannel( gg_snd_Tellborn37, 0 )
-    call SetSoundVolume( gg_snd_Tellborn37, -1 )
+    call SetSoundVolume( gg_snd_Tellborn37, 127 )
     call SetSoundPitch( gg_snd_Tellborn37, 1.0 )
-    set gg_snd_Tellborn4 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tellborn4, 12146 )
+    set gg_snd_Tellborn4 = CreateSound( "Sound/Dialogue/Tellborn/Tellborn4.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tellborn4, 7653 )
     call SetSoundChannel( gg_snd_Tellborn4, 0 )
-    call SetSoundVolume( gg_snd_Tellborn4, -1 )
+    call SetSoundVolume( gg_snd_Tellborn4, 127 )
     call SetSoundPitch( gg_snd_Tellborn4, 1.0 )
-    set gg_snd_Tellborn5 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tellborn5, 12146 )
+    set gg_snd_Tellborn5 = CreateSound( "Sound/Dialogue/Tellborn/Tellborn5.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tellborn5, 3657 )
     call SetSoundChannel( gg_snd_Tellborn5, 0 )
-    call SetSoundVolume( gg_snd_Tellborn5, -1 )
+    call SetSoundVolume( gg_snd_Tellborn5, 127 )
     call SetSoundPitch( gg_snd_Tellborn5, 1.0 )
-    set gg_snd_Tellborn6 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tellborn6, 12146 )
+    set gg_snd_Tellborn6 = CreateSound( "Sound/Dialogue/Tellborn/Tellborn6.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tellborn6, 4623 )
     call SetSoundChannel( gg_snd_Tellborn6, 0 )
-    call SetSoundVolume( gg_snd_Tellborn6, -1 )
+    call SetSoundVolume( gg_snd_Tellborn6, 127 )
     call SetSoundPitch( gg_snd_Tellborn6, 1.0 )
-    set gg_snd_Tellborn7 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tellborn7, 12146 )
+    set gg_snd_Tellborn7 = CreateSound( "Sound/Dialogue/Tellborn/Tellborn7.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tellborn7, 8568 )
     call SetSoundChannel( gg_snd_Tellborn7, 0 )
-    call SetSoundVolume( gg_snd_Tellborn7, -1 )
+    call SetSoundVolume( gg_snd_Tellborn7, 127 )
     call SetSoundPitch( gg_snd_Tellborn7, 1.0 )
-    set gg_snd_Tellborn8 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tellborn8, 12146 )
+    set gg_snd_Tellborn8 = CreateSound( "Sound/Dialogue/Tellborn/Tellborn8.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tellborn8, 8254 )
     call SetSoundChannel( gg_snd_Tellborn8, 0 )
-    call SetSoundVolume( gg_snd_Tellborn8, -1 )
+    call SetSoundVolume( gg_snd_Tellborn8, 127 )
     call SetSoundPitch( gg_snd_Tellborn8, 1.0 )
-    set gg_snd_Tellborn9 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tellborn9, 12146 )
+    set gg_snd_Tellborn9 = CreateSound( "Sound/Dialogue/Tellborn/Tellborn9.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tellborn9, 6687 )
     call SetSoundChannel( gg_snd_Tellborn9, 0 )
-    call SetSoundVolume( gg_snd_Tellborn9, -1 )
+    call SetSoundVolume( gg_snd_Tellborn9, 127 )
     call SetSoundPitch( gg_snd_Tellborn9, 1.0 )
-    set gg_snd_TellbornTontext1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_TellbornTontext1, 12146 )
+    set gg_snd_TellbornTontext1 = CreateSound( "Sound/Dialogue/Tellborn/TellbornTontext1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_TellbornTontext1, 4649 )
     call SetSoundChannel( gg_snd_TellbornTontext1, 0 )
-    call SetSoundVolume( gg_snd_TellbornTontext1, -1 )
+    call SetSoundVolume( gg_snd_TellbornTontext1, 127 )
     call SetSoundPitch( gg_snd_TellbornTontext1, 1.0 )
-    set gg_snd_TellbornTontext2 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_TellbornTontext2, 12146 )
+    set gg_snd_TellbornTontext2 = CreateSound( "Sound/Dialogue/Tellborn/TellbornTontext2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_TellbornTontext2, 6321 )
     call SetSoundChannel( gg_snd_TellbornTontext2, 0 )
-    call SetSoundVolume( gg_snd_TellbornTontext2, -1 )
+    call SetSoundVolume( gg_snd_TellbornTontext2, 127 )
     call SetSoundPitch( gg_snd_TellbornTontext2, 1.0 )
-    set gg_snd_TellbornTontext3 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_TellbornTontext3, 12146 )
+    set gg_snd_TellbornTontext3 = CreateSound( "Sound/Dialogue/Tellborn/TellbornTontext3.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_TellbornTontext3, 1671 )
     call SetSoundChannel( gg_snd_TellbornTontext3, 0 )
-    call SetSoundVolume( gg_snd_TellbornTontext3, -1 )
+    call SetSoundVolume( gg_snd_TellbornTontext3, 127 )
     call SetSoundPitch( gg_snd_TellbornTontext3, 1.0 )
-    set gg_snd_TellbornTontext4 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_TellbornTontext4, 12146 )
+    set gg_snd_TellbornTontext4 = CreateSound( "Sound/Dialogue/Tellborn/TellbornTontext4.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_TellbornTontext4, 2507 )
     call SetSoundChannel( gg_snd_TellbornTontext4, 0 )
-    call SetSoundVolume( gg_snd_TellbornTontext4, -1 )
+    call SetSoundVolume( gg_snd_TellbornTontext4, 127 )
     call SetSoundPitch( gg_snd_TellbornTontext4, 1.0 )
-    set gg_snd_TellbornTontext5 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_TellbornTontext5, 12146 )
+    set gg_snd_TellbornTontext5 = CreateSound( "Sound/Dialogue/Tellborn/TellbornTontext5.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_TellbornTontext5, 2011 )
     call SetSoundChannel( gg_snd_TellbornTontext5, 0 )
-    call SetSoundVolume( gg_snd_TellbornTontext5, -1 )
+    call SetSoundVolume( gg_snd_TellbornTontext5, 127 )
     call SetSoundPitch( gg_snd_TellbornTontext5, 1.0 )
-    set gg_snd_TellbornTontext6 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_TellbornTontext6, 12146 )
+    set gg_snd_TellbornTontext6 = CreateSound( "Sound/Dialogue/Tellborn/TellbornTontext6.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_TellbornTontext6, 2951 )
     call SetSoundChannel( gg_snd_TellbornTontext6, 0 )
-    call SetSoundVolume( gg_snd_TellbornTontext6, -1 )
+    call SetSoundVolume( gg_snd_TellbornTontext6, 127 )
     call SetSoundPitch( gg_snd_TellbornTontext6, 1.0 )
     set gg_snd_TheHornOfCenarius = CreateSound( "Sound\\Ambient\\DoodadEffects\\TheHornOfCenarius.wav", false, false, false, 10, 10, "DefaultEAXON" )
     call SetSoundDuration( gg_snd_TheHornOfCenarius, 12120 )
@@ -8516,971 +8778,1101 @@ function InitSounds takes nothing returns nothing
     call SetSoundChannel( gg_snd_TheHornOfCenarius01, 0 )
     call SetSoundVolume( gg_snd_TheHornOfCenarius01, -1 )
     call SetSoundPitch( gg_snd_TheHornOfCenarius01, 1.0 )
-    set gg_snd_Tobias1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tobias1, 12120 )
+    set gg_snd_Tobias1 = CreateSound( "Sound/Dialogue/Tobias/Tobias1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tobias1, 4488 )
     call SetSoundChannel( gg_snd_Tobias1, 0 )
-    call SetSoundVolume( gg_snd_Tobias1, -1 )
+    call SetSoundVolume( gg_snd_Tobias1, 127 )
     call SetSoundPitch( gg_snd_Tobias1, 1.0 )
-    set gg_snd_Tobias10 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tobias10, 12120 )
+    set gg_snd_Tobias10 = CreateSound( "Sound/Dialogue/Tobias/Tobias10.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tobias10, 3384 )
     call SetSoundChannel( gg_snd_Tobias10, 0 )
-    call SetSoundVolume( gg_snd_Tobias10, -1 )
+    call SetSoundVolume( gg_snd_Tobias10, 127 )
     call SetSoundPitch( gg_snd_Tobias10, 1.0 )
-    set gg_snd_Tobias101 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tobias101, 12120 )
+    set gg_snd_Tobias101 = CreateSound( "Sound/Dialogue/Tobias/Tobias1.wav", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tobias101, 6989 )
     call SetSoundChannel( gg_snd_Tobias101, 0 )
-    call SetSoundVolume( gg_snd_Tobias101, -1 )
+    call SetSoundVolume( gg_snd_Tobias101, 127 )
     call SetSoundPitch( gg_snd_Tobias101, 1.0 )
-    set gg_snd_Tobias11 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tobias11, 12120 )
+    set gg_snd_Tobias11 = CreateSound( "Sound/Dialogue/Tobias/Tobias11.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tobias11, 1272 )
     call SetSoundChannel( gg_snd_Tobias11, 0 )
-    call SetSoundVolume( gg_snd_Tobias11, -1 )
+    call SetSoundVolume( gg_snd_Tobias11, 127 )
     call SetSoundPitch( gg_snd_Tobias11, 1.0 )
-    set gg_snd_Tobias12 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tobias12, 12120 )
+    set gg_snd_Tobias12 = CreateSound( "Sound/Dialogue/Tobias/Tobias12.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tobias12, 3144 )
     call SetSoundChannel( gg_snd_Tobias12, 0 )
-    call SetSoundVolume( gg_snd_Tobias12, -1 )
+    call SetSoundVolume( gg_snd_Tobias12, 127 )
     call SetSoundPitch( gg_snd_Tobias12, 1.0 )
-    set gg_snd_Tobias13 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tobias13, 12120 )
+    set gg_snd_Tobias13 = CreateSound( "Sound/Dialogue/Tobias/Tobias13.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tobias13, 4200 )
     call SetSoundChannel( gg_snd_Tobias13, 0 )
-    call SetSoundVolume( gg_snd_Tobias13, -1 )
+    call SetSoundVolume( gg_snd_Tobias13, 127 )
     call SetSoundPitch( gg_snd_Tobias13, 1.0 )
-    set gg_snd_Tobias14 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tobias14, 12120 )
+    set gg_snd_Tobias14 = CreateSound( "Sound/Dialogue/Tobias/Tobias14.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tobias14, 744 )
     call SetSoundChannel( gg_snd_Tobias14, 0 )
-    call SetSoundVolume( gg_snd_Tobias14, -1 )
+    call SetSoundVolume( gg_snd_Tobias14, 127 )
     call SetSoundPitch( gg_snd_Tobias14, 1.0 )
-    set gg_snd_Tobias2 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tobias2, 12120 )
+    set gg_snd_Tobias2 = CreateSound( "Sound/Dialogue/Tobias/Tobias2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tobias2, 5016 )
     call SetSoundChannel( gg_snd_Tobias2, 0 )
-    call SetSoundVolume( gg_snd_Tobias2, -1 )
+    call SetSoundVolume( gg_snd_Tobias2, 127 )
     call SetSoundPitch( gg_snd_Tobias2, 1.0 )
-    set gg_snd_Tobias201 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tobias201, 12120 )
+    set gg_snd_Tobias201 = CreateSound( "Sound/Dialogue/Tobias/Tobias2.wav", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tobias201, 2879 )
     call SetSoundChannel( gg_snd_Tobias201, 0 )
-    call SetSoundVolume( gg_snd_Tobias201, -1 )
+    call SetSoundVolume( gg_snd_Tobias201, 127 )
     call SetSoundPitch( gg_snd_Tobias201, 1.0 )
-    set gg_snd_Tobias3 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tobias3, 12120 )
+    set gg_snd_Tobias3 = CreateSound( "Sound/Dialogue/Tobias/Tobias3.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tobias3, 12144 )
     call SetSoundChannel( gg_snd_Tobias3, 0 )
-    call SetSoundVolume( gg_snd_Tobias3, -1 )
+    call SetSoundVolume( gg_snd_Tobias3, 127 )
     call SetSoundPitch( gg_snd_Tobias3, 1.0 )
-    set gg_snd_Tobias301 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tobias301, 12120 )
+    set gg_snd_Tobias301 = CreateSound( "Sound/Dialogue/Tobias/Tobias3.wav", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tobias301, 3552 )
     call SetSoundChannel( gg_snd_Tobias301, 0 )
-    call SetSoundVolume( gg_snd_Tobias301, -1 )
+    call SetSoundVolume( gg_snd_Tobias301, 127 )
     call SetSoundPitch( gg_snd_Tobias301, 1.0 )
-    set gg_snd_Tobias4 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tobias4, 12120 )
+    set gg_snd_Tobias4 = CreateSound( "Sound/Dialogue/Tobias/Tobias4.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tobias4, 3192 )
     call SetSoundChannel( gg_snd_Tobias4, 0 )
-    call SetSoundVolume( gg_snd_Tobias4, -1 )
+    call SetSoundVolume( gg_snd_Tobias4, 127 )
     call SetSoundPitch( gg_snd_Tobias4, 1.0 )
-    set gg_snd_Tobias401 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tobias401, 12120 )
+    set gg_snd_Tobias401 = CreateSound( "Sound/Dialogue/Tobias/Tobias4.wav", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tobias401, 3784 )
     call SetSoundChannel( gg_snd_Tobias401, 0 )
-    call SetSoundVolume( gg_snd_Tobias401, -1 )
+    call SetSoundVolume( gg_snd_Tobias401, 127 )
     call SetSoundPitch( gg_snd_Tobias401, 1.0 )
-    set gg_snd_Tobias5 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tobias5, 12120 )
+    set gg_snd_Tobias5 = CreateSound( "Sound/Dialogue/Tobias/Tobias5.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tobias5, 6528 )
     call SetSoundChannel( gg_snd_Tobias5, 0 )
-    call SetSoundVolume( gg_snd_Tobias5, -1 )
+    call SetSoundVolume( gg_snd_Tobias5, 127 )
     call SetSoundPitch( gg_snd_Tobias5, 1.0 )
-    set gg_snd_Tobias6 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tobias6, 12120 )
+    set gg_snd_Tobias6 = CreateSound( "Sound/Dialogue/Tobias/Tobias6.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tobias6, 3120 )
     call SetSoundChannel( gg_snd_Tobias6, 0 )
-    call SetSoundVolume( gg_snd_Tobias6, -1 )
+    call SetSoundVolume( gg_snd_Tobias6, 127 )
     call SetSoundPitch( gg_snd_Tobias6, 1.0 )
-    set gg_snd_Tobias7 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tobias7, 12120 )
+    set gg_snd_Tobias7 = CreateSound( "Sound/Dialogue/Tobias/Tobias7.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tobias7, 3480 )
     call SetSoundChannel( gg_snd_Tobias7, 0 )
-    call SetSoundVolume( gg_snd_Tobias7, -1 )
+    call SetSoundVolume( gg_snd_Tobias7, 127 )
     call SetSoundPitch( gg_snd_Tobias7, 1.0 )
-    set gg_snd_Tobias8 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tobias8, 12120 )
+    set gg_snd_Tobias8 = CreateSound( "Sound/Dialogue/Tobias/Tobias8.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tobias8, 6072 )
     call SetSoundChannel( gg_snd_Tobias8, 0 )
-    call SetSoundVolume( gg_snd_Tobias8, -1 )
+    call SetSoundVolume( gg_snd_Tobias8, 127 )
     call SetSoundPitch( gg_snd_Tobias8, 1.0 )
-    set gg_snd_Tobias9 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Tobias9, 12120 )
+    set gg_snd_Tobias9 = CreateSound( "Sound/Dialogue/Tobias/Tobias9.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Tobias9, 1632 )
     call SetSoundChannel( gg_snd_Tobias9, 0 )
-    call SetSoundVolume( gg_snd_Tobias9, -1 )
+    call SetSoundVolume( gg_snd_Tobias9, 127 )
     call SetSoundPitch( gg_snd_Tobias9, 1.0 )
-    set gg_snd_Trommon1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Trommon1, 12120 )
+    set gg_snd_Trommon1 = CreateSound( "Sound/Dialogue/Trommon/Trommon1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Trommon1, 3160 )
     call SetSoundChannel( gg_snd_Trommon1, 0 )
-    call SetSoundVolume( gg_snd_Trommon1, -1 )
+    call SetSoundVolume( gg_snd_Trommon1, 127 )
     call SetSoundPitch( gg_snd_Trommon1, 1.0 )
-    set gg_snd_Trommon10 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Trommon10, 12120 )
+    set gg_snd_Trommon10 = CreateSound( "Sound/Dialogue/Trommon/Trommon10.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Trommon10, 9142 )
     call SetSoundChannel( gg_snd_Trommon10, 0 )
-    call SetSoundVolume( gg_snd_Trommon10, -1 )
+    call SetSoundVolume( gg_snd_Trommon10, 127 )
     call SetSoundPitch( gg_snd_Trommon10, 1.0 )
-    set gg_snd_Trommon11 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Trommon11, 12120 )
+    set gg_snd_Trommon11 = CreateSound( "Sound/Dialogue/Trommon/Trommon11.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Trommon11, 10083 )
     call SetSoundChannel( gg_snd_Trommon11, 0 )
-    call SetSoundVolume( gg_snd_Trommon11, -1 )
+    call SetSoundVolume( gg_snd_Trommon11, 127 )
     call SetSoundPitch( gg_snd_Trommon11, 1.0 )
-    set gg_snd_Trommon12 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Trommon12, 12120 )
+    set gg_snd_Trommon12 = CreateSound( "Sound/Dialogue/Trommon/Trommon12.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Trommon12, 8515 )
     call SetSoundChannel( gg_snd_Trommon12, 0 )
-    call SetSoundVolume( gg_snd_Trommon12, -1 )
+    call SetSoundVolume( gg_snd_Trommon12, 127 )
     call SetSoundPitch( gg_snd_Trommon12, 1.0 )
-    set gg_snd_Trommon13 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Trommon13, 12120 )
+    set gg_snd_Trommon13 = CreateSound( "Sound/Dialogue/Trommon/Trommon13.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Trommon13, 2377 )
     call SetSoundChannel( gg_snd_Trommon13, 0 )
-    call SetSoundVolume( gg_snd_Trommon13, -1 )
+    call SetSoundVolume( gg_snd_Trommon13, 127 )
     call SetSoundPitch( gg_snd_Trommon13, 1.0 )
-    set gg_snd_Trommon14 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Trommon14, 12120 )
+    set gg_snd_Trommon14 = CreateSound( "Sound/Dialogue/Trommon/Trommon14.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Trommon14, 7836 )
     call SetSoundChannel( gg_snd_Trommon14, 0 )
-    call SetSoundVolume( gg_snd_Trommon14, -1 )
+    call SetSoundVolume( gg_snd_Trommon14, 127 )
     call SetSoundPitch( gg_snd_Trommon14, 1.0 )
-    set gg_snd_Trommon15 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Trommon15, 12120 )
+    set gg_snd_Trommon15 = CreateSound( "Sound/Dialogue/Trommon/Trommon15.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Trommon15, 7575 )
     call SetSoundChannel( gg_snd_Trommon15, 0 )
-    call SetSoundVolume( gg_snd_Trommon15, -1 )
+    call SetSoundVolume( gg_snd_Trommon15, 127 )
     call SetSoundPitch( gg_snd_Trommon15, 1.0 )
-    set gg_snd_Trommon16 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Trommon16, 12120 )
+    set gg_snd_Trommon16 = CreateSound( "Sound/Dialogue/Trommon/Trommon16.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Trommon16, 2977 )
     call SetSoundChannel( gg_snd_Trommon16, 0 )
-    call SetSoundVolume( gg_snd_Trommon16, -1 )
+    call SetSoundVolume( gg_snd_Trommon16, 127 )
     call SetSoundPitch( gg_snd_Trommon16, 1.0 )
-    set gg_snd_Trommon17 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Trommon17, 12120 )
+    set gg_snd_Trommon17 = CreateSound( "Sound/Dialogue/Trommon/Trommon17.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Trommon17, 7941 )
     call SetSoundChannel( gg_snd_Trommon17, 0 )
-    call SetSoundVolume( gg_snd_Trommon17, -1 )
+    call SetSoundVolume( gg_snd_Trommon17, 127 )
     call SetSoundPitch( gg_snd_Trommon17, 1.0 )
-    set gg_snd_Trommon18 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Trommon18, 12120 )
+    set gg_snd_Trommon18 = CreateSound( "Sound/Dialogue/Trommon/Trommon18.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Trommon18, 8254 )
     call SetSoundChannel( gg_snd_Trommon18, 0 )
-    call SetSoundVolume( gg_snd_Trommon18, -1 )
+    call SetSoundVolume( gg_snd_Trommon18, 127 )
     call SetSoundPitch( gg_snd_Trommon18, 1.0 )
-    set gg_snd_Trommon19 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Trommon19, 12120 )
+    set gg_snd_Trommon19 = CreateSound( "Sound/Dialogue/Trommon/Trommon19.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Trommon19, 14968 )
     call SetSoundChannel( gg_snd_Trommon19, 0 )
-    call SetSoundVolume( gg_snd_Trommon19, -1 )
+    call SetSoundVolume( gg_snd_Trommon19, 127 )
     call SetSoundPitch( gg_snd_Trommon19, 1.0 )
-    set gg_snd_Trommon2 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Trommon2, 12120 )
+    set gg_snd_Trommon2 = CreateSound( "Sound/Dialogue/Trommon/Trommon2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Trommon2, 4937 )
     call SetSoundChannel( gg_snd_Trommon2, 0 )
-    call SetSoundVolume( gg_snd_Trommon2, -1 )
+    call SetSoundVolume( gg_snd_Trommon2, 127 )
     call SetSoundPitch( gg_snd_Trommon2, 1.0 )
-    set gg_snd_Trommon20 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Trommon20, 12120 )
+    set gg_snd_Trommon20 = CreateSound( "Sound/Dialogue/Trommon/Trommon20.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Trommon20, 2115 )
     call SetSoundChannel( gg_snd_Trommon20, 0 )
-    call SetSoundVolume( gg_snd_Trommon20, -1 )
+    call SetSoundVolume( gg_snd_Trommon20, 127 )
     call SetSoundPitch( gg_snd_Trommon20, 1.0 )
-    set gg_snd_Trommon21 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Trommon21, 12120 )
+    set gg_snd_Trommon21 = CreateSound( "Sound/Dialogue/Trommon/Trommon21.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Trommon21, 3500 )
     call SetSoundChannel( gg_snd_Trommon21, 0 )
-    call SetSoundVolume( gg_snd_Trommon21, -1 )
+    call SetSoundVolume( gg_snd_Trommon21, 127 )
     call SetSoundPitch( gg_snd_Trommon21, 1.0 )
-    set gg_snd_Trommon22 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Trommon22, 12120 )
+    set gg_snd_Trommon22 = CreateSound( "Sound/Dialogue/Trommon/Trommon22.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Trommon22, 4336 )
     call SetSoundChannel( gg_snd_Trommon22, 0 )
-    call SetSoundVolume( gg_snd_Trommon22, -1 )
+    call SetSoundVolume( gg_snd_Trommon22, 127 )
     call SetSoundPitch( gg_snd_Trommon22, 1.0 )
-    set gg_snd_Trommon23 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Trommon23, 12120 )
+    set gg_snd_Trommon23 = CreateSound( "Sound/Dialogue/Trommon/Trommon23.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Trommon23, 757 )
     call SetSoundChannel( gg_snd_Trommon23, 0 )
-    call SetSoundVolume( gg_snd_Trommon23, -1 )
+    call SetSoundVolume( gg_snd_Trommon23, 127 )
     call SetSoundPitch( gg_snd_Trommon23, 1.0 )
-    set gg_snd_Trommon24 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Trommon24, 12120 )
+    set gg_snd_Trommon24 = CreateSound( "Sound/Dialogue/Trommon/Trommon24.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Trommon24, 3448 )
     call SetSoundChannel( gg_snd_Trommon24, 0 )
-    call SetSoundVolume( gg_snd_Trommon24, -1 )
+    call SetSoundVolume( gg_snd_Trommon24, 127 )
     call SetSoundPitch( gg_snd_Trommon24, 1.0 )
-    set gg_snd_Trommon25 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Trommon25, 12120 )
+    set gg_snd_Trommon25 = CreateSound( "Sound/Dialogue/Trommon/Trommon25.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Trommon25, 5485 )
     call SetSoundChannel( gg_snd_Trommon25, 0 )
-    call SetSoundVolume( gg_snd_Trommon25, -1 )
+    call SetSoundVolume( gg_snd_Trommon25, 127 )
     call SetSoundPitch( gg_snd_Trommon25, 1.0 )
-    set gg_snd_Trommon26 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Trommon26, 12120 )
+    set gg_snd_Trommon26 = CreateSound( "Sound/Dialogue/Trommon/Trommon26.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Trommon26, 9351 )
     call SetSoundChannel( gg_snd_Trommon26, 0 )
-    call SetSoundVolume( gg_snd_Trommon26, -1 )
+    call SetSoundVolume( gg_snd_Trommon26, 127 )
     call SetSoundPitch( gg_snd_Trommon26, 1.0 )
-    set gg_snd_Trommon27 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Trommon27, 12120 )
+    set gg_snd_Trommon27 = CreateSound( "Sound/Dialogue/Trommon/Trommon27.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Trommon27, 6896 )
     call SetSoundChannel( gg_snd_Trommon27, 0 )
-    call SetSoundVolume( gg_snd_Trommon27, -1 )
+    call SetSoundVolume( gg_snd_Trommon27, 127 )
     call SetSoundPitch( gg_snd_Trommon27, 1.0 )
-    set gg_snd_Trommon28 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Trommon28, 12120 )
+    set gg_snd_Trommon28 = CreateSound( "Sound/Dialogue/Trommon/Trommon28.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Trommon28, 8881 )
     call SetSoundChannel( gg_snd_Trommon28, 0 )
-    call SetSoundVolume( gg_snd_Trommon28, -1 )
+    call SetSoundVolume( gg_snd_Trommon28, 127 )
     call SetSoundPitch( gg_snd_Trommon28, 1.0 )
-    set gg_snd_Trommon29 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Trommon29, 12120 )
+    set gg_snd_Trommon29 = CreateSound( "Sound/Dialogue/Trommon/Trommon29.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Trommon29, 7706 )
     call SetSoundChannel( gg_snd_Trommon29, 0 )
-    call SetSoundVolume( gg_snd_Trommon29, -1 )
+    call SetSoundVolume( gg_snd_Trommon29, 127 )
     call SetSoundPitch( gg_snd_Trommon29, 1.0 )
-    set gg_snd_Trommon3 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Trommon3, 12120 )
+    set gg_snd_Trommon3 = CreateSound( "Sound/Dialogue/Trommon/Trommon3.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Trommon3, 5433 )
     call SetSoundChannel( gg_snd_Trommon3, 0 )
-    call SetSoundVolume( gg_snd_Trommon3, -1 )
+    call SetSoundVolume( gg_snd_Trommon3, 127 )
     call SetSoundPitch( gg_snd_Trommon3, 1.0 )
-    set gg_snd_Trommon30 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Trommon30, 12120 )
+    set gg_snd_Trommon30 = CreateSound( "Sound/Dialogue/Trommon/Trommon30.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Trommon30, 7131 )
     call SetSoundChannel( gg_snd_Trommon30, 0 )
-    call SetSoundVolume( gg_snd_Trommon30, -1 )
+    call SetSoundVolume( gg_snd_Trommon30, 127 )
     call SetSoundPitch( gg_snd_Trommon30, 1.0 )
-    set gg_snd_Trommon31 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Trommon31, 12120 )
+    set gg_snd_Trommon31 = CreateSound( "Sound/Dialogue/Trommon/Trommon31.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Trommon31, 8437 )
     call SetSoundChannel( gg_snd_Trommon31, 0 )
-    call SetSoundVolume( gg_snd_Trommon31, -1 )
+    call SetSoundVolume( gg_snd_Trommon31, 127 )
     call SetSoundPitch( gg_snd_Trommon31, 1.0 )
-    set gg_snd_Trommon32 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Trommon32, 12120 )
+    set gg_snd_Trommon32 = CreateSound( "Sound/Dialogue/Trommon/Trommon32.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Trommon32, 2324 )
     call SetSoundChannel( gg_snd_Trommon32, 0 )
-    call SetSoundVolume( gg_snd_Trommon32, -1 )
+    call SetSoundVolume( gg_snd_Trommon32, 127 )
     call SetSoundPitch( gg_snd_Trommon32, 1.0 )
-    set gg_snd_Trommon33 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Trommon33, 12120 )
+    set gg_snd_Trommon33 = CreateSound( "Sound/Dialogue/Trommon/Trommon33.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Trommon33, 4414 )
     call SetSoundChannel( gg_snd_Trommon33, 0 )
-    call SetSoundVolume( gg_snd_Trommon33, -1 )
+    call SetSoundVolume( gg_snd_Trommon33, 127 )
     call SetSoundPitch( gg_snd_Trommon33, 1.0 )
-    set gg_snd_Trommon34 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Trommon34, 12120 )
+    set gg_snd_Trommon34 = CreateSound( "Sound/Dialogue/Trommon/Trommon34.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Trommon34, 2272 )
     call SetSoundChannel( gg_snd_Trommon34, 0 )
-    call SetSoundVolume( gg_snd_Trommon34, -1 )
+    call SetSoundVolume( gg_snd_Trommon34, 127 )
     call SetSoundPitch( gg_snd_Trommon34, 1.0 )
-    set gg_snd_Trommon35 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Trommon35, 12120 )
+    set gg_snd_Trommon35 = CreateSound( "Sound/Dialogue/Trommon/Trommon35.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Trommon35, 4728 )
     call SetSoundChannel( gg_snd_Trommon35, 0 )
-    call SetSoundVolume( gg_snd_Trommon35, -1 )
+    call SetSoundVolume( gg_snd_Trommon35, 127 )
     call SetSoundPitch( gg_snd_Trommon35, 1.0 )
-    set gg_snd_Trommon36 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Trommon36, 12120 )
+    set gg_snd_Trommon36 = CreateSound( "Sound/Dialogue/Trommon/Trommon36.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Trommon36, 5355 )
     call SetSoundChannel( gg_snd_Trommon36, 0 )
-    call SetSoundVolume( gg_snd_Trommon36, -1 )
+    call SetSoundVolume( gg_snd_Trommon36, 127 )
     call SetSoundPitch( gg_snd_Trommon36, 1.0 )
-    set gg_snd_Trommon4 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Trommon4, 12120 )
+    set gg_snd_Trommon4 = CreateSound( "Sound/Dialogue/Trommon/Trommon4.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Trommon4, 3474 )
     call SetSoundChannel( gg_snd_Trommon4, 0 )
-    call SetSoundVolume( gg_snd_Trommon4, -1 )
+    call SetSoundVolume( gg_snd_Trommon4, 127 )
     call SetSoundPitch( gg_snd_Trommon4, 1.0 )
-    set gg_snd_Trommon5 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Trommon5, 12120 )
+    set gg_snd_Trommon5 = CreateSound( "Sound/Dialogue/Trommon/Trommon5.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Trommon5, 1201 )
     call SetSoundChannel( gg_snd_Trommon5, 0 )
-    call SetSoundVolume( gg_snd_Trommon5, -1 )
+    call SetSoundVolume( gg_snd_Trommon5, 127 )
     call SetSoundPitch( gg_snd_Trommon5, 1.0 )
-    set gg_snd_Trommon6 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Trommon6, 12120 )
+    set gg_snd_Trommon6 = CreateSound( "Sound/Dialogue/Trommon/Trommon6.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Trommon6, 4937 )
     call SetSoundChannel( gg_snd_Trommon6, 0 )
-    call SetSoundVolume( gg_snd_Trommon6, -1 )
+    call SetSoundVolume( gg_snd_Trommon6, 127 )
     call SetSoundPitch( gg_snd_Trommon6, 1.0 )
-    set gg_snd_Trommon7 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Trommon7, 12120 )
+    set gg_snd_Trommon7 = CreateSound( "Sound/Dialogue/Trommon/Trommon7.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Trommon7, 6295 )
     call SetSoundChannel( gg_snd_Trommon7, 0 )
-    call SetSoundVolume( gg_snd_Trommon7, -1 )
+    call SetSoundVolume( gg_snd_Trommon7, 127 )
     call SetSoundPitch( gg_snd_Trommon7, 1.0 )
-    set gg_snd_Trommon8 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Trommon8, 12120 )
+    set gg_snd_Trommon8 = CreateSound( "Sound/Dialogue/Trommon/Trommon8.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Trommon8, 7993 )
     call SetSoundChannel( gg_snd_Trommon8, 0 )
-    call SetSoundVolume( gg_snd_Trommon8, -1 )
+    call SetSoundVolume( gg_snd_Trommon8, 127 )
     call SetSoundPitch( gg_snd_Trommon8, 1.0 )
-    set gg_snd_Trommon9 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Trommon9, 12120 )
+    set gg_snd_Trommon9 = CreateSound( "Sound/Dialogue/Trommon/Trommon9.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Trommon9, 3030 )
     call SetSoundChannel( gg_snd_Trommon9, 0 )
-    call SetSoundVolume( gg_snd_Trommon9, -1 )
+    call SetSoundVolume( gg_snd_Trommon9, 127 )
     call SetSoundPitch( gg_snd_Trommon9, 1.0 )
-    set gg_snd_Ursula1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ursula1, 12120 )
+    set gg_snd_Ursula1 = CreateSound( "Sound/Dialogue/Ursula/Ursula1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ursula1, 9299 )
     call SetSoundChannel( gg_snd_Ursula1, 0 )
     call SetSoundVolume( gg_snd_Ursula1, 127 )
     call SetSoundPitch( gg_snd_Ursula1, 1.0 )
-    set gg_snd_Ursula10 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ursula10, 12120 )
+    set gg_snd_Ursula10 = CreateSound( "Sound/Dialogue/Ursula/Ursula10.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ursula10, 13244 )
     call SetSoundChannel( gg_snd_Ursula10, 0 )
     call SetSoundVolume( gg_snd_Ursula10, 127 )
     call SetSoundPitch( gg_snd_Ursula10, 1.0 )
-    set gg_snd_Ursula11 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ursula11, 12120 )
+    set gg_snd_Ursula11 = CreateSound( "Sound/Dialogue/Ursula/Ursula11.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ursula11, 10135 )
     call SetSoundChannel( gg_snd_Ursula11, 0 )
     call SetSoundVolume( gg_snd_Ursula11, 127 )
     call SetSoundPitch( gg_snd_Ursula11, 1.0 )
-    set gg_snd_Ursula12 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ursula12, 12120 )
+    set gg_snd_Ursula12 = CreateSound( "Sound/Dialogue/Ursula/Ursula12.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ursula12, 10527 )
     call SetSoundChannel( gg_snd_Ursula12, 0 )
     call SetSoundVolume( gg_snd_Ursula12, 127 )
     call SetSoundPitch( gg_snd_Ursula12, 1.0 )
-    set gg_snd_Ursula13 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ursula13, 12120 )
+    set gg_snd_Ursula13 = CreateSound( "Sound/Dialogue/Ursula/Ursula13.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ursula13, 2560 )
     call SetSoundChannel( gg_snd_Ursula13, 0 )
     call SetSoundVolume( gg_snd_Ursula13, 127 )
     call SetSoundPitch( gg_snd_Ursula13, 1.0 )
-    set gg_snd_Ursula14 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ursula14, 12120 )
+    set gg_snd_Ursula14 = CreateSound( "Sound/Dialogue/Ursula/Ursula14.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ursula14, 2586 )
     call SetSoundChannel( gg_snd_Ursula14, 0 )
     call SetSoundVolume( gg_snd_Ursula14, 127 )
     call SetSoundPitch( gg_snd_Ursula14, 1.0 )
-    set gg_snd_Ursula15 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ursula15, 12120 )
+    set gg_snd_Ursula15 = CreateSound( "Sound/Dialogue/Ursula/Ursula15.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ursula15, 2716 )
     call SetSoundChannel( gg_snd_Ursula15, 0 )
     call SetSoundVolume( gg_snd_Ursula15, 127 )
     call SetSoundPitch( gg_snd_Ursula15, 1.0 )
-    set gg_snd_Ursula16 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ursula16, 12120 )
+    set gg_snd_Ursula16 = CreateSound( "Sound/Dialogue/Ursula/Ursula16.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ursula16, 16091 )
     call SetSoundChannel( gg_snd_Ursula16, 0 )
     call SetSoundVolume( gg_snd_Ursula16, 127 )
     call SetSoundPitch( gg_snd_Ursula16, 1.0 )
-    set gg_snd_Ursula17 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ursula17, 12120 )
+    set gg_snd_Ursula17 = CreateSound( "Sound/Dialogue/Ursula/Ursula17.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ursula17, 7053 )
     call SetSoundChannel( gg_snd_Ursula17, 0 )
     call SetSoundVolume( gg_snd_Ursula17, 127 )
     call SetSoundPitch( gg_snd_Ursula17, 1.0 )
-    set gg_snd_Ursula18 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ursula18, 12120 )
+    set gg_snd_Ursula18 = CreateSound( "Sound/Dialogue/Ursula/Ursula18.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ursula18, 10553 )
     call SetSoundChannel( gg_snd_Ursula18, 0 )
     call SetSoundVolume( gg_snd_Ursula18, 127 )
     call SetSoundPitch( gg_snd_Ursula18, 1.0 )
-    set gg_snd_Ursula19 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ursula19, 12120 )
+    set gg_snd_Ursula19 = CreateSound( "Sound/Dialogue/Ursula/Ursula19.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ursula19, 1332 )
     call SetSoundChannel( gg_snd_Ursula19, 0 )
     call SetSoundVolume( gg_snd_Ursula19, 127 )
     call SetSoundPitch( gg_snd_Ursula19, 1.0 )
-    set gg_snd_Ursula2 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ursula2, 12120 )
+    set gg_snd_Ursula2 = CreateSound( "Sound/Dialogue/Ursula/Ursula2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ursula2, 19748 )
     call SetSoundChannel( gg_snd_Ursula2, 0 )
     call SetSoundVolume( gg_snd_Ursula2, 127 )
     call SetSoundPitch( gg_snd_Ursula2, 1.0 )
-    set gg_snd_Ursula20 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ursula20, 12120 )
+    set gg_snd_Ursula20 = CreateSound( "Sound/Dialogue/Ursula/Ursula20.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ursula20, 1253 )
     call SetSoundChannel( gg_snd_Ursula20, 0 )
     call SetSoundVolume( gg_snd_Ursula20, 127 )
     call SetSoundPitch( gg_snd_Ursula20, 1.0 )
-    set gg_snd_Ursula21 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ursula21, 12120 )
+    set gg_snd_Ursula21 = CreateSound( "Sound/Dialogue/Ursula/Ursula21.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ursula21, 1149 )
     call SetSoundChannel( gg_snd_Ursula21, 0 )
     call SetSoundVolume( gg_snd_Ursula21, 127 )
     call SetSoundPitch( gg_snd_Ursula21, 1.0 )
-    set gg_snd_Ursula22 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ursula22, 12120 )
+    set gg_snd_Ursula22 = CreateSound( "Sound/Dialogue/Ursula/Ursula22.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ursula22, 17136 )
     call SetSoundChannel( gg_snd_Ursula22, 0 )
     call SetSoundVolume( gg_snd_Ursula22, 127 )
     call SetSoundPitch( gg_snd_Ursula22, 1.0 )
-    set gg_snd_Ursula23 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ursula23, 12120 )
+    set gg_snd_Ursula23 = CreateSound( "Sound/Dialogue/Ursula/Ursula23.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ursula23, 13139 )
     call SetSoundChannel( gg_snd_Ursula23, 0 )
     call SetSoundVolume( gg_snd_Ursula23, 127 )
     call SetSoundPitch( gg_snd_Ursula23, 1.0 )
-    set gg_snd_Ursula24 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ursula24, 12120 )
+    set gg_snd_Ursula24 = CreateSound( "Sound/Dialogue/Ursula/Ursula24.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ursula24, 6112 )
     call SetSoundChannel( gg_snd_Ursula24, 0 )
     call SetSoundVolume( gg_snd_Ursula24, 127 )
     call SetSoundPitch( gg_snd_Ursula24, 1.0 )
-    set gg_snd_Ursula25 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ursula25, 12120 )
+    set gg_snd_Ursula25 = CreateSound( "Sound/Dialogue/Ursula/Ursula25.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ursula25, 11859 )
     call SetSoundChannel( gg_snd_Ursula25, 0 )
     call SetSoundVolume( gg_snd_Ursula25, 127 )
     call SetSoundPitch( gg_snd_Ursula25, 1.0 )
-    set gg_snd_Ursula26 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ursula26, 12120 )
+    set gg_snd_Ursula26 = CreateSound( "Sound/Dialogue/Ursula/Ursula26.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ursula26, 8359 )
     call SetSoundChannel( gg_snd_Ursula26, 0 )
     call SetSoundVolume( gg_snd_Ursula26, 127 )
     call SetSoundPitch( gg_snd_Ursula26, 1.0 )
-    set gg_snd_Ursula27 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ursula27, 12120 )
+    set gg_snd_Ursula27 = CreateSound( "Sound/Dialogue/Ursula/Ursula27.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ursula27, 15072 )
     call SetSoundChannel( gg_snd_Ursula27, 0 )
     call SetSoundVolume( gg_snd_Ursula27, 127 )
     call SetSoundPitch( gg_snd_Ursula27, 1.0 )
-    set gg_snd_Ursula28 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ursula28, 12120 )
+    set gg_snd_Ursula28 = CreateSound( "Sound/Dialogue/Ursula/Ursula28.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ursula28, 12408 )
     call SetSoundChannel( gg_snd_Ursula28, 0 )
     call SetSoundVolume( gg_snd_Ursula28, 127 )
     call SetSoundPitch( gg_snd_Ursula28, 1.0 )
-    set gg_snd_Ursula29 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ursula29, 12120 )
+    set gg_snd_Ursula29 = CreateSound( "Sound/Dialogue/Ursula/Ursula29.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ursula29, 13191 )
     call SetSoundChannel( gg_snd_Ursula29, 0 )
     call SetSoundVolume( gg_snd_Ursula29, 127 )
     call SetSoundPitch( gg_snd_Ursula29, 1.0 )
-    set gg_snd_Ursula3 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ursula3, 12120 )
+    set gg_snd_Ursula3 = CreateSound( "Sound/Dialogue/Ursula/Ursula3.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ursula3, 13557 )
     call SetSoundChannel( gg_snd_Ursula3, 0 )
     call SetSoundVolume( gg_snd_Ursula3, 127 )
     call SetSoundPitch( gg_snd_Ursula3, 1.0 )
-    set gg_snd_Ursula30 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ursula30, 12120 )
+    set gg_snd_Ursula30 = CreateSound( "Sound/Dialogue/Ursula/Ursula30.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ursula30, 4519 )
     call SetSoundChannel( gg_snd_Ursula30, 0 )
     call SetSoundVolume( gg_snd_Ursula30, 127 )
     call SetSoundPitch( gg_snd_Ursula30, 1.0 )
-    set gg_snd_Ursula31 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ursula31, 12120 )
+    set gg_snd_Ursula31 = CreateSound( "Sound/Dialogue/Ursula/Ursula31.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ursula31, 12904 )
     call SetSoundChannel( gg_snd_Ursula31, 0 )
     call SetSoundVolume( gg_snd_Ursula31, 127 )
     call SetSoundPitch( gg_snd_Ursula31, 1.0 )
-    set gg_snd_Ursula32 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ursula32, 12120 )
+    set gg_snd_Ursula32 = CreateSound( "Sound/Dialogue/Ursula/Ursula32.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ursula32, 11520 )
     call SetSoundChannel( gg_snd_Ursula32, 0 )
     call SetSoundVolume( gg_snd_Ursula32, 127 )
     call SetSoundPitch( gg_snd_Ursula32, 1.0 )
-    set gg_snd_Ursula33 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ursula33, 12120 )
+    set gg_snd_Ursula33 = CreateSound( "Sound/Dialogue/Ursula/Ursula33.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ursula33, 9430 )
     call SetSoundChannel( gg_snd_Ursula33, 0 )
     call SetSoundVolume( gg_snd_Ursula33, 127 )
     call SetSoundPitch( gg_snd_Ursula33, 1.0 )
-    set gg_snd_Ursula34 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ursula34, 12120 )
+    set gg_snd_Ursula34 = CreateSound( "Sound/Dialogue/Ursula/Ursula34.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ursula34, 7026 )
     call SetSoundChannel( gg_snd_Ursula34, 0 )
     call SetSoundVolume( gg_snd_Ursula34, 127 )
     call SetSoundPitch( gg_snd_Ursula34, 1.0 )
-    set gg_snd_Ursula35 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ursula35, 12120 )
+    set gg_snd_Ursula35 = CreateSound( "Sound/Dialogue/Ursula/Ursula35.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ursula35, 4832 )
     call SetSoundChannel( gg_snd_Ursula35, 0 )
     call SetSoundVolume( gg_snd_Ursula35, 127 )
     call SetSoundPitch( gg_snd_Ursula35, 1.0 )
-    set gg_snd_Ursula36 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ursula36, 12120 )
+    set gg_snd_Ursula36 = CreateSound( "Sound/Dialogue/Ursula/Ursula36.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ursula36, 7235 )
     call SetSoundChannel( gg_snd_Ursula36, 0 )
     call SetSoundVolume( gg_snd_Ursula36, 127 )
     call SetSoundPitch( gg_snd_Ursula36, 1.0 )
-    set gg_snd_Ursula37 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ursula37, 12120 )
+    set gg_snd_Ursula37 = CreateSound( "Sound/Dialogue/Ursula/Ursula37.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ursula37, 1671 )
     call SetSoundChannel( gg_snd_Ursula37, 0 )
     call SetSoundVolume( gg_snd_Ursula37, 127 )
     call SetSoundPitch( gg_snd_Ursula37, 1.0 )
-    set gg_snd_Ursula38 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ursula38, 12120 )
+    set gg_snd_Ursula38 = CreateSound( "Sound/Dialogue/Ursula/Ursula38.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ursula38, 8097 )
     call SetSoundChannel( gg_snd_Ursula38, 0 )
     call SetSoundVolume( gg_snd_Ursula38, 127 )
     call SetSoundPitch( gg_snd_Ursula38, 1.0 )
-    set gg_snd_Ursula39 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ursula39, 12120 )
+    set gg_snd_Ursula39 = CreateSound( "Sound/Dialogue/Ursula/Ursula39.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ursula39, 3134 )
     call SetSoundChannel( gg_snd_Ursula39, 0 )
     call SetSoundVolume( gg_snd_Ursula39, 127 )
     call SetSoundPitch( gg_snd_Ursula39, 1.0 )
-    set gg_snd_Ursula4 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ursula4, 12120 )
+    set gg_snd_Ursula4 = CreateSound( "Sound/Dialogue/Ursula/Ursula4.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ursula4, 9325 )
     call SetSoundChannel( gg_snd_Ursula4, 0 )
     call SetSoundVolume( gg_snd_Ursula4, 127 )
     call SetSoundPitch( gg_snd_Ursula4, 1.0 )
-    set gg_snd_Ursula40 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ursula40, 12120 )
+    set gg_snd_Ursula40 = CreateSound( "Sound/Dialogue/Ursula/Ursula40.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ursula40, 5381 )
     call SetSoundChannel( gg_snd_Ursula40, 0 )
     call SetSoundVolume( gg_snd_Ursula40, 127 )
     call SetSoundPitch( gg_snd_Ursula40, 1.0 )
-    set gg_snd_Ursula41 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ursula41, 12120 )
+    set gg_snd_Ursula41 = CreateSound( "Sound/Dialogue/Ursula/Ursula41.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ursula41, 3657 )
     call SetSoundChannel( gg_snd_Ursula41, 0 )
     call SetSoundVolume( gg_snd_Ursula41, 127 )
     call SetSoundPitch( gg_snd_Ursula41, 1.0 )
-    set gg_snd_Ursula42 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ursula42, 12120 )
+    set gg_snd_Ursula42 = CreateSound( "Sound/Dialogue/Ursula/Ursula42.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ursula42, 3970 )
     call SetSoundChannel( gg_snd_Ursula42, 0 )
     call SetSoundVolume( gg_snd_Ursula42, 127 )
     call SetSoundPitch( gg_snd_Ursula42, 1.0 )
-    set gg_snd_Ursula43 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ursula43, 12120 )
+    set gg_snd_Ursula43 = CreateSound( "Sound/Dialogue/Ursula/Ursula43.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ursula43, 8646 )
     call SetSoundChannel( gg_snd_Ursula43, 0 )
     call SetSoundVolume( gg_snd_Ursula43, 127 )
     call SetSoundPitch( gg_snd_Ursula43, 1.0 )
-    set gg_snd_Ursula5 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ursula5, 12120 )
+    set gg_snd_Ursula5 = CreateSound( "Sound/Dialogue/Ursula/Ursula5.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ursula5, 7758 )
     call SetSoundChannel( gg_snd_Ursula5, 0 )
     call SetSoundVolume( gg_snd_Ursula5, 127 )
     call SetSoundPitch( gg_snd_Ursula5, 1.0 )
-    set gg_snd_Ursula6 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ursula6, 12120 )
+    set gg_snd_Ursula6 = CreateSound( "Sound/Dialogue/Ursula/Ursula6.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ursula6, 6687 )
     call SetSoundChannel( gg_snd_Ursula6, 0 )
     call SetSoundVolume( gg_snd_Ursula6, 127 )
     call SetSoundPitch( gg_snd_Ursula6, 1.0 )
-    set gg_snd_Ursula7 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ursula7, 12120 )
+    set gg_snd_Ursula7 = CreateSound( "Sound/Dialogue/Ursula/Ursula7.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ursula7, 12251 )
     call SetSoundChannel( gg_snd_Ursula7, 0 )
     call SetSoundVolume( gg_snd_Ursula7, 127 )
     call SetSoundPitch( gg_snd_Ursula7, 1.0 )
-    set gg_snd_Ursula8 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ursula8, 12120 )
+    set gg_snd_Ursula8 = CreateSound( "Sound/Dialogue/Ursula/Ursula8.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ursula8, 19670 )
     call SetSoundChannel( gg_snd_Ursula8, 0 )
     call SetSoundVolume( gg_snd_Ursula8, 127 )
     call SetSoundPitch( gg_snd_Ursula8, 1.0 )
-    set gg_snd_Ursula9 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Ursula9, 12120 )
+    set gg_snd_Ursula9 = CreateSound( "Sound/Dialogue/Ursula/Ursula9.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Ursula9, 5433 )
     call SetSoundChannel( gg_snd_Ursula9, 0 )
     call SetSoundVolume( gg_snd_Ursula9, 127 )
     call SetSoundPitch( gg_snd_Ursula9, 1.0 )
-    set gg_snd_Wieland1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wieland1, 12120 )
+    set gg_snd_Wieland1 = CreateSound( "Sound/Dialogue/Wieland/Wieland1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wieland1, 3134 )
     call SetSoundChannel( gg_snd_Wieland1, 0 )
-    call SetSoundVolume( gg_snd_Wieland1, -1 )
+    call SetSoundVolume( gg_snd_Wieland1, 127 )
     call SetSoundPitch( gg_snd_Wieland1, 1.0 )
-    set gg_snd_Wieland10 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wieland10, 12120 )
+    set gg_snd_Wieland10 = CreateSound( "Sound/Dialogue/Wieland/Wieland10.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wieland10, 12016 )
     call SetSoundChannel( gg_snd_Wieland10, 0 )
-    call SetSoundVolume( gg_snd_Wieland10, -1 )
+    call SetSoundVolume( gg_snd_Wieland10, 127 )
     call SetSoundPitch( gg_snd_Wieland10, 1.0 )
-    set gg_snd_Wieland11 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wieland11, 12120 )
+    set gg_snd_Wieland11 = CreateSound( "Sound/Dialogue/Wieland/Wieland11.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wieland11, 6608 )
     call SetSoundChannel( gg_snd_Wieland11, 0 )
-    call SetSoundVolume( gg_snd_Wieland11, -1 )
+    call SetSoundVolume( gg_snd_Wieland11, 127 )
     call SetSoundPitch( gg_snd_Wieland11, 1.0 )
-    set gg_snd_Wieland12 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wieland12, 12120 )
+    set gg_snd_Wieland12 = CreateSound( "Sound/Dialogue/Wieland/Wieland12.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wieland12, 8881 )
     call SetSoundChannel( gg_snd_Wieland12, 0 )
-    call SetSoundVolume( gg_snd_Wieland12, -1 )
+    call SetSoundVolume( gg_snd_Wieland12, 127 )
     call SetSoundPitch( gg_snd_Wieland12, 1.0 )
-    set gg_snd_Wieland13 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wieland13, 12120 )
+    set gg_snd_Wieland13 = CreateSound( "Sound/Dialogue/Wieland/Wieland13.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wieland13, 9012 )
     call SetSoundChannel( gg_snd_Wieland13, 0 )
-    call SetSoundVolume( gg_snd_Wieland13, -1 )
+    call SetSoundVolume( gg_snd_Wieland13, 127 )
     call SetSoundPitch( gg_snd_Wieland13, 1.0 )
-    set gg_snd_Wieland14 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wieland14, 12120 )
+    set gg_snd_Wieland14 = CreateSound( "Sound/Dialogue/Wieland/Wieland14.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wieland14, 11049 )
     call SetSoundChannel( gg_snd_Wieland14, 0 )
-    call SetSoundVolume( gg_snd_Wieland14, -1 )
+    call SetSoundVolume( gg_snd_Wieland14, 127 )
     call SetSoundPitch( gg_snd_Wieland14, 1.0 )
-    set gg_snd_Wieland15 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wieland15, 12120 )
+    set gg_snd_Wieland15 = CreateSound( "Sound/Dialogue/Wieland/Wieland15.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wieland15, 10710 )
     call SetSoundChannel( gg_snd_Wieland15, 0 )
-    call SetSoundVolume( gg_snd_Wieland15, -1 )
+    call SetSoundVolume( gg_snd_Wieland15, 127 )
     call SetSoundPitch( gg_snd_Wieland15, 1.0 )
-    set gg_snd_Wieland16 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wieland16, 12120 )
+    set gg_snd_Wieland16 = CreateSound( "Sound/Dialogue/Wieland/Wieland16.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wieland16, 2795 )
     call SetSoundChannel( gg_snd_Wieland16, 0 )
-    call SetSoundVolume( gg_snd_Wieland16, -1 )
+    call SetSoundVolume( gg_snd_Wieland16, 127 )
     call SetSoundPitch( gg_snd_Wieland16, 1.0 )
-    set gg_snd_Wieland17 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wieland17, 12120 )
+    set gg_snd_Wieland17 = CreateSound( "Sound/Dialogue/Wieland/Wieland17.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wieland17, 10657 )
     call SetSoundChannel( gg_snd_Wieland17, 0 )
-    call SetSoundVolume( gg_snd_Wieland17, -1 )
+    call SetSoundVolume( gg_snd_Wieland17, 127 )
     call SetSoundPitch( gg_snd_Wieland17, 1.0 )
-    set gg_snd_Wieland18 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wieland18, 12120 )
+    set gg_snd_Wieland18 = CreateSound( "Sound/Dialogue/Wieland/Wieland18.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wieland18, 8542 )
     call SetSoundChannel( gg_snd_Wieland18, 0 )
-    call SetSoundVolume( gg_snd_Wieland18, -1 )
+    call SetSoundVolume( gg_snd_Wieland18, 127 )
     call SetSoundPitch( gg_snd_Wieland18, 1.0 )
-    set gg_snd_Wieland19 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wieland19, 12120 )
+    set gg_snd_Wieland19 = CreateSound( "Sound/Dialogue/Wieland/Wieland19.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wieland19, 10997 )
     call SetSoundChannel( gg_snd_Wieland19, 0 )
-    call SetSoundVolume( gg_snd_Wieland19, -1 )
+    call SetSoundVolume( gg_snd_Wieland19, 127 )
     call SetSoundPitch( gg_snd_Wieland19, 1.0 )
-    set gg_snd_Wieland2 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wieland2, 12120 )
+    set gg_snd_Wieland2 = CreateSound( "Sound/Dialogue/Wieland/Wieland2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wieland2, 3657 )
     call SetSoundChannel( gg_snd_Wieland2, 0 )
-    call SetSoundVolume( gg_snd_Wieland2, -1 )
+    call SetSoundVolume( gg_snd_Wieland2, 127 )
     call SetSoundPitch( gg_snd_Wieland2, 1.0 )
-    set gg_snd_Wieland20 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wieland20, 12120 )
+    set gg_snd_Wieland20 = CreateSound( "Sound/Dialogue/Wieland/Wieland20.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wieland20, 5250 )
     call SetSoundChannel( gg_snd_Wieland20, 0 )
-    call SetSoundVolume( gg_snd_Wieland20, -1 )
+    call SetSoundVolume( gg_snd_Wieland20, 127 )
     call SetSoundPitch( gg_snd_Wieland20, 1.0 )
-    set gg_snd_Wieland21 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wieland21, 12120 )
+    set gg_snd_Wieland21 = CreateSound( "Sound/Dialogue/Wieland/Wieland21.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wieland21, 2220 )
     call SetSoundChannel( gg_snd_Wieland21, 0 )
-    call SetSoundVolume( gg_snd_Wieland21, -1 )
+    call SetSoundVolume( gg_snd_Wieland21, 127 )
     call SetSoundPitch( gg_snd_Wieland21, 1.0 )
-    set gg_snd_Wieland22 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wieland22, 12120 )
+    set gg_snd_Wieland22 = CreateSound( "Sound/Dialogue/Wieland/Wieland22.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wieland22, 4310 )
     call SetSoundChannel( gg_snd_Wieland22, 0 )
-    call SetSoundVolume( gg_snd_Wieland22, -1 )
+    call SetSoundVolume( gg_snd_Wieland22, 127 )
     call SetSoundPitch( gg_snd_Wieland22, 1.0 )
-    set gg_snd_Wieland23 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wieland23, 12120 )
+    set gg_snd_Wieland23 = CreateSound( "Sound/Dialogue/Wieland/Wieland23.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wieland23, 1959 )
     call SetSoundChannel( gg_snd_Wieland23, 0 )
-    call SetSoundVolume( gg_snd_Wieland23, -1 )
+    call SetSoundVolume( gg_snd_Wieland23, 127 )
     call SetSoundPitch( gg_snd_Wieland23, 1.0 )
-    set gg_snd_Wieland24 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wieland24, 12120 )
+    set gg_snd_Wieland24 = CreateSound( "Sound/Dialogue/Wieland/Wieland24.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wieland24, 2481 )
     call SetSoundChannel( gg_snd_Wieland24, 0 )
-    call SetSoundVolume( gg_snd_Wieland24, -1 )
+    call SetSoundVolume( gg_snd_Wieland24, 127 )
     call SetSoundPitch( gg_snd_Wieland24, 1.0 )
-    set gg_snd_Wieland25 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wieland25, 12120 )
+    set gg_snd_Wieland25 = CreateSound( "Sound/Dialogue/Wieland/Wieland25.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wieland25, 1018 )
     call SetSoundChannel( gg_snd_Wieland25, 0 )
-    call SetSoundVolume( gg_snd_Wieland25, -1 )
+    call SetSoundVolume( gg_snd_Wieland25, 127 )
     call SetSoundPitch( gg_snd_Wieland25, 1.0 )
-    set gg_snd_Wieland26 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wieland26, 12120 )
+    set gg_snd_Wieland26 = CreateSound( "Sound/Dialogue/Wieland/Wieland26.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wieland26, 7053 )
     call SetSoundChannel( gg_snd_Wieland26, 0 )
-    call SetSoundVolume( gg_snd_Wieland26, -1 )
+    call SetSoundVolume( gg_snd_Wieland26, 127 )
     call SetSoundPitch( gg_snd_Wieland26, 1.0 )
-    set gg_snd_Wieland27 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wieland27, 12120 )
+    set gg_snd_Wieland27 = CreateSound( "Sound/Dialogue/Wieland/Wieland27.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wieland27, 12329 )
     call SetSoundChannel( gg_snd_Wieland27, 0 )
-    call SetSoundVolume( gg_snd_Wieland27, -1 )
+    call SetSoundVolume( gg_snd_Wieland27, 127 )
     call SetSoundPitch( gg_snd_Wieland27, 1.0 )
-    set gg_snd_Wieland28 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wieland28, 12120 )
+    set gg_snd_Wieland28 = CreateSound( "Sound/Dialogue/Wieland/Wieland28.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wieland28, 2951 )
     call SetSoundChannel( gg_snd_Wieland28, 0 )
-    call SetSoundVolume( gg_snd_Wieland28, -1 )
+    call SetSoundVolume( gg_snd_Wieland28, 127 )
     call SetSoundPitch( gg_snd_Wieland28, 1.0 )
-    set gg_snd_Wieland29 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wieland29, 12120 )
+    set gg_snd_Wieland29 = CreateSound( "Sound/Dialogue/Wieland/Wieland29.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wieland29, 3317 )
     call SetSoundChannel( gg_snd_Wieland29, 0 )
-    call SetSoundVolume( gg_snd_Wieland29, -1 )
+    call SetSoundVolume( gg_snd_Wieland29, 127 )
     call SetSoundPitch( gg_snd_Wieland29, 1.0 )
-    set gg_snd_Wieland3 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wieland3, 12120 )
+    set gg_snd_Wieland3 = CreateSound( "Sound/Dialogue/Wieland/Wieland3.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wieland3, 3683 )
     call SetSoundChannel( gg_snd_Wieland3, 0 )
-    call SetSoundVolume( gg_snd_Wieland3, -1 )
+    call SetSoundVolume( gg_snd_Wieland3, 127 )
     call SetSoundPitch( gg_snd_Wieland3, 1.0 )
-    set gg_snd_Wieland30 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wieland30, 12120 )
+    set gg_snd_Wieland30 = CreateSound( "Sound/Dialogue/Wieland/Wieland30.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wieland30, 7810 )
     call SetSoundChannel( gg_snd_Wieland30, 0 )
-    call SetSoundVolume( gg_snd_Wieland30, -1 )
+    call SetSoundVolume( gg_snd_Wieland30, 127 )
     call SetSoundPitch( gg_snd_Wieland30, 1.0 )
-    set gg_snd_Wieland31 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wieland31, 12120 )
+    set gg_snd_Wieland31 = CreateSound( "Sound/Dialogue/Wieland/Wieland31.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wieland31, 10919 )
     call SetSoundChannel( gg_snd_Wieland31, 0 )
-    call SetSoundVolume( gg_snd_Wieland31, -1 )
+    call SetSoundVolume( gg_snd_Wieland31, 127 )
     call SetSoundPitch( gg_snd_Wieland31, 1.0 )
-    set gg_snd_Wieland32 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wieland32, 12120 )
+    set gg_snd_Wieland32 = CreateSound( "Sound/Dialogue/Wieland/Wieland32.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wieland32, 9456 )
     call SetSoundChannel( gg_snd_Wieland32, 0 )
-    call SetSoundVolume( gg_snd_Wieland32, -1 )
+    call SetSoundVolume( gg_snd_Wieland32, 127 )
     call SetSoundPitch( gg_snd_Wieland32, 1.0 )
-    set gg_snd_Wieland33 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wieland33, 12120 )
+    set gg_snd_Wieland33 = CreateSound( "Sound/Dialogue/Wieland/Wieland33.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wieland33, 8803 )
     call SetSoundChannel( gg_snd_Wieland33, 0 )
-    call SetSoundVolume( gg_snd_Wieland33, -1 )
+    call SetSoundVolume( gg_snd_Wieland33, 127 )
     call SetSoundPitch( gg_snd_Wieland33, 1.0 )
-    set gg_snd_Wieland34 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wieland34, 12120 )
+    set gg_snd_Wieland34 = CreateSound( "Sound/Dialogue/Wieland/Wieland34.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wieland34, 1959 )
     call SetSoundChannel( gg_snd_Wieland34, 0 )
-    call SetSoundVolume( gg_snd_Wieland34, -1 )
+    call SetSoundVolume( gg_snd_Wieland34, 127 )
     call SetSoundPitch( gg_snd_Wieland34, 1.0 )
-    set gg_snd_Wieland35 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wieland35, 12120 )
+    set gg_snd_Wieland35 = CreateSound( "Sound/Dialogue/Wieland/Wieland35.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wieland35, 4153 )
     call SetSoundChannel( gg_snd_Wieland35, 0 )
-    call SetSoundVolume( gg_snd_Wieland35, -1 )
+    call SetSoundVolume( gg_snd_Wieland35, 127 )
     call SetSoundPitch( gg_snd_Wieland35, 1.0 )
-    set gg_snd_Wieland36 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wieland36, 12120 )
+    set gg_snd_Wieland36 = CreateSound( "Sound/Dialogue/Wieland/Wieland36.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wieland36, 17711 )
     call SetSoundChannel( gg_snd_Wieland36, 0 )
-    call SetSoundVolume( gg_snd_Wieland36, -1 )
+    call SetSoundVolume( gg_snd_Wieland36, 127 )
     call SetSoundPitch( gg_snd_Wieland36, 1.0 )
-    set gg_snd_Wieland37 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wieland37, 12120 )
+    set gg_snd_Wieland37 = CreateSound( "Sound/Dialogue/Wieland/Wieland37.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wieland37, 11624 )
     call SetSoundChannel( gg_snd_Wieland37, 0 )
-    call SetSoundVolume( gg_snd_Wieland37, -1 )
+    call SetSoundVolume( gg_snd_Wieland37, 127 )
     call SetSoundPitch( gg_snd_Wieland37, 1.0 )
-    set gg_snd_Wieland38 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wieland38, 12120 )
+    set gg_snd_Wieland38 = CreateSound( "Sound/Dialogue/Wieland/Wieland38.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wieland38, 1750 )
     call SetSoundChannel( gg_snd_Wieland38, 0 )
-    call SetSoundVolume( gg_snd_Wieland38, -1 )
+    call SetSoundVolume( gg_snd_Wieland38, 127 )
     call SetSoundPitch( gg_snd_Wieland38, 1.0 )
-    set gg_snd_Wieland39 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wieland39, 12120 )
+    set gg_snd_Wieland39 = CreateSound( "Sound/Dialogue/Wieland/Wieland39.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wieland39, 3395 )
     call SetSoundChannel( gg_snd_Wieland39, 0 )
-    call SetSoundVolume( gg_snd_Wieland39, -1 )
+    call SetSoundVolume( gg_snd_Wieland39, 127 )
     call SetSoundPitch( gg_snd_Wieland39, 1.0 )
-    set gg_snd_Wieland4 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wieland4, 12120 )
+    set gg_snd_Wieland4 = CreateSound( "Sound/Dialogue/Wieland/Wieland4.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wieland4, 9404 )
     call SetSoundChannel( gg_snd_Wieland4, 0 )
-    call SetSoundVolume( gg_snd_Wieland4, -1 )
+    call SetSoundVolume( gg_snd_Wieland4, 127 )
     call SetSoundPitch( gg_snd_Wieland4, 1.0 )
-    set gg_snd_Wieland40 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wieland40, 12120 )
+    set gg_snd_Wieland40 = CreateSound( "Sound/Dialogue/Wieland/Wieland40.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wieland40, 3265 )
     call SetSoundChannel( gg_snd_Wieland40, 0 )
-    call SetSoundVolume( gg_snd_Wieland40, -1 )
+    call SetSoundVolume( gg_snd_Wieland40, 127 )
     call SetSoundPitch( gg_snd_Wieland40, 1.0 )
-    set gg_snd_Wieland41 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wieland41, 12120 )
+    set gg_snd_Wieland41 = CreateSound( "Sound/Dialogue/Wieland/Wieland41.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wieland41, 2142 )
     call SetSoundChannel( gg_snd_Wieland41, 0 )
-    call SetSoundVolume( gg_snd_Wieland41, -1 )
+    call SetSoundVolume( gg_snd_Wieland41, 127 )
     call SetSoundPitch( gg_snd_Wieland41, 1.0 )
-    set gg_snd_Wieland5 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wieland5, 12120 )
+    set gg_snd_Wieland5 = CreateSound( "Sound/Dialogue/Wieland/Wieland5.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wieland5, 12408 )
     call SetSoundChannel( gg_snd_Wieland5, 0 )
-    call SetSoundVolume( gg_snd_Wieland5, -1 )
+    call SetSoundVolume( gg_snd_Wieland5, 127 )
     call SetSoundPitch( gg_snd_Wieland5, 1.0 )
-    set gg_snd_Wieland6 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wieland6, 12120 )
+    set gg_snd_Wieland6 = CreateSound( "Sound/Dialogue/Wieland/Wieland6.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wieland6, 13662 )
     call SetSoundChannel( gg_snd_Wieland6, 0 )
-    call SetSoundVolume( gg_snd_Wieland6, -1 )
+    call SetSoundVolume( gg_snd_Wieland6, 127 )
     call SetSoundPitch( gg_snd_Wieland6, 1.0 )
-    set gg_snd_Wieland7 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wieland7, 12120 )
+    set gg_snd_Wieland7 = CreateSound( "Sound/Dialogue/Wieland/Wieland7.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wieland7, 7627 )
     call SetSoundChannel( gg_snd_Wieland7, 0 )
-    call SetSoundVolume( gg_snd_Wieland7, -1 )
+    call SetSoundVolume( gg_snd_Wieland7, 127 )
     call SetSoundPitch( gg_snd_Wieland7, 1.0 )
-    set gg_snd_Wieland8 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wieland8, 12120 )
+    set gg_snd_Wieland8 = CreateSound( "Sound/Dialogue/Wieland/Wieland8.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wieland8, 14759 )
     call SetSoundChannel( gg_snd_Wieland8, 0 )
-    call SetSoundVolume( gg_snd_Wieland8, -1 )
+    call SetSoundVolume( gg_snd_Wieland8, 127 )
     call SetSoundPitch( gg_snd_Wieland8, 1.0 )
-    set gg_snd_Wieland9 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wieland9, 12120 )
+    set gg_snd_Wieland9 = CreateSound( "Sound/Dialogue/Wieland/Wieland9.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wieland9, 9377 )
     call SetSoundChannel( gg_snd_Wieland9, 0 )
-    call SetSoundVolume( gg_snd_Wieland9, -1 )
+    call SetSoundVolume( gg_snd_Wieland9, 127 )
     call SetSoundPitch( gg_snd_Wieland9, 1.0 )
-    set gg_snd_Wieland_a = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wieland_a, 12120 )
+    set gg_snd_Wieland_a = CreateSound( "Sound/Dialogue/Wieland/Wieland_a.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wieland_a, 1253 )
     call SetSoundChannel( gg_snd_Wieland_a, 0 )
-    call SetSoundVolume( gg_snd_Wieland_a, -1 )
+    call SetSoundVolume( gg_snd_Wieland_a, 127 )
     call SetSoundPitch( gg_snd_Wieland_a, 1.0 )
-    set gg_snd_Wieland_b = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wieland_b, 12120 )
+    set gg_snd_Wieland_b = CreateSound( "Sound/Dialogue/Wieland/Wieland_b.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wieland_b, 8777 )
     call SetSoundChannel( gg_snd_Wieland_b, 0 )
-    call SetSoundVolume( gg_snd_Wieland_b, -1 )
+    call SetSoundVolume( gg_snd_Wieland_b, 127 )
     call SetSoundPitch( gg_snd_Wieland_b, 1.0 )
-    set gg_snd_Wieland_c = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wieland_c, 12120 )
+    set gg_snd_Wieland_c = CreateSound( "Sound/Dialogue/Wieland/Wieland_c.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wieland_c, 8803 )
     call SetSoundChannel( gg_snd_Wieland_c, 0 )
-    call SetSoundVolume( gg_snd_Wieland_c, -1 )
+    call SetSoundVolume( gg_snd_Wieland_c, 127 )
     call SetSoundPitch( gg_snd_Wieland_c, 1.0 )
-    set gg_snd_Wieland_d = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wieland_d, 12120 )
+    set gg_snd_Wieland_d = CreateSound( "Sound/Dialogue/Wieland/Wieland_d.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wieland_d, 5093 )
     call SetSoundChannel( gg_snd_Wieland_d, 0 )
-    call SetSoundVolume( gg_snd_Wieland_d, -1 )
+    call SetSoundVolume( gg_snd_Wieland_d, 127 )
     call SetSoundPitch( gg_snd_Wieland_d, 1.0 )
-    set gg_snd_Wieland_e = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wieland_e, 12120 )
+    set gg_snd_Wieland_e = CreateSound( "Sound/Dialogue/Wieland/Wieland_e.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wieland_e, 15908 )
     call SetSoundChannel( gg_snd_Wieland_e, 0 )
-    call SetSoundVolume( gg_snd_Wieland_e, -1 )
+    call SetSoundVolume( gg_snd_Wieland_e, 127 )
     call SetSoundPitch( gg_snd_Wieland_e, 1.0 )
-    set gg_snd_Wieland_f = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wieland_f, 12120 )
+    set gg_snd_Wieland_f = CreateSound( "Sound/Dialogue/Wieland/Wieland_f.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wieland_f, 13949 )
     call SetSoundChannel( gg_snd_Wieland_f, 0 )
-    call SetSoundVolume( gg_snd_Wieland_f, -1 )
+    call SetSoundVolume( gg_snd_Wieland_f, 127 )
     call SetSoundPitch( gg_snd_Wieland_f, 1.0 )
-    set gg_snd_Wieland_g = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wieland_g, 12120 )
+    set gg_snd_Wieland_g = CreateSound( "Sound/Dialogue/Wieland/Wieland_g.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wieland_g, 1515 )
     call SetSoundChannel( gg_snd_Wieland_g, 0 )
-    call SetSoundVolume( gg_snd_Wieland_g, -1 )
+    call SetSoundVolume( gg_snd_Wieland_g, 127 )
     call SetSoundPitch( gg_snd_Wieland_g, 1.0 )
-    set gg_snd_Wieland_h = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wieland_h, 12120 )
+    set gg_snd_Wieland_h = CreateSound( "Sound/Dialogue/Wieland/Wieland_h.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wieland_h, 809 )
     call SetSoundChannel( gg_snd_Wieland_h, 0 )
-    call SetSoundVolume( gg_snd_Wieland_h, -1 )
+    call SetSoundVolume( gg_snd_Wieland_h, 127 )
     call SetSoundPitch( gg_snd_Wieland_h, 1.0 )
-    set gg_snd_Wieland_i = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wieland_i, 12120 )
+    set gg_snd_Wieland_i = CreateSound( "Sound/Dialogue/Wieland/Wieland_i.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wieland_i, 470 )
     call SetSoundChannel( gg_snd_Wieland_i, 0 )
-    call SetSoundVolume( gg_snd_Wieland_i, -1 )
+    call SetSoundVolume( gg_snd_Wieland_i, 127 )
     call SetSoundPitch( gg_snd_Wieland_i, 1.0 )
-    set gg_snd_Wieland_j = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wieland_j, 12120 )
+    set gg_snd_Wieland_j = CreateSound( "Sound/Dialogue/Wieland/Wieland_j.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wieland_j, 9456 )
     call SetSoundChannel( gg_snd_Wieland_j, 0 )
-    call SetSoundVolume( gg_snd_Wieland_j, -1 )
+    call SetSoundVolume( gg_snd_Wieland_j, 127 )
     call SetSoundPitch( gg_snd_Wieland_j, 1.0 )
-    set gg_snd_Wigberht1 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wigberht1, 12120 )
+    set gg_snd_Wigberht1 = CreateSound( "Sound/Dialogue/Wigberht/Wigberht1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wigberht1, 574 )
     call SetSoundChannel( gg_snd_Wigberht1, 0 )
-    call SetSoundVolume( gg_snd_Wigberht1, -1 )
+    call SetSoundVolume( gg_snd_Wigberht1, 127 )
     call SetSoundPitch( gg_snd_Wigberht1, 1.0 )
-    set gg_snd_Wigberht10 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wigberht10, 12120 )
+    set gg_snd_Wigberht10 = CreateSound( "Sound/Dialogue/Wigberht/Wigberht10.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wigberht10, 1097 )
     call SetSoundChannel( gg_snd_Wigberht10, 0 )
-    call SetSoundVolume( gg_snd_Wigberht10, -1 )
+    call SetSoundVolume( gg_snd_Wigberht10, 127 )
     call SetSoundPitch( gg_snd_Wigberht10, 1.0 )
-    set gg_snd_Wigberht11 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wigberht11, 12120 )
+    set gg_snd_Wigberht11 = CreateSound( "Sound/Dialogue/Wigberht/Wigberht11.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wigberht11, 522 )
     call SetSoundChannel( gg_snd_Wigberht11, 0 )
-    call SetSoundVolume( gg_snd_Wigberht11, -1 )
+    call SetSoundVolume( gg_snd_Wigberht11, 127 )
     call SetSoundPitch( gg_snd_Wigberht11, 1.0 )
-    set gg_snd_Wigberht12 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wigberht12, 12120 )
+    set gg_snd_Wigberht12 = CreateSound( "Sound/Dialogue/Wigberht/Wigberht12.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wigberht12, 3004 )
     call SetSoundChannel( gg_snd_Wigberht12, 0 )
-    call SetSoundVolume( gg_snd_Wigberht12, -1 )
+    call SetSoundVolume( gg_snd_Wigberht12, 127 )
     call SetSoundPitch( gg_snd_Wigberht12, 1.0 )
-    set gg_snd_Wigberht13 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wigberht13, 12120 )
+    set gg_snd_Wigberht13 = CreateSound( "Sound/Dialogue/Wigberht/Wigberht13.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wigberht13, 12434 )
     call SetSoundChannel( gg_snd_Wigberht13, 0 )
-    call SetSoundVolume( gg_snd_Wigberht13, -1 )
+    call SetSoundVolume( gg_snd_Wigberht13, 127 )
     call SetSoundPitch( gg_snd_Wigberht13, 1.0 )
-    set gg_snd_Wigberht14 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wigberht14, 12120 )
+    set gg_snd_Wigberht14 = CreateSound( "Sound/Dialogue/Wigberht/Wigberht14.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wigberht14, 5250 )
     call SetSoundChannel( gg_snd_Wigberht14, 0 )
-    call SetSoundVolume( gg_snd_Wigberht14, -1 )
+    call SetSoundVolume( gg_snd_Wigberht14, 127 )
     call SetSoundPitch( gg_snd_Wigberht14, 1.0 )
-    set gg_snd_Wigberht15 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wigberht15, 12120 )
+    set gg_snd_Wigberht15 = CreateSound( "Sound/Dialogue/Wigberht/Wigberht15.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wigberht15, 10605 )
     call SetSoundChannel( gg_snd_Wigberht15, 0 )
-    call SetSoundVolume( gg_snd_Wigberht15, -1 )
+    call SetSoundVolume( gg_snd_Wigberht15, 127 )
     call SetSoundPitch( gg_snd_Wigberht15, 1.0 )
-    set gg_snd_Wigberht16 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wigberht16, 12120 )
+    set gg_snd_Wigberht16 = CreateSound( "Sound/Dialogue/Wigberht/Wigberht16.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wigberht16, 11232 )
     call SetSoundChannel( gg_snd_Wigberht16, 0 )
-    call SetSoundVolume( gg_snd_Wigberht16, -1 )
+    call SetSoundVolume( gg_snd_Wigberht16, 127 )
     call SetSoundPitch( gg_snd_Wigberht16, 1.0 )
-    set gg_snd_Wigberht17 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wigberht17, 12120 )
+    set gg_snd_Wigberht17 = CreateSound( "Sound/Dialogue/Wigberht/Wigberht17.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wigberht17, 6008 )
     call SetSoundChannel( gg_snd_Wigberht17, 0 )
-    call SetSoundVolume( gg_snd_Wigberht17, -1 )
+    call SetSoundVolume( gg_snd_Wigberht17, 127 )
     call SetSoundPitch( gg_snd_Wigberht17, 1.0 )
-    set gg_snd_Wigberht18 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wigberht18, 12120 )
+    set gg_snd_Wigberht18 = CreateSound( "Sound/Dialogue/Wigberht/Wigberht18.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wigberht18, 2560 )
     call SetSoundChannel( gg_snd_Wigberht18, 0 )
-    call SetSoundVolume( gg_snd_Wigberht18, -1 )
+    call SetSoundVolume( gg_snd_Wigberht18, 127 )
     call SetSoundPitch( gg_snd_Wigberht18, 1.0 )
-    set gg_snd_Wigberht19 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wigberht19, 12120 )
+    set gg_snd_Wigberht19 = CreateSound( "Sound/Dialogue/Wigberht/Wigberht19.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wigberht19, 5799 )
     call SetSoundChannel( gg_snd_Wigberht19, 0 )
-    call SetSoundVolume( gg_snd_Wigberht19, -1 )
+    call SetSoundVolume( gg_snd_Wigberht19, 127 )
     call SetSoundPitch( gg_snd_Wigberht19, 1.0 )
-    set gg_snd_Wigberht2 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wigberht2, 12120 )
+    set gg_snd_Wigberht2 = CreateSound( "Sound/Dialogue/Wigberht/Wigberht2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wigberht2, 731 )
     call SetSoundChannel( gg_snd_Wigberht2, 0 )
-    call SetSoundVolume( gg_snd_Wigberht2, -1 )
+    call SetSoundVolume( gg_snd_Wigberht2, 127 )
     call SetSoundPitch( gg_snd_Wigberht2, 1.0 )
-    set gg_snd_Wigberht20 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wigberht20, 12120 )
+    set gg_snd_Wigberht20 = CreateSound( "Sound/Dialogue/Wigberht/Wigberht20.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wigberht20, 8986 )
     call SetSoundChannel( gg_snd_Wigberht20, 0 )
-    call SetSoundVolume( gg_snd_Wigberht20, -1 )
+    call SetSoundVolume( gg_snd_Wigberht20, 127 )
     call SetSoundPitch( gg_snd_Wigberht20, 1.0 )
-    set gg_snd_Wigberht21 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wigberht21, 12120 )
+    set gg_snd_Wigberht21 = CreateSound( "Sound/Dialogue/Wigberht/Wigberht21.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wigberht21, 6948 )
     call SetSoundChannel( gg_snd_Wigberht21, 0 )
-    call SetSoundVolume( gg_snd_Wigberht21, -1 )
+    call SetSoundVolume( gg_snd_Wigberht21, 127 )
     call SetSoundPitch( gg_snd_Wigberht21, 1.0 )
-    set gg_snd_Wigberht22 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wigberht22, 12120 )
+    set gg_snd_Wigberht22 = CreateSound( "Sound/Dialogue/Wigberht/Wigberht22.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wigberht22, 5015 )
     call SetSoundChannel( gg_snd_Wigberht22, 0 )
-    call SetSoundVolume( gg_snd_Wigberht22, -1 )
+    call SetSoundVolume( gg_snd_Wigberht22, 127 )
     call SetSoundPitch( gg_snd_Wigberht22, 1.0 )
-    set gg_snd_Wigberht23 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wigberht23, 12120 )
+    set gg_snd_Wigberht23 = CreateSound( "Sound/Dialogue/Wigberht/Wigberht23.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wigberht23, 13348 )
     call SetSoundChannel( gg_snd_Wigberht23, 0 )
-    call SetSoundVolume( gg_snd_Wigberht23, -1 )
+    call SetSoundVolume( gg_snd_Wigberht23, 127 )
     call SetSoundPitch( gg_snd_Wigberht23, 1.0 )
-    set gg_snd_Wigberht24 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wigberht24, 12120 )
+    set gg_snd_Wigberht24 = CreateSound( "Sound/Dialogue/Wigberht/Wigberht24.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wigberht24, 653 )
     call SetSoundChannel( gg_snd_Wigberht24, 0 )
-    call SetSoundVolume( gg_snd_Wigberht24, -1 )
+    call SetSoundVolume( gg_snd_Wigberht24, 127 )
     call SetSoundPitch( gg_snd_Wigberht24, 1.0 )
-    set gg_snd_Wigberht25 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wigberht25, 12120 )
+    set gg_snd_Wigberht25 = CreateSound( "Sound/Dialogue/Wigberht/Wigberht25.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wigberht25, 12800 )
     call SetSoundChannel( gg_snd_Wigberht25, 0 )
-    call SetSoundVolume( gg_snd_Wigberht25, -1 )
+    call SetSoundVolume( gg_snd_Wigberht25, 127 )
     call SetSoundPitch( gg_snd_Wigberht25, 1.0 )
-    set gg_snd_Wigberht26 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wigberht26, 12120 )
+    set gg_snd_Wigberht26 = CreateSound( "Sound/Dialogue/Wigberht/Wigberht26.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wigberht26, 8751 )
     call SetSoundChannel( gg_snd_Wigberht26, 0 )
-    call SetSoundVolume( gg_snd_Wigberht26, -1 )
+    call SetSoundVolume( gg_snd_Wigberht26, 127 )
     call SetSoundPitch( gg_snd_Wigberht26, 1.0 )
-    set gg_snd_Wigberht27 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wigberht27, 12120 )
+    set gg_snd_Wigberht27 = CreateSound( "Sound/Dialogue/Wigberht/Wigberht27.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wigberht27, 2560 )
     call SetSoundChannel( gg_snd_Wigberht27, 0 )
-    call SetSoundVolume( gg_snd_Wigberht27, -1 )
+    call SetSoundVolume( gg_snd_Wigberht27, 127 )
     call SetSoundPitch( gg_snd_Wigberht27, 1.0 )
-    set gg_snd_Wigberht28 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wigberht28, 12120 )
+    set gg_snd_Wigberht28 = CreateSound( "Sound/Dialogue/Wigberht/Wigberht28.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wigberht28, 4571 )
     call SetSoundChannel( gg_snd_Wigberht28, 0 )
-    call SetSoundVolume( gg_snd_Wigberht28, -1 )
+    call SetSoundVolume( gg_snd_Wigberht28, 127 )
     call SetSoundPitch( gg_snd_Wigberht28, 1.0 )
-    set gg_snd_Wigberht29 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wigberht29, 12120 )
+    set gg_snd_Wigberht29 = CreateSound( "Sound/Dialogue/Wigberht/Wigberht29.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wigberht29, 809 )
     call SetSoundChannel( gg_snd_Wigberht29, 0 )
-    call SetSoundVolume( gg_snd_Wigberht29, -1 )
+    call SetSoundVolume( gg_snd_Wigberht29, 127 )
     call SetSoundPitch( gg_snd_Wigberht29, 1.0 )
-    set gg_snd_Wigberht3 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wigberht3, 12120 )
+    set gg_snd_Wigberht3 = CreateSound( "Sound/Dialogue/Wigberht/Wigberht3.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wigberht3, 1175 )
     call SetSoundChannel( gg_snd_Wigberht3, 0 )
-    call SetSoundVolume( gg_snd_Wigberht3, -1 )
+    call SetSoundVolume( gg_snd_Wigberht3, 127 )
     call SetSoundPitch( gg_snd_Wigberht3, 1.0 )
-    set gg_snd_Wigberht30 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wigberht30, 12120 )
+    set gg_snd_Wigberht30 = CreateSound( "Sound/Dialogue/Wigberht/Wigberht30.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wigberht30, 1358 )
     call SetSoundChannel( gg_snd_Wigberht30, 0 )
-    call SetSoundVolume( gg_snd_Wigberht30, -1 )
+    call SetSoundVolume( gg_snd_Wigberht30, 127 )
     call SetSoundPitch( gg_snd_Wigberht30, 1.0 )
-    set gg_snd_Wigberht31 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wigberht31, 12120 )
+    set gg_snd_Wigberht31 = CreateSound( "Sound/Dialogue/Wigberht/Wigberht31.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wigberht31, 2560 )
     call SetSoundChannel( gg_snd_Wigberht31, 0 )
-    call SetSoundVolume( gg_snd_Wigberht31, -1 )
+    call SetSoundVolume( gg_snd_Wigberht31, 127 )
     call SetSoundPitch( gg_snd_Wigberht31, 1.0 )
-    set gg_snd_Wigberht32 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wigberht32, 12120 )
+    set gg_snd_Wigberht32 = CreateSound( "Sound/Dialogue/Wigberht/Wigberht32.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wigberht32, 13270 )
     call SetSoundChannel( gg_snd_Wigberht32, 0 )
-    call SetSoundVolume( gg_snd_Wigberht32, -1 )
+    call SetSoundVolume( gg_snd_Wigberht32, 127 )
     call SetSoundPitch( gg_snd_Wigberht32, 1.0 )
-    set gg_snd_Wigberht33 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wigberht33, 12120 )
+    set gg_snd_Wigberht33 = CreateSound( "Sound/Dialogue/Wigberht/Wigberht33.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wigberht33, 12773 )
     call SetSoundChannel( gg_snd_Wigberht33, 0 )
-    call SetSoundVolume( gg_snd_Wigberht33, -1 )
+    call SetSoundVolume( gg_snd_Wigberht33, 127 )
     call SetSoundPitch( gg_snd_Wigberht33, 1.0 )
-    set gg_snd_Wigberht34 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wigberht34, 12120 )
+    set gg_snd_Wigberht34 = CreateSound( "Sound/Dialogue/Wigberht/Wigberht34.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wigberht34, 13766 )
     call SetSoundChannel( gg_snd_Wigberht34, 0 )
-    call SetSoundVolume( gg_snd_Wigberht34, -1 )
+    call SetSoundVolume( gg_snd_Wigberht34, 127 )
     call SetSoundPitch( gg_snd_Wigberht34, 1.0 )
-    set gg_snd_Wigberht35 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wigberht35, 12120 )
+    set gg_snd_Wigberht35 = CreateSound( "Sound/Dialogue/Wigberht/Wigberht35.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wigberht35, 15464 )
     call SetSoundChannel( gg_snd_Wigberht35, 0 )
-    call SetSoundVolume( gg_snd_Wigberht35, -1 )
+    call SetSoundVolume( gg_snd_Wigberht35, 127 )
     call SetSoundPitch( gg_snd_Wigberht35, 1.0 )
-    set gg_snd_Wigberht36 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wigberht36, 12120 )
+    set gg_snd_Wigberht36 = CreateSound( "Sound/Dialogue/Wigberht/Wigberht36.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wigberht36, 7366 )
     call SetSoundChannel( gg_snd_Wigberht36, 0 )
-    call SetSoundVolume( gg_snd_Wigberht36, -1 )
+    call SetSoundVolume( gg_snd_Wigberht36, 127 )
     call SetSoundPitch( gg_snd_Wigberht36, 1.0 )
-    set gg_snd_Wigberht37 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wigberht37, 12120 )
+    set gg_snd_Wigberht37 = CreateSound( "Sound/Dialogue/Wigberht/Wigberht37.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wigberht37, 862 )
     call SetSoundChannel( gg_snd_Wigberht37, 0 )
-    call SetSoundVolume( gg_snd_Wigberht37, -1 )
+    call SetSoundVolume( gg_snd_Wigberht37, 127 )
     call SetSoundPitch( gg_snd_Wigberht37, 1.0 )
-    set gg_snd_Wigberht38 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wigberht38, 12120 )
+    set gg_snd_Wigberht38 = CreateSound( "Sound/Dialogue/Wigberht/Wigberht38.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wigberht38, 1462 )
     call SetSoundChannel( gg_snd_Wigberht38, 0 )
-    call SetSoundVolume( gg_snd_Wigberht38, -1 )
+    call SetSoundVolume( gg_snd_Wigberht38, 127 )
     call SetSoundPitch( gg_snd_Wigberht38, 1.0 )
-    set gg_snd_Wigberht39 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wigberht39, 12120 )
+    set gg_snd_Wigberht39 = CreateSound( "Sound/Dialogue/Wigberht/Wigberht39.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wigberht39, 3735 )
     call SetSoundChannel( gg_snd_Wigberht39, 0 )
-    call SetSoundVolume( gg_snd_Wigberht39, -1 )
+    call SetSoundVolume( gg_snd_Wigberht39, 127 )
     call SetSoundPitch( gg_snd_Wigberht39, 1.0 )
-    set gg_snd_Wigberht4 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wigberht4, 12120 )
+    set gg_snd_Wigberht4 = CreateSound( "Sound/Dialogue/Wigberht/Wigberht4.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wigberht4, 1280 )
     call SetSoundChannel( gg_snd_Wigberht4, 0 )
-    call SetSoundVolume( gg_snd_Wigberht4, -1 )
+    call SetSoundVolume( gg_snd_Wigberht4, 127 )
     call SetSoundPitch( gg_snd_Wigberht4, 1.0 )
-    set gg_snd_Wigberht40 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wigberht40, 12120 )
+    set gg_snd_Wigberht40 = CreateSound( "Sound/Dialogue/Wigberht/Wigberht40.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wigberht40, 7418 )
     call SetSoundChannel( gg_snd_Wigberht40, 0 )
-    call SetSoundVolume( gg_snd_Wigberht40, -1 )
+    call SetSoundVolume( gg_snd_Wigberht40, 127 )
     call SetSoundPitch( gg_snd_Wigberht40, 1.0 )
-    set gg_snd_Wigberht41 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wigberht41, 12120 )
+    set gg_snd_Wigberht41 = CreateSound( "Sound/Dialogue/Wigberht/Wigberht41.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wigberht41, 8489 )
     call SetSoundChannel( gg_snd_Wigberht41, 0 )
-    call SetSoundVolume( gg_snd_Wigberht41, -1 )
+    call SetSoundVolume( gg_snd_Wigberht41, 127 )
     call SetSoundPitch( gg_snd_Wigberht41, 1.0 )
-    set gg_snd_Wigberht42 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wigberht42, 12120 )
+    set gg_snd_Wigberht42 = CreateSound( "Sound/Dialogue/Wigberht/Wigberht42.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wigberht42, 3422 )
     call SetSoundChannel( gg_snd_Wigberht42, 0 )
-    call SetSoundVolume( gg_snd_Wigberht42, -1 )
+    call SetSoundVolume( gg_snd_Wigberht42, 127 )
     call SetSoundPitch( gg_snd_Wigberht42, 1.0 )
-    set gg_snd_Wigberht43 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wigberht43, 12120 )
+    set gg_snd_Wigberht43 = CreateSound( "Sound/Dialogue/Wigberht/Wigberht43.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wigberht43, 18416 )
     call SetSoundChannel( gg_snd_Wigberht43, 0 )
-    call SetSoundVolume( gg_snd_Wigberht43, -1 )
+    call SetSoundVolume( gg_snd_Wigberht43, 127 )
     call SetSoundPitch( gg_snd_Wigberht43, 1.0 )
-    set gg_snd_Wigberht44 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wigberht44, 12120 )
+    set gg_snd_Wigberht44 = CreateSound( "Sound/Dialogue/Wigberht/Wigberht44.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wigberht44, 8097 )
     call SetSoundChannel( gg_snd_Wigberht44, 0 )
-    call SetSoundVolume( gg_snd_Wigberht44, -1 )
+    call SetSoundVolume( gg_snd_Wigberht44, 127 )
     call SetSoundPitch( gg_snd_Wigberht44, 1.0 )
-    set gg_snd_Wigberht45 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wigberht45, 12120 )
+    set gg_snd_Wigberht45 = CreateSound( "Sound/Dialogue/Wigberht/Wigberht45.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wigberht45, 6870 )
     call SetSoundChannel( gg_snd_Wigberht45, 0 )
-    call SetSoundVolume( gg_snd_Wigberht45, -1 )
+    call SetSoundVolume( gg_snd_Wigberht45, 127 )
     call SetSoundPitch( gg_snd_Wigberht45, 1.0 )
-    set gg_snd_Wigberht5 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wigberht5, 12120 )
+    set gg_snd_Wigberht5 = CreateSound( "Sound/Dialogue/Wigberht/Wigberht5.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wigberht5, 1149 )
     call SetSoundChannel( gg_snd_Wigberht5, 0 )
-    call SetSoundVolume( gg_snd_Wigberht5, -1 )
+    call SetSoundVolume( gg_snd_Wigberht5, 127 )
     call SetSoundPitch( gg_snd_Wigberht5, 1.0 )
-    set gg_snd_Wigberht6 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wigberht6, 12120 )
+    set gg_snd_Wigberht6 = CreateSound( "Sound/Dialogue/Wigberht/Wigberht6.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wigberht6, 1567 )
     call SetSoundChannel( gg_snd_Wigberht6, 0 )
-    call SetSoundVolume( gg_snd_Wigberht6, -1 )
+    call SetSoundVolume( gg_snd_Wigberht6, 127 )
     call SetSoundPitch( gg_snd_Wigberht6, 1.0 )
-    set gg_snd_Wigberht7 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wigberht7, 12120 )
+    set gg_snd_Wigberht7 = CreateSound( "Sound/Dialogue/Wigberht/Wigberht7.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wigberht7, 2298 )
     call SetSoundChannel( gg_snd_Wigberht7, 0 )
-    call SetSoundVolume( gg_snd_Wigberht7, -1 )
+    call SetSoundVolume( gg_snd_Wigberht7, 127 )
     call SetSoundPitch( gg_snd_Wigberht7, 1.0 )
-    set gg_snd_Wigberht8 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wigberht8, 12120 )
+    set gg_snd_Wigberht8 = CreateSound( "Sound/Dialogue/Wigberht/Wigberht8.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wigberht8, 3004 )
     call SetSoundChannel( gg_snd_Wigberht8, 0 )
-    call SetSoundVolume( gg_snd_Wigberht8, -1 )
+    call SetSoundVolume( gg_snd_Wigberht8, 127 )
     call SetSoundPitch( gg_snd_Wigberht8, 1.0 )
-    set gg_snd_Wigberht9 = CreateSound( "---Invalid Sound Filepath---", false, false, false, 10, 10, "DefaultEAXON" )
-    call SetSoundDuration( gg_snd_Wigberht9, 12120 )
+    set gg_snd_Wigberht9 = CreateSound( "Sound/Dialogue/Wigberht/Wigberht9.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wigberht9, 2507 )
     call SetSoundChannel( gg_snd_Wigberht9, 0 )
-    call SetSoundVolume( gg_snd_Wigberht9, -1 )
+    call SetSoundVolume( gg_snd_Wigberht9, 127 )
     call SetSoundPitch( gg_snd_Wigberht9, 1.0 )
+    set gg_snd_WigberhtDeath1 = CreateSound( "Sound/Dialogue/Wigberht/WigberhtDeath1.wav", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_WigberhtDeath1, 1083 )
+    call SetSoundChannel( gg_snd_WigberhtDeath1, 0 )
+    call SetSoundVolume( gg_snd_WigberhtDeath1, 127 )
+    call SetSoundPitch( gg_snd_WigberhtDeath1, 1.0 )
+    set gg_snd_WigberhtDeath2 = CreateSound( "Sound/Dialogue/Wigberht/WigberhtDeath2.wav", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_WigberhtDeath2, 1421 )
+    call SetSoundChannel( gg_snd_WigberhtDeath2, 0 )
+    call SetSoundVolume( gg_snd_WigberhtDeath2, 127 )
+    call SetSoundPitch( gg_snd_WigberhtDeath2, 1.0 )
+    set gg_snd_WigberhtWhat1 = CreateSound( "Sound/Dialogue/Wigberht/WigberhtWhat1.wav", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_WigberhtWhat1, 883 )
+    call SetSoundChannel( gg_snd_WigberhtWhat1, 0 )
+    call SetSoundVolume( gg_snd_WigberhtWhat1, 127 )
+    call SetSoundPitch( gg_snd_WigberhtWhat1, 1.0 )
+    set gg_snd_WigberhtWhat2 = CreateSound( "Sound/Dialogue/Wigberht/WigberhtWhat2.wav", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_WigberhtWhat2, 1431 )
+    call SetSoundChannel( gg_snd_WigberhtWhat2, 0 )
+    call SetSoundVolume( gg_snd_WigberhtWhat2, 127 )
+    call SetSoundPitch( gg_snd_WigberhtWhat2, 1.0 )
+    set gg_snd_WigberhtWhat3 = CreateSound( "Sound/Dialogue/Wigberht/WigberhtWhat3.wav", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_WigberhtWhat3, 1104 )
+    call SetSoundChannel( gg_snd_WigberhtWhat3, 0 )
+    call SetSoundVolume( gg_snd_WigberhtWhat3, 127 )
+    call SetSoundPitch( gg_snd_WigberhtWhat3, 1.0 )
+    set gg_snd_WigberhtYes1 = CreateSound( "Sound/Dialogue/Wigberht/WigberhtYes1.wav", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_WigberhtYes1, 774 )
+    call SetSoundChannel( gg_snd_WigberhtYes1, 0 )
+    call SetSoundVolume( gg_snd_WigberhtYes1, 127 )
+    call SetSoundPitch( gg_snd_WigberhtYes1, 1.0 )
+    set gg_snd_WigberhtYes2 = CreateSound( "Sound/Dialogue/Wigberht/WigberhtYes2.wav", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_WigberhtYes2, 795 )
+    call SetSoundChannel( gg_snd_WigberhtYes2, 0 )
+    call SetSoundVolume( gg_snd_WigberhtYes2, 127 )
+    call SetSoundPitch( gg_snd_WigberhtYes2, 1.0 )
+    set gg_snd_WigberhtYes3 = CreateSound( "Sound/Dialogue/Wigberht/WigberhtYes3.wav", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_WigberhtYes3, 566 )
+    call SetSoundChannel( gg_snd_WigberhtYes3, 0 )
+    call SetSoundVolume( gg_snd_WigberhtYes3, 127 )
+    call SetSoundPitch( gg_snd_WigberhtYes3, 1.0 )
+    set gg_snd_WigberhtYesAttack1 = CreateSound( "Sound/Dialogue/Wigberht/WigberhtYesAttack1.wav", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_WigberhtYesAttack1, 987 )
+    call SetSoundChannel( gg_snd_WigberhtYesAttack1, 0 )
+    call SetSoundVolume( gg_snd_WigberhtYesAttack1, 127 )
+    call SetSoundPitch( gg_snd_WigberhtYesAttack1, 1.0 )
+    set gg_snd_WigberhtYesAttack2 = CreateSound( "Sound/Dialogue/Wigberht/WigberhtYesAttack2.wav", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_WigberhtYesAttack2, 1402 )
+    call SetSoundChannel( gg_snd_WigberhtYesAttack2, 0 )
+    call SetSoundVolume( gg_snd_WigberhtYesAttack2, 127 )
+    call SetSoundPitch( gg_snd_WigberhtYesAttack2, 1.0 )
+    set gg_snd_WigberhtYesAttack3 = CreateSound( "Sound/Dialogue/Wigberht/WigberhtYesAttack3.wav", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_WigberhtYesAttack3, 1547 )
+    call SetSoundChannel( gg_snd_WigberhtYesAttack3, 0 )
+    call SetSoundVolume( gg_snd_WigberhtYesAttack3, 127 )
+    call SetSoundPitch( gg_snd_WigberhtYesAttack3, 1.0 )
+    set gg_snd_Wotan1 = CreateSound( "Sound/Dialogue/Wotan/Wotan1.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wotan1, 3735 )
+    call SetSoundChannel( gg_snd_Wotan1, 0 )
+    call SetSoundVolume( gg_snd_Wotan1, 127 )
+    call SetSoundPitch( gg_snd_Wotan1, 1.0 )
+    set gg_snd_Wotan10 = CreateSound( "Sound/Dialogue/Wotan/Wotan10.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wotan10, 8568 )
+    call SetSoundChannel( gg_snd_Wotan10, 0 )
+    call SetSoundVolume( gg_snd_Wotan10, 127 )
+    call SetSoundPitch( gg_snd_Wotan10, 1.0 )
+    set gg_snd_Wotan11 = CreateSound( "Sound/Dialogue/Wotan/Wotan11.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wotan11, 11128 )
+    call SetSoundChannel( gg_snd_Wotan11, 0 )
+    call SetSoundVolume( gg_snd_Wotan11, 127 )
+    call SetSoundPitch( gg_snd_Wotan11, 1.0 )
+    set gg_snd_Wotan12 = CreateSound( "Sound/Dialogue/Wotan/Wotan12.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wotan12, 9848 )
+    call SetSoundChannel( gg_snd_Wotan12, 0 )
+    call SetSoundVolume( gg_snd_Wotan12, 127 )
+    call SetSoundPitch( gg_snd_Wotan12, 1.0 )
+    set gg_snd_Wotan13 = CreateSound( "Sound/Dialogue/Wotan/Wotan13.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wotan13, 7967 )
+    call SetSoundChannel( gg_snd_Wotan13, 0 )
+    call SetSoundVolume( gg_snd_Wotan13, 127 )
+    call SetSoundPitch( gg_snd_Wotan13, 1.0 )
+    set gg_snd_Wotan14 = CreateSound( "Sound/Dialogue/Wotan/Wotan14.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wotan14, 2664 )
+    call SetSoundChannel( gg_snd_Wotan14, 0 )
+    call SetSoundVolume( gg_snd_Wotan14, 127 )
+    call SetSoundPitch( gg_snd_Wotan14, 1.0 )
+    set gg_snd_Wotan15 = CreateSound( "Sound/Dialogue/Wotan/Wotan15.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wotan15, 2324 )
+    call SetSoundChannel( gg_snd_Wotan15, 0 )
+    call SetSoundVolume( gg_snd_Wotan15, 127 )
+    call SetSoundPitch( gg_snd_Wotan15, 1.0 )
+    set gg_snd_Wotan2 = CreateSound( "Sound/Dialogue/Wotan/Wotan2.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wotan2, 6687 )
+    call SetSoundChannel( gg_snd_Wotan2, 0 )
+    call SetSoundVolume( gg_snd_Wotan2, 127 )
+    call SetSoundPitch( gg_snd_Wotan2, 1.0 )
+    set gg_snd_Wotan3 = CreateSound( "Sound/Dialogue/Wotan/Wotan3.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wotan3, 15568 )
+    call SetSoundChannel( gg_snd_Wotan3, 0 )
+    call SetSoundVolume( gg_snd_Wotan3, 127 )
+    call SetSoundPitch( gg_snd_Wotan3, 1.0 )
+    set gg_snd_Wotan4 = CreateSound( "Sound/Dialogue/Wotan/Wotan4.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wotan4, 8228 )
+    call SetSoundChannel( gg_snd_Wotan4, 0 )
+    call SetSoundVolume( gg_snd_Wotan4, 127 )
+    call SetSoundPitch( gg_snd_Wotan4, 1.0 )
+    set gg_snd_Wotan5 = CreateSound( "Sound/Dialogue/Wotan/Wotan5.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wotan5, 8803 )
+    call SetSoundChannel( gg_snd_Wotan5, 0 )
+    call SetSoundVolume( gg_snd_Wotan5, 127 )
+    call SetSoundPitch( gg_snd_Wotan5, 1.0 )
+    set gg_snd_Wotan6 = CreateSound( "Sound/Dialogue/Wotan/Wotan6.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wotan6, 3892 )
+    call SetSoundChannel( gg_snd_Wotan6, 0 )
+    call SetSoundVolume( gg_snd_Wotan6, 127 )
+    call SetSoundPitch( gg_snd_Wotan6, 1.0 )
+    set gg_snd_Wotan7 = CreateSound( "Sound/Dialogue/Wotan/Wotan7.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wotan7, 4388 )
+    call SetSoundChannel( gg_snd_Wotan7, 0 )
+    call SetSoundVolume( gg_snd_Wotan7, 127 )
+    call SetSoundPitch( gg_snd_Wotan7, 1.0 )
+    set gg_snd_Wotan8 = CreateSound( "Sound/Dialogue/Wotan/Wotan8.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wotan8, 8437 )
+    call SetSoundChannel( gg_snd_Wotan8, 0 )
+    call SetSoundVolume( gg_snd_Wotan8, 127 )
+    call SetSoundPitch( gg_snd_Wotan8, 1.0 )
+    set gg_snd_Wotan9 = CreateSound( "Sound/Dialogue/Wotan/Wotan9.mp3", false, false, false, 0, 0, "DefaultEAXON" )
+    call SetSoundDuration( gg_snd_Wotan9, 7105 )
+    call SetSoundChannel( gg_snd_Wotan9, 0 )
+    call SetSoundVolume( gg_snd_Wotan9, 127 )
+    call SetSoundPitch( gg_snd_Wotan9, 1.0 )
 endfunction
 
 //***************************************************************************
