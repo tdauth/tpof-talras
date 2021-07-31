@@ -47,9 +47,9 @@ The lore has been written for this modification and Talras is the castle which y
 
 ## Videos
 
-* [This list](https://www.youtube.com/watch?v=u5YKdMws0tQ&list=PLmfeGbBvSVGCDyp2bHGmHrhdJWN9TQLCn) contains many videos about the modification.
-* [This Let's Play](https://www.youtube.com/watch?v=z1mLXBc3jRE&list=PLmfeGbBvSVGCRbNKSk3QOh1v09h6YFyxU) was made by me to test the whole modification once.
 * [This is a more professional Let's Play by Faelon Stimmspiel](https://www.youtube.com/watch?v=uTruE__ia8A&list=PLiUdDzmlSLTQl7a16tASao2Z50EcwJx_G).
+* [This Let's Play](https://www.youtube.com/watch?v=z1mLXBc3jRE&list=PLmfeGbBvSVGCRbNKSk3QOh1v09h6YFyxU) was made by me to test the whole modification once.
+* [This list](https://www.youtube.com/watch?v=u5YKdMws0tQ&list=PLmfeGbBvSVGCDyp2bHGmHrhdJWN9TQLCn) contains many videos about the modification.
 * There was [a presentation at the Ludification of Technology](https://www.youtube.com/watch?v=5hKgrxsNEKI&list=PLmfeGbBvSVGAtuvYlXykmbaPMaTIxkuRX) of the modification (see [slides](./doc/presentation.pdf)).
 
 ## Development Setup
@@ -145,7 +145,6 @@ Voice Actors:
 
 Further support:
 
-
 * WaterKnight: Tests
 * Frotty: Models and Tests
 * Clemens Weichard: Custom Let's Play
@@ -164,6 +163,8 @@ Tools and Systems:
 
 Models:
 
+* Born2Modificate: Many real texture models.
+* xXm0RpH3usXX: Many real texture models from his project Neratia.
 * Kitabatake: [Hell Campaign Screen](https://www.hiveworkshop.com/threads/hell-campaign-screen.121022/#resource-26801)
 * Graber: [Villager 255 Animations](https://www.hiveworkshop.com/threads/villager-255-animations.192204/)
 * Talavaj: [HybrisFactory - Multiple packages of realtexture models and textures](http://www.hiveworkshop.com/threads/hybrisfactory-terraining-and-mapping-resources.238310/)
