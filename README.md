@@ -1,9 +1,9 @@
 # The Power of Fire: Talras
 
-Warcraft III: Reforged muliplayer funmap influenced by games like Diablo II and Gothic II combining hack and slay with dialog based decisions. 
+Warcraft III: Reforged multiplayer funmap influenced by games like Diablo II and Gothic II combining hack and slay with dialog based decisions. 
 This is a 6 player map in which you play together against the AI completing quests, leveling, buying items, looting stuff and end the game with a big final battle.
 It contains cutscenes, voice acted dialogues and all basic RPG elements and systems.
-It tries to capture a darker look like Gothic II and Diablog II and several elements of those games.
+It tries to capture a darker look like Gothic II and Diablo II and several elements of those games.
 The lore has been written for this modification and Talras is the castle which you enter in the beginning.
 
 ## Play the Map
