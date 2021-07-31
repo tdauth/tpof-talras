@@ -221,6 +221,11 @@ library StructGameCharacter requires Asl, StructGameDmdfHashTable, StructGameDun
 				set this.m_options = 0
 			endif
 		endmethod
+		
+		public method updateProperName takes nothing returns nothing
+			// show your own name to other players with the player number
+			call BlzSetHeroProperName(this.unit(), GetModifiedPlayerName(this.player()))
+		endmethod
 
 		/**
 		 * Adds a new class spell to the character. Class spells should be spells which can be learned in the grimoire.

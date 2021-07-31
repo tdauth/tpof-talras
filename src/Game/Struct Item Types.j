@@ -104,6 +104,7 @@ library StructGameItemTypes requires Asl, StructGameClasses, StructGameCharacter
 				call realSpellLevels.destroy()
 				set realSpellLevels = 0
 				call character.grimoire().updateUi()
+				call character.updateProperName()
 			endif
 		endmethod
 
@@ -121,6 +122,7 @@ library StructGameItemTypes requires Asl, StructGameClasses, StructGameCharacter
 				call realSpellLevels.destroy()
 				set realSpellLevels = 0
 				call character.grimoire().updateUi()
+				call character.updateProperName()
 			endif
 		endmethod
 

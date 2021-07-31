@@ -456,7 +456,7 @@ endif
 		 */
 		public static method onApplyCustomMinimap takes player whichPlayer returns nothing
 			// Talras requires a custom minimap texture because of all the dungeons on the map.
-			call BlzChangeMinimapTerrainTex("war3mapMap.tga")
+			call BlzChangeMinimapTerrainTex("war3mapMap.blp")
 		endmethod
 	endstruct
 
