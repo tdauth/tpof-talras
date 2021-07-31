@@ -10384,30 +10384,6 @@ STRING 1738
 Erlaubt es dem Besitzer wunderbare Lieder zu spielen.
 }
 
-STRING 1739
-// Doodads: D0BT (Eisklippe 1 (Schnee)), Name (Name)
-{
-Eisklippe 1 (Schnee)
-}
-
-STRING 1740
-// Doodads: D0BU (Eisklippe 2 (Schnee)), Name (Name)
-{
-Eisklippe 2 (Schnee)
-}
-
-STRING 1741
-// Doodads: D0BV (Eisklippe 3 (Schnee)), Name (Name)
-{
-Eisklippe 3 (Schnee)
-}
-
-STRING 1742
-// Doodads: D0BW (Eisklippe 4 (Schnee)), Name (Name)
-{
-Eisklippe 4 (Schnee)
-}
-
 STRING 1743
 // Abilities: A0Z8 (Elementare Gewalt - Stufe 1), Tip (Tooltip - Normal)
 {
@@ -16172,6 +16148,18 @@ STRING 2717
 (Cleric)
 }
 
+STRING 2718
+// Doodads: D0AD (Rock 1 (Grassland)), Name (Name)
+{
+Rock 1 (Grassland)
+}
+
+STRING 2719
+// Doodads: D0AE (Rock 2 (Grassland)), Name (Name)
+{
+Rock 2 (Grassland)
+}
+
 STRING 2720
 // Abilities: A13I (Faerie Fire), EditorSuffix (Editor Suffix)
 {
@@ -16247,10 +16235,40 @@ STRING 2732
 Magic Amulet
 }
 
+STRING 2733
+// Doodads: D0AF (Rock 3 (Grassland)), Name (Name)
+{
+Rock 3 (Grassland)
+}
+
+STRING 2734
+// Doodads: D0BO (Conifer 1 (Snow)), Name (Name)
+{
+Conifer 1 (Snow)
+}
+
+STRING 2735
+// Doodads: D0BT (Ice Cliff 1 (Snow)), Name (Name)
+{
+Ice Cliff 1 (Snow)
+}
+
 STRING 2736
 // Items: I01R (Magic Cloak), Name (Name)
 {
 Magic Cloak
+}
+
+STRING 2737
+// Doodads: D0BU (Ice Cliff 2 (Snow)), Name (Name)
+{
+Ice Cliff 2 (Snow)
+}
+
+STRING 2738
+// Doodads: D0BV (Ice Cliff 3 (Snow)), Name (Name)
+{
+Ice Cliff 3 (Snow)
 }
 
 STRING 2739
@@ -16263,6 +16281,12 @@ STRING 2740
 // Items: I01S (Wizard Hat), Name (Name)
 {
 Wizard Hat
+}
+
+STRING 2741
+// Doodads: D0BW (Ice Cliff 4 (Snow)), Name (Name)
+{
+Ice Cliff 4 (Snow)
 }
 
 STRING 2743
@@ -17556,24 +17580,6 @@ STRING 3021
 // Destructibles: B00H (Bridge), EditorSuffix (Editor Suffix)
 {
 (horizontal, 10.45)
-}
-
-STRING 3065
-// Doodads: D0AD (Fels 1 (Grasland)), Name (Name)
-{
-Fels 1 (Grasland)
-}
-
-STRING 3066
-// Doodads: D0AE (Fels 2 (Grasland)), Name (Name)
-{
-Fels 2 (Grasland)
-}
-
-STRING 3067
-// Doodads: D0AF (Fels 3 (Grasland)), Name (Name)
-{
-Fels 3 (Grasland)
 }
 
 STRING 3068
@@ -62320,12 +62326,6 @@ STRING 15980
 // Items: I069 (Skull Mask), Tip (Tooltip - Basic)
 {
 Schädelmaske kaufen
-}
-
-STRING 15981
-// Doodads: D0BO (Nadelbaum 1 (Schnee)), Name (Name)
-{
-Nadelbaum 1 (Schnee)
 }
 
 STRING 15982
