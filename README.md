@@ -120,11 +120,11 @@ Voice Actors:
 * AnniGam: Ursula
 * Avalarion: Schafshirte
 * Kerstin R.: Dragon Slayer
-* Jens", tr("Kuno
-* Stephanie Preis", tr("Tanka
-* Jan J. Münter", tr("Carsten
-* jonasclick", tr("Lothar
-* Heinrich-Stefan N.", tr("Manfred
+* Jens: Kuno
+* Stephanie Preis: Tanka
+* Jan J. Münter: Carsten
+* jonasclick: Lothar
+* Heinrich-Stefan N.: Manfred
 * Marco R.: Einar
 * Benkenfilm: Trommon
 * Benkenfilm: Brogo
