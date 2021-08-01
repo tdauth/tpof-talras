@@ -11869,12 +11869,6 @@ STRING 1994
 Undead King
 }
 
-STRING 1995
-// Units: n01Z (Einar), Name (Name)
-{
-Einar
-}
-
 STRING 1996
 // Items: I01A (Krone des Untoten-Königs), Name (Name)
 {
@@ -13623,12 +13617,6 @@ STRING 2287
 // Buffs/Effects: B00R (Fire Potion), EditorSuffix (Editor Suffix)
 {
 (Angriffs- und Bewegunstempo)
-}
-
-STRING 2290
-// Units: n023 (Tanka), Name (Name)
-{
-Tanka
 }
 
 STRING 2291
@@ -18094,6 +18082,18 @@ STRING 3047
 // Units: H024 (Vagabond), Name (Name)
 {
 Vagabond
+}
+
+STRING 3048
+// Units: n01Z (Merchant Einar), Name (Name)
+{
+Merchant Einar
+}
+
+STRING 3049
+// Units: n023 (Shaman Tanka), Name (Name)
+{
+Shaman Tanka
 }
 
 STRING 3068
