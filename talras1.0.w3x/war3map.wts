@@ -4781,7 +4781,7 @@ STRING 799
 }
 
 STRING 800
-// Units: H024 (Vagabundin), EditorSuffix (Name - Editor Suffix)
+// Units: H024 (Vagabond), EditorSuffix (Name - Editor Suffix)
 {
 (Hero)
 }
@@ -7840,12 +7840,6 @@ STRING 1309
 (Elemental Mage)
 }
 
-STRING 1310
-// Units: n00R (Osman), Name (Name)
-{
-Osman
-}
-
 STRING 1311
 // Items: I00F (Scroll of Healing), Name (Name)
 {
@@ -8216,12 +8210,6 @@ STRING 1372
 // Abilities: A02M (Light Wooden Shield), EditorSuffix (Editor Suffix)
 {
 (+2)
-}
-
-STRING 1373
-// Units: n00S (Agihard), Name (Name)
-{
-Agihard
 }
 
 STRING 1374
@@ -8902,18 +8890,6 @@ STRING 1486
 Diener beschwören
 }
 
-STRING 1487
-// Units: n011 (Tellborn), Name (Name)
-{
-Tellborn
-}
-
-STRING 1488
-// Units: n012 (Fulco), Name (Name)
-{
-Fulco
-}
-
 STRING 1489
 // Items: I00U (Spruchrolle der Geborgenheit), Name (Name)
 {
@@ -8948,18 +8924,6 @@ STRING 1494
 // Abilities: A02X (Spruchrolle der Geborgenheit), Name (Name)
 {
 Spruchrolle der Geborgenheit
-}
-
-STRING 1495
-// Units: n013 (Heimrich), Name (Name)
-{
-Heimrich
-}
-
-STRING 1496
-// Units: n014 (Markward), Name (Name)
-{
-Markward
 }
 
 STRING 1497
@@ -9514,12 +9478,6 @@ STRING 1588
 Buy Wooden Buckler
 }
 
-STRING 1589
-// Units: n017 (Haid), Name (Name)
-{
-Haid
-}
-
 STRING 1590
 // Units: n008 (Brown Bear), EditorSuffix (Name - Editor Suffix)
 {
@@ -9752,12 +9710,6 @@ STRING 1628
 // Items: I07S (Frostwolffell), Tip (Tooltip - Basic)
 {
 Frostwolffell kaufen
-}
-
-STRING 1629
-// Units: n01C (Tobias), Name (Name)
-{
-Tobias
 }
 
 STRING 1630
@@ -10815,12 +10767,6 @@ STRING 1805
 (diagonal, 8.15)
 }
 
-STRING 1806
-// Units: n01H (Manfred), Name (Name)
-{
-Manfred
-}
-
 STRING 1807
 // Items: I00Z (Sisgards Zauberspruchrolle), Name (Name)
 {
@@ -10861,12 +10807,6 @@ STRING 1813
 // Units: H01E (Norseman), Name (Name)
 {
 Norseman
-}
-
-STRING 1814
-// Units: n01J (Ferdinand), Name (Name)
-{
-Ferdinand
 }
 
 STRING 1815
@@ -11678,14 +11618,8 @@ STRING 1949
 (Asl)
 }
 
-STRING 1950
-// Units: n01S (Irmina), Name (Name)
-{
-Irmina
-}
-
 STRING 1951
-// Units: H024 (Vagabundin), Propernames (Proper Names)
+// Units: H024 (Vagabond), Propernames (Proper Names)
 {
 Mathilda
 }
@@ -11801,12 +11735,6 @@ STRING 1970
 // Abilities: A061 (Cep), EditorSuffix (Editor Suffix)
 {
 (Healing)
-}
-
-STRING 1971
-// Units: n01U (Ursula), Name (Name)
-{
-Ursula
 }
 
 STRING 1972
@@ -11933,12 +11861,6 @@ STRING 1992
 // Units: n04K (Meutehund), Ubertip (Tooltip - Extended)
 {
 Ein Meutehund, der das aufgespürte Tier hetzt und seinem Herrn treu ergeben ist.|n|n|cffffcc00Stays permanently dead after being killed.|r
-}
-
-STRING 1993
-// Units: n01Y (Wieland), Name (Name)
-{
-Wieland
 }
 
 STRING 1994
@@ -13701,18 +13623,6 @@ STRING 2287
 // Buffs/Effects: B00R (Fire Potion), EditorSuffix (Editor Suffix)
 {
 (Angriffs- und Bewegunstempo)
-}
-
-STRING 2288
-// Units: n021 (Trommon), Name (Name)
-{
-Trommon
-}
-
-STRING 2289
-// Units: n022 (Kuno), Name (Name)
-{
-Kuno
 }
 
 STRING 2290
@@ -17875,12 +17785,6 @@ STRING 2992
 The fur of a Wild Bear Man.
 }
 
-STRING 2993
-// Units: n05G (Carsten), Name (Name)
-{
-Carsten
-}
-
 STRING 2994
 // Units: n08H (Frost Creature), Name (Name)
 {
@@ -18013,6 +17917,12 @@ STRING 3017
 The ranger evades attacks with a chance of <A06O,DataA5,%> %.
 }
 
+STRING 3018
+// Abilities: A1WI (Options - Toggle NPC Names), Name (Name)
+{
+Options - Toggle NPC Names
+}
+
 STRING 3019
 // Abilities: A0RO (Ancestors Pact - Level 5), Tip (Tooltip - Normal)
 {
@@ -18029,6 +17939,161 @@ STRING 3021
 // Destructibles: B00H (Bridge), EditorSuffix (Editor Suffix)
 {
 (horizontal, 10.45)
+}
+
+STRING 3022
+// Abilities: A1WI (Options - Toggle NPC Names), Tip (Tooltip - Normal)
+{
+Toggle NPC Names
+}
+
+STRING 3023
+// Abilities: A1WI (Options - Toggle NPC Names), Ubertip (Tooltip - Normal - Extended)
+{
+Toggles the display of NPC names.
+}
+
+STRING 3024
+// Abilities: A1WJ (Options - Toggle NPC Names), Name (Name)
+{
+Options - Toggle NPC Names
+}
+
+STRING 3025
+{
+fgdfg
+}
+
+STRING 3026
+// Units: n00R (Cleric Osman), Name (Name)
+{
+Cleric Osman
+}
+
+STRING 3027
+// Units: n00S (Armorer Agihard), Name (Name)
+{
+Armorer Agihard
+}
+
+STRING 3028
+// Units: n011 (Shaman Tellborn), Name (Name)
+{
+Shaman Tellborn
+}
+
+STRING 3029
+// Units: n012 (Wizard Fulco), Name (Name)
+{
+Wizard Fulco
+}
+
+STRING 3030
+// Units: n013 (Duke Heimrich), Name (Name)
+{
+Duke Heimrich
+}
+
+STRING 3031
+// Units: n014 (Knight Markward), Name (Name)
+{
+Knight Markward
+}
+
+STRING 3032
+// Units: n017 (Merchant Haid), Name (Name)
+{
+Merchant Haid
+}
+
+STRING 3033
+// Units: n01C (Retard Tobias), Name (Name)
+{
+Retard Tobias
+}
+
+STRING 3034
+// Units: n01H (Peasant Manfred), Name (Name)
+{
+Peasant Manfred
+}
+
+STRING 3035
+// Units: n01J (Steward Ferdinand), Name (Name)
+{
+Steward Ferdinand
+}
+
+STRING 3036
+// Units: n01S (Merchant Irmina), Name (Name)
+{
+Merchant Irmina
+}
+
+STRING 3037
+// Units: n01U (Healer Ursula), Name (Name)
+{
+Healer Ursula
+}
+
+STRING 3038
+// Units: n01Y (Blacksmith Wieland), Name (Name)
+{
+Blacksmith Wieland
+}
+
+STRING 3039
+// Units: n021 (Ferryman Trommon), Name (Name)
+{
+Ferryman Trommon
+}
+
+STRING 3040
+// Units: n022 (Lumberjack Kuno), Name (Name)
+{
+Lumberjack Kuno
+}
+
+STRING 3041
+// Units: n02T (Miller Guntrich), Name (Name)
+{
+Miller Guntrich
+}
+
+STRING 3042
+// Units: n02U (Hunter Björn), Name (Name)
+{
+Hunter Björn
+}
+
+STRING 3043
+// Units: n030 (Merchant Lothar), Name (Name)
+{
+Merchant Lothar
+}
+
+STRING 3044
+// Units: n056 (Master Builder Gerhard), Name (Name)
+{
+Master Builder Gerhard
+}
+
+STRING 3045
+// Units: n057 (Master Builder Gerhard's Stand), Name (Name)
+{
+Master Builder Gerhard's Stand
+}
+
+STRING 3046
+// Units: n05G (Author Carsten), Name (Name)
+{
+Author Carsten
+}
+
+STRING 3047
+// Units: H024 (Vagabond), Name (Name)
+{
+Vagabond
 }
 
 STRING 3068
@@ -18318,12 +18383,6 @@ STRING 3156
 Kuno's Daughter
 }
 
-STRING 3161
-// Units: n02T (Guntrich), Name (Name)
-{
-Guntrich
-}
-
 STRING 3162
 // Items: I01T (Stärketrank), Name (Name)
 {
@@ -18580,12 +18639,6 @@ STRING 3206
 // Items: I04E (Blutige Drachenaxt), Tip (Tooltip - Basic)
 {
 Blutige Drachenaxt kaufen.
-}
-
-STRING 3207
-// Units: n02U (Björn), Name (Name)
-{
-Björn
 }
 
 STRING 3208
@@ -19390,12 +19443,6 @@ STRING 3361
 // Units: n02Z (Manfred's Watchdog), Name (Name)
 {
 Manfred's Watchdog
-}
-
-STRING 3362
-// Units: n030 (Lothar), Name (Name)
-{
-Lothar
 }
 
 STRING 3363
@@ -48257,12 +48304,6 @@ STRING 13264
 (Schilde)
 }
 
-STRING 13265
-// Units: H024 (Vagabundin), Name (Name)
-{
-Vagabundin
-}
-
 STRING 13266
 // Units: H03N (Orc Elders), EditorSuffix (Name - Editor Suffix)
 {
@@ -49701,18 +49742,6 @@ STRING 13629
 // Units: h027 (Magierturm), Name (Name)
 {
 Magierturm
-}
-
-STRING 13630
-// Units: n056 (Master Gerhard), Name (Name)
-{
-Master Gerhard
-}
-
-STRING 13631
-// Units: n057 (Master Gerhard's Stand), Name (Name)
-{
-Master Gerhard's Stand
 }
 
 STRING 13632

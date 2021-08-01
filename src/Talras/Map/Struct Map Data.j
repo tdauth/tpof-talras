@@ -214,6 +214,7 @@ endif
 			call initMapVideos.evaluate()
 			call NewOpLimit(function Fellows.init) // init after talks (new)
 			call NewOpLimit(function Npcs.initShops) //  has to be called AFTER Shop.init()!
+			call NewOpLimit(function Npcs.initNpcs) // just call it after all to create the NPC instances
 
 			set thistype.m_welcomeTalrasTrigger = CreateTrigger()
 			set thistype.m_welcomeRegion = CreateRegion()

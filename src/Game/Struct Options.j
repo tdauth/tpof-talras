@@ -1,4 +1,4 @@
-library StructGameOptions requires Asl, StructGameCharacter, StructGameTutorial
+library StructGameOptions requires Asl, StructGameCharacter, StructGameTutorial, StructGameNpc
 
 	/**
 	 * \brief Parent struct for all options which can be directly used without a sub menu (spellbook).
@@ -209,6 +209,26 @@ library StructGameOptions requires Asl, StructGameCharacter, StructGameTutorial
 			return this
 		endmethod
 	endstruct
+	
+	struct OptionsEntryToggleNPCNames extends CharacterOptionsSpell
+
+		public stub method onCastAction takes nothing returns nothing
+			local Character character = this.character()
+			call Npc.setVisibleForPlayer(character.player(), not Npc.isVisibleToPlayer(character.player()))
+
+			if (Npc.isVisibleToPlayer(character.player())) then
+				call character.displayMessage(ACharacter.messageTypeInfo, tre("NPC-Namen aktiviert.", "Enabled NPC names."))
+			else
+				call character.displayMessage(ACharacter.messageTypeInfo, tre("NPC-Namen deaktiviert.", "Disabled NPC names."))
+			endif
+		endmethod
+
+		public static method create takes Character character, unit spellBookUnit returns thistype
+			local thistype this = thistype.allocate(character, spellBookUnit, 'A1WI')
+
+			return this
+		endmethod
+	endstruct
 
 	struct CameraSpellbook extends CharacterOptionsMultipageSpellbook
 
@@ -390,6 +410,7 @@ library StructGameOptions requires Asl, StructGameCharacter, StructGameTutorial
 			call this.m_entries.pushBack(OptionsEntryEnableTutorial.create(character, this.m_unit))
 			call this.m_entries.pushBack(OptionsEntryEnableQuestSignals.create(character, this.m_unit))
 			call this.m_entries.pushBack(OptionsEntryWorldMap.create(character, this.m_unit))
+			call this.m_entries.pushBack(OptionsEntryToggleNPCNames.create(character, this.m_unit))
 
 			return this
 		endmethod

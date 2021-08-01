@@ -150,6 +150,39 @@ library StructMapMapNpcs requires StructGameDmdfHashTable
 			call Shop.create(thistype.m_fulco, thistype.m_fulcosShop)
 			call Shop.create(thistype.m_tellborn, thistype.m_tellbornsShop)
 		endmethod
+		
+		public static method initNpcs takes nothing returns nothing
+			call Npc.create(thistype.m_dago)
+			call Npc.create(thistype.m_haid)
+			call Npc.create(thistype.m_wigberht)
+			call Npc.create(thistype.m_ricman)
+			call Npc.create(thistype.m_bjoern)
+			call Npc.create(thistype.m_wieland)
+			call Npc.create(thistype.m_sisgard)
+			call Npc.create(thistype.m_agihard)
+			call Npc.create(thistype.m_masterGerhard)
+			call Npc.create(thistype.m_irmina)
+			call Npc.create(thistype.m_einar)
+			call Npc.create(thistype.m_osman)
+			call Npc.create(thistype.m_heimrich)
+			call Npc.create(thistype.m_markward)
+			call Npc.create(thistype.m_tobias)
+			call Npc.create(thistype.m_manfred)
+			call Npc.create(thistype.m_mathilda)
+			call Npc.create(thistype.m_lothar)
+			call Npc.create(thistype.m_guntrich)
+			call Npc.create(thistype.m_sheepBoy)
+			call Npc.create(thistype.m_trommon)
+			call Npc.create(thistype.m_kuno)
+			call Npc.create(thistype.m_fulco)
+			call Npc.create(thistype.m_tellborn)
+			call Npc.create(thistype.m_dragonSlayer)
+			call Npc.create(thistype.m_carsten)
+			call Npc.create(thistype.m_tanka)
+			call Npc.create(thistype.m_brogo)
+			call Npc.create(thistype.m_haldar)
+			call Npc.create(thistype.m_baldar)
+		endmethod
 
 		public static method agihard takes nothing returns unit
 			return thistype.m_agihard

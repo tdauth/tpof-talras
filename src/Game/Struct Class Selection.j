@@ -1,4 +1,4 @@
-library StructGameClassSelection requires Asl, StructGameClasses, StructGameCharacter, StructGameDungeon, StructGameGrimoire, Spells
+library StructGameClassSelection requires Asl, StructGameClasses, StructGameCharacter, StructGameDungeon, StructGameGrimoire, StructGameNpc, Spells
 
 	/**
 	 * \brief Stores all data which is reused after a player repicks his character class.
@@ -195,6 +195,8 @@ library StructGameClassSelection requires Asl, StructGameClasses, StructGameChar
 			else
 				call character.setMovable(true)
 				call MapData.onSelectClass.evaluate(character, class, last)
+				
+				call Npc.showAllToPlayer(character.player())
 			endif
 		endmethod
 
@@ -629,6 +631,8 @@ library StructGameClassSelection requires Asl, StructGameClasses, StructGameChar
 			// new OpLimit if possible
 			call thistype.showClassSelectionForPlayerWithNewOpLimit.evaluate(classSelection)
 			call classSelection.minimize(false) // show always maximized, otherwise the player might overlook this multiboard
+			
+			call Npc.hideAllFromPlayer(whichPlayer)
 		endmethod
 
 		private static method createClassSelectionForPlayerWithNewOpLimit takes player whichPlayer returns ClassSelection

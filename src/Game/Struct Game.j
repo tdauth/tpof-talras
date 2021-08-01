@@ -587,6 +587,7 @@ endif
 
 			call Dungeon.init.evaluate() // before map data init
 			// game types
+			call Npc.init()
 			call Classes.init()
 			call ItemTypes.init() // after classes!
 			call Routines.init()
@@ -937,6 +938,7 @@ endif
 			call NewOpLimit(function ItemSpawnPoint.pauseAll)
 			call NewOpLimit(function Routines.destroyTextTags)
 			call NewOpLimit(function Routines.stopSounds)
+			call NewOpLimit(function Npc.hideAll)
 			call DisableTrigger(thistype.m_killTrigger)
 			call EnumItemsInRect(GetPlayableMapRect(), Filter(function thistype.filterShownItem), function thistype.hideItem)
 			set i = 0
@@ -1030,6 +1032,7 @@ endif
 			call NewOpLimit(function QuestArea.showAll)
 			call NewOpLimit(function SpawnPoint.resumeAll)
 			call NewOpLimit(function ItemSpawnPoint.resumeAll)
+			call NewOpLimit(function Npc.showAll)
 			call EnumItemsInRect(GetPlayableMapRect(), Filter(function thistype.filterHiddenItem), function thistype.showItem)
 			set i = 0
 			loop

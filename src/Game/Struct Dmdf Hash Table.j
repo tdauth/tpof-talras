@@ -22,7 +22,8 @@ library StructGameDmdfHashTable requires Asl
 		constant integer DMDF_HASHTABLE_KEY_RESERVES_DAMAGE = A_HASHTABLE_KEY_MAX + 13
 		constant integer DMDF_HASHTABLE_KEY_THRILLOFVICTORY_DAMAGE = A_HASHTABLE_KEY_MAX + 14
 		constant integer DMDF_HASHTABLE_KEY_SHOP = A_HASHTABLE_KEY_MAX + 15
-		constant integer DMDF_HASHTABLE_KEY_MAX = A_HASHTABLE_KEY_MAX + 16
+		constant integer DMDF_HASHTABLE_KEY_NPC = A_HASHTABLE_KEY_MAX + 16
+		constant integer DMDF_HASHTABLE_KEY_MAX = A_HASHTABLE_KEY_MAX + 17
 		/**
 		 * \}
 		 */
