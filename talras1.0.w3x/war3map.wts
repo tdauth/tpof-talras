@@ -17947,11 +17947,6 @@ STRING 3024
 Options - Toggle NPC Names
 }
 
-STRING 3025
-{
-fgdfg
-}
-
 STRING 3026
 // Units: n00R (Cleric Osman), Name (Name)
 {

@@ -4,6 +4,11 @@ library StructMapMapShrines requires Asl, StructGameShrine
 	 * \brief Static struct which stores and initializes all revival shrines on the map.
 	 */
 	struct Shrines
+		// Dornheim
+		private static Shrine m_startShrineDornheim
+		private static Shrine m_endShrine
+		private static Shrine m_townHallShrine
+		// Talras
 		private static Shrine m_startShrine
 		private static Shrine m_aosShrineNeutral
 		private static Shrine m_aosShrineHaldar
@@ -32,6 +37,12 @@ library StructMapMapShrines requires Asl, StructGameShrine
 		endmethod
 
 		public static method init takes nothing returns nothing
+			// Dornheim
+			set thistype.m_startShrineDornheim = Shrine.create(gg_unit_n02D_0010, gg_dest_B008_1343, gg_rct_shrine_start_discover, gg_rct_shrine_start_revival, 304.23)
+			set thistype.m_endShrine = Shrine.create(gg_unit_n02D_0125, gg_dest_B008_2661, gg_rct_shrine_end_discover, gg_rct_shrine_end_revival, 218.30)
+			set thistype.m_townHallShrine = Shrine.create(gg_unit_n02D_0126, gg_dest_B008_2781, gg_rct_shrine_town_hall_discover, gg_rct_shrine_town_hall_revival, 299.26)
+		
+			// Talras
 			set thistype.m_startShrine = Shrine.create(gg_unit_n02D_0062, gg_dest_B008_0069, gg_rct_shrine_0_discover, gg_rct_shrine_0_revival, 230.0)
 
 			set thistype.m_aosShrineNeutral = Shrine.create(gg_unit_n02D_0084, gg_dest_B008_8168, gg_rct_shrine_5_discover, gg_rct_shrine_5_revival, 90.0)
@@ -72,6 +83,10 @@ library StructMapMapShrines requires Asl, StructGameShrine
 			 */
 			set thistype.m_orcCamp = 0
 			call ShowUnit(gg_unit_n02D_0463, false)
+		endmethod
+		
+		public static method startShrineDornheim takes nothing returns Shrine
+			return thistype.m_startShrineDornheim
 		endmethod
 
 		public static method startShrine takes nothing returns Shrine

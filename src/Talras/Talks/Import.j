@@ -1,3 +1,9 @@
+// Dornheim
+//! import "Talras/Talks/Struct Talk Gotlinde.j"
+//! import "Talras/Talks/Struct Talk Mother.j"
+//! import "Talras/Talks/Struct Talk Ralph.j"
+//! import "Talras/Talks/Struct Talk Wotan.j"
+// Talras
 //! import "Talras/Talks/Struct Talk Agihard.j"
 //! import "Talras/Talks/Struct Talk Baldar.j"
 //! import "Talras/Talks/Struct Talk Bjoern.j"
@@ -30,9 +36,15 @@
 //! import "Talras/Talks/Struct Talk Wieland.j"
 //! import "Talras/Talks/Struct Talk Wigberht.j"
 
-library MapTalks requires StructMapTalksTalkAgihard, StructMapTalksTalkBaldar, StructMapTalksTalkBjoern, StructMapTalksTalkBrogo, StructMapTalksTalkCarsten, StructMapTalksTalkDago, StructMapTalksTalkDragonSlayer, StructMapTalksTalkEinar, StructMapTalksTalkFerdinand, StructMapTalksTalkFulco, StructMapTalksTalkGuntrich, StructMapTalksTalkHaid, StructMapTalksTalkHaldar, StructMapTalksTalkHeimrich, StructMapTalksTalkIrmina, StructMapTalksTalkKuno, StructMapTalksTalkLothar, StructMapTalksTalkManfred, StructMapTalksTalkMarkward, StructMapTalksTalkMathilda, StructMapTalksTalkOsman, StructMapTalksTalkRicman, StructMapTalksTalkSheepBoy, StructMapTalksTalkSisgard, StructMapTalksTalkTanka, StructMapTalksTalkTellborn, StructMapTalksTalkTrommon, StructMapTalksTalkTobias, StructMapTalksTalkUrsula, StructMapTalksTalkWieland, StructMapTalksTalkWigberht
+library MapTalks requires StructMapTalksTalkGotlinde, StructMapTalksTalkMother, StructMapTalksTalkRalph, StructMapTalksTalkWotan, StructMapTalksTalkAgihard, StructMapTalksTalkBaldar, StructMapTalksTalkBjoern, StructMapTalksTalkBrogo, StructMapTalksTalkCarsten, StructMapTalksTalkDago, StructMapTalksTalkDragonSlayer, StructMapTalksTalkEinar, StructMapTalksTalkFerdinand, StructMapTalksTalkFulco, StructMapTalksTalkGuntrich, StructMapTalksTalkHaid, StructMapTalksTalkHaldar, StructMapTalksTalkHeimrich, StructMapTalksTalkIrmina, StructMapTalksTalkKuno, StructMapTalksTalkLothar, StructMapTalksTalkManfred, StructMapTalksTalkMarkward, StructMapTalksTalkMathilda, StructMapTalksTalkOsman, StructMapTalksTalkRicman, StructMapTalksTalkSheepBoy, StructMapTalksTalkSisgard, StructMapTalksTalkTanka, StructMapTalksTalkTellborn, StructMapTalksTalkTrommon, StructMapTalksTalkTobias, StructMapTalksTalkUrsula, StructMapTalksTalkWieland, StructMapTalksTalkWigberht
 
 	function initMapTalks takes nothing returns nothing
+		// Dornheim
+		call TalkGotlinde.initTalk()
+		call TalkMother.initTalk()
+		call TalkRalph.initTalk()
+		call TalkWotan.initTalk()
+		// Talras
 		call TalkAgihard.initTalk()
 		call TalkBaldar.initTalk()
 		call TalkBjoern.initTalk()

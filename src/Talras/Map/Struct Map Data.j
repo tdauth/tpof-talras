@@ -24,7 +24,10 @@ library StructMapMapMapData requires Asl, Game, StructMapMapShrines, StructMapMa
 
 		private static trigger m_giantDeathTrigger
 
+		private static boolean m_traveled = false
+
 		// Zones which can be reached directly from this map.
+		private static Zone m_zoneTalras
 		private static Zone m_zoneGardonar
 		private static Zone m_zoneHolzbruck
 		private static Zone m_zoneDornheim
@@ -59,6 +62,7 @@ library StructMapMapMapData requires Asl, Game, StructMapMapShrines, StructMapMa
 			call MapSettings.setUnitTypeIdExcludedFromTeleports('u00C', true)
 
 			call MapSettings.addZoneRestorePositionForAllPlayers("WM", GetRectCenterX(gg_rct_start_gardonar), GetRectCenterY(gg_rct_start_gardonar), 180.0)
+			call MapSettings.addZoneRestorePositionForAllPlayers("TL", GetRectCenterX(gg_rct_start_talras), GetRectCenterY(gg_rct_start_talras), 180.0)
 			call MapSettings.addZoneRestorePositionForAllPlayers("GA", GetRectCenterX(gg_rct_start_gardonar), GetRectCenterY(gg_rct_start_gardonar), 180.0)
 			call MapSettings.addZoneRestorePositionForAllPlayers("HB", GetRectCenterX(gg_rct_start_holzbruck), GetRectCenterY(gg_rct_start_holzbruck), 270.0)
 			call MapSettings.addZoneRestorePositionForAllPlayers("DH", GetRectCenterX(gg_rct_start_dornheim), GetRectCenterY(gg_rct_start_dornheim), 90.0)
@@ -289,7 +293,7 @@ endif
 		/// Required by \ref Game.
 		public static method onStart takes nothing returns nothing
 			call SuspendTimeOfDay(true)
-			call SetTimeOfDay(0.0)
+			call SetTimeOfDay(12.0)
 		endmethod
 
 		private static method startX takes integer index returns real
@@ -377,6 +381,25 @@ endif
 
 			call VideoIntro.video().play()
 		endmethod
+		
+		private static method talkToRalph takes nothing returns nothing
+			local integer i = 0
+			local Character character = 0
+			/*
+			 * Select Ralph, so the player can skip sentences.
+			 */
+			call ClearSelection()
+			call SelectUnit(Npcs.ralph(), true)
+			set i = 0
+			loop
+				exitwhen (i == MapSettings.maxPlayers())
+				set character = Character(Character.playerCharacter(Player(i)))
+				if (character != 0) then
+					call TalkRalph.talk().openForCharacter(character)
+				endif
+				set i = i + 1
+			endloop
+		endmethod
 
 		/**
 		 * This method should be called after the intro has been shown.
@@ -409,6 +432,12 @@ endif
 			call SetPlayerHandicap(MapData.haldarPlayer, handicap)
 			call SetPlayerHandicap(MapData.baldarPlayer, handicap)
 			call SetPlayerHandicap(MapData.arenaPlayer, handicap)
+			
+			/*
+			 * Wait a delay. Otherwise, the talk starts immediately and the player doesn't get the start of it.
+			 */
+			call TriggerSleepAction(1.0)
+			call thistype.talkToRalph()
 		endmethod
 
 		/// Required by \ref MapChanger.
@@ -461,6 +490,19 @@ endif
 		public static method onApplyCustomMinimap takes player whichPlayer returns nothing
 			// Talras requires a custom minimap texture because of all the dungeons on the map.
 			call BlzChangeMinimapTerrainTex("war3mapMap.blp")
+		endmethod
+		
+		// visited Talras
+		public static method enableZoneTalras takes nothing returns nothing
+			set thistype.m_traveled = true
+			call TalkGotlinde.talk().setHasAlreadyAskedAfterTravelingForAllPlayers(false)
+			call TalkMother.talk().setHasAlreadyAskedAfterTravelingForAllPlayers(false)
+			call thistype.m_zoneTalras.enable()
+			call Character.displayHintToAll(tre("Sie können nun nach Talras reisen. Stellen Sie sich dazu mit Ihrem Charakter in das Gebiet, das auf der Minikarte durch den grün umrandeteten Kartenausgang markiert ist.", "You can travel to Talras now. For this, place your character in the area marked on the minimap by the green bordered map exit."))
+		endmethod
+		
+		public static method traveled takes nothing returns boolean
+			return thistype.m_traveled
 		endmethod
 	endstruct
 

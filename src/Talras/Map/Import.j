@@ -12,6 +12,7 @@ endif
 //! import "Talras/Map/Struct Spawn Points.j"
 //! import "Talras/Map/Struct Tomb.j"
 //! import "Talras/Map/Struct Weather.j"
+//! import "Talras/Map/Struct World Map.j"
 
-library MapMap requires StructMapMapAos, StructMapMapArena, StructMapMapDungeons, StructMapMapFellows, StructMapMapMapCheats, StructMapMapMapData, optional StructMapMapNpcRoutines, StructMapMapNpcs, StructMapMapShrines, StructMapMapSpawnPoints, StructMapMapTomb, StructMapMapWeather
+library MapMap requires StructMapMapAos, StructMapMapArena, StructMapMapDungeons, StructMapMapFellows, StructMapMapMapCheats, StructMapMapMapData, optional StructMapMapNpcRoutines, StructMapMapNpcs, StructMapMapShrines, StructMapMapSpawnPoints, StructMapMapTomb, StructMapMapWeather, StructMapMapWorldMap
 endlibrary

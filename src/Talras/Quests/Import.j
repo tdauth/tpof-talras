@@ -1,3 +1,9 @@
+// Dornheim
+//! import "Talras/Quests/Struct Quest Mother.j"
+//! import "Talras/Quests/Struct Quest Ralphs Garden.j"
+//! import "Talras/Quests/Struct Quest Shit On The Throne.j"
+//! import "Talras/Quests/Struct Quest The Children.j"
+// Talras
 //! import "Talras/Quests/Struct Quest A Big Present.j"
 //! import "Talras/Quests/Struct Quest A Little Present.j"
 //! import "Talras/Quests/Struct Quest A New Alliance.j"
@@ -52,7 +58,7 @@
 //! import "Talras/Quests/Struct Quest Wolves Hunt.j"
 //! import "Talras/Quests/Struct Quest Wood For The Hut.j"
 
-library MapQuests requires StructMapQuestsQuestABigPresent, StructMapQuestsQuestALittlePresent, StructMapQuestsQuestANewAlliance, StructMapQuestsQuestAmongTheWeaponsPeasants, StructMapQuestsQuestArenaChampion, StructMapQuestsQuestBurnTheBearsDown, StructMapQuestsQuestCatsForBrogo, StructMapQuestsQuestCoatsForThePeasants, StructMapQuestsQuestDeathToBlackLegion, StructMapQuestsQuestDeathToWhiteLegion, StructMapQuestsQuestDeranor, StructMapQuestsQuestGoldForTheTradingPermission, StructMapQuestsQuestKunosDaughter, StructMapQuestsQuestMushroomSearch, StructMapQuestsQuestMyFriendTheBear, StructMapQuestsQuestPerdixHunt, StructMapQuestsQuestProtectThePeople, StructMapQuestsQuestSeedsForTheGarden, StructMapQuestsQuestReinforcementForTalras, StructMapQuestsQuestTheAuthor, StructMapQuestsQuestRescueDago, StructMapQuestsQuestShamansInTalras, StructMapQuestsQuestShawm, StructMapQuestsQuestSlaughter, StructMapQuestsQuestStormingTheMill, StructMapQuestsQuestSuppliesForEinar, StructMapQuestsQuestSupplyForTalras, StructMapQuestsQuestTalras, StructMapQuestsQuestTheBeast, StructMapQuestsQuestTheBraveArmourerOfTalras, StructMapQuestsQuestTheDarkCult, StructMapQuestsQuestTheDefenseOfTalras, StructMapQuestsQuestTheDragon, StructMapQuestsQuestTheGhostOfTheMaster, StructMapQuestsQuestTheHolyPotato, StructMapQuestsQuestTheKingsCrown, StructMapQuestsQuestTheMagic, StructMapQuestsQuestTheMagicalShield, StructMapQuestsQuestTheNorsemen, StructMapQuestsQuestTheOaksPower, StructMapQuestsQuestThePaedophilliacCleric, StructMapQuestsQuestTheWayToHolzbruck,  StructMapQuestsQuestWarLumberFromKuno, StructMapQuestsQuestWarRecruit, StructMapQuestsQuestWarSubQuest, StructMapQuestsQuestWarSupplyFromManfred, StructMapQuestsQuestWarTrapsFromBjoern, StructMapQuestsQuestWarWeaponsFromWieland, StructMapQuestsQuestWar, StructMapQuestsQuestWielandsSword, StructMapQuestsQuestWitchingHour, StructMapQuestsQuestWolvesHunt, StructMapQuestsQuestWoodForTheHut
+library MapQuests requires StructMapQuestsQuestMother, StructMapQuestsQuestRalphsGarden, StructMapQuestsQuestShitOnTheThrone, StructMapQuestsQuestTheChildren, StructMapQuestsQuestABigPresent, StructMapQuestsQuestALittlePresent, StructMapQuestsQuestANewAlliance, StructMapQuestsQuestAmongTheWeaponsPeasants, StructMapQuestsQuestArenaChampion, StructMapQuestsQuestBurnTheBearsDown, StructMapQuestsQuestCatsForBrogo, StructMapQuestsQuestCoatsForThePeasants, StructMapQuestsQuestDeathToBlackLegion, StructMapQuestsQuestDeathToWhiteLegion, StructMapQuestsQuestDeranor, StructMapQuestsQuestGoldForTheTradingPermission, StructMapQuestsQuestKunosDaughter, StructMapQuestsQuestMushroomSearch, StructMapQuestsQuestMyFriendTheBear, StructMapQuestsQuestPerdixHunt, StructMapQuestsQuestProtectThePeople, StructMapQuestsQuestSeedsForTheGarden, StructMapQuestsQuestReinforcementForTalras, StructMapQuestsQuestTheAuthor, StructMapQuestsQuestRescueDago, StructMapQuestsQuestShamansInTalras, StructMapQuestsQuestShawm, StructMapQuestsQuestSlaughter, StructMapQuestsQuestStormingTheMill, StructMapQuestsQuestSuppliesForEinar, StructMapQuestsQuestSupplyForTalras, StructMapQuestsQuestTalras, StructMapQuestsQuestTheBeast, StructMapQuestsQuestTheBraveArmourerOfTalras, StructMapQuestsQuestTheDarkCult, StructMapQuestsQuestTheDefenseOfTalras, StructMapQuestsQuestTheDragon, StructMapQuestsQuestTheGhostOfTheMaster, StructMapQuestsQuestTheHolyPotato, StructMapQuestsQuestTheKingsCrown, StructMapQuestsQuestTheMagic, StructMapQuestsQuestTheMagicalShield, StructMapQuestsQuestTheNorsemen, StructMapQuestsQuestTheOaksPower, StructMapQuestsQuestThePaedophilliacCleric, StructMapQuestsQuestTheWayToHolzbruck,  StructMapQuestsQuestWarLumberFromKuno, StructMapQuestsQuestWarRecruit, StructMapQuestsQuestWarSubQuest, StructMapQuestsQuestWarSupplyFromManfred, StructMapQuestsQuestWarTrapsFromBjoern, StructMapQuestsQuestWarWeaponsFromWieland, StructMapQuestsQuestWar, StructMapQuestsQuestWielandsSword, StructMapQuestsQuestWitchingHour, StructMapQuestsQuestWolvesHunt, StructMapQuestsQuestWoodForTheHut
 
 	function initMapPrimaryQuests takes nothing returns nothing
 		call QuestANewAlliance.initQuest()
@@ -72,6 +78,12 @@ library MapQuests requires StructMapQuestsQuestABigPresent, StructMapQuestsQuest
 	endfunction
 
 	function initMapSecundaryQuests takes nothing returns nothing
+		// Dornheim
+		call QuestMother.initQuest()
+		call QuestRalphsGarden.initQuest()
+		call QuestShitOnTheThrone.initQuest()
+		call QuestTheChildren.initQuest()
+		// Talras
 		call QuestABigPresent.initQuest()
 		call QuestALittlePresent.initQuest()
 		call QuestAmongTheWeaponsPeasants.initQuest()

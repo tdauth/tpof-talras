@@ -1,6 +1,7 @@
 library StructMapMapFellows requires StructGameFellow, StructMapMapNpcs, StructMapMapShrines
 
 	struct Fellows
+		private static Fellow m_ralph
 		private static Fellow m_dago
 		private static Fellow m_sisgard
 		private static Fellow m_mathilda
@@ -17,6 +18,14 @@ library StructMapMapFellows requires StructGameFellow, StructMapMapNpcs, StructM
 		endmethod
 
 		public static method init takes nothing returns nothing
+			set thistype.m_ralph = Fellow.create(Npcs.ralph(), 0)
+			call thistype.m_ralph.setTalk(false)
+			call thistype.m_ralph.setRevival(true)
+			call thistype.m_ralph.setDescription(tre("Ralph ist euer bester Freund in Dornheim. Seit eurer Kindheit seid ihr nun schon Freunde.", "Ralph is your best friend in Dornheim. Since your childhood you are friends." ))
+			call thistype.m_ralph.setRevivalTitle(tre("Ralph", "Ralph"))
+			call thistype.m_ralph.setRevivalMessage(tre("Die frische Luft hier draußen tut mir gut!", "The fresh air outside is good for me!"))
+			call thistype.m_ralph.setRevivalSound(null) /// \todo FIXME
+		
 			debug call Print("Before dago")
 			set thistype.m_dago = Fellow.create(Npcs.dago(), 0)
 			call thistype.m_dago.setTalk(false)
@@ -46,6 +55,10 @@ library StructMapMapFellows requires StructGameFellow, StructMapMapNpcs, StructM
 			set thistype.m_ricman =  NpcFellows.createRicman(Npcs.ricman(), TalkRicman.talk.evaluate())
 			// talk is created after the quest
 			set thistype.m_dragonSlayer = NpcFellows.createDragonSlayer(Npcs.dragonSlayer(), 0)
+		endmethod
+		
+		public static method ralph takes nothing returns Fellow
+			return thistype.m_ralph
 		endmethod
 
 		public static method dago takes nothing returns Fellow
