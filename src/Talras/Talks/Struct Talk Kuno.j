@@ -165,7 +165,7 @@ library StructMapTalksTalkKuno requires Asl, StructMapQuestsQuestKunosDaughter, 
 		endmethod
 
 		private static method create takes nothing returns thistype
-			local thistype this = thistype.allocate(gg_unit_n022_0009, thistype.startPageAction)
+			local thistype this = thistype.allocate(Npcs.kuno(), thistype.startPageAction)
 
 			// start page
 			set this.m_hi = this.addInfo(false, false, 0, thistype.infoActionHi, tre("Hallo.", "Hello.")) // 0

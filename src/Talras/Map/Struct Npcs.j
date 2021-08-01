@@ -86,7 +86,7 @@ library StructMapMapNpcs requires StructGameDmdfHashTable
 			// Talras
 			set thistype.m_agihard = gg_unit_n00S_0135
 			set thistype.m_baldar = gg_unit_n00L_0026
-			set thistype.m_bjoern = gg_unit_n02U_0142
+			set thistype.m_bjoern = gg_unit_n02U_0802
 			set thistype.m_bjoernsWife = gg_unit_n02V_0146
 			set thistype.m_brogo = gg_unit_n020_0012
 			set thistype.m_dago = gg_unit_H01D_0144
@@ -105,7 +105,7 @@ library StructMapMapNpcs requires StructGameDmdfHashTable
 			set thistype.m_heimrich = gg_unit_n013_0116
 			set thistype.m_irmina = gg_unit_n01S_0201
 			set thistype.m_irminasShop = gg_unit_n04T_0409
-			set thistype.m_kuno = gg_unit_n022_0009
+			set thistype.m_kuno = gg_unit_n022_0803
 			set thistype.m_kunosDaughter = gg_unit_n02S_0065
 			set thistype.m_lothar = gg_unit_n030_0240
 			set thistype.m_manfred = gg_unit_n01H_0148

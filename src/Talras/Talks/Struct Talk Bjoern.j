@@ -49,7 +49,7 @@ library StructMapTalksTalkBjoern requires Asl, StructMapQuestsQuestBurnTheBearsD
 			call speech(info, character, true, tre("Er wohnt in der unteren Hütte und ist mit mir der einzige Jäger in Talras.", "He lives in the lower hut and is with me the only hunter in Talras."), gg_snd_Bjoern17)
 			call speech(info, character, true, tre("Ich bin übrigens Björn.", "Anyway, I'm Björn."), gg_snd_Bjoern18)
 			// (Björns Frau ist in der Nähe)
-			if (IsUnitInRange(gg_unit_n02U_0142, gg_unit_n02V_0146, 600.0)) then
+			if (IsUnitInRange(Npcs.bjoern(), Npcs.bjoernsWife(), 600.0)) then
 				call speech(info, character, false, tre("Ist das deine Frau?", "Is that your wife?"), null)
 				call speech(info, character, true, tre("Ja und lass dir bloß nichts Dummes einfallen. Wenn du sie blöd anmachst oder anquatscht, prügel ich dir deine Dreck￼sfresse zu Brei, verstanden?", "Yes, and don't think about anything stupid. If you pick her up stupidly or talk to her I beat your dirt face to mush, understood?"), gg_snd_Bjoern19)
 				// (Auftrag ￼„Felle für die Bauern￼“ nicht abgeschlossen)

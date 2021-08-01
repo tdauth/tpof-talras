@@ -47,7 +47,7 @@ library StructMapMapMapData requires Asl, Game, StructMapMapShrines, StructMapMa
 			// Ascetic_-_06_-_Falling_into_Darkness.mp3
 			// ;Music\\mp3Music\\Pride_v002.mp3
 			call MapSettings.setMapMusic("Sound\\Music\\mp3Music\\PippinTheHunchback.mp3")
-			call MapSettings.setGoldmine(gg_unit_n06E_0487)
+			call MapSettings.setGoldmine(gg_unit_n06E_0804)
 			call MapSettings.setNeutralPassivePlayer(Player(7))
 			call MapSettings.setPlayerGivesXP(thistype.orcPlayer, true)
 			call MapSettings.setStartLevel(2) // Talras starts AFTER Dornheim where the character gets to level 2
