@@ -38,9 +38,9 @@ library StructMapMapShrines requires Asl, StructGameShrine
 
 		public static method init takes nothing returns nothing
 			// Dornheim
-			set thistype.m_startShrineDornheim = Shrine.create(gg_unit_n02D_0716, gg_dest_B008_34550, gg_rct_shrine_start_discover, gg_rct_shrine_start_revival, 304.23)
+			set thistype.m_startShrineDornheim = Shrine.create(gg_unit_n02D_0768, gg_dest_B008_34550, gg_rct_shrine_start_discover, gg_rct_shrine_start_revival, 304.23)
 			set thistype.m_endShrine = Shrine.create(gg_unit_n02D_0703, gg_dest_B008_29175, gg_rct_shrine_end_discover, gg_rct_shrine_end_revival, 218.30)
-			set thistype.m_townHallShrine = Shrine.create(gg_unit_n02D_0768, gg_dest_B008_33188, gg_rct_shrine_town_hall_discover, gg_rct_shrine_town_hall_revival, 299.26)
+			set thistype.m_townHallShrine = Shrine.create(gg_unit_n02D_0716, gg_dest_B008_33188, gg_rct_shrine_town_hall_discover, gg_rct_shrine_town_hall_revival, 299.26)
 		
 			// Talras
 			set thistype.m_startShrine = Shrine.create(gg_unit_n02D_0062, gg_dest_B008_0069, gg_rct_shrine_0_discover, gg_rct_shrine_0_revival, 230.0)

@@ -282,7 +282,6 @@ endif
 
 		/// Required by \ref ClassSelection.
 		public static method onCreateClassItems takes Character character returns nothing
-			call Classes.createDefaultClassItems(character)
 		endmethod
 
 		/// Required by \ref Game.
@@ -340,7 +339,7 @@ endif
 		public static method onSelectClass takes Character character, AClass class, boolean last returns nothing
 			call SetUnitX(character.unit(), thistype.startX(GetPlayerId(character.player())))
 			call SetUnitY(character.unit(), thistype.startY(GetPlayerId(character.player())))
-			call SetUnitFacing(character.unit(), 0.0)
+			call SetUnitFacing(character.unit(), 90.0)
 		endmethod
 
 		/// Required by \ref ClassSelection.
@@ -385,6 +384,12 @@ endif
 		private static method talkToRalph takes nothing returns nothing
 			local integer i = 0
 			local Character character = 0
+			
+			/*
+			 * Wait a delay. Otherwise, the talk starts immediately and the player doesn't get the start of it.
+			 */
+			call TriggerSleepAction(1.0)
+			
 			/*
 			 * Select Ralph, so the player can skip sentences.
 			 */
@@ -422,7 +427,7 @@ endif
 
 			call ACharacter.setAllMovable(true) // set movable since they weren't before after class selection (before video)
 			call ACharacter.panCameraSmartToAll()
-			call ACharacter.enableShrineForAll(Shrines.startShrine(), false)
+			call ACharacter.enableShrineForAll(Shrines.startShrineDornheim(), false)
 			call QuestTalras.quest().enable()
 
 			call NewOpLimit(function AUnitRoutine.manualStartAll) // necessary since at the beginning time of day events might not have be called
@@ -433,11 +438,7 @@ endif
 			call SetPlayerHandicap(MapData.baldarPlayer, handicap)
 			call SetPlayerHandicap(MapData.arenaPlayer, handicap)
 			
-			/*
-			 * Wait a delay. Otherwise, the talk starts immediately and the player doesn't get the start of it.
-			 */
-			call TriggerSleepAction(1.0)
-			call thistype.talkToRalph()
+			call NewOpLimit(function thistype.talkToRalph)
 		endmethod
 
 		/// Required by \ref MapChanger.

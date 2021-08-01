@@ -9,6 +9,7 @@ library StructMapMapNpcs requires StructGameDmdfHashTable
 		private static unit m_mother
 		private static unit m_gotlinde
 		private static unit m_hans
+		private static unit m_hansShop
 		private static unit m_wotan
 		// Talras
 		private static unit m_agihard
@@ -81,6 +82,7 @@ library StructMapMapNpcs requires StructGameDmdfHashTable
 			call SetUnitInvulnerable(thistype.m_gotlinde, true)
 			set thistype.m_hans = gg_unit_H03G_0704
 			call SetUnitInvulnerable(thistype.m_hans, true)
+			set thistype.m_hansShop = gg_unit_n004_0806
 			set thistype.m_wotan = gg_unit_H03J_0755
 			call SetUnitInvulnerable(thistype.m_wotan, true)
 			// Talras
@@ -154,6 +156,9 @@ library StructMapMapNpcs requires StructGameDmdfHashTable
 
 		public static method initShops takes nothing returns nothing
 			// has to be called AFTER Shop.init()!
+			// Dornheim
+			call Shop.create(thistype.m_hans, thistype.m_hansShop)
+			// Talras
 			call Shop.create(thistype.m_einar, thistype.m_einarsShop)
 			call Shop.create(thistype.m_irmina, thistype.m_irminasShop)
 			call Shop.create(thistype.m_osman, thistype.m_osmansShop)
@@ -171,6 +176,13 @@ library StructMapMapNpcs requires StructGameDmdfHashTable
 		endmethod
 		
 		public static method initNpcs takes nothing returns nothing
+			// Dornheim
+			call Npc.create(thistype.m_ralph)
+			call Npc.create(thistype.m_mother)
+			call Npc.create(thistype.m_gotlinde)
+			call Npc.create(thistype.m_hans)
+			call Npc.create(thistype.m_wotan)
+			// Talras
 			call Npc.create(thistype.m_dago)
 			call Npc.create(thistype.m_haid)
 			call Npc.create(thistype.m_wigberht)
