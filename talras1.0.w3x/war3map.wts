@@ -17785,6 +17785,12 @@ STRING 2977
 (Besonderes)
 }
 
+STRING 2978
+// Items: I058 (Fur of a Wild Bear Man), Name (Name)
+{
+Fur of a Wild Bear Man
+}
+
 STRING 2979
 // Buffs/Effects: B014 (Selflessness), Buffubertip (Tooltip - Extended)
 {
@@ -17861,6 +17867,12 @@ STRING 2991
 // Units: n07C (Berserker-Hauptmann), Name (Name)
 {
 Berserker-Hauptmann
+}
+
+STRING 2992
+// Items: I058 (Fur of a Wild Bear Man), Description (Description)
+{
+The fur of a Wild Bear Man.
 }
 
 STRING 2993
@@ -17951,6 +17963,18 @@ STRING 3007
 // Buffs/Effects: B038 (), Bufftip (Tooltip)
 {
 Beast Hunter
+}
+
+STRING 3008
+// Items: I058 (Fur of a Wild Bear Man), Tip (Tooltip - Basic)
+{
+Buy Fur of a Wild Bear Man
+}
+
+STRING 3009
+// Items: I058 (Fur of a Wild Bear Man), Ubertip (Tooltip - Extended)
+{
+The fur of a Wild Bear Man.
 }
 
 STRING 3011
@@ -47817,30 +47841,6 @@ STRING 13189
 // Abilities: A15A (Hieb - Stufe 4), Ubertip (Tooltip - Normal - Extended)
 {
 The Dragon Slayer hits the target with strength and deals damage to the selected target.|n<A070,Cool1> seconds cooldown.|n|n|cffffcc00Level 1|r - Deals to the selected target <A070,DataC1> points of damage.|n|cffffcc00Level 2|r - Deals to the selected target <A070,DataC2> points of damage. |n|cffffcc00Level 3|r - Deals to the selected target <A070,DataC3> points of damage.|n|cffffcc00Level 4|r - Deals to the selected target <A070,DataC4> points of damage.|n|cffffcc00Level 5|r - Deals to the selected target <A070,DataC5> points of damage.
-}
-
-STRING 13190
-// Items: I058 (Fell eines wilden Bärenmenschen), Name (Name)
-{
-Fell eines wilden Bärenmenschen
-}
-
-STRING 13191
-// Items: I058 (Fell eines wilden Bärenmenschen), Description (Description)
-{
-Das Fell eines wilden Bärenmenschen.
-}
-
-STRING 13192
-// Items: I058 (Fell eines wilden Bärenmenschen), Tip (Tooltip - Basic)
-{
-Fell eines wilden Bärenmenschen kaufen
-}
-
-STRING 13193
-// Items: I058 (Fell eines wilden Bärenmenschen), Ubertip (Tooltip - Extended)
-{
-Das Fell eines wilden Bärenmenschen.
 }
 
 STRING 13194

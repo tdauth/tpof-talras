@@ -117,8 +117,10 @@ library StructMapMapMapData requires Asl, Game, StructMapMapShrines, StructMapMa
 		private static method trigggerConditionTrack takes nothing returns boolean
 			local string text = DmdfHashTable.global().handleStr(GetTriggeringTrigger(), 0)
 			local player whichPlayer = DmdfHashTable.global().handlePlayer(GetTriggeringTrigger(), 1)
+			local rect whichRect = DmdfHashTable.global().handleRect(GetTriggeringTrigger(), 2)
 			debug call Print("Tracked by " + GetPlayerName(whichPlayer))
-			call DisplayTextToPlayer(whichPlayer, 0.0, 0.0, text)
+			call DisplayTextToPlayer(whichPlayer, 0.0, 0.0, Format(tre("Tombstone: %1%", "Grabstein: %1%")).s(text).result())
+			call PingMinimapForPlayer(whichPlayer, GetRectCenterX(whichRect), GetRectCenterY(whichRect), 3.0)
 			return false
 		endmethod
 
@@ -134,6 +136,7 @@ library StructMapMapMapData requires Asl, Game, StructMapMapShrines, StructMapMa
 				call TriggerAddCondition(trackTrigger, Condition(function thistype.trigggerConditionTrack))
 				call DmdfHashTable.global().setHandleStr(trackTrigger, 0, text)
 				call DmdfHashTable.global().setHandlePlayer(trackTrigger, 1, Player(i))
+				call DmdfHashTable.global().setHandleRect(trackTrigger, 2, whichRect)
 				set i = i + 1
 			endloop
 		endmethod

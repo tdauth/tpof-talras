@@ -15,7 +15,9 @@ library StructMapMapNpcs requires StructGameDmdfHashTable
 		private static unit m_einarsShop
 		private static unit m_ferdinand
 		private static unit m_fulco
+		private static unit m_fulcosShop
 		private static unit m_guntrich
+		private static unit m_guntrichsShop
 		private static unit m_haid
 		private static unit m_haidsShop
 		private static unit m_haldar
@@ -35,15 +37,18 @@ library StructMapMapNpcs requires StructGameDmdfHashTable
 		private static unit m_sisgard
 		private static unit m_tanka
 		private static unit m_tellborn
+		private static unit m_tellbornsShop
 		private static unit m_tobias
 		private static unit m_trommon
 		private static unit m_ursula
+		private static unit m_ursulasShop
 		private static unit m_wieland
 		private static unit m_wielandsShop
 		private static unit m_masterGerhard
 		private static unit m_masterGerhardsShop
 		private static unit m_wigberht
 		private static unit m_sheepBoy
+		private static unit m_sheepBoysShop
 		private static unit m_carsten
 		private static unit m_dararos
 		private static unit m_osmansShop
@@ -72,7 +77,9 @@ library StructMapMapNpcs requires StructGameDmdfHashTable
 			set thistype.m_einarsShop = gg_unit_n04S_0410
 			set thistype.m_ferdinand = gg_unit_n01J_0154
 			set thistype.m_fulco = gg_unit_n012_0115
+			set thistype.m_fulcosShop = gg_unit_n05C_0202
 			set thistype.m_guntrich = gg_unit_n02T_0141
+			set thistype.m_guntrichsShop = gg_unit_n07T_0664
 			set thistype.m_haid = gg_unit_n017_0137
 			set thistype.m_haidsShop = gg_unit_n05B_0025
 			set thistype.m_haldar = gg_unit_n00K_0040
@@ -95,15 +102,18 @@ library StructMapMapNpcs requires StructGameDmdfHashTable
 			set thistype.m_sisgard = gg_unit_H014_0156
 			set thistype.m_tanka = gg_unit_n023_0011
 			set thistype.m_tellborn = gg_unit_n011_0113
+			set thistype.m_tellbornsShop = gg_unit_n06H_0571
 			set thistype.m_tobias = gg_unit_n01C_0064
 			set thistype.m_trommon = gg_unit_n021_0004
 			set thistype.m_ursula = gg_unit_n01U_0203
+			set thistype.m_ursulasShop = gg_unit_n050_0005
 			set thistype.m_wieland = gg_unit_n01Y_0006
 			set thistype.m_wielandsShop = gg_unit_n04V_0414
 			set thistype.m_masterGerhard = gg_unit_n056_0440
 			set thistype.m_masterGerhardsShop = gg_unit_n057_0441
 			set thistype.m_wigberht = gg_unit_H01C_0228
 			set thistype.m_sheepBoy = gg_unit_n02B_0058
+			set thistype.m_sheepBoysShop = gg_unit_n06C_0484
 			set thistype.m_carsten = gg_unit_n05G_0393
 			set thistype.m_deranor = gg_unit_u00A_0353
 			set thistype.m_dararos = null
@@ -134,6 +144,11 @@ library StructMapMapNpcs requires StructGameDmdfHashTable
 			call Shop.create(thistype.m_ricman, thistype.m_ricmansShop)
 			call Shop.create(thistype.m_wieland, thistype.m_wielandsShop)
 			call Shop.create(thistype.m_masterGerhard, thistype.m_masterGerhardsShop)
+			call Shop.create(thistype.m_guntrich, thistype.m_guntrichsShop)
+			call Shop.create(thistype.m_sheepBoy, thistype.m_sheepBoysShop)
+			call Shop.create(thistype.m_ursula, thistype.m_ursulasShop)
+			call Shop.create(thistype.m_fulco, thistype.m_fulcosShop)
+			call Shop.create(thistype.m_tellborn, thistype.m_tellbornsShop)
 		endmethod
 
 		public static method agihard takes nothing returns unit

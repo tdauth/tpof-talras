@@ -1881,7 +1881,7 @@ library AStructSystemsInventoryUnitInventory requires AStructCoreGeneralHashTabl
 					set itemName = GetItemName(usedItem)
 					call this.setBackpackItemByItem(i, usedItem, this.m_backpackIsEnabled and this.itemBackpackPage(i) == this.m_backpackPage)
 					if (showAddMessage and thistype.m_textAddItemToBackpack != null) then
-						call DisplayTimedTextToPlayer(this.player(), 0.0, 0.0, 6.0, Format(thistype.m_textAddItemToBackpack).s(itemName).result())
+						call DisplayTimedTextToPlayer(this.player(), 0.0, 0.0, 6.0, Format(thistype.m_textAddItemToBackpack).s(itemName).i(this.itemBackpackPage(i) + 1).result())
 					endif
 					call this.onAddBackpackItem.evaluate(i, firstTime)
 					return true
