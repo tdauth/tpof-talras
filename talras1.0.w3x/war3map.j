@@ -2947,6 +2947,13 @@ globals
     unit                    gg_unit_n02N_0776          = null
     unit                    gg_unit_n02N_0764          = null
     unit                    gg_unit_n02N_0763          = null
+    unit                    gg_unit_n032_0774          = null
+    unit                    gg_unit_n031_0773          = null
+    unit                    gg_unit_n031_0772          = null
+    unit                    gg_unit_n031_0710          = null
+    unit                    gg_unit_n032_0708          = null
+    unit                    gg_unit_n031_0709          = null
+    item                    gg_item_I06U_0754          = null
 endglobals
 
 function InitGlobals takes nothing returns nothing
@@ -10167,7 +10174,7 @@ function CreateAllItems takes nothing returns nothing
     call BlzCreateItemWithSkin( 'I06U', -19876.7, -12959.6, 'I06U' )
     call BlzCreateItemWithSkin( 'I06U', -19944.4, -13006.5, 'I06U' )
     call BlzCreateItemWithSkin( 'I06U', -20028.0, -13083.8, 'I06U' )
-    call BlzCreateItemWithSkin( 'I06U', -20332.6, -12644.1, 'I06U' )
+    set gg_item_I06U_0754 = BlzCreateItemWithSkin( 'I06U', -20332.6, -12644.1, 'I06U' )
     call BlzCreateItemWithSkin( 'I07Q', -23893.0, 14490.2, 'I07Q' )
     call BlzCreateItemWithSkin( 'I07X', -23999.0, 14490.2, 'I07X' )
     call BlzCreateItemWithSkin( 'I07Y', -23777.1, 14359.5, 'I07Y' )
@@ -10759,24 +10766,24 @@ function CreateNeutralHostile takes nothing returns nothing
     call SetUnitColor( gg_unit_n002_0688, ConvertPlayerColor(12) )
     set gg_unit_n06K_0690 = BlzCreateUnitWithSkin( p, 'n06K', -6350.1, -4653.5, 31.092, 'n06K' )
     call SetUnitColor( gg_unit_n06K_0690, ConvertPlayerColor(12) )
-    set u = BlzCreateUnitWithSkin( p, 'n032', -20237.2, -6747.8, 50.934, 'n032' )
-    call SetUnitColor( u, ConvertPlayerColor(12) )
-    set u = BlzCreateUnitWithSkin( p, 'n031', -20241.9, -6819.5, 223.721, 'n031' )
-    call SetUnitColor( u, ConvertPlayerColor(12) )
-    set u = BlzCreateUnitWithSkin( p, 'n031', -20200.4, -6690.5, 306.432, 'n031' )
-    call SetUnitColor( u, ConvertPlayerColor(12) )
+    set gg_unit_n032_0708 = BlzCreateUnitWithSkin( p, 'n032', -20237.2, -6747.8, 50.934, 'n032' )
+    call SetUnitColor( gg_unit_n032_0708, ConvertPlayerColor(12) )
+    set gg_unit_n031_0709 = BlzCreateUnitWithSkin( p, 'n031', -20241.9, -6819.5, 223.721, 'n031' )
+    call SetUnitColor( gg_unit_n031_0709, ConvertPlayerColor(12) )
+    set gg_unit_n031_0710 = BlzCreateUnitWithSkin( p, 'n031', -20200.4, -6690.5, 306.432, 'n031' )
+    call SetUnitColor( gg_unit_n031_0710, ConvertPlayerColor(12) )
     set gg_unit_n04B_0719 = BlzCreateUnitWithSkin( p, 'n04B', -21806.8, -7080.0, 113.811, 'n04B' )
     call SetUnitColor( gg_unit_n04B_0719, ConvertPlayerColor(12) )
     set gg_unit_n04B_0720 = BlzCreateUnitWithSkin( p, 'n04B', -21750.3, -7083.7, 199.177, 'n04B' )
     call SetUnitColor( gg_unit_n04B_0720, ConvertPlayerColor(12) )
     set gg_unit_n02C_0721 = BlzCreateUnitWithSkin( p, 'n02C', -21679.8, -7082.1, 25.236, 'n02C' )
     call SetUnitColor( gg_unit_n02C_0721, ConvertPlayerColor(12) )
-    set u = BlzCreateUnitWithSkin( p, 'n031', -22228.4, -11558.3, 339.741, 'n031' )
-    call SetUnitColor( u, ConvertPlayerColor(12) )
-    set u = BlzCreateUnitWithSkin( p, 'n031', -22290.0, -11541.1, 223.721, 'n031' )
-    call SetUnitColor( u, ConvertPlayerColor(12) )
-    set u = BlzCreateUnitWithSkin( p, 'n032', -22289.8, -11483.0, 56.417, 'n032' )
-    call SetUnitColor( u, ConvertPlayerColor(12) )
+    set gg_unit_n031_0772 = BlzCreateUnitWithSkin( p, 'n031', -22228.4, -11558.3, 339.741, 'n031' )
+    call SetUnitColor( gg_unit_n031_0772, ConvertPlayerColor(12) )
+    set gg_unit_n031_0773 = BlzCreateUnitWithSkin( p, 'n031', -22290.0, -11541.1, 223.721, 'n031' )
+    call SetUnitColor( gg_unit_n031_0773, ConvertPlayerColor(12) )
+    set gg_unit_n032_0774 = BlzCreateUnitWithSkin( p, 'n032', -22289.8, -11483.0, 56.417, 'n032' )
+    call SetUnitColor( gg_unit_n032_0774, ConvertPlayerColor(12) )
 endfunction
 
 //===========================================================================
@@ -15928,10 +15935,20 @@ function Trig_Objects_Dornheim_Actions takes nothing returns nothing
     call KillUnit( gg_unit_nvk2_0788 )
     call KillUnit( gg_unit_nvk2_0789 )
     call KillUnit( gg_unit_nvk2_0800 )
-    // Boxes
+    // Boxes 1
     call KillUnit( gg_unit_n02C_0721 )
     call KillUnit( gg_unit_n04B_0720 )
     call KillUnit( gg_unit_n04B_0719 )
+    // Boxes 2
+    call KillUnit( gg_unit_n031_0772 )
+    call KillUnit( gg_unit_n031_0773 )
+    call KillUnit( gg_unit_n032_0774 )
+    // Boxes 3
+    call KillUnit( gg_unit_n032_0708 )
+    call KillUnit( gg_unit_n031_0709 )
+    call KillUnit( gg_unit_n031_0710 )
+    // Lettuce heads
+    call RemoveItem( gg_item_I06U_0754 )
     // Shrines
     call KillDestructable( gg_dest_B008_29175 )
     call KillUnit( gg_unit_n02D_0703 )

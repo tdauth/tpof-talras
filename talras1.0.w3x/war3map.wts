@@ -18091,6 +18091,24 @@ STRING 3049
 Shaman Tanka
 }
 
+STRING 3050
+// Items: I06U (Lettuce Head), Ubertip (Tooltip - Extended)
+{
+Increases the movement speed for <A1OX,Dur1> seconds by <A1OX,DataA1,%> %.
+}
+
+STRING 3051
+// Items: I06U (Lettuce Head), Name (Name)
+{
+Lettuce Head
+}
+
+STRING 3052
+// Items: I06U (Lettuce Head), Tip (Tooltip - Basic)
+{
+Buy Lettuce Head
+}
+
 STRING 3068
 // Items: I003 (Staff), Tip (Tooltip - Basic)
 {
@@ -47747,12 +47765,6 @@ STRING 13165
 Poor Imp Worker
 }
 
-STRING 13166
-// Items: I06U (Salatkopf), Ubertip (Tooltip - Extended)
-{
-Erhöht die Bewegungsgeschwindigkeit für <A1OX,Dur1> Sekunden um <A1OX,DataA1,%> %.
-}
-
 STRING 13168
 // Destructibles: B00S (Bridge), Name (Name)
 {
@@ -74024,20 +74036,8 @@ STRING 19151
 Imp anheuern
 }
 
-STRING 19152
-// Items: I06U (Salatkopf), Name (Name)
-{
-Salatkopf
-}
-
-STRING 19153
-// Items: I06U (Salatkopf), Tip (Tooltip - Basic)
-{
-Buy Mana Herb
-}
-
 STRING 19154
-// Items: I06U (Salatkopf), Description (Description)
+// Items: I06U (Lettuce Head), Description (Description)
 {
 Increases the movement speed.
 }
