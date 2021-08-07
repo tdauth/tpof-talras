@@ -312,7 +312,7 @@ library StructGameRoutines requires Asl, StructGameMapSettings
 				endif
 
 				// NOTE don't check during this time (if sound is played) if partner is being paused in still in range, just talk to the end and continue if he/she is still range!
-				call TriggerSleepAction(GetSoundDurationBJ(whichSound))
+				call TriggerSleepAction(GetSoundDurationWithMin(whichSound))
 
 				// TODO A set would be more efficient.
 				if (thistype.m_textTags.contains(whichTextTag)) then

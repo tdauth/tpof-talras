@@ -4247,14 +4247,8 @@ STRING 710
 (Hero)
 }
 
-STRING 711
-// Units: H03H (Female Villager), Name (Name)
-{
-Female Villager
-}
-
 STRING 712
-// Units: H03H (Female Villager), Propernames (Proper Names)
+// Units: H03H (), Propernames (Proper Names)
 {
 Mother
 }
@@ -4263,12 +4257,6 @@ STRING 713
 // Units: H01D (Hunter), EditorSuffix (Name - Editor Suffix)
 {
 (Hero)
-}
-
-STRING 714
-// Units: H03I (Female Villager), Name (Name)
-{
-Female Villager
 }
 
 STRING 715
@@ -4326,7 +4314,7 @@ Tierfähigkeiten - Bärengestalt - Stufe 5 - Bärenhöhle
 }
 
 STRING 724
-// Units: H03I (Female Villager), Propernames (Proper Names)
+// Units: H03I (Blacksmith), Propernames (Proper Names)
 {
 Gotlinde
 }
@@ -7838,6 +7826,12 @@ STRING 1309
 // Abilities: A0VH (Range Combat), EditorSuffix (Editor Suffix)
 {
 (Elemental Mage)
+}
+
+STRING 1310
+// Units: H03I (Blacksmith), Name (Name)
+{
+Blacksmith
 }
 
 STRING 1311
@@ -38425,7 +38419,7 @@ Sorceress
 }
 
 STRING 9813
-// Units: H03H (Female Villager), EditorSuffix (Name - Editor Suffix)
+// Units: H03H (), EditorSuffix (Name - Editor Suffix)
 {
 (Hero)
 }
@@ -38437,7 +38431,7 @@ Hunter
 }
 
 STRING 9817
-// Units: H03I (Female Villager), EditorSuffix (Name - Editor Suffix)
+// Units: H03I (Blacksmith), EditorSuffix (Name - Editor Suffix)
 {
 (Hero)
 }

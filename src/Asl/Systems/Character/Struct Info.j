@@ -389,7 +389,7 @@ library AStructSystemsCharacterInfo requires optional ALibraryCoreDebugMisc, ALi
 		endif
 		if (usedSound != null) then
 			call SetSpeechVolumeGroupsImmediateForPlayer(user)
-			set duration = GetSoundDurationBJ(usedSound)
+			set duration = GetSoundDurationWithMin(usedSound)
 			call PlaySoundForPlayer(user, usedSound)
 		else
 			set duration = bj_NOTHING_SOUND_DURATION

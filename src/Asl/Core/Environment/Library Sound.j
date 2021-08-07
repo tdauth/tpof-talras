@@ -84,5 +84,19 @@ library ALibraryCoreEnvironmentSound
 		call KillSoundWhenDone(whichSound)
 		set whichSound = null
 	endfunction
+	
+	/**
+	 * This version is similar to \ref GetSoundDurationBJ but checks if the sound has broken duration like so small it wouldn't even make a proper sound.
+	 * This can happen if the sound files are missing and must be installed as extra package.
+	 * In this case it still returns \ref bj_NOTHING_SOUND_DURATION.
+	 * \sa GetSoundDurationBJ
+	 */
+	function GetSoundDurationWithMin takes sound whichSound returns real
+		if (GetSoundDurationBJ(whichSound) <= 0.01) then
+			return bj_NOTHING_SOUND_DURATION
+		endif
+		
+		return GetSoundDurationBJ(whichSound)
+	endfunction
 
 endlibrary

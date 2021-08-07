@@ -43,7 +43,7 @@ library ALibraryCoreInterfaceCinematic
 		 */
 		set bj_cineSceneLastSound = playedSound
 		if (playedSound != null) then
-			set time = GetSoundDurationBJ(playedSound)
+			set time = GetSoundDurationWithMin(playedSound)
 			call StartSound(playedSound)
 		else
 			set time = bj_NOTHING_SOUND_DURATION
@@ -94,7 +94,7 @@ library ALibraryCoreInterfaceCinematic
 		 */
 		set bj_cineSceneLastSound = playedSound
 		if (playedSound != null) then
-			set time = GetSoundDurationBJ(playedSound)
+			set time = GetSoundDurationWithMin(playedSound)
 		else
 			set time = bj_NOTHING_SOUND_DURATION
 		endif
@@ -117,7 +117,7 @@ library ALibraryCoreInterfaceCinematic
 	 */
 	function GetSimpleTransmissionDuration takes sound whichSound returns real
 		if (whichSound != null) then
-			return GetSoundDurationBJ(whichSound)
+			return GetSoundDurationWithMin(whichSound)
 		endif
 		return bj_NOTHING_SOUND_DURATION
 	endfunction
